@@ -1,0 +1,17 @@
+# Number of fish captured, number of recaptures, and the number of new marks
+#   returned to the lake in 1960.  Data taken from table 3 of Mraz, D.  1968.
+#   Recruitment, growth, exploitation, and management of walleyes in a southeastern 
+#   Wisconsin lake.  Wisconsin Department of Natural Resources Technical Bulletin 
+#   40.  38 pages.
+#			
+t	caught	recaptures	newmarks
+1	141	0	141
+2	110	6	104
+3	88	8	80
+4	97	13	84
+5	55	11	44
+6	105	32	73
+7	19	7	12
+8	163	44	119
+9	143	47	96
+10	106	30	76

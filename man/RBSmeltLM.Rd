@@ -1,0 +1,30 @@
+\docType{data}
+\name{RBSmeltLM}
+\alias{RBSmeltLM}
+\title{Lengths of Rainbow Smelt in Lake Michigan, 1977.}
+\format{A data frame of 3293 observations on the following 1 variable:
+\describe{
+\item{fl}{Fork length (mm).}
+}}
+\source{
+Simulated from FishBase information --
+\url{www.fishbase.org} -- originally obtained from Brandt,
+S.B., J.J. Magnuson, and L.B. Crowder. 1980.  Thermal
+habitat partitioning by fishes in Lake Michigan.  Canadian
+Journal of Fisheries and Aquatic Sciences.  37:1557-1564.
+}
+\description{
+Rainbow Smelt (\emph{Osmerus mordax}) fork lengths from
+near Grand Haven, Lake Michigan, 1977.
+}
+\section{Topic(s)}{
+  \itemize{ \item Length frequency }
+}
+\examples{
+data(RBSmeltLM)
+str(RBSmeltLM)
+head(RBSmeltLM)
+hist(RBSmeltLM$fl,main="")
+}
+\keyword{datasets}
+

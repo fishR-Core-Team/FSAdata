@@ -1,0 +1,22 @@
+# BrookTroutOnt.txt
+#
+# Data from Table 1 of Curry, R.A., C. Brady, and G.E. Morgan.  2003.
+#   Effects of Recreational Fishing on the Population Dynamics of
+#   Lake-Dwelling Brook Trout.  North American Journal of Fisheries
+#   Management 23:35–47.
+#
+# year: year of study.
+# mark: Number of fish marked
+# catch: Total number of fish captured on recapture run
+# recap: Number of marked fish captured on recapture run
+# correction: Number of age-1 fish to be added to final estimated based
+#             on mark-recapture to correct for gear selectivity of age-1 fish.
+#
+year	mark	catch	recap	correction
+1994	312	83	23	87
+1993	441	75	22	145
+1992	224	43	18	101
+1991	261	101	32	98
+1990	296	75	29	210
+1989	325	90	44	46
+1988	337	97	55	156

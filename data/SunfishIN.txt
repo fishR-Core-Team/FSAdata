@@ -1,0 +1,19 @@
+# Number of fish captured, number of recaptures, and the number of marks
+#   returned to the lake.  Data taken from table 2.2 of Krebs (1999) but 
+#   originally from Gerking (1953).			
+#			
+t	caught	recaps	retmarks
+1	10	0	10
+2	27	0	27
+3	17	0	17
+4	7	0	7
+5	1	0	1
+6	5	0	5
+7	6	2	6
+8	15	1	16
+9	9	5	9
+10	18	5	18
+11	16	4	14
+12	5	2	5
+13	7	2	6
+14	19	3	0

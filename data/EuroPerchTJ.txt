@@ -1,0 +1,81 @@
+# EuroPerchTJ.txt
+#
+# data extracted from Figure 2 in Mooij, W.M., J.M. Van Rooij, and S. Wijnhoven.
+#   1999.  Analysis and comparison of fish growth from small samples of length-at-age
+#   data: Detection of sexual dimorphism in Eurasian perch as an example.  Transactions
+#   of the American Fisheries Society, 128:483-490.
+#
+# age: age in years
+# fl: fork length (cm)
+# sex: sex (male, female)
+#
+age	fl	sex
+2	19.8	male
+2	20.2	male
+2	20.5	male
+2	20.9	male
+2	21.3	male
+2	21.7	male
+2	22.1	male
+2	22.6	male
+2	23	male
+2	23.2	male
+3	22	male
+3	22.8	male
+3	23.3	male
+3	23.7	male
+3	25.5	male
+3	28.3	male
+3	29	male
+4	32.5	male
+4	31.5	male
+5	30.2	male
+5	31.8	male
+5	32.5	male
+6	31.9	male
+6	31.9	male
+1	13.4	female
+2	19.8	female
+2	20.7	female
+2	21.1	female
+2	21.5	female
+2	21.8	female
+2	21.9	female
+2	22.2	female
+2	22.9	female
+2	23.1	female
+2	23.4	female
+2	23.8	female
+2	24.6	female
+2	25.4	female
+3	27.1	female
+3	27.7	female
+3	28.2	female
+3	28.6	female
+3	28.7	female
+3	29.1	female
+3	29.4	female
+3	29.9	female
+4	29.4	female
+4	29.7	female
+4	30.1	female
+4	30.5	female
+4	30.7	female
+4	31.1	female
+4	31.5	female
+4	31.6	female
+4	31.9	female
+4	32	female
+4	32.7	female
+4	33	female
+4	33.2	female
+4	33.4	female
+4	34.2	female
+4	35.2	female
+5	33.6	female
+5	34.2	female
+5	34.6	female
+5	36.3	female
+6	38.8	female
+7	41.5	female
+8	36.8	female

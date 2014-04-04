@@ -1,0 +1,28 @@
+\docType{data}
+\name{RuffeTL89}
+\alias{RuffeTL89}
+\title{Lengths of Ruffe captured July, 1989.}
+\format{A data frame of 236 observations on the following 1 variable:
+\describe{
+\item{tl}{Total length (mm).}
+}}
+\source{
+personal collection by the United States Geological Survey,
+Lake Superior Biological Station, Ashland, WI.
+}
+\description{
+Total length for Ruffe (\emph{Gymnocephalus cernuus})
+captured in July, 1989 (cycle 6) in the St. Louis River,
+Lake Superior.
+}
+\section{Topic(s)}{
+  \itemize{ \item Length frequency }
+}
+\examples{
+data(RuffeTL89)
+str(RuffeTL89)
+head(RuffeTL89)
+hist(RuffeTL89$tl,main="")
+}
+\keyword{datasets}
+

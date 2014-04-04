@@ -1,0 +1,32 @@
+\docType{data}
+\name{ChinookKR}
+\alias{ChinookKR}
+\title{Stock and recruitment data for Klamath River chinook salmon.}
+\format{A data frame with 27 observations on the following 3 variables.
+\describe{
+\item{brood.year}{a numeric vector of brood years.}
+\item{spawners}{a numeric vector giving number of spawning fish.}
+\item{recruits}{a numeric vector containing the number of recruits.}
+}}
+\source{
+from
+\url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
+}
+\description{
+Stock and recruitment data for Klamath River chinook salmon
+(\emph{Oncorhynchus tshawytscha}), 1979-2000 brood years.
+}
+\section{Topic(s)}{
+  \itemize{ \item Stock-recruit }
+}
+\examples{
+data(ChinookKR)
+str(ChinookKR)
+head(ChinookKR)
+op <- par(mfrow=c(1,2),pch=19)
+plot(recruits~brood.year,data=ChinookKR,type="l")
+plot(recruits~spawners,data=ChinookKR)
+par(op)
+}
+\keyword{datasets}
+

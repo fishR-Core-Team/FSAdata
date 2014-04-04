@@ -1,0 +1,19 @@
+# VendaceLP2.txt
+#
+# Data extracted from figure 6 in Helminen, H. and J. Sarvala. 1994. Population
+#   regulation of vendance (Coregonus albula) in Lake Pyhajarvi, southwest Finald.
+#   Journal of Fish Biology 45:387-400.
+#
+# fecundity: total fecundity (10^9 eggs) of spawning stock
+# recruits: number of recruits (10^6 fish) in Autumn after hatching
+#
+fecundity	recruits
+2	14
+3	5
+6	12
+8	7
+10	4
+9	14
+13	16
+21	15
+22	20

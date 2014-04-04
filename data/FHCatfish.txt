@@ -1,0 +1,51 @@
+# FHCatfish.txt
+
+# Data extracted from figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison.
+#   2006.  Comparison of Native and Introduced Flathead Catfish Populations in Alabama and
+#   Georgia: Growth, Mortality, and Management.  North American Journal of Fisheries
+#   Management 26:867–874.
+#
+# river: Location of collection Coosa River, AL; Ocmulgee River, GAl and Satilla River, GA.
+# age: Age (years) assigned from otolith.
+# abundance: Number of captured fish with boat electrofishing.
+#
+river	age	abundance
+Coosa	2	25
+Coosa	3	24
+Coosa	4	18
+Coosa	5	17
+Coosa	6	29
+Coosa	7	14
+Coosa	8	5
+Coosa	9	10
+Coosa	10	15
+Coosa	11	7
+Coosa	12	11
+Coosa	13	10
+Coosa	14	5
+Coosa	15	1
+Coosa	16	4
+Coosa	17	2
+Coosa	18	2
+Coosa	20	1
+Coosa	25	1
+Ocmulgee	2	32
+Ocmulgee	3	15
+Ocmulgee	4	13
+Ocmulgee	5	8
+Ocmulgee	6	6
+Ocmulgee	7	11
+Ocmulgee	8	7
+Ocmulgee	9	8
+Ocmulgee	10	2
+Ocmulgee	11	1
+Ocmulgee	12	1
+Ocmulgee	13	1
+Ocmulgee	16	1
+Satilla	2	94
+Satilla	3	77
+Satilla	4	36
+Satilla	5	2
+Satilla	6	1
+Satilla	7	1
+Satilla	10	1

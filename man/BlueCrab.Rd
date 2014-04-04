@@ -1,0 +1,31 @@
+\docType{data}
+\name{BlueCrab}
+\alias{BlueCrab}
+\title{Catch-effort data for male Blue Crabs.}
+\format{A data frame with 12 observations on the following 2 variables.
+\describe{
+\item{catch}{A numeric vector of pounds of blue crabs caught.}
+\item{effort}{A numeric vector of lines used per day to catch blue crabs.}
+}}
+\source{
+From Fischler, K.J.  1965.  The use of catch-effort,
+catch-sampling, and tagging data to estimate a population
+of blue crabs.  Transactions of the American Fisheries
+Society, 94:287-310.
+}
+\description{
+Catch-effort data for a population of male Blue Crabs
+(\emph{Callinectes sapidus}) for a 12-week period.
+}
+\section{Topic(s)}{
+  \itemize{ \item Depletion methods \item Leslie method
+  \item DeLury method \item Population size \item Abundance
+  \item Catchability }
+}
+\examples{
+data(BlueCrab)
+str(BlueCrab)
+BlueCrab
+}
+\keyword{datasets}
+

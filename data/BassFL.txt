@@ -1,0 +1,53 @@
+# BassFL.txt
+#
+# Extracted from Figure 2 of Bonvechi, T.F., M.S. Allen, and R.L. Cailteux.
+#   2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass in
+#   Four Florida Rivers.  North American Journal of Fisheries Management
+#   25:275–283.
+#
+# species: Species of bass (Suwanee and Largemouth)
+# loc: Location (SantaFe, Wacissa, Withlacoochee, Ochlockonee)
+# year: Year (2001, 2002)
+# num: Number of fish captured
+# age: Age of fish at capture
+#
+species	loc	year	num	age
+Suwanee	SantaFe	2001	129	2
+Suwanee	SantaFe	2001	28	3
+Suwanee	SantaFe	2001	18	4
+Suwanee	SantaFe	2001	19	5
+Suwanee	SantaFe	2001	3	8
+Suwanee	SantaFe	2002	83	2
+Suwanee	SantaFe	2002	73	3
+Suwanee	SantaFe	2002	37	4
+Suwanee	SantaFe	2002	11	5
+Suwanee	SantaFe	2002	9	6
+Suwanee	Wacissa	2002	83	2
+Suwanee	Wacissa	2002	66	3
+Suwanee	Wacissa	2002	34	4
+Suwanee	Wacissa	2002	14	5
+Suwanee	Wacissa	2002	5	7
+Suwanee	Withlacoochee	2002	12	2
+Suwanee	Withlacoochee	2002	12	3
+Suwanee	Withlacoochee	2002	9	4
+Suwanee	Withlacoochee	2002	3	7
+Largemouth	SantaFe	2001	99	2
+Largemouth	SantaFe	2001	31	3
+Largemouth	SantaFe	2001	9	4
+Largemouth	SantaFe	2001	22	5
+Largemouth	SantaFe	2001	3	8
+Largemouth	SantaFe	2002	41	2
+Largemouth	SantaFe	2002	49	3
+Largemouth	SantaFe	2002	7	4
+Largemouth	SantaFe	2002	8	5
+Largemouth	SantaFe	2002	11	6
+Largemouth	Ochlockonee	2001	19	2
+Largemouth	Ochlockonee	2001	26	3
+Largemouth	Ochlockonee	2001	9	4
+Largemouth	Ochlockonee	2001	3	5
+Largemouth	Ochlockonee	2001	3	7
+Largemouth	Ochlockonee	2002	99	2
+Largemouth	Ochlockonee	2002	31	3
+Largemouth	Ochlockonee	2002	9	4
+Largemouth	Ochlockonee	2002	22	5
+Largemouth	Ochlockonee	2002	3	8

@@ -1,0 +1,115 @@
+"code" "state" "site" "n" "log.a" "b" "r2" "meanWr"
+1 "Arkansas" "Greers Ferry Lake" 262 -6.212 3.44 0.965 93
+2 "Georgia" "Blue Ridge Lake" 17 -5.536 3.157 0.968 73
+3 "Illinois" "Clinton Lake" 1436 -5.451 3.166 0.977 93
+4 "Illinois" "Lake Shelbyville" 76 -5.426 3.143 0.994 86
+5 "Illinois" "Braidwood Lake" 21 -7.435 3.909 0.835 93
+6 "Illinois" "Collins Lake" 42 -5.448 3.154 0.993 87
+7 "Illinois" "Mill Creek Lake" 12 -5.438 3.153 0.817 88
+8 "Illinois" "Pierce Lake" 65 -5.396 3.127 0.983 86
+9 "Illinois" "Shabbona Lake" 39 -5.321 3.121 0.992 98
+10 "Indiana" "Clear Lake" 477 -5.956 3.337 0.991 78
+11 "Indiana" "Crooked Lake" 253 -5.59 3.196 0.987 81
+12 "Indiana" "Lake James" 26 -5.125 3.037 0.954 90
+13 "Indiana" "Lake Maxinkuckee" 50 -4.993 2.968 0.984 82
+14 "Indiana" "Simonton Lake" 48 -6.048 3.367 0.966 74
+15 "Indiana" "Brookville Lake" 221 -5.485 3.169 0.995 89
+16 "Indiana" "Cataract Lake" 110 -5.54 3.181 0.971 82
+17 "Indiana" "Harden Lake" 208 -5.651 3.242 0.99 92
+18 "Iowa" "Lake Red Rock" 90 -5.306 3.113 0.938 95
+19 "Iowa" "Spirit Lake" 12 -5.587 3.253 0.946 116
+20 "Iowa" "Clear Lake" 382 -5.797 3.312 0.982 104
+21 "Kansas" "Cedar Bluff Reservoir" 95 -5.198 3.06 0.992 89
+22 "Kansas" "Cheney Reservoir" 665 -5.281 3.101 0.983 89
+23 "Kansas" "Clinton Lake" 366 -5.746 3.285 0.99 98
+24 "Kansas" "El Dorado Lake" 229 -6.113 3.423 0.953 98
+25 "Kansas" "Glen Elder Lake" 2013 -5.417 3.155 0.993 94
+26 "Kansas" "Hillsdale Lake" 91 -5.754 3.291 0.977 101
+27 "Kansas" "Kanopolis Lake" 636 -5.417 3.066 0.985 103
+28 "Kansas" "Kirwin River" 517 -5.442 3.165 0.987 95
+29 "Kansas" "Lovewell Reservoir" 1394 -5.663 3.258 0.992 97
+30 "Kansas" "Marion Lake" 268 -5.807 3.299 0.99 92
+31 "Kansas" "Melvern Lake" 1249 -5.554 3.216 0.956 102
+32 "Kentucky" "Lake Cumberland" 848 -5.706 3.246 0.959 85
+33 "Kentucky" "Green River Lake" 17 -5.366 3.122 0.98 86
+34 "Kentucky" "Nolin River Lake" 29 -5.133 3.048 0.989 101
+35 "Michigan" "Lake Erie" 1762 -5.703 3.253 0.966 88
+36 "Michigan" "Muskegon River" 33 -3.657 2.528 0.818 92
+37 "Minnesota" "Cutfoot Lake" 28 -5.239 3.074 0.986 86
+38 "Minnesota" "Red Lakes" 59 -5.393 3.148 0.871 95
+39 "Minnesota" "Saganaga Lake" 28 -5.213 3.078 0.989 91
+40 "Minnesota" "St. Louis River" 29 -4.463 2.866 0.953 94
+41 "Minnesota" "Vermillion Lake" 30 -5.017 3.008 0.975 98
+42 "Minnesota" "Whitefish Lake" 40 -5.243 3.075 0.928 86
+43 "Mississippi" "Luxapalila Creek" 28 -6.845 3.703 0.952 94
+44 "Missouri" "LakeoftheOzarks" 467 -5.644 3.256 0.988 103
+45 "Missouri" "Smithvillc Lake" 582 -6.143 3.437 0.997 101
+46 "Nebraska" "Branched Oak Lake" 2658 -5.747 3.274 0.985 92
+47 "Nebraska" "East Twin Lake" 143 -5.4 3.143 0.995 91
+48 "Nebraska" "Lake McConaughy" 624 -5.751 3.279 0.985 90
+49 "Nebraska" "Pawnee Lake" 127 -5.683 3.248 0.996 89
+50 "Nebraska" "Minatarc Lake" 66 -5.549 3.23 0.975 101
+51 "Nebraska" "Merritt Reservoir" 155 -5.332 3.139 0.981 103
+52 "New York" "Lake Erie" 29 -5.609 3.234 0.983 99
+53 "New York" "Oneida Lake" 385 -5.327 3.127 0.92 99
+54 "North Carolina" "Fontana Lake" 38 -3.345 2.34 0.797 89
+55 "North Carolina" "Lake James" 725 -5.283 3.078 0.989 84
+56 "North Carolina" "Fontana Lake" 1263 -4.856 2.928 0.968 91
+57 "North Carolina" "Lake Hiwassee" 30 -4.223 2.657 0.803 75
+58 "Ohio" "Lake Erie" 2340 -6.151 3.43 0.979 93
+59 "Oklahoma" "Canton Reservoir" 38 -4.974 3.017 0.944 110
+60 "Oklahoma" "Statewide (combined)" 274 -5.279 3.096 0.987 93
+61 "Oregon" "John Day Reservoir" 2053 -5.303 3.137 0.981 109
+62 "Pennsylvania" "Pymatuning Reservoir" 156 -4.45 2.842 0.93 101
+63 "South Dakota" "Blue Dog Lake" 18 -4.642 2.854 0.936 88
+64 "South Dakota" "Kampstag Lake" 118 -6.523 3.562 0.909 87
+65 "South Dakota" "Missouri River" 935 -5.71 3.262 0.969 91
+66 "South Dakota" "Morean River" 27 -5.629 3.249 0.955 102
+67 "South Dakota" "Foster Bay" 30 -5.409 3.159 0.956 98
+68 "South Dakota" "Lake Poinsett" 840 -6.121 3.424 0.954 96
+69 "Tennessee" "Clinch River" 107 -5.708 3.248 0.958 85
+70 "Tennessee" "Melton Hill Lake" 26 -6.28 3.468 0.987 88
+71 "Tennessee" "Norris Reservoir" 678 -5.291 3.093 0.963 86
+72 "Tennessee" "Watauga Reservoir" 233 -5.891 3.329 0.989 90
+73 "Tennessee" "Tims Ford Reservoir" 71 -3.912 2.575 0.924 96
+74 "Tennessee" "Apalachia Reservoir" 15 -4.534 2.789 0.99 79
+75 "Texas" "Lake Bclton" 33 -6.015 3.391 0.88 95
+76 "Texas" "Canyon Lake" 173 -3.717 2.503 0.871 92
+77 "Texas" "Eagle Mountain Lake" 40 -4.544 2.827 0.956 101
+78 "Texas" "Lake Fort Phantom Hill" 109 -4.796 2.944 0.956 110
+79 "Texas" "Lake L. B. Johnson" 39 -4.615 2.845 0.887 91
+80 "Texas" "Lake MacKenzie" 29 -5.375 3.136 0.944 91
+81 "Texas" "Lake Medina" 44 -6.385 3.509 0.945 86
+82 "Texas" "Lake Meredith" 240 -5.764 3.283 0.972 93
+83 "Texas" "Lake Moss" 30 -6.921 3.696 0.964 93
+84 "Texas" "Possum Kingdom Lake" 52 -5.316 3.111 0.935 92
+85 "Texas" "Lake Thomas" 63 -5.589 3.23 0.991 100
+86 "Texas" "Twin Buttes Reservoir" 15 -4.793 2.941 0.952 103
+87 "Texas" "White River Lake" 45 -5.21 3.079 0.897 96
+88 "Utah" "Utah Lake" 23 -5.492 3.156 0.982 79
+89 "Utah" "Yuba Reservoir" 295 -6.301 3.514 0.987 106
+90 "Virginia" "Lake Anna" 27 -5.541 3.205 0.964 95
+91 "Virginia" "Lake Brittle" 40 -5.811 3.304 0.979 93
+92 "Virginia" "Carvins Cove Reservoir" 70 -4.68 2.855 0.886 95
+93 "Virginia" "Claytor Lake" 28 -5.888 3.34 0.978 98
+94 "Virginia" "Flannagan Reservoir" 30 -3.967 2.63 0.936 100
+95 "Virginia" "Lake Gaston" 50 -4.398 2.761 0.862 85
+96 "Virginia" "Lecsville Reservoir" 410 -5.755 3.275 0.984 89
+97 "Virginia" "Lake Orange" 43 -5.313 3.105 0.985 88
+98 "Virginia" "Philpott Reservoir" 149 -5.928 3.347 0.967 95
+99 "Virginia" "Smith Lake" 61 -5.245 3.091 0.986 93
+100 "Virginia" "Lake Trashmore" 51 -5.19 3.062 0.991 89
+101 "Virginia" "Lake Whitehurst" 45 -4.927 2.962 0.97 86
+102 "Wisconsin" "Balsam Lake" 328 -5.685 3.258 0.976 95
+103 "Wisconsin" "Big McKenzie Lake" 293 -5.462 3.17 0.974 93
+104 "Wisconsin" "Chippewa Lake" 246 -5.317 3.128 0.972 99
+105 "Wisconsin" "Grindstone Lake" 228 -5.153 3.062 0.947 97
+106 "Wisconsin" "Yates Lake" 197 -5.761 3.276 0.98 90
+107 "Wisconsin" "Wisconsin River" 2039 -5.956 3.357 0.992 87
+108 "Wisconsin" "Round Lake" 149 -5.796 3.305 0.992 96
+109 "Wisconsin" "Lake Superior" 5540 -5.366 3.154 0.936 104
+110 "Northwest Territories" "Mosquito Creek" 197 -5.212 3.064 0.963 86
+111 "Northwest Territories" "Tathlina Lake" 689 -4.972 2.968 0.92 87
+112 "Saskatchewan" "Montreal Lake" 640 -4.153 2.682 0.875 99
+113 "Ontario" "(Combined)" 123 -5.151 3.054 0.886 92
+114 "Manitoba" "(Combined)" 32 -5.297 3.112 0.966 95

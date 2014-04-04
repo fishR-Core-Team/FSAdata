@@ -1,0 +1,22 @@
+# BrookTroutNC.txt
+#
+# Data extracted approximately from figure 5 in Grossman, G.D., R.E. Ratajczak,
+#   C.M. Wagner, and J.T. Petty.  2010. Dynamics and regulation of the southern
+#   brook trout (Salvelinus fontinalis) population in an Appalachian stream.
+#   Freshwater Biology 55:1494-1508.
+#
+# adult: autumn adult density (number per square meter)
+# yoy: autumn YOY density (number per square meter) in following year
+#
+adult	yoy
+0.05	0.14
+0.05	0.0902
+0.06	0.0697
+0.0303	0.0398
+0.0303	0.0598
+0.02	0.0398
+0.02	0.0199
+0.0097	0.0405
+0.01	0.0293
+0.0103	0.0199
+

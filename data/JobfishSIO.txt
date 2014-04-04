@@ -1,0 +1,20 @@
+# Daily effort (man-hours) and catch (kg) for the deepwater snapper 
+#  (Pristipomoides filamentosus) at Saya de Malha Bank.  Data from Table 2 of 
+#  Grandcourt, E.M. 2003.  The effect of intensive line fishing on the virgin 
+#  biomass of a tropical deepwater snapper, the crimson jobfish (Pristipomoides
+#  filamentosus). Fish. Bull. 101:305–311.
+#	
+catch	effort
+5623	264.6
+9817	286.4
+9077	253.4
+7158	202.8
+4252	143.0
+7163	207.2
+2061	199.4
+3899	223.4
+3634	233.6
+2554	221.0
+2318	151.6
+939	57.4
+1027	158.2

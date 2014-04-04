@@ -1,0 +1,26 @@
+# YPerchGB.txt
+#
+# from Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual 
+#  population analysis and survey data. Can. J. Fish. Aquat. Aci. 51:946-958.
+#
+# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html
+#
+# year: year of data
+# recruits: thousands per hour
+#
+year	recruits
+1978	0.639
+1979	0.862
+1980	1.112
+1981	0.197
+1982	5.737
+1983	0.196
+1984	0.409
+1985	4.519
+1986	11.302
+1987	0.836
+1988	2.331
+1989	0.626
+1990	0.983
+1991	2.749
+1992	0.48

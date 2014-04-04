@@ -1,0 +1,68 @@
+# BluntnoseIL.txt
+# 
+# A subsample of 144 bluntnose minnows from one seine haul on Inch Lake, Bayfield
+#   County, WI, May 2007.
+#
+# netID: a net ID factor (41 for all fish)
+# species: species (Bluntnose for all fish)
+# tl: total length (inches to the nearest 0.1 in)
+#
+netID	species	tl	
+41	Bluntnose	2.0	
+41	Bluntnose	2.4	
+41	Bluntnose	2.4	
+41	Bluntnose	2.3	
+41	Bluntnose	2.2	
+41	Bluntnose	2.3	
+41	Bluntnose	2.4	
+41	Bluntnose	2.4	
+41	Bluntnose	2.4	
+41	Bluntnose	2.4	
+41	Bluntnose	2.2	
+41	Bluntnose	1.9	
+41	Bluntnose	2.3	
+41	Bluntnose	2.0	
+41	Bluntnose	2.3	
+41	Bluntnose	2.1	
+41	Bluntnose	1.6	
+41	Bluntnose	2.1	
+41	Bluntnose	2.3	
+41	Bluntnose	2.3	
+41	Bluntnose	2.2	
+41	Bluntnose	2.3	
+41	Bluntnose	2.2	
+41	Bluntnose	2.3	
+41	Bluntnose	2.2	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

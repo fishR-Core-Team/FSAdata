@@ -1,0 +1,36 @@
+\docType{data}
+\name{WalleyePL3}
+\alias{WalleyePL3}
+\title{Summarized multiple mark-recapture data for YOY Walleye, 1961}
+\format{A data frame with 7 observations on the following 4 variables.
+\describe{
+\item{t}{Sampling occasion.}
+\item{caught}{Number of walleye captured.}
+\item{recaptures}{Number of marked walleyes captured.}
+\item{newmarks}{Number of unmarked walleyes that were captured, marked, and
+returned to the population.}
+}}
+\source{
+From table 3 of Mraz, D.  1968.  Recruitment, growth,
+exploitation, and management of walleyes in a southeastern
+Wisconsin lake.  Wisconsin Department of Natural Resources
+Technical Bulletin 40.  38 pages.
+}
+\description{
+The numbers of young-of-year Walleye (\emph{Sander
+vitreus}) that were captured, found to have previous marks
+(i.e., recaptured), and were newly marked on 7 sampling
+occasions in 1961 in Pike Lake, Wisconsin.
+}
+\section{Topic(s)}{
+  \itemize{ \item Population size \item Abundance \item
+  Mark-recapture \item Schnabel method \item
+  Schumacher-Eschmeyer method }
+}
+\examples{
+data(WalleyePL3)
+str(WalleyePL3)
+WalleyePL3
+}
+\keyword{datasets}
+

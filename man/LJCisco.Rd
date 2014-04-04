@@ -1,0 +1,37 @@
+\docType{data}
+\name{LJCisco}
+\alias{LJCisco}
+\title{Age and length of Longjaw Cisco by location.}
+\format{A data frame with 378 observations on the following 3 variables.
+\describe{
+\item{age}{Assigned age (by scales).}
+\item{tl}{Measured total length (mm).}
+\item{loc}{Capture location (\code{NE}=northeast and \code{S}=south).}
+}}
+\source{
+Simulated from age-length data provided in tables 2 and 3
+of Jobes, F.W.  1946.  The age, growth, and distribution of
+the longjaw cisco, \emph{Leucichthys alpenae} Koelz, in
+Lake Michigan.  Transactions of the American Fisheries
+Society.  76:215-247.
+}
+\description{
+The assigned age (by scales) and total length of Longjaw
+Cisco (\emph{Leucichthys alpenae}) captured at two
+locations in Lake Michigan.
+}
+\section{Topic(s)}{
+  \itemize{ \item Growth \item Size-at-age growth modeling
+  \item Von Bertalanffy growth model }
+}
+\examples{
+data(LJCisco)
+str(LJCisco)
+head(LJCisco)
+op <- par(mfrow=c(1,2))
+plot(tl~age,data=LJCisco,subset=loc=="NE",main="northeast")
+plot(tl~age,data=LJCisco,subset=loc=="S",main="south")
+par(op)
+}
+\keyword{datasets}
+

@@ -1,0 +1,28 @@
+#'Age and length of Blue Catfish.
+#'
+#'Age and total length of Blue Catfish (\emph{Ictalurus furcatus}) collected
+#'form the Wilson Reservoir on the Tennessee River, AL.
+#'
+#'@name BlueCatfish
+#'@docType data
+#'@format A data frame with 119 observations on the following 2 variables.
+#'\describe{
+#' \item{age}{Age (from otoliths).}
+#' \item{tl}{Total length (mm).} 
+#'}
+#'@section Topic(s): \itemize{
+#' \item Size-at-age growth modeling
+#' \item Von Bertalanffy growth model
+#' \item Growth
+#'}
+#'@source Extracted (approximately) from Figure 2 of Maceina, M.J.  2007.  Use
+#'of piecewise nonlinear models to estimate variable size-related mortality
+#'rates.  North American Journal of Fisheries Management, 27:971-977.
+#'@keywords datasets
+#'@examples
+#'data(BlueCatfish)
+#'str(BlueCatfish)
+#'head(BlueCatfish)
+#'plot(tl~age,data=BlueCatfish)
+#'
+NULL

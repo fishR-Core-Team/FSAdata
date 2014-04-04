@@ -1,0 +1,11 @@
+\name{.onAttach}
+\alias{.onAttach}
+\title{Internal functions used in FSAdata.}
+\usage{
+.onAttach(lib, pkg, ...)
+}
+\description{
+Internal functions used in FSAdata.
+}
+\keyword{internal}
+

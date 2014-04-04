@@ -1,0 +1,28 @@
+"site" "state" "n" "log.a" "b"
+"McLain Pond" "Iowa" 16 -4.217 2.69
+"Canton Lake" "Oklahoma" 266 -4.245 2.798
+"Canal 34" "Florida" 50 -5.833 2.859
+"Blue Cypress Lake" "Florida" 40 -6.011 2.94
+"Rod and Gun Club Lake" "Oklahoma" 214 -4.643 2.95
+"NA" "Alabama" 2150 -4.608 2.95
+"Huflacker Pond" "Iowa" 16 -4.867 3.06
+"Blue Cypress Lake" "Florida" 39 -6.291 3.063
+"NA" "Alabama" 82212 -4.887 3.07
+"Ahquabi Lake" "Iowa" 241 -4.874 3.076
+"Jewetl Lake" "Michigan" 371 -4.984 3.102
+"Blue Cypress Lake" "Florida" 71 -6.4 3.112
+"Ike Lake" "Iowa" 214 -5.081 3.156
+"Canal 34" "Florida" 32 -6.526 3.169
+"Sparks Pond" "Iowa" 16 -5.193 3.2
+"Ponds" "Iowa" 193 -5.156 3.209
+"Chickasaw Lake" "Oklahoma" 109 -5.322 3.281
+"Ponds" "Iowa" 1435 -5.971 3.282
+"NA" "Oklahoma" 3617 -5.45 3.333
+"Alanconnie Lake" "Pennsylvania" 1146 -5.515 3.371
+"Ponds" "Kentucky" 567 -5.24 3.25
+"Ardmorc City Lake" "Oklahoma" 24 -5.59 3.436
+"Ross Pond" "Iowa" 16 -5.716 3.47
+"Link Pond" "Iowa" 16 -7.151 4.11
+"Kimberly Pond" "Iowa" 16 -5.809 3.51
+"Ponds" "Iowa" 1146 -5.85 3.534
+"Upper Mississippi River" "NA" 1009 -6.098 3.64

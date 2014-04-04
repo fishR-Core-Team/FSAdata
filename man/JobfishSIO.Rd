@@ -1,0 +1,32 @@
+\docType{data}
+\name{JobfishSIO}
+\alias{JobfishSIO}
+\title{Catch-effort data for South Indian Ocean Jobfish.}
+\format{A data frame with 13 observations on the following 2 variables.
+\describe{
+\item{catch}{Catches (kg).}
+\item{effort}{Effort (man-hours).}
+}}
+\source{
+From Table 2 of Grandcourt, E.M. 2003.  The effect of
+intensive line fishing on the virgin biomass of a tropical
+deepwater snapper, the crimson jobfish
+(\emph{Pristipomoides filamentosus}). Fisheries Bulletin,
+101:305-311.
+}
+\description{
+Catch and effort data for Jobfish (\emph{Pristipomoides
+filamentosus}) from the South Indian Ocean.
+}
+\section{Topic(s)}{
+  \itemize{ \item Depletion methods \item Leslie method
+  \item DeLury method \item Population size \item Abundance
+  \item Catchability }
+}
+\examples{
+data(JobfishSIO)
+str(JobfishSIO)
+head(JobfishSIO)
+}
+\keyword{datasets}
+

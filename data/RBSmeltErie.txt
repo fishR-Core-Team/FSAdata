@@ -1,0 +1,34 @@
+# RBSmeltErie.txt
+#
+# from Ontario Ministry of Natural Resources, Fish and Wildlife Branch, 1997. 
+#  Lake Erie fisheries report 1996.  Lake Erie Committee Meeting, Great Lakes 
+#  Fishery Commission, Ann Arbor, Michigan. pp 26.
+#
+# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html
+#
+# year: year of data
+# recruits: number of recruits per hour
+#
+# Zeros were changed to 0.1 in 1984, 87, 91, 94
+#
+year	recruits
+1977	183
+1978	195
+1979	178
+1980	242
+1981	76
+1982	23
+1983	12
+1984	0.1
+1985	53
+1986	960
+1987	0.1
+1988	1
+1989	5
+1990	16
+1991	0.1
+1992	79
+1993	23
+1994	0.1
+1995	5.1
+1996	3.3
