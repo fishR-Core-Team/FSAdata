@@ -4,7 +4,10 @@
 * Moved FSA to a "suggests" rather than "depends".
 * Made topic sections consistent, added concept fields, and cleaned up titles in the help files so that `help.search()` worked better.
 * `BluegillWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
-* `creelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `CreelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `GreensCreekMine`: Added.
+* `JobfishSIO`: Modified.  Added a link to the article in the help file.
+* `SalmonidsMCCA': Added.
 * `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
 
 

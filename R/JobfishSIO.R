@@ -19,10 +19,10 @@
 #' \item Catchability
 #'}
 #'@concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
-#'@source From Table 2 of Grandcourt, E.M. 2003.  The effect of intensive line
+#'@source From Table 2 of Grandcourt, E.M.  2003.  The effect of intensive line
 #'fishing on the virgin biomass of a tropical deepwater snapper, the crimson
-#'jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin,
-#'101:305-311.
+#'jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311.
+#'Available at \url{http://fishbull.noaa.gov/1012/08grandc.pdf}.
 #'@keywords datasets
 #'@examples
 #'data(JobfishSIO)
