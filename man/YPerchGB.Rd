@@ -1,7 +1,7 @@
 \docType{data}
 \name{YPerchGB}
 \alias{YPerchGB}
-\title{Recruitment of Yellow Perch in Green Bay, 1978-1992.}
+\title{Recruitment time-series for Yellow Perch in Green Bay, 1978-1992.}
 \format{A data frame with 15 observations on the following 2 variables:
 \describe{
 \item{year}{Year of data.}
@@ -17,8 +17,8 @@ survey data. Canadian Journal of Fisheries and Aquatic
 Sciences, 51:946-958.
 }
 \description{
-Yellow Perch (\emph{Perca flavescens}) recruitment by year
-in Green Bay, 1978-1992.
+Yellow Perch (\emph{Perca flavescens}) recruitment
+time-series for Green Bay, 1978-1992.
 }
 \section{Topic(s)}{
   \itemize{ \item Recruitment time-series }

@@ -1,6 +1,6 @@
-#'Recruitment of Rainbow Smelt in Lake Erie, 1977-1996.
+#'Recruitment time-series for Rainbow Smelt in Lake Erie, 1977-1996.
 #'
-#'Rainbow Smelt (\emph{Osmerus mordax}) recruitment by year in Lake Erie, 1977-1996.
+#'Rainbow Smelt (\emph{Osmerus mordax}) recruitment time series for Lake Erie, 1977-1996.
 #'
 #'Zeros were changed to 0.1 in 1984, 1987, 1991, and 1994.
 #'

@@ -1,4 +1,4 @@
-#'Age and length of Lake Erie Freshwater Drum.
+#'Ages and lengths of Lake Erie Freshwater Drum.
 #'
 #'Assigned ages (from scales) and measured total lengths for each of 1577
 #'Freshwater Drum (\emph{Aplodinotus grunniens}) from Lake Erie.

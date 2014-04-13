@@ -25,7 +25,7 @@ returned to the population.
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
   Mark-recapture \item Schnabel method \item
-  Schumacher-Eschmeyer method \item Capture history }
+  Schumacher-Eschmeyer method }
 }
 \examples{
 data(Riffleshell)
@@ -34,7 +34,6 @@ head(Riffleshell)
 }
 \concept{
 Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
-'Capture History'
 }
 \keyword{datasets}
 

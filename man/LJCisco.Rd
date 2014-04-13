@@ -1,7 +1,7 @@
 \docType{data}
 \name{LJCisco}
 \alias{LJCisco}
-\title{Age and length of Longjaw Cisco by location.}
+\title{Ages and lengths of Longjaw Cisco from two locations in Lake Michigan.}
 \format{A data frame with 378 observations on the following 3 variables.
 \describe{
 \item{age}{Assigned age (by scales).}
@@ -16,9 +16,9 @@ Lake Michigan.  Transactions of the American Fisheries
 Society.  76:215-247.
 }
 \description{
-The assigned age (by scales) and total length of Longjaw
-Cisco (\emph{Leucichthys alpenae}) captured at two
-locations in Lake Michigan.
+Assigned age (by scales) and total length of Longjaw Cisco
+(\emph{Leucichthys alpenae}) captured at two locations in
+Lake Michigan.
 }
 \section{Topic(s)}{
   \itemize{ \item Growth \item von Bertalanffy }

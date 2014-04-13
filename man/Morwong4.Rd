@@ -1,7 +1,7 @@
 \docType{data}
 \name{Morwong4}
 \alias{Morwong4}
-\title{Age and length of Morwong.}
+\title{Ages and lengths of Morwong.}
 \format{A data frame with 392 observations on the following 2 variables:
 \describe{
 \item{fl}{Measured fork lengths (cm).}
@@ -16,7 +16,7 @@ Queenscliff.
 \url{http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf}
 }
 \description{
-Fork lengths and assigned ages (from otoliths) to Jackass
+Assigned ages (from otoliths) and fork lengths of Jackass
 Morwong (\emph{Nemadactylus macropterus}) from the Eastern
 portion of the Southern and Eastern Scalefish and Shark
 Fishery (SESSF) in 2000.

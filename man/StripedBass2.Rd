@@ -1,7 +1,7 @@
 \docType{data}
 \name{StripedBass2}
 \alias{StripedBass2}
-\title{Age and length of Atlantic Ocean Striped Bass.}
+\title{Ages and lengths of Atlantic Ocean Striped Bass.}
 \format{A data frame of 1201 observations on the following 2 variables:
 \describe{
 \item{age}{Assigned ages (from scales).}

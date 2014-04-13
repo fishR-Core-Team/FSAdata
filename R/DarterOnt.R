@@ -1,7 +1,7 @@
-#'Age and length of Channel Darter by collection location.
+#'Ages and lengths of Channel Darters from two locations.
 #'
-#'Otolith age, total length, and collection location of Channel Darter
-#'(\emph{Percina copelandi}).
+#'Assigned ages (from otoliths), total length, and collection location of Channel
+#'Darter (\emph{Percina copelandi}).
 #'
 #'@name DarterOnt
 #'@docType data

@@ -1,4 +1,4 @@
-#'Catches in removal events of trout and salmon at various locations in Little
+#'Catches in removal events of Cutthroat Trout and Coho Salmon in Little
 #'Stawamus Creek (British Columbia, Canada) in 1997.
 #'
 #'Catches of Coho Salmon (\emph{Oncorhynchus kisutch}) and Cutthroat Trout
@@ -24,10 +24,9 @@
 #'@section Topic(s): \itemize{
 #' \item Population size
 #' \item Abundance
-#' \item Depletion
 #' \item Removal
 #'}
-#'@concept Abundance 'Population Size' Depletion Removal
+#'@concept Abundance 'Population Size' Removal
 #'@source From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and
 #'J. Korman.  1999.  Estimating standing stock of juvenile coho salmon 
 #'(\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki})

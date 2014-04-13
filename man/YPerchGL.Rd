@@ -1,7 +1,7 @@
 \docType{data}
 \name{YPerchGL}
 \alias{YPerchGL}
-\title{Length and weight of Yellow Perch from Grafton Lake by year.}
+\title{Lengths and weights of Yellow Perch from Grafton Lake by year.}
 \format{A data frame with 100 observations on the following 3 variables:
 \describe{
 \item{fl}{Fork Length (nearest mm) at capture.}

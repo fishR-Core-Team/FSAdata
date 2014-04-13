@@ -1,7 +1,7 @@
 \docType{data}
 \name{SunfishLP}
 \alias{SunfishLP}
-\title{Catch-at-age (percent frequency) for two species of sunfish.}
+\title{Catch-at-age for Bluegill and Redear Sunfish in Florida.}
 \format{A data frame with 12 observations on the following 3 variables:
 \describe{
 \item{species}{Species of sunfish (\code{bluegill} or \code{redear}).}

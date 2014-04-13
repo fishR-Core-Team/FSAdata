@@ -1,7 +1,7 @@
 \docType{data}
 \name{AHerringChile}
 \alias{AHerringChile}
-\title{Length and age of Araucanian Herring from Chilean waters.}
+\title{Ages and lengths of Araucanian Herring from Chilean waters.}
 \format{A data frame with the following 2 variables:
 \describe{
 \item{age}{Age in years.}
@@ -15,7 +15,7 @@ consequence of their reproductive strategy to seasonal
 upwelling?  Aquatic Living Resources, 14:115-124.
 }
 \description{
-Length and age of Araucanian Herring (\emph{Strangomera
+Ages and lengths of Araucanian Herring (\emph{Strangomera
 bentincki}) from Chilean waters.
 }
 \section{Topic(s)}{

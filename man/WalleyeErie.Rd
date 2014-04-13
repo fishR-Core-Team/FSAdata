@@ -1,7 +1,7 @@
 \docType{data}
 \name{WalleyeErie}
 \alias{WalleyeErie}
-\title{Recruitment of Walleye in Lake Erie, 1959-1972.}
+\title{Recruitment time-series for Walleye in Lake Erie, 1959-1972.}
 \format{A data frame of 14 observations on the following 6 variables:
 \describe{
 \item{year}{Year of data.}
@@ -16,8 +16,8 @@ for walleyes in New York waters of Lake Erie, 1959-1978.
 North American Journal of Fisheries Management 1: 112-126.
 }
 \description{
-Walleye (\emph{Sander vitreus}) recruitment by year in Lake
-Erie, 1959-1972.
+Walleye (\emph{Sander vitreus}) recruitment time-series for
+Lake Erie, 1959-1972.
 }
 \section{Topic(s)}{
   \itemize{ \item Recruitment time-series }

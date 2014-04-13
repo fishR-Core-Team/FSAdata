@@ -1,6 +1,6 @@
-#'Stock-recruitment data for Hake.
+#'Stock and recruitment data for Hake.
 #'
-#'Stock-recruitment data of Hake (\emph{Merluccius merluccius}), 1982-1996.
+#'Stock and recruitment data of Hake (\emph{Merluccius merluccius}), 1982-1996.
 #'
 #'@name Hake
 #'@docType data

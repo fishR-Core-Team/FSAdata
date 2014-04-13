@@ -1,7 +1,7 @@
 \docType{data}
 \name{AlewifeLH}
 \alias{AlewifeLH}
-\title{Age of Lake Huron Alewife assigned from otolith and scale.}
+\title{Ages of Lake Huron Alewife assigned from otoliths and scales.}
 \format{A data frame of 104 observations on the following 2 variables:
 \describe{
 \item{otoliths}{Age assigned from examination of otoliths.}
@@ -29,7 +29,7 @@ plot(scales~otoliths,data=AlewifeLH)
 with(AlewifeLH,table(otoliths,scales))
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

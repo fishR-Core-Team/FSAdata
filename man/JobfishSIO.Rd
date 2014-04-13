@@ -1,7 +1,7 @@
 \docType{data}
 \name{JobfishSIO}
 \alias{JobfishSIO}
-\title{Catch-effort data for South Indian Ocean Jobfish.}
+\title{Catch and effort data for South Indian Ocean Jobfish.}
 \format{A data frame with 13 observations on the following 2 variables.
 \describe{
 \item{catch}{Catches (kg).}

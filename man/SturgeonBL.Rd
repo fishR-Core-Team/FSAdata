@@ -1,7 +1,7 @@
 \docType{data}
 \name{SturgeonBL}
 \alias{SturgeonBL}
-\title{Summarized multiple mark-recapture data for lake sturgeon.}
+\title{Summarized multiple mark-recapture data for Lake Sturgeon.}
 \format{A data frame with 6 observations on the following 4 variables:
 \describe{
 \item{t}{Sample number}
@@ -17,7 +17,7 @@ North American Journal of Fisheries Management.
 19:1080-1088.
 }
 \description{
-The number of lake sturgeon (\emph{Acipenser fulvescens})
+The number of Lake Sturgeon (\emph{Acipenser fulvescens})
 caught in multiple samples from Black Lake, MI in 1997.
 The caught fish were examined for previous marks, marked
 (if previously unmarked), and then returned to the

@@ -1,7 +1,7 @@
 \docType{data}
 \name{TroutADP}
 \alias{TroutADP}
-\title{Catch in removal events of trout.}
+\title{Catches in removal events of trout.}
 \format{A data frame with 5 observations on the following 2 variables:
 \describe{
 \item{catch}{Removal event.}
@@ -13,12 +13,12 @@ for estimating fish population size from survey removal
 data.  Fisheries Management, 14:67-82.
 }
 \description{
-Catch of trout on five successive removal events from the
+Catches of trout on five successive removal events from the
 Afon Dulas at Pentre, 19Jun79.
 }
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
-  Depletion \item Removal }
+  Removal }
 }
 \examples{
 data(TroutADP)
@@ -29,7 +29,7 @@ TroutADP
 \link{SalmonADP}
 }
 \concept{
-Abundance 'Population Size' Depletion Removal
+Abundance 'Population Size' Removal
 }
 \keyword{datasets}
 

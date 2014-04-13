@@ -1,6 +1,6 @@
-#'Catch in removal events of trout.
+#'Catches in removal events of trout.
 #'
-#'Catch of trout on five successive removal events from the Afon Dulas at Pentre, 19Jun79.
+#'Catches of trout on five successive removal events from the Afon Dulas at Pentre, 19Jun79.
 #'
 #'@name TroutADP
 #'@docType data
@@ -12,10 +12,9 @@
 #'@section Topic(s): \itemize{
 #' \item Population size
 #' \item Abundance
-#' \item Depletion
 #' \item Removal
 #'}
-#'@concept Abundance 'Population Size' Depletion Removal
+#'@concept Abundance 'Population Size' Removal
 #'@seealso \link{SalmonADP}
 #'@source From Table 1 in Cowx, I.G.  1983.  Review of the methods for estimating
 #'fish population size from survey removal data.  Fisheries Management, 14:67-82.

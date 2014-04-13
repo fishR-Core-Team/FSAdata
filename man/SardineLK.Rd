@@ -1,7 +1,7 @@
 \docType{data}
 \name{SardineLK}
 \alias{SardineLK}
-\title{Age and length of larval Lake Tanganyika Sardine.}
+\title{Ages and lengths of larval Lake Tanganyika Sardine.}
 \format{A data frame with 75 observations on the following 2 variables.
 \describe{
 \item{days}{Age in days (determine from otoliths).}
@@ -17,8 +17,8 @@ in the African Great Lakes region.  Available at
 \url{www.fao.org/codrep/005/V2648E/V2648E06.htm}.
 }
 \description{
-Age and length of larval Lake Tanganyika Sardine
-(\emph{Limnothrissa miodon}) from Lake Kariba.
+Ages (days) and total lengths of larval Lake Tanganyika
+Sardine (\emph{Limnothrissa miodon}) from Lake Kariba.
 }
 \section{Topic(s)}{
   \itemize{ \item Growth \item von Bertalanffy }

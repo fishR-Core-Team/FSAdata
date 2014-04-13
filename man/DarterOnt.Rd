@@ -1,7 +1,7 @@
 \docType{data}
 \name{DarterOnt}
 \alias{DarterOnt}
-\title{Age and length of Channel Darter by collection location.}
+\title{Ages and lengths of Channel Darters from two locations.}
 \format{A data frame of 54 observations on the following 3 variables:
 \describe{
 \item{age}{Otolith age-at-capture (years).}
@@ -15,8 +15,8 @@ length distributions of Ontario channel darter
 Freshwater Ecology 19:441-444.
 }
 \description{
-Otolith age, total length, and collection location of
-Channel Darter (\emph{Percina copelandi}).
+Assigned ages (from otoliths), total length, and collection
+location of Channel Darter (\emph{Percina copelandi}).
 }
 \note{
 The original author used a linear model to describe the

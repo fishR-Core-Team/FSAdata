@@ -1,7 +1,7 @@
 \docType{data}
 \name{YERockfish}
 \alias{YERockfish}
-\title{Length-at-age and maturity for Yelloweye Rockfish.}
+\title{Ages, lengths, and maturity for Yelloweye Rockfish.}
 \format{A data frame with 159 observations on the following 5 variables.
 \describe{
 \item{date}{Date fish was collected}
@@ -23,7 +23,7 @@ Department of Fish and Wildlife, Information Reports
 Data obtained directly from Bob Hannah.
 }
 \description{
-Length-at-age and maturity for female Yelloweye Rockfish
+Ages, lengths, and maturity for female Yelloweye Rockfish
 (\emph{Sebastes rubberimus}) from Oregon.
 }
 \section{Topic(s)}{

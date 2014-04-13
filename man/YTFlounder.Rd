@@ -1,7 +1,7 @@
 \docType{data}
 \name{YTFlounder}
 \alias{YTFlounder}
-\title{Age of Yellowtail Flounder assigned from scales and otoliths.}
+\title{Ages of Yellowtail Flounder assigned from scales and otoliths.}
 \format{A data frame with 27 paired observations on the following 3
 variables.  \describe{
 \item{scale}{Ages assigned from scales.}
@@ -35,7 +35,7 @@ plot(whole~cross,data=YTFlounder)
 par(op)
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

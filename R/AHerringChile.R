@@ -1,6 +1,6 @@
-#'Length and age of Araucanian Herring from Chilean waters.
+#'Ages and lengths of Araucanian Herring from Chilean waters.
 #'
-#'Length and age of Araucanian Herring (\emph{Strangomera bentincki}) from
+#'Ages and lengths of Araucanian Herring (\emph{Strangomera bentincki}) from
 #'Chilean waters.
 #'
 #'@name AHerringChile

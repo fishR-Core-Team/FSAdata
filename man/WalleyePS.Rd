@@ -1,7 +1,7 @@
 \docType{data}
 \name{WalleyePS}
 \alias{WalleyePS}
-\title{Age of Walleye assessed from three calcified structures.}
+\title{Ages of Walleye assigned from otoliths, scales, and spines.}
 \format{A data frame with 61 observations on the following 4 variables:
 \describe{
 \item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections.}
@@ -45,7 +45,7 @@ plot(spine~otolith,data=WalleyePS,subset=sex=="male",main="Male")
 par(op)
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

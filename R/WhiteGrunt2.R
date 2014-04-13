@@ -1,6 +1,6 @@
-#'Age and length of White Grunt by sex.
+#'Ages, lengths, and sexes of White Grunt.
 #'
-#'Age and total length of White Grunt (\emph{Haemulon plumierii}) collected
+#'Ages, lengths, and sexes of White Grunt (\emph{Haemulon plumierii}) collected
 #'from the central coast of Brazil
 #'
 #'@name WhiteGrunt2

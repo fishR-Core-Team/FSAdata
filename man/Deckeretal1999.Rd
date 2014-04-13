@@ -1,7 +1,7 @@
 \docType{data}
 \name{Deckeretal1999}
 \alias{Deckeretal1999}
-\title{Catches in removal events of trout and salmon at various locations in Little
+\title{Catches in removal events of Cutthroat Trout and Coho Salmon in Little
 Stawamus Creek (British Columbia, Canada) in 1997.}
 \format{A data frame of 26 observations on the following 10 variables:
 \describe{
@@ -35,7 +35,7 @@ Creek (British Columbia, Canada) in 1997.
 }
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
-  Depletion \item Removal }
+  Removal }
 }
 \examples{
 data(Deckeretal1999)
@@ -46,7 +46,7 @@ head(Deckeretal1999)
 Deckeretal1999[3,]
 }
 \concept{
-Abundance 'Population Size' Depletion Removal
+Abundance 'Population Size' Removal
 }
 \keyword{datasets}
 

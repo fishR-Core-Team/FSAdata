@@ -1,6 +1,6 @@
-#'Age, length, and sex of European perch.
+#'Ages, lengths, and sexes of European Perch.
 #'
-#'Assigned ages, measured fork lengths, and observed sex for European Perch
+#'Assigned ages, measured fork lengths, and observed sexes for European Perch
 #'(\emph{Perca fluviatilis}) from Lake Tjuekemeer (The Netherlands).
 #'
 #'@name EuroPerchTJ

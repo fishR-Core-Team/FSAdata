@@ -1,7 +1,7 @@
 \docType{data}
 \name{PikeIL}
 \alias{PikeIL}
-\title{Catch-effort data for Northern Pike from Island Lake, NB.}
+\title{Catch and effort data for Northern Pike from Island Lake, NB.}
 \format{A data frame with 9 observations on the following 3 variables:
 \describe{
 \item{date}{Capture date.}
@@ -15,8 +15,8 @@ Transactions of the American Fisheries Society,
 109:329-331.
 }
 \description{
-Catch and effort data for 9 removal events of Northern Pike
-(\emph{Esox lucius}) from Island Lake, NB.
+Catch and effort data for nine removal events of Northern
+Pike (\emph{Esox lucius}) from Island Lake, NB.
 }
 \section{Topic(s)}{
   \itemize{ \item Depletion methods \item Leslie method

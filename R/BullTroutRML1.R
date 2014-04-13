@@ -1,6 +1,6 @@
-#'Length and weight for Bull Trout from two Rocky Mountain lakes.
+#'Lengths and weights for Bull Trout from two Rocky Mountain lakes.
 #'
-#'Length and weight for Bull Trout (\emph{Salvelinus confluentis}) from two
+#'Lengths and weights for Bull Trout (\emph{Salvelinus confluentis}) from two
 #'Rocky Mountain lakes in Alberta, CA.
 #'
 #'The historical (1977-1980) era samples were from before restrictive

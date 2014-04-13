@@ -1,7 +1,7 @@
 \docType{data}
 \name{BullTroutRML2}
 \alias{BullTroutRML2}
-\title{Age and length of Bull Trout from two Rocky Mountain lakes.}
+\title{Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.}
 \format{A data frame with 96 observations on the following 4 variables:
 \describe{
 \item{age}{Age (from otoliths).}
@@ -17,9 +17,10 @@ and retention limits.  North American Journal of Fisheries
 Management, 27:848-859.
 }
 \description{
-Age and length of Bull Trout (\emph{Salvelinus
-confluentis}) from two Rocky Mountain lakes in Alberta, CA
-before and after a regulation change.
+Assigned ages (from otoliths) and fork lengths of Bull
+Trout (\emph{Salvelinus confluentis}) from two Rocky
+Mountain lakes in Alberta, CA before and after a regulation
+change.
 }
 \details{
 The historical (1977-1980) era samples were from before

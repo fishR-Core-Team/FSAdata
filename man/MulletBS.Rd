@@ -1,7 +1,7 @@
 \docType{data}
 \name{MulletBS}
 \alias{MulletBS}
-\title{Age of Red Mullet assigned from whole and broken-burnt otoliths.}
+\title{Ages of Red Mullet assigned from whole and broken-burnt otoliths.}
 \format{A data frame with 51 paired observations on the following 2
 variables.
 \describe{
@@ -33,7 +33,7 @@ plot(whole~bb,data=MulletBS)
 with(MulletBS,table(bb,whole))
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

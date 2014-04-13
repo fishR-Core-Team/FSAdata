@@ -1,4 +1,4 @@
-#'Age (subsample) and length(all) of Freshwater Drum from Lake Erie.
+#'Age (subsample) and length (all fish) of Freshwater Drum from Lake Erie.
 #'
 #'A total of 253 fish dispersed proportionately over 10-mm total length
 #'intervals from the \code{FWDrumLE1} data frame was obtained for age

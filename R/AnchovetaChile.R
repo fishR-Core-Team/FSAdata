@@ -1,6 +1,6 @@
-#'Length and age of Anchoveta from Chilean waters.
+#'Ages and lengths of Anchoveta from Chilean waters.
 #'
-#'Length and age (in months) of Anchoveta (\emph{Engraulis ringens}) from
+#'Ages (in months) and lengths of Anchoveta (\emph{Engraulis ringens}) from
 #'central Chilean waters.
 #'
 #'@name AnchovetaChile

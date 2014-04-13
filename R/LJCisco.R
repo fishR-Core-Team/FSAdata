@@ -1,6 +1,6 @@
-#'Age and length of Longjaw Cisco by location.
+#'Ages and lengths of Longjaw Cisco from two locations in Lake Michigan.
 #'
-#'The assigned age (by scales) and total length of Longjaw Cisco
+#'Assigned age (by scales) and total length of Longjaw Cisco
 #'(\emph{Leucichthys alpenae}) captured at two locations in Lake Michigan.
 #'
 #'@name LJCisco

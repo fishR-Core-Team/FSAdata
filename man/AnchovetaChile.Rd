@@ -1,7 +1,7 @@
 \docType{data}
 \name{AnchovetaChile}
 \alias{AnchovetaChile}
-\title{Length and age of Anchoveta from Chilean waters.}
+\title{Ages and lengths of Anchoveta from Chilean waters.}
 \format{A data frame with 207 observations of the following 3 variables:
 \describe{
 \item{age.mon}{Age in months.}
@@ -17,7 +17,7 @@ upwelling?  Aquatic Living Resources, 14:115-124.  Data
 were in Figure 9.
 }
 \description{
-Length and age (in months) of Anchoveta (\emph{Engraulis
+Ages (in months) and lengths of Anchoveta (\emph{Engraulis
 ringens}) from central Chilean waters.
 }
 \section{Topic(s)}{

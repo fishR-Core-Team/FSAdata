@@ -1,7 +1,7 @@
 \docType{data}
 \name{StripedBass1}
 \alias{StripedBass1}
-\title{Age of striped bass assigned from scales and otoliths.}
+\title{Ages of Striped Bass assigned from scales and otoliths.}
 \format{A data frame of 343 observations on the following 2 variables:
 \describe{
 \item{ageO}{Age assigned from examinaton of otoliths.}
@@ -14,7 +14,7 @@ ageing, 2000. \href{http://ww2.odu.edu/sci/cqfe}{Available
 here.}
 }
 \description{
-Ages of striped bass (\emph{Morone saxatilis}) assessed
+Ages of Striped Bass (\emph{Morone saxatilis}) assessed
 from heat-pressed scales and cracked-and-burnt otoliths.
 }
 \section{Topic(s)}{

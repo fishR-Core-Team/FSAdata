@@ -1,6 +1,6 @@
-#'Age and length of migratory Brown and Rainbow Trout.
+#'Ages and lengths of migratory Brown and Rainbow Trout.
 #'
-#'The total length (inches) and age (from scales) of Brown Trout (\emph{Salmo
+#'Total lengths (inches) and ages (from scales) of Brown Trout (\emph{Salmo
 #'trutta}) and Rainbow Trout (\emph{Oncorhynchus mykiss}) migrating upstream on
 #'the Bois Brule River, WI in 1978 and 1979.
 #'

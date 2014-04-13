@@ -1,7 +1,7 @@
 \docType{data}
 \name{TroutBR}
 \alias{TroutBR}
-\title{Age and length of migratory Brown and Rainbow Trout.}
+\title{Ages and lengths of migratory Brown and Rainbow Trout.}
 \format{A data frame with 851 observations on the following 3 variables:
 \describe{
 \item{tl}{Measured total length (inches).}
@@ -16,7 +16,7 @@ Department of Natural Resources, Fish Management Report No.
 123.
 }
 \description{
-The total length (inches) and age (from scales) of Brown
+Total lengths (inches) and ages (from scales) of Brown
 Trout (\emph{Salmo trutta}) and Rainbow Trout
 (\emph{Oncorhynchus mykiss}) migrating upstream on the Bois
 Brule River, WI in 1978 and 1979.

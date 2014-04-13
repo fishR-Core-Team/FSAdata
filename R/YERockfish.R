@@ -1,6 +1,6 @@
-#'Length-at-age and maturity for Yelloweye Rockfish.
+#'Ages, lengths, and maturity for Yelloweye Rockfish.
 #'
-#'Length-at-age and maturity for female Yelloweye Rockfish (\emph{Sebastes
+#'Ages, lengths, and maturity for female Yelloweye Rockfish (\emph{Sebastes
 #'rubberimus}) from Oregon.
 #'
 #'@name YERockfish

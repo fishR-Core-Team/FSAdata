@@ -1,4 +1,4 @@
-#'Age (subsample) and length (all) of Morwong from Morwong4.
+#'Age (subsample) and length (all fish) of Morwong from Morwong4.
 #'
 #'A total of 104 fish dispersed proportionately over 1-cm fork length intervals
 #'from the \code{Morwong4} data frame was obtained for age assignment.  The

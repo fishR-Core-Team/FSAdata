@@ -1,7 +1,7 @@
 \docType{data}
 \name{WhiteGrunt2}
 \alias{WhiteGrunt2}
-\title{Age and length of White Grunt by sex.}
+\title{Ages, lengths, and sexes of White Grunt.}
 \format{A data frame with 465 observations on the following 3 variables.
 \describe{
 \item{age}{Age (from otoliths to the nearest 0.1 years).}
@@ -15,7 +15,7 @@ grunt (\emph{Haemulon plumierii}) from the central coast of
 Brazil.  Scientia Marina 71:793-800.
 }
 \description{
-Age and total length of White Grunt (\emph{Haemulon
+Ages, lengths, and sexes of White Grunt (\emph{Haemulon
 plumierii}) collected from the central coast of Brazil
 }
 \section{Topic(s)}{

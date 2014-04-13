@@ -1,7 +1,7 @@
 \docType{data}
 \name{LobsterHI}
 \alias{LobsterHI}
-\title{Catch-effort data for Hawaiian Islands Slipper Lobster.}
+\title{Catch and effort data for Hawaiian Islands Slipper Lobster.}
 \format{A data frame with 34 observations on the following 6 variables.
 \describe{
 \item{day}{Day of the catch}

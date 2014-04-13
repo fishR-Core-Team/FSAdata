@@ -1,7 +1,7 @@
 \docType{data}
 \name{StripedBass6}
 \alias{StripedBass6}
-\title{Age of Striped Bass assigned by scales and otoliths.}
+\title{Ages of Striped Bass assigned from scales and otoliths.}
 \format{A data frame of 451 observations on the following 2 variables:
 \describe{
 \item{scale}{Ages assigned to scales.}
@@ -31,7 +31,7 @@ with(StripedBass6,table(otolith,scale))
 \code{\link{StripedBass4}} and \code{\link{StripedBass5}}.
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

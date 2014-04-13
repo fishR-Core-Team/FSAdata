@@ -24,7 +24,7 @@ various locations.
 }
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
-  Depletion \item Removal }
+  Removal }
 }
 \examples{
 data(SimonsonLyons)
@@ -35,7 +35,7 @@ head(SimonsonLyons)
 SimonsonLyons[3,]
 }
 \concept{
-Abundance 'Population Size' Depletion Removal
+Abundance 'Population Size' Removal
 }
 \keyword{datasets}
 

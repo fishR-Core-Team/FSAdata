@@ -1,6 +1,6 @@
-#'Age and length of Lake Ontario Rock Bass.
+#'Ages and lengths of Lake Ontario Rock Bass.
 #'
-#'Assigned ages and measured total lengths for each of 1288 Rock Bass
+#'Assigned ages (from scales) and measured total lengths for each of 1288 Rock Bass
 #'(\emph{Ambloplites rupestris}) from Lake Ontario.
 #'
 #'@name RockBassLO1

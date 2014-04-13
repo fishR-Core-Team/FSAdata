@@ -1,6 +1,6 @@
-#'Stock and recruitment data for Klamath River chinook salmon.
+#'Stock and recruitment data for Klamath River Chinook Salmon.
 #'
-#'Stock and recruitment data for Klamath River chinook salmon
+#'Stock and recruitment data for Klamath River Chinook Salmon
 #'(\emph{Oncorhynchus tshawytscha}), 1979-2000 brood years.
 #'
 #'@name ChinookKR

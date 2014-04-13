@@ -1,6 +1,6 @@
-#'Age and length of Troutperch by sex.
+#'Ages, lengths, and sexes of Troutperch.
 #'
-#'The assigned age (by scales) and total length (mm) of by sex of Troutperch
+#'The assigned ages (by scales), total lengths (mm), and sexes of Troutperch
 #'(\emph{Percopsis omsicomaycus}) captured in southeastern Lake Michigan.
 #'
 #'@name TroutperchLM1

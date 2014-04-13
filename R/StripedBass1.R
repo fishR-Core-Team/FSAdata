@@ -1,6 +1,6 @@
-#'Age of striped bass assigned from scales and otoliths.
+#'Ages of Striped Bass assigned from scales and otoliths.
 #'
-#'Ages of striped bass (\emph{Morone saxatilis}) assessed from heat-pressed
+#'Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed
 #'scales and cracked-and-burnt otoliths.
 #'
 #'@name StripedBass1

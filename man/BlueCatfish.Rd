@@ -1,7 +1,7 @@
 \docType{data}
 \name{BlueCatfish}
 \alias{BlueCatfish}
-\title{Age and length of Blue Catfish.}
+\title{Ages and lengths of Blue Catfish.}
 \format{A data frame with 119 observations on the following 2 variables.
 \describe{
 \item{age}{Age (from otoliths).}
@@ -14,7 +14,7 @@ variable size-related mortality rates.  North American
 Journal of Fisheries Management, 27:971-977.
 }
 \description{
-Age and total length of Blue Catfish (\emph{Ictalurus
+Ages and total lengths of Blue Catfish (\emph{Ictalurus
 furcatus}) collected form the Wilson Reservoir on the
 Tennessee River, AL.
 }

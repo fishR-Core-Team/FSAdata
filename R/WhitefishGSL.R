@@ -1,4 +1,4 @@
-#'Catch-at-age (commercial) of Great Slave Lake Whitefish by area.
+#'Catch-at-age of Great Slave Lake Whitefish (commercial) by area.
 #'
 #'Age composition of commercial Whitefish (\emph{Coregonus clupeaformis})
 #'catches for five areas of Great Slave Lake.

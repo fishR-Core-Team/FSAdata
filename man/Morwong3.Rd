@@ -1,7 +1,7 @@
 \docType{data}
 \name{Morwong3}
 \alias{Morwong3}
-\title{Age of Morwong assigned by two readers.}
+\title{Ages of Morwong assigned from otoliths by two readers.}
 \format{A data frame with 58 paired observations on the following 2
 variables.  \describe{
 \item{readerA}{Ages assigned by Reader A.}
@@ -31,7 +31,7 @@ plot(readerB~readerA,data=Morwong3)
 with(Morwong3,table(readerA,readerB))
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

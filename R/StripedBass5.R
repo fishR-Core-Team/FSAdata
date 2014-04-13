@@ -1,4 +1,4 @@
-#'Age of Striped Bass assigned by two readers from otoliths.
+#'Ages of Striped Bass assigned from otoliths by two readers.
 #'
 #'Ages assigned by two different readers to the otoliths of Striped Bass (\emph{Morone saxatilis}).
 #'
@@ -15,7 +15,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@seealso \code{\link{StripedBass4}} and \code{\link{StripedBass6}}.
 #'@source Extracted from Figure 5 in Chapter 10 of the Virginia Marine Resources
 #' Commissions's Final Report on finfish ageing, 2003. \href{http://ww2.odu.edu/sci/cqfe}{Available here.}

@@ -1,7 +1,7 @@
 \docType{data}
 \name{FWDrumLE2}
 \alias{FWDrumLE2}
-\title{Age (subsample) and length(all) of Freshwater Drum from Lake Erie.}
+\title{Age (subsample) and length (all fish) of Freshwater Drum from Lake Erie.}
 \format{A data frame with 1577 observations on the following 2 variables.
 \describe{
 \item{age}{Assigned ages (from scales).}

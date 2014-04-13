@@ -1,7 +1,7 @@
 \docType{data}
 \name{FHCatfishATL}
 \alias{FHCatfishATL}
-\title{Catch-at-age of three populations of Flathead Catfish.}
+\title{Catch-at-age of Flathead Catfish from three Atlantic rivers.}
 \format{A data frame of 44 observations on the following 3 variables:
 \describe{
 \item{river}{Collection river (\code{Lumber}, \code{NCF}, and \code{Neuse}).}

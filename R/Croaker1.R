@@ -1,4 +1,4 @@
-#'Age of Atlantic Croaker assessed by two readers.
+#'Ages of Atlantic Croaker assigned from otoliths by two readers.
 #'
 #'Otolith age of Atlantic croaker (\emph{Micropogonias undulatus}) from two readers.
 #'
@@ -15,7 +15,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Chapter 1 of the Virginia Marine Resources Commissions's Final Report
 #'on finfish ageing, 1999.  \href{http://ww2.odu.edu/sci/cqfe}{Available here.}
 #'@keywords datasets

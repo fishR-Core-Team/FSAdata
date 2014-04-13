@@ -1,4 +1,4 @@
-#'Age of Muskellunge assigned from scales and cleithra.
+#'Ages of Muskellunge assigned from scales and cleithra.
 #'
 #'Ages of St. Lawrence River, ONT, Muskellunge (\emph{Esox masquinongy})
 #'assessed from scales and cleithra.
@@ -16,7 +16,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Casselman,J.M.  1983. Age and growth assessment of fish from their
 #'calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos,
 #'editors, Proceedings of the international workshop on age determination of

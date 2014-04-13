@@ -1,7 +1,7 @@
 \docType{data}
 \name{StripedBass4}
 \alias{StripedBass4}
-\title{Age of Striped Bass assigned by two readers from scales.}
+\title{Ages of Striped Bass assigned from scales by two readers.}
 \format{A data frame of 1202 observations on the following 2 variables:
 \describe{
 \item{reader1}{Ages assigned by the first reader.}
@@ -32,7 +32,7 @@ with(StripedBass4,table(reader1,reader2))
 \code{\link{StripedBass5}} and \code{\link{StripedBass6}}.
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

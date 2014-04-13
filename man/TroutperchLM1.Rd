@@ -1,7 +1,7 @@
 \docType{data}
 \name{TroutperchLM1}
 \alias{TroutperchLM1}
-\title{Age and length of Troutperch by sex.}
+\title{Ages, lengths, and sexes of Troutperch.}
 \format{A data frame with 431 observations on the following 3 variables:
 \describe{
 \item{age}{Assigned ages (by scales).}
@@ -16,9 +16,9 @@ omsicomaycus}) in southeastern Lake Michigan. Journal of
 the Fisheries Research Board of Canada.  30:1221-1225.
 }
 \description{
-The assigned age (by scales) and total length (mm) of by
-sex of Troutperch (\emph{Percopsis omsicomaycus}) captured
-in southeastern Lake Michigan.
+The assigned ages (by scales), total lengths (mm), and
+sexes of Troutperch (\emph{Percopsis omsicomaycus})
+captured in southeastern Lake Michigan.
 }
 \section{Topic(s)}{
   \itemize{ \item Growth \item von Bertalanffy }

@@ -1,7 +1,7 @@
 \docType{data}
 \name{Morwong4a}
 \alias{Morwong4a}
-\title{Age (subsample) and length (all) of Morwong from Morwong4.}
+\title{Age (subsample) and length (all fish) of Morwong from Morwong4.}
 \format{A data frame with 392 observations on the following 2 variables.
 \describe{
 \item{fl}{Fork lengths (cm).}

@@ -1,9 +1,8 @@
-#'Catch in removal events for Brook Trout in the Nashwaak Experimental
+#'Catches in removal events for Brook Trout in the Nashwaak Experimental
 #'Watersheds Project.
 #'
-#'Catch in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two
-#'streams in the the Nashwaak Experimental Watersheds Project on multiple
-#'dates.
+#'Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two
+#'streams in the the Nashwaak Experimental Watersheds Project on multiple dates.
 #'
 #'@name BrookTroutNEWP
 #'@docType data
@@ -20,10 +19,9 @@
 #'@section Topic(s): \itemize{
 #' \item Population size
 #' \item Abundance
-#' \item Depletion
 #' \item Removal
 #'}
-#'@concept Abundance 'Population Size' Depletion Removal
+#'@concept Abundance 'Population Size' Removal
 #'@source From Table 1 in Schnute, J.  1983.  A new approach to estimating
 #'populations by the removal method.  Canadian Journal of Fisheries and Aquatic
 #'Sciences, 40:2153-2169.

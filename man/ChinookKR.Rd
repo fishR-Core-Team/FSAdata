@@ -1,7 +1,7 @@
 \docType{data}
 \name{ChinookKR}
 \alias{ChinookKR}
-\title{Stock and recruitment data for Klamath River chinook salmon.}
+\title{Stock and recruitment data for Klamath River Chinook Salmon.}
 \format{A data frame with 27 observations on the following 3 variables.
 \describe{
 \item{brood.year}{a numeric vector of brood years.}
@@ -13,7 +13,7 @@ from
 \url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
 }
 \description{
-Stock and recruitment data for Klamath River chinook salmon
+Stock and recruitment data for Klamath River Chinook Salmon
 (\emph{Oncorhynchus tshawytscha}), 1979-2000 brood years.
 }
 \section{Topic(s)}{

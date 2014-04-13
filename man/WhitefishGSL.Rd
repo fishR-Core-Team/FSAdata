@@ -1,7 +1,7 @@
 \docType{data}
 \name{WhitefishGSL}
 \alias{WhitefishGSL}
-\title{Catch-at-age (commercial) of Great Slave Lake Whitefish by area.}
+\title{Catch-at-age of Great Slave Lake Whitefish (commercial) by area.}
 \format{A data frame with 16 observations on the following 6 variables:
 \describe{
 \item{age}{Assigned ages.}

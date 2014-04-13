@@ -1,4 +1,4 @@
-#'Catch-effort data for South Indian Ocean Jobfish.
+#'Catch and effort data for South Indian Ocean Jobfish.
 #'
 #'Catch and effort data for Jobfish (\emph{Pristipomoides filamentosus}) from
 #'the South Indian Ocean.

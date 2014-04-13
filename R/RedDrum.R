@@ -1,7 +1,7 @@
-#'Age and length of Red Drum.
+#'Ages and lengths of Red Drum.
 #'
-#'Age and fork length of Red Drum (\emph{Sciaenops ocellatus}) from various
-#'areas of the Atlantic Coast, 1981-1988.
+#'Assigned ages (from otoliths) and fork lengths of Red Drum (\emph{Sciaenops ocellatus})
+#'from various areas of the Atlantic Coast, 1981-1988.
 #'
 #'@name RedDrum
 #'@docType data

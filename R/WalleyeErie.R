@@ -1,6 +1,6 @@
-#'Recruitment of Walleye in Lake Erie, 1959-1972.
+#'Recruitment time-series for Walleye in Lake Erie, 1959-1972.
 #'
-#'Walleye (\emph{Sander vitreus}) recruitment by year in Lake Erie, 1959-1972.
+#'Walleye (\emph{Sander vitreus}) recruitment time-series for Lake Erie, 1959-1972.
 #'
 #'@name WalleyeErie
 #'@docType data

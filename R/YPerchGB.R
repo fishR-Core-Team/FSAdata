@@ -1,6 +1,6 @@
-#'Recruitment of Yellow Perch in Green Bay, 1978-1992.
+#'Recruitment time-series for Yellow Perch in Green Bay, 1978-1992.
 #'
-#'Yellow Perch (\emph{Perca flavescens}) recruitment by year in Green Bay, 1978-1992.
+#'Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Green Bay, 1978-1992.
 #'
 #'@name YPerchGB
 #'@docType data

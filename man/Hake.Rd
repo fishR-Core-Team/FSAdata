@@ -1,7 +1,7 @@
 \docType{data}
 \name{Hake}
 \alias{Hake}
-\title{Stock-recruitment data for Hake.}
+\title{Stock and recruitment data for Hake.}
 \format{A data frame with 15 observations on the following 3 variables.
 \describe{
 \item{year}{a numeric vector of years 1982-1996}
@@ -13,7 +13,7 @@ Cadima, E. 2003.  Fish Stock Assessment Manual, FAO
 Fisheries Department.  131 pp.
 }
 \description{
-Stock-recruitment data of Hake (\emph{Merluccius
+Stock and recruitment data of Hake (\emph{Merluccius
 merluccius}), 1982-1996.
 }
 \section{Topic(s)}{

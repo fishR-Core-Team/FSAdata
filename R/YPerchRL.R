@@ -1,6 +1,6 @@
-#'Recruitment of Yellow Perch in Red Lakes, MN, 1942-1960.
+#'Recruitment time-series for Yellow Perch in Red Lakes, MN, 1942-1960.
 #'
-#'Yellow Perch (\emph{Perca flavescens}) recruitment by year in Red Lakes, MN, 1942-1960.
+#'Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Red Lakes, MN, 1942-1960.
 #'
 #'@name YPerchRL
 #'@docType data

@@ -1,6 +1,6 @@
-#'Age and length of Blue Catfish.
+#'Ages and lengths of Blue Catfish.
 #'
-#'Age and total length of Blue Catfish (\emph{Ictalurus furcatus}) collected
+#'Ages and total lengths of Blue Catfish (\emph{Ictalurus furcatus}) collected
 #'form the Wilson Reservoir on the Tennessee River, AL.
 #'
 #'@name BlueCatfish

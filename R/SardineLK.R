@@ -1,7 +1,7 @@
-#'Age and length of larval Lake Tanganyika Sardine.
+#'Ages and lengths of larval Lake Tanganyika Sardine.
 #'
-#'Age and length of larval Lake Tanganyika Sardine (\emph{Limnothrissa miodon})
-#'from Lake Kariba.
+#'Ages (days) and total lengths of larval Lake Tanganyika Sardine
+#'(\emph{Limnothrissa miodon}) from Lake Kariba.
 #'
 #'@name SardineLK
 #'@docType data

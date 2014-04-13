@@ -1,7 +1,7 @@
 \docType{data}
 \name{Jonubi2}
 \alias{Jonubi2}
-\title{Age (subsample) and length(all) of Jonubi.}
+\title{Age (subsample) and length (all fish) of Jonubi.}
 \format{A data frame with 410 observations on the following 2 variables.
 \describe{
 \item{fl}{Fork length (cm) measurements.}

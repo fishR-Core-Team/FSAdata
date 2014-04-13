@@ -1,4 +1,4 @@
-#'Age of Lake Huron Alewife assigned from otolith and scale.
+#'Ages of Lake Huron Alewife assigned from otoliths and scales.
 #'
 #'Ages of Alewife (\emph{Alosa pseudoharengus}) assessed from otoliths and scales.
 #'
@@ -15,7 +15,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Hoenig, J.M., M.J. Morgan, and C.A. Brown. 1995.  Analysing
 #'differences between two age determination methods by tests of symmetry.
 #'Canadian Journal of Fisheries And Aquatic Systems, 52:364-368.

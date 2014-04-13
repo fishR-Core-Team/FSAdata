@@ -1,6 +1,6 @@
-#'Length and weight of Pallid Sturgeon from the Missouri River.
+#'Lengths and weights of Pallid Sturgeon from the Missouri River.
 #'
-#'Length (standard, fork, and total) and weight of Pallid Sturgion
+#'Lengths (standard, fork, and total) and weights of Pallid Sturgion
 #'(\emph{Scaphirhynchus albus}) collected in the Missouri River drainage.
 #'
 #'@name Pallid

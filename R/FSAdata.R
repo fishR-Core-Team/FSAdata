@@ -21,21 +21,19 @@
 #'(compare to summarized data) data.\cr
 #'\code{help.search("Schnabel",package="FSAdata")} \tab Schnabel mark-recapture (closed 
 #'population, multiple samples).\cr
-#'\code{help.search("Jolly",package="FSAdata")} \tab Jolly-Seber mark-recapture (open 
-#'population, multiple samples).\cr
-#'\code{help.search("Depletion",package="FSAdata")} \tab Depletion (Leslie, DeLury, 
-#'or K-pass) methods for estimating abundance.\cr
+#'\code{help.search("Depletion",package="FSAdata")} \tab Depletion (Leslie, DeLury) methods for estimating abundance.\cr
 #'\code{help.search("Removal",package="FSAdata")} \tab Removal (K-pass) methods for 
 #'estimating abundance.\cr 
-#'\code{help.search("Age",package="FSAdata")} \tab Ageing (error, precision, or comparison).\cr
+#'\code{help.search("Age Comparison",package="FSAdata")} \tab Ageing (error, precision, or comparison).\cr
 #'\code{help.search("Catch curve",package="FSAdata")} \tab Catch curve.\cr
 #'\code{help.search("Mortality",package="FSAdata")} \tab Data for mortality estimation.\cr
 #'\code{help.search("Maturity",package="FSAdata")} \tab Maturity data.\cr
 #'\code{help.search("Size Structure",package="FSAdata")} \tab Size structure data.\cr
+#'\code{help.search("Age-Length Key",package="FSAdata")} \tab Age-Length Key data.\cr
 #'}
 #' 
 #'Several additional data sets can be found in the FSA package (development version
-#' found at \url{http://www.rforge.net/FSA}).
+#' found at \url{http://fishr.wordpress.com/fsa/}).
 #'
 #'@docType package
 #'@name FSAdata

@@ -1,14 +1,14 @@
-#'Catch-effort data for male Blue Crabs.
+#'Catch and effort data for male Blue Crabs.
 #'
-#'Catch-effort data for a population of male Blue Crabs (\emph{Callinectes
+#'Catch and effort data for a population of male Blue Crabs (\emph{Callinectes
 #'sapidus}) for a 12-week period.
 #'
 #'@name BlueCrab
 #'@docType data
 #'@format A data frame with 12 observations on the following 2 variables.
 #'\describe{
-#' \item{catch}{A numeric vector of pounds of blue crabs caught.}
-#' \item{effort}{A numeric vector of lines used per day to catch blue crabs.}
+#' \item{catch}{A numeric vector of pounds of Blue Crab caught.}
+#' \item{effort}{A numeric vector of lines used per day to catch Blue Crab.}
 #'}
 #'@section Topic(s): \itemize{
 #' \item Population size

@@ -1,7 +1,7 @@
 \docType{data}
 \name{Pallid}
 \alias{Pallid}
-\title{Length and weight of Pallid Sturgeon from the Missouri River.}
+\title{Lengths and weights of Pallid Sturgeon from the Missouri River.}
 \format{A data frame with 30 observations on the following 7 variables:
 \describe{
 \item{date}{Date of collection}
@@ -21,7 +21,7 @@ sturgeon.  North American Journal of Fisheries Management.
 13:395-397.
 }
 \description{
-Length (standard, fork, and total) and weight of Pallid
+Lengths (standard, fork, and total) and weights of Pallid
 Sturgion (\emph{Scaphirhynchus albus}) collected in the
 Missouri River drainage.
 }

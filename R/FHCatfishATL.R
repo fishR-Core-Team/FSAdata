@@ -1,4 +1,4 @@
-#'Catch-at-age of three populations of Flathead Catfish.
+#'Catch-at-age of Flathead Catfish from three Atlantic rivers.
 #'
 #'Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three
 #'populations of Atlantic rivers -- Lumber River, Northeast Cape Fear River

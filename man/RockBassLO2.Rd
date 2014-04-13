@@ -1,7 +1,7 @@
 \docType{data}
 \name{RockBassLO2}
 \alias{RockBassLO2}
-\title{Age (subsample) and length(all) of Rock Bass from Lake Ontario.}
+\title{Age (subsample) and length (all fish) of Rock Bass from Lake Ontario.}
 \format{A data frame with 1288 observations on the following 2 variables:
 \describe{
 \item{age}{Assigned ages (from scales).}

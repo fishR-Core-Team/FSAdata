@@ -1,7 +1,7 @@
 \docType{data}
 \name{ChinookArg}
 \alias{ChinookArg}
-\title{Length and weight of Chinook Salmon from three locations in Argentina.}
+\title{Lengths and weights of Chinook Salmon from three locations in Argentina.}
 \format{A data frame with 112 observations on the following 3 variables:
 \describe{
 \item{tl}{Total length (cm)}
@@ -9,8 +9,8 @@
  \item{loc}{Capture location (Argentina, Petrohue, Puyehue)}
 }}
 \description{
-Length and weight of Chinook Salmon from three locations in
-Argentina.
+Lengths and weights of Chinook Salmon from three locations
+in Argentina.
 }
 \section{Topic(s)}{
   \itemize{ \item Length-weight }

@@ -1,6 +1,6 @@
-#'Length and weight of Yellow Perch from Trout Lake.
+#'Lengths and weights of Yellow Perch from Trout Lake.
 #'
-#'Length and weight of Yellow Perch \emph{Perca flavescens} from Trout Lake,
+#'Lengths and weights of Yellow Perch \emph{Perca flavescens} from Trout Lake,
 #'1981-2006.  Fish were collected with a variety of gears.
 #'
 #'@name YPerchTL

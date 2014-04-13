@@ -1,7 +1,7 @@
 \docType{data}
 \name{BrookTroutOnt}
 \alias{BrookTroutOnt}
-\title{Summarized mark-recapture data for Brook Trout across many years.}
+\title{Summarized single mark-recapture data for Brook Trout across many years.}
 \format{A data frame with 7 observations on the following 5 variables.
 \describe{
 \item{year}{Year of the collection.}

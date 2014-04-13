@@ -1,4 +1,4 @@
-#'Age of Bluefish by two different readers.
+#'Ages of Bluefish assigned from otoliths by two readers.
 #'
 #'Ages assigned to Bluefish (\emph{Pomatomus saltatrix}) otoliths by two readers.
 #'
@@ -15,7 +15,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Extracted from Figure 2 Chapter 3 of the Virginia Marine Resources
 #'Commissions's Final Report on finfish ageing, 2003.
 #'\href{http://ww2.odu.edu/sci/cqfe}{Available here.}

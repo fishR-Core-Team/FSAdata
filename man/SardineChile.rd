@@ -1,7 +1,7 @@
 \docType{data}
 \name{SardineChile}
 \alias{SardineChile}
-\title{Length and age of Sardine from Chilean waters.}
+\title{Ages and lengths of two year-classes of Sardine from Chilean waters.}
 \format{A data frame with 196 observations of the following 3 variables:
 \describe{
 \item{age.mon}{Age in months.}
@@ -17,8 +17,9 @@ upwelling?  Aquatic Living Resources, 14:115-124.  Data
 were in Figure 9.
 }
 \description{
-Length and age (in months) of Sardine (\emph{Strangomera
-bentincki}) from central Chilean waters.
+Ages (in months) and total lengths of two year-classes of
+Sardine (\emph{Strangomera bentincki}) from central Chilean
+waters.
 }
 \section{Topic(s)}{
   \itemize{ \item Growth \item Seasonal Growth \item von

@@ -1,6 +1,6 @@
-#'Age and length of Morwong.
+#'Ages and lengths of Morwong.
 #'
-#'Fork lengths and assigned ages (from otoliths) to Jackass Morwong
+#'Assigned ages (from otoliths) and fork lengths of Jackass Morwong
 #'(\emph{Nemadactylus macropterus}) from the Eastern portion of the Southern
 #'and Eastern Scalefish and Shark Fishery (SESSF) in 2000.
 #'

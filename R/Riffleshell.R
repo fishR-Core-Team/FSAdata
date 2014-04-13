@@ -20,9 +20,8 @@
 #' \item Mark-recapture 
 #' \item Schnabel method 
 #' \item Schumacher-Eschmeyer method 
-#' \item Capture history 
 #'}
-#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel' 'Capture History'
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
 #'@source Rogers, S.O. 1999.  Population biology of the tan fiffleshell
 #'(\emph{Epioblasma florentina walkeri}) and the effects of substratum and
 #'light on juvenile mussel propagation.  Virginia Tech M.S. Thesis.

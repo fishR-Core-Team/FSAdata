@@ -1,4 +1,4 @@
-#'Catch-effort data for Hawaiian Islands Slipper Lobster.
+#'Catch and effort data for Hawaiian Islands Slipper Lobster.
 #'
 #'Catches of Slipper Lobster (\emph{Scyllarides squammosus}) in three
 #'categories from the vicinity of Laysan Bank, Hawaiian Islands on 34

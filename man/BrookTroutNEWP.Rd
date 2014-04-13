@@ -1,7 +1,7 @@
 \docType{data}
 \name{BrookTroutNEWP}
 \alias{BrookTroutNEWP}
-\title{Catch in removal events for Brook Trout in the Nashwaak Experimental
+\title{Catches in removal events for Brook Trout in the Nashwaak Experimental
 Watersheds Project.}
 \format{A data frame of 16 observations on the following 7 variables:
 \describe{
@@ -19,13 +19,13 @@ estimating populations by the removal method.  Canadian
 Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 }
 \description{
-Catch in removal events for Brook Trout (\emph{Salvelinus
+Catches in removal events for Brook Trout (\emph{Salvelinus
 fontinalis}) in two streams in the the Nashwaak
 Experimental Watersheds Project on multiple dates.
 }
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
-  Depletion \item Removal }
+  Removal }
 }
 \examples{
 data(BrookTroutNEWP)
@@ -34,7 +34,7 @@ data(BrookTroutNEWP)
 BrookTroutNEWP[3,]
 }
 \concept{
-Abundance 'Population Size' Depletion Removal
+Abundance 'Population Size' Removal
 }
 \keyword{datasets}
 

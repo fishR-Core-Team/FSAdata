@@ -1,4 +1,4 @@
-#'Age of Lake Whitefish from four lakes assigned from scales and fin-rays.
+#'Ages of Lake Whitefish from four lakes assigned from scales and fin-rays.
 #'
 #'Ages of Lake Whitefish (\emph{Coregonus clupeaformis}) from four lakes as
 #'determined by scales and fin-rays.
@@ -18,7 +18,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Extracted (approximately) from Figure 1 of Mills, K.H., and R.J.
 #'Beamish.  1980.  Comparison of fin-ray and scale age determinations for lake
 #'whitefish (\emph{Coregonus clupeaformis}) and their implications for

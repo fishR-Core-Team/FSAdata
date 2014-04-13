@@ -1,4 +1,4 @@
-#'Age of Walleye assessed from three calcified structures.
+#'Ages of Walleye assigned from otoliths, scales, and spines.
 #'
 #'Age of Pymatuning Sanctuary (PA) Walleye (\emph{Sander vitreus}) assessed
 #'from three calcified structures -- sectioned otoliths, sectioned dorsal
@@ -23,7 +23,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Extracted from Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.
 #'A comparison of methods for estimating ages of unexploited walleyes.  North
 #'American Journal of Fisheries Management 20:1044-1048.

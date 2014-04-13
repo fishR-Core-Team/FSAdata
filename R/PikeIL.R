@@ -1,6 +1,6 @@
-#'Catch-effort data for Northern Pike from Island Lake, NB.
+#'Catch and effort data for Northern Pike from Island Lake, NB.
 #'
-#'Catch and effort data for 9 removal events of Northern Pike (\emph{Esox
+#'Catch and effort data for nine removal events of Northern Pike (\emph{Esox
 #'lucius}) from Island Lake, NB.
 #'
 #'@name PikeIL

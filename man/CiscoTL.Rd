@@ -1,7 +1,7 @@
 \docType{data}
 \name{CiscoTL}
 \alias{CiscoTL}
-\title{Length and weight of Cisco from Trout Lake.}
+\title{Lengths and weights of Cisco from Trout Lake.}
 \format{A data frame of 8594 observations on the following 8 variables:
 \describe{
 \item{lakeid}{Lake name (all \code{TR}=Trout Lake).}
@@ -17,9 +17,9 @@
 Available for download from \url{www.limnology.wisc.edu/}.
 }
 \description{
-Length and weight of Cisco (\emph{Coregonus artedii}) from
-Trout Lake, 1981-2006.  Fish were collected with a variety
-of gears.
+Lengtsh and weights of Cisco (\emph{Coregonus artedii})
+from Trout Lake, 1981-2006.  Fish were collected with a
+variety of gears.
 }
 \section{Topic(s)}{
   \itemize{ \item Length-weight }

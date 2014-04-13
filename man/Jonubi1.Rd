@@ -1,7 +1,7 @@
 \docType{data}
 \name{Jonubi1}
 \alias{Jonubi1}
-\title{Age and length of male Jonubi.}
+\title{Ages and lengths of male Jonubi.}
 \format{A data frame with 410 observations on the following 2 variables:
 \describe{
 \item{fl}{Fork lengths (cm).}

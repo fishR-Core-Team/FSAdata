@@ -1,7 +1,7 @@
 \docType{data}
 \name{BullTroutRML1}
 \alias{BullTroutRML1}
-\title{Length and weight for Bull Trout from two Rocky Mountain lakes.}
+\title{Lengths and weights for Bull Trout from two Rocky Mountain lakes.}
 \format{A data frame with 137 observations on the following 3 variables:
 \describe{
 \item{fl}{Fork length (mm).}
@@ -16,7 +16,7 @@ and retention limits.  North American Journal of Fisheries
 Management, 27:848-859.
 }
 \description{
-Length and weight for Bull Trout (\emph{Salvelinus
+Lengths and weights for Bull Trout (\emph{Salvelinus
 confluentis}) from two Rocky Mountain lakes in Alberta, CA.
 }
 \details{

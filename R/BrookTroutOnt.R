@@ -1,4 +1,4 @@
-#'Summarized mark-recapture data for Brook Trout across many years.
+#'Summarized single mark-recapture data for Brook Trout across many years.
 #'
 #'The number of Brook Trout (\emph{Salvelinus fontinalis}) marked, captured,
 #'and recaptured for several years on Meach Lake in central Ontario.

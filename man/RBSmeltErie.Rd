@@ -1,7 +1,7 @@
 \docType{data}
 \name{RBSmeltErie}
 \alias{RBSmeltErie}
-\title{Recruitment of Rainbow Smelt in Lake Erie, 1977-1996.}
+\title{Recruitment time-series for Rainbow Smelt in Lake Erie, 1977-1996.}
 \format{A data frame of 20 observations on the following 2 variables:
 \describe{
 \item{year}{Year of data.}
@@ -17,8 +17,8 @@ Lake Erie Committee Meeting, Great Lakes Fishery
 Commission, Ann Arbor, Michigan. pp 26.
 }
 \description{
-Rainbow Smelt (\emph{Osmerus mordax}) recruitment by year
-in Lake Erie, 1977-1996.
+Rainbow Smelt (\emph{Osmerus mordax}) recruitment time
+series for Lake Erie, 1977-1996.
 }
 \details{
 Zeros were changed to 0.1 in 1984, 1987, 1991, and 1994.

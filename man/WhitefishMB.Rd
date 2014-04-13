@@ -1,7 +1,7 @@
 \docType{data}
 \name{WhitefishMB}
 \alias{WhitefishMB}
-\title{Age of Lake Whitefish from four lakes assigned from scales and fin-rays.}
+\title{Ages of Lake Whitefish from four lakes assigned from scales and fin-rays.}
 \format{A data frame with 859 observations on the following 3 variables:
 \describe{
 \item{fin}{Ages assigned from fin-ray sections.}
@@ -37,7 +37,7 @@ plot(scale~fin,data=WhitefishMB,subset=lake=="Dezadeash",main="Dezadeash")
 par(op)
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

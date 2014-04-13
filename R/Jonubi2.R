@@ -1,4 +1,4 @@
-#'Age (subsample) and length(all) of Jonubi.
+#'Age (subsample) and length (all fish) of Jonubi.
 #'
 #'A total of 50 fish dispersed proportionately over 1-cm fork length intervals
 #'from the \code{Jonubi1} data frame was obtained for age assignment.  The

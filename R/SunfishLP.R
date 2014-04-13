@@ -1,4 +1,4 @@
-#'Catch-at-age (percent frequency) for two species of sunfish.
+#'Catch-at-age for Bluegill and Redear Sunfish in Florida.
 #'
 #'The percent frequency of of Bluegill (\emph{Lepomis macrochirus}) and Redear
 #'Sunfish (\emph{Lepomis microlophus}) caught in Lake Panasoffkee, FL.

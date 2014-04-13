@@ -1,7 +1,7 @@
 \docType{data}
 \name{Croaker2}
 \alias{Croaker2}
-\title{Age and length of Atlantic croaker by sex.}
+\title{Ages, lengths, and sexes of Atlantic Croaker by sex.}
 \format{A data frame of 318 observations on the following 3 variables:
 \describe{
 \item{age}{Otolith age-at-capture (years).}
@@ -14,8 +14,8 @@ Final Report on finfish ageing, 1999.
 \href{http://ww2.odu.edu/sci/cqfe}{Available here.}
 }
 \description{
-Otolith age, total length, and sex of Atlantic Croaker
-(\emph{Micropogonias undulatus}).
+Assigned ages (by otoliths), total lengths, and sexes of
+Atlantic Croaker (\emph{Micropogonias undulatus}).
 }
 \section{Topic(s)}{
   \itemize{ \item Growth \item von Bertalanffy }

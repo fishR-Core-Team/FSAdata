@@ -1,7 +1,8 @@
-#'Age and length of Bull Trout from two Rocky Mountain lakes.
+#'Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.
 #'
-#'Age and length of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky
-#'Mountain lakes in Alberta, CA before and after a regulation change.
+#'Assigned ages (from otoliths) and fork lengths of Bull Trout
+#'(\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA
+#'before and after a regulation change.
 #'
 #'The historical (1977-1980) era samples were from before restrictive
 #'sportfishing regulatory regimes were implemented (in the 1990s) that led to

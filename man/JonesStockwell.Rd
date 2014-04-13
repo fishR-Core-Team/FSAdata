@@ -1,7 +1,7 @@
 \docType{data}
 \name{JonesStockwell}
 \alias{JonesStockwell}
-\title{Catches in removal events of trout at various locations.}
+\title{Catches in removal events of Brown and Rainbow Trout at various locations.}
 \format{A data frame of 40 observations on the following 10 variables:
 \describe{
 \item{species}{Species of trout (\code{brown} or \code{rainbow}).}
@@ -29,7 +29,7 @@ at various locations.
 }
 \section{Topic(s)}{
   \itemize{ \item Population size \item Abundance \item
-  Depletion \item Removal }
+  Removal }
 }
 \examples{
 data(JonesStockwell)
@@ -40,7 +40,7 @@ head(JonesStockwell)
 JonesStockwell[3,]
 }
 \concept{
-Abundance 'Population Size' Depletion Removal
+Abundance 'Population Size' Removal
 }
 \keyword{datasets}
 

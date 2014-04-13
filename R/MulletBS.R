@@ -1,4 +1,4 @@
-#'Age of Red Mullet assigned from whole and broken-burnt otoliths.
+#'Ages of Red Mullet assigned from whole and broken-burnt otoliths.
 #'
 #'Ages assigned to whole and broken-burnt otoliths of Red Mullet (\emph{Mullus
 #'barbatus ponticus}) sampled from the Black Sea (Samsun, Turkey).
@@ -17,7 +17,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Extracted from Figure 3 of Polat, N., D. Bostanci, S. Yilmaz.  2005.
 #'Differences between whole otolith and broken-burnt otolith ages of red mullet
 #'(\emph{Mullus barbatus ponticus} Essipov, 1927) sampled from the Black Sea

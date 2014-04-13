@@ -1,7 +1,7 @@
 \docType{data}
 \name{EuroPerchTJ}
 \alias{EuroPerchTJ}
-\title{Age, length, and sex of European perch.}
+\title{Ages, lengths, and sexes of European Perch.}
 \format{A data frame of 69 observations on the following 3 variables:
 \describe{
 \item{fl}{Fork lengths (cm).}
@@ -17,8 +17,8 @@ Eurasian perch as an example.  Transactions of the American
 Fisheries Society, 128:483-490.
 }
 \description{
-Assigned ages, measured fork lengths, and observed sex for
-European Perch (\emph{Perca fluviatilis}) from Lake
+Assigned ages, measured fork lengths, and observed sexes
+for European Perch (\emph{Perca fluviatilis}) from Lake
 Tjuekemeer (The Netherlands).
 }
 \section{Topic(s)}{

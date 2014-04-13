@@ -1,7 +1,7 @@
 \docType{data}
 \name{MuskieSLR}
 \alias{MuskieSLR}
-\title{Age of Muskellunge assigned from scales and cleithra.}
+\title{Ages of Muskellunge assigned from scales and cleithra.}
 \format{A data frame of 43 observations on the following 2 variables:
 \describe{
 \item{ageC}{Age assigned from examinaton of cleithrum.}
@@ -31,7 +31,7 @@ plot(ageS~ageC,data=MuskieSLR)
 with(MuskieSLR,table(ageC,ageS))
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

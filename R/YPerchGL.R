@@ -1,4 +1,4 @@
-#'Length and weight of Yellow Perch from Grafton Lake by year.
+#'Lengths and weights of Yellow Perch from Grafton Lake by year.
 #'
 #'Yellow Perch (\emph{Perca flavescens}) fork lengths and weights seperated by year.
 #'

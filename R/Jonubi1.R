@@ -1,4 +1,4 @@
-#'Age and length of male Jonubi.
+#'Ages and lengths of male Jonubi.
 #'
 #'Assigned ages and measured fork lengths for male Jonubi (\emph{Chalcalburnus
 #'mossulensis}) from the Karasu River (Turkey).

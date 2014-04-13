@@ -1,4 +1,4 @@
-#'Age of Morwong assigned at two times by Reader A.
+#'Ages of Morwong assigned from otoliths by Reader A at two times.
 #'
 #'Ages assigned at two different times by Reader A to the otoliths of Jackass
 #'Morwong (\emph{Nemadactylus macropterus}).
@@ -16,7 +16,7 @@
 #' \item Age Bias
 #' \item Ageing error
 #'}
-#'@concept Age Precision Bias
+#'@concept Age Precision Bias 'Age Comparison'
 #'@source Extracted from table 5 of Restall, J.E., and K. Krusic-Golub.  2004.
 #'Development of jackass morwong age-length keys for 2000-2002. Final report to
 #'Australian Fisheries Management Authority. 13 pp. Primary Industries Research

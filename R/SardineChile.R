@@ -1,7 +1,7 @@
-#'Length and age of Sardine from Chilean waters.
+#'Ages and lengths of two year-classes of Sardine from Chilean waters.
 #'
-#'Length and age (in months) of Sardine (\emph{Strangomera bentincki}) from
-#'central Chilean waters.
+#'Ages (in months) and total lengths of two year-classes of Sardine
+#'(\emph{Strangomera bentincki}) from central Chilean waters.
 #'
 #'@name SardineChile
 #'@docType data

@@ -1,7 +1,7 @@
 \docType{data}
 \name{Croaker1}
 \alias{Croaker1}
-\title{Age of Atlantic Croaker assessed by two readers.}
+\title{Ages of Atlantic Croaker assigned from otoliths by two readers.}
 \format{A data frame of 317 observations on the following 2 variables:
 \describe{
 \item{reader1}{Age assigned by the first reader.}
@@ -28,7 +28,7 @@ plot(reader2~reader1,data=Croaker1)
 with(Croaker1,table(reader1,reader2))
 }
 \concept{
-Age Precision Bias
+Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
 

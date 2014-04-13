@@ -1,4 +1,4 @@
-#'Catches in removal events of trout at various locations.
+#'Catches in removal events of Brown and Rainbow Trout at various locations.
 #'
 #'Catches of Brown (\emph{Salmo trutta}) and Rainbow Trout (\emph{Oncorhynchus mykiss})
 #'in consecutive removal events at various locations.
@@ -22,10 +22,9 @@
 #'@section Topic(s): \itemize{
 #' \item Population size
 #' \item Abundance
-#' \item Depletion
 #' \item Removal
 #'}
-#'@concept Abundance 'Population Size' Depletion Removal
+#'@concept Abundance 'Population Size' Removal
 #'@source From Table 1 in Jones, M.L. and J.D. Stockwell.  1995.  A rapid
 #'assessment procedure for enumeration of salmonine populations in streams.
 #'North American Journal of Fisheries Management, 15:551-562.

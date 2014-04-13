@@ -1,6 +1,6 @@
-#'Length and weight of Cisco from Trout Lake.
+#'Lengths and weights of Cisco from Trout Lake.
 #'
-#'Length and weight of Cisco (\emph{Coregonus artedii}) from Trout Lake,
+#'Lengtsh and weights of Cisco (\emph{Coregonus artedii}) from Trout Lake,
 #'1981-2006.  Fish were collected with a variety of gears.
 #'
 #'@name CiscoTL

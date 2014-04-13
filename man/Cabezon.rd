@@ -1,7 +1,7 @@
 \docType{data}
 \name{Cabezon}
 \alias{Cabezon}
-\title{Length-at-age and maturity for Cabezon.}
+\title{Ages, lengths, and maturity of female Cabezon from Oregon.}
 \format{A data frame with 525 observations on the following 5 variables.
 \describe{
 \item{date}{Date fish was collected}
@@ -23,7 +23,7 @@ http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pd
 Data obtained directly from Bob Hannah.
 }
 \description{
-Length-at-age and maturity for female Cabezon
+Ages, lengths, and maturity of female Cabezon
 (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe
 Bay, Oregon.
 }
