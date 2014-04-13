@@ -19,13 +19,17 @@ Length and age of Araucanian Herring (\emph{Strangomera
 bentincki}) from Chilean waters.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item von Bertalanffy }
+  \itemize{ \item Growth \item Seasonal Growth \item von
+  Bertalanffy \item Somers model }
 }
 \examples{
 data(AHerringChile)
 str(AHerringChile)
 head(AHerringChile)
 plot(len~age,data=AHerringChile)
+}
+\concept{
+'Seasonal Growth' 'von Bertalanffy' Somers
 }
 \keyword{datasets}
 

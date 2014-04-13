@@ -12,9 +12,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Extracted (approximately) from Figure 27 in Vaughan, D.S. and T.E.
 #'Helser.  1990.  Status of the red drum stock of the Atlantic Coast: Stock
 #'assessment report for 1989.  NOAA Technical Memorandum, NMFS-SEFC-263.

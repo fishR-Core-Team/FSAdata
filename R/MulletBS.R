@@ -14,8 +14,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted from Figure 3 of Polat, N., D. Bostanci, S. Yilmaz.  2005.
 #'Differences between whole otolith and broken-burnt otolith ages of red mullet
 #'(\emph{Mullus barbatus ponticus} Essipov, 1927) sampled from the Black Sea

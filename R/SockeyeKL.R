@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source From Gulland, J.A. 1983.  Fish stock assessment: A manual of basic
 #'methods.  John Wiley and Sons, New York, NY.  223 p.
 #'@keywords datasets

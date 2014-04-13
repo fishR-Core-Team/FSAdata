@@ -38,5 +38,8 @@ plot(recruits~year,data=WShrimpGA,type="b")
 plot(recruits~stock,data=WShrimpGA)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

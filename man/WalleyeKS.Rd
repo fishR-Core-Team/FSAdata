@@ -25,7 +25,7 @@ The authors used all age-2 and older Walleye to construct
 the catch curves.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(WalleyeKS)
@@ -41,6 +41,9 @@ plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Marion"),main="Marion")
 plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Webster"),main="Webster")
 plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Wilson"),main="Wilson")
 par(op)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Length-weight 
 #'}
+#'@concept 'Length-Weight'
 #'@keywords datasets
 #'@examples
 #'data(ChinookArg)

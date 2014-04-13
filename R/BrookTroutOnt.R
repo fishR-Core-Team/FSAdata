@@ -20,6 +20,7 @@
 #' \item Mark-recapture
 #' \item Petersen method
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
 #'@source from Table 1 of Curry, R.A., C. Brady, and G.E. Morgan.  2003.
 #'Effects of Recreational Fishing on the Population Dynamics of Lake-Dwelling
 #'Brook Trout.  North American Journal of Fisheries Management 23:35-47.

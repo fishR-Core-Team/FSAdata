@@ -26,6 +26,7 @@
 #' \item Standard weight
 #' \item Length-weight 
 #'}
+#'@concept 'Length-Weight' 'Relative Weight' 'Standard Weight'
 #'@seealso \code{WSlit} and \code{WSval} and \code{rlp} in \pkg{FSA}.
 #'@source From Table 3 in Murphy, B.R., M.L. Brown, and T.A. Springer.  1990.
 #'Evaluation of the relative weight (Wr) index, with new applications to
@@ -38,8 +39,10 @@
 #'
 #'## Recreate Murphy et al. (1990) results for walleye
 #'# compare to log.a=-5.453 and b=3.180
-#'data(WalleyeWs)
+#'\dontrun{
+#'require(FSA)
 #'wae.rlp <- rlp(WalleyeWs$log.a,WalleyeWs$b,155,1045,qtype=6)
 #'coef(wae.rlp)
+#'}
 #'
 NULL

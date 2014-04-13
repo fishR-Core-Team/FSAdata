@@ -17,7 +17,11 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Length-weight 
+#' \item Length Frequency
+#' \item Size Structure
+#' \item PSD
 #'}
+#'@concept 'Length-Weight' 'Length Frequency' 'Size Structure' PSD
 #'@source Available for download from \url{www.limnology.wisc.edu/}.
 #'@keywords datasets
 #'@examples

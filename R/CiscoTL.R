@@ -19,6 +19,7 @@
 #'@section Topic(s): \itemize{ 
 #' \item Length-weight 
 #'}
+#'@concept 'Length-Weight'
 #'@source Available for download from \url{www.limnology.wisc.edu/}.
 #'@keywords datasets
 #'@examples

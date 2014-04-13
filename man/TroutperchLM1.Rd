@@ -21,8 +21,7 @@ sex of Troutperch (\emph{Percopsis omsicomaycus}) captured
 in southeastern Lake Michigan.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(TroutperchLM1)
@@ -32,6 +31,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(tl~age,data=TroutperchLM1,subset=sex=="f",main="female")
 plot(tl~age,data=TroutperchLM1,subset=sex=="m",main="male")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

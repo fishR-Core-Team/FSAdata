@@ -31,5 +31,8 @@ data(BrookTroutOnt)
 str(BrookTroutOnt)
 head(BrookTroutOnt)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
+}
 \keyword{datasets}
 

@@ -19,8 +19,7 @@ each of 1577 Freshwater Drum (\emph{Aplodinotus grunniens})
 from Lake Erie.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(FWDrumLE1)
@@ -30,6 +29,9 @@ plot(tl~age,data=FWDrumLE1)
 }
 \seealso{
 \code{\link{FWDrumLE2}}.
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

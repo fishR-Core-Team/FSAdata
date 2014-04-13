@@ -21,8 +21,7 @@ Cisco (\emph{Leucichthys alpenae}) captured at two
 locations in Lake Michigan.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(LJCisco)
@@ -32,6 +31,9 @@ op <- par(mfrow=c(1,2))
 plot(tl~age,data=LJCisco,subset=loc=="NE",main="northeast")
 plot(tl~age,data=LJCisco,subset=loc=="S",main="south")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

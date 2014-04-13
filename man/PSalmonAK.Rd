@@ -36,5 +36,8 @@ plot(return~year,data=PSalmonAK)
 plot(return~escapement,data=PSalmonAK)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

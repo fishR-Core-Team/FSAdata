@@ -21,13 +21,17 @@ from Trout Lake, 1981-2006.  Fish were collected with a
 variety of gears.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length-weight }
+  \itemize{ \item Length-weight \item Length Frequency
+  \item Size Structure \item PSD }
 }
 \examples{
 data(YPerchTL)
 str(YPerchTL)
 head(YPerchTL)
 plot(weight~length,data=YPerchTL)
+}
+\concept{
+'Length-Weight' 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

@@ -19,8 +19,7 @@ Age and total length of White Grunt (\emph{Haemulon
 plumierii}) collected from the central coast of Brazil
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(WhiteGrunt2)
@@ -30,6 +29,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(tl~age,data=WhiteGrunt2,subset=sex=="female",main="Female")
 plot(tl~age,data=WhiteGrunt2,subset=sex=="male",main="Male")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

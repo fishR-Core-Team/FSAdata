@@ -19,7 +19,7 @@ Striped Bass (\emph{Morone saxatilis}).
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(StripedBass4)
@@ -30,6 +30,9 @@ with(StripedBass4,table(reader1,reader2))
 }
 \seealso{
 \code{\link{StripedBass5}} and \code{\link{StripedBass6}}.
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

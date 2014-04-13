@@ -16,13 +16,16 @@ captured in July, 1989 (cycle 6) in the St. Louis River,
 Lake Superior.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure }
 }
 \examples{
 data(RuffeTL89)
 str(RuffeTL89)
 head(RuffeTL89)
 hist(RuffeTL89$tl,main="")
+}
+\concept{
+'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
 

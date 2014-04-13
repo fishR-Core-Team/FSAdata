@@ -30,5 +30,8 @@ plot(recruits~spawning.year,data=HerringBWE,type="l")
 plot(recruits~ssb,data=HerringBWE)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

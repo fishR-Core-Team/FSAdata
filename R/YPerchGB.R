@@ -12,6 +12,7 @@
 #'@section Topic(s): \itemize{
 #' \item Recruitment time-series 
 #'}
+#'@concept Recruitment
 #'@source from Ransom Myers online database -- \url{ram.biology.dal.ca/~myers/data.html}.
 #'
 #'Originally from Walters, C., and A. Punt. 1994. Placing odds on sustainable

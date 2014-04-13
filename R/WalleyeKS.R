@@ -15,9 +15,10 @@
 #' \item{catch}{Number of fish captured}
 #'}
 #'@section Topic(s): \itemize{ 
-#' \item Total mortality 
+#' \item Mortality 
 #' \item Catch curve 
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted from Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D
 #'Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs:
 #'Use of mortality caps to establish realistic management objectives.  North

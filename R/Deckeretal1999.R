@@ -27,6 +27,7 @@
 #' \item Depletion
 #' \item Removal
 #'}
+#'@concept Abundance 'Population Size' Depletion Removal
 #'@source From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and
 #'J. Korman.  1999.  Estimating standing stock of juvenile coho salmon 
 #'(\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki})

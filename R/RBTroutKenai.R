@@ -12,11 +12,11 @@
 #' \item{dt}{time-at-large (yrs).} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Mark-recapture 
 #' \item Growth 
 #' \item von Bertalanffy 
 #' \item Fabens method 
 #'}
+#'@concept Growth 'von Bertalanffy' Fabens
 #'@source from Table 4.10 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative
 #'Fish Dynamics.  Oxford University Press.  560 pages.  This table is a 1/3rd
 #'subsample of the actual data presented in Baker, T.T., R. Lafferty, and T.J.

@@ -22,8 +22,11 @@
 #' \item{yr}{Capture years.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Length frequency 
+#' \item Length frequency
+#' \item Size Structure
+#' \item PSD
 #'}
+#'@concept 'Length Frequency' 'Size Structure' PSD
 #'@source Extracted from a South Dakota Fish and Game report at
 #'\url{www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf}.
 #'@keywords datasets

@@ -20,6 +20,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Extracted (approximately) from figures 2 and 3 of Belcher, C.N., and
 #'C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white
 #'shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.

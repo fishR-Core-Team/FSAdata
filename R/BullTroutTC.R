@@ -11,10 +11,10 @@
 #' \item{carcasses}{A numeric vector of number of carcasses found in and along Trestle Creek.} 
 #'}
 #'@section Topic(s): \itemize{
-#'  \item Total mortality
-#'  \item Catch curve 
-#'  \item Chapman-Robson
-#'S}
+#'  \item Mortality
+#'  \item Catch curve
+#'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted (approximately) from Figure 4 in Downs, C.C., D. Horan, E.
 #'Morgan-Harris, and R. Jakubowski.  2006.  Spawning demographics and juvenile
 #'dispersal of an adfluvial bull trout population in Trestle Creek, Idaho.

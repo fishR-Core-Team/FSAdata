@@ -14,7 +14,10 @@
 #'@section Topic(s): \itemize{
 #' \item Length frequency
 #' \item Length expansion
+#' \item Size Structure
+#' \item PSD
 #'}
+#'@concept 'Length Frequency' 'Size Structure' PSD
 #'@seealso \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 #'@source Derek H. Ogle, personal collection
 #'@keywords datasets

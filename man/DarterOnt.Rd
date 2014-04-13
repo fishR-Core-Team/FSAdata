@@ -23,8 +23,7 @@ The original author used a linear model to describe the
 relationship between length and age.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(DarterOnt)
@@ -34,6 +33,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(tl~age,data=DarterOnt,subset=river=="Salmon",main="Salmon R.")
 plot(tl~age,data=DarterOnt,subset=river=="Trent",main="Trent R.")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

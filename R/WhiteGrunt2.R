@@ -13,9 +13,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Extracted (approximately) from Figure 6 of Araujo, J.N. and A.S.
 #'Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon
 #'plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.

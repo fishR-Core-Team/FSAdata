@@ -12,11 +12,11 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Extracted (approximately) from Figure 3 of Mtsambiwa, M.Z.  1992.
-#'Fitting a Von Bertalanffy growth model to length at age data for larval
+#'Fitting a von Bertalanffy growth model to length at age data for larval
 #'\emph{Limnothrissa miodon} from Lake Kariba.  Paper presented at the
 #'Symposium on biology, stock assessment, and exploitation of small pelagic
 #'fish species in the African Great Lakes region.  Available at

@@ -20,8 +20,7 @@ Catch-at-age for Walleye (\emph{Sander vitreus}) collected
 from four lakes in Northern Minnesota, USA.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(WalleyeMN06a)
@@ -33,6 +32,9 @@ plot(log(number)~age,data=WalleyeMN06a,subset=lake=="Fourmile")
 plot(log(number)~age,data=WalleyeMN06a,subset=lake=="Island")
 plot(log(number)~age,data=WalleyeMN06a,subset=lake=="Tom")
 par(op)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

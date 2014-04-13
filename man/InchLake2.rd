@@ -20,8 +20,8 @@ in Inch Lake, Bayfield County, WI in May, 2007 and May,
 2008.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length-weight relationships \item
-  Relative weight \item Condition }
+  \itemize{ \item Length-weight relationships \item Length
+  frequency \item Size structure \item PSD }
 }
 \examples{
 data(InchLake2)
@@ -36,6 +36,9 @@ lmb7.il <- subset(InchLake2,species=="Largemouth Bass" & year==2007)
 }
 \seealso{
 \code{\link{InchLake1}}.
+}
+\concept{
+'Length-Weight' 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

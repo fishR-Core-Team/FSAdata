@@ -18,6 +18,7 @@
 #' \item PSD 
 #' \item Size structure 
 #'}
+#'@concept 'Length Frequency' 'Size Structure' PSD
 #'@seealso \code{\link{InchLake1}}.
 #'@source Derek H. Ogle, personal collection
 #'@keywords datasets

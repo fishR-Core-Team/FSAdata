@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Length-weight 
 #'}
+#'@concept 'Length-Weight'
 #'@source Extracted (approximately) from Figure 3 in Brylinsky, M. 2001. An
 #'evaluation of changes in the yellow perch (\emph{Perca flavescens})
 #'population of Grafton Lake, Kejimkujik National Park, after dam removal.

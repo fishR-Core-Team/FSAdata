@@ -28,5 +28,8 @@ plot(recruits~year,data=Hake,type="l")
 plot(recruits~spawn.biomass,data=Hake)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

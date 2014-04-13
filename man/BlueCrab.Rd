@@ -18,14 +18,18 @@ Catch-effort data for a population of male Blue Crabs
 (\emph{Callinectes sapidus}) for a 12-week period.
 }
 \section{Topic(s)}{
-  \itemize{ \item Depletion methods \item Leslie method
-  \item DeLury method \item Population size \item Abundance
-  \item Catchability }
+  \itemize{ \item Population size \item Abundance \item
+  Depletion \item Leslie method \item DeLury method \item
+  Catchability }
 }
 \examples{
 data(BlueCrab)
 str(BlueCrab)
 BlueCrab
+}
+\concept{
+Abundance 'Population Size' Leslie DeLury Depletion
+Catchability
 }
 \keyword{datasets}
 

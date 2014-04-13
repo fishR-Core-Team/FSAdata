@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 pp.
 #'@keywords datasets
 #'@examples

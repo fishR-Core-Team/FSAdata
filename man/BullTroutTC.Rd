@@ -19,14 +19,16 @@ Catch-at-age (actually carcasses-at-age) for Bull Trout
 (\emph{Salvelinus confluentis}) in Trestle Creek, ID.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson S}
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(BullTroutTC)
 str(BullTroutTC)
 head(BullTroutTC)
 plot(log(carcasses)~age,data=BullTroutTC)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

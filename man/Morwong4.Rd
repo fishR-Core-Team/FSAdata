@@ -22,8 +22,7 @@ portion of the Southern and Eastern Scalefish and Shark
 Fishery (SESSF) in 2000.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(Morwong4)
@@ -33,6 +32,9 @@ plot(fl~age,data=Morwong4)
 }
 \seealso{
 \code{\link{Morwong4a}}.
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

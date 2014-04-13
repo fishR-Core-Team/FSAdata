@@ -21,6 +21,7 @@
 #' \item Schnabel method 
 #' \item Schumacher-Eschmeyer method 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
 #'@source From table 3 of Mraz, D.  1968.  Recruitment, growth, exploitation,
 #'and management of walleyes in a southeastern Wisconsin lake.  Wisconsin
 #'Department of Natural Resources Technical Bulletin 40.  38 pages.

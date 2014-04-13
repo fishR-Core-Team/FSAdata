@@ -15,6 +15,7 @@
 #'@section Topic(s): \itemize{ 
 #' \item Age-length key 
 #'}
+#'@concept 'Age-Length Key'
 #'@seealso \code{\link{Morwong4}}.
 #'@keywords datasets
 #'@examples

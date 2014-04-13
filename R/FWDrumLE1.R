@@ -12,9 +12,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@seealso \code{\link{FWDrumLE2}}.
 #'@source Simulated from Table 3 of Bur, M.T.  1984.  Growth, reproduction,
 #'mortality, distribution, and biomass of freshwater drum in Lake Erie.

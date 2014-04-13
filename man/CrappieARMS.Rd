@@ -32,5 +32,8 @@ plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Okatibbee"),main="Okati
 plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Ross.Barnett"),main="Ross Barnett")
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

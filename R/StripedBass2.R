@@ -12,9 +12,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@seealso \code{\link{StripedBass3}}.
 #'@source Extracted from Table 1 in Chapter 10 of the Virginia Marine Resources
 #'Commissions's Final Report on finfish ageing, 2003. \href{http://ww2.odu.edu/sci/cqfe}{Available here.}

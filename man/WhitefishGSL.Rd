@@ -27,8 +27,7 @@ All data is from summer samples except for Area.IW which is
 a winter sample
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(WhitefishGSL)
@@ -48,6 +47,9 @@ library(reshape)
 WhitefishGSL1 <- melt(WhitefishGSL,id.vars="age")
 names(WhitefishGSL1) <- c("age","area","number")
 }
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

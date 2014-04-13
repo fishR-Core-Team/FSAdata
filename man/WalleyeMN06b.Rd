@@ -34,5 +34,8 @@ data(WalleyeMN06b)
 str(WalleyeMN06b)
 head(WalleyeMN06b)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
+}
 \keyword{datasets}
 

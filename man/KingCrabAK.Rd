@@ -31,5 +31,8 @@ plot(recruits~year,data=KingCrabAK,type="l")
 plot(recruits~adults,data=KingCrabAK)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

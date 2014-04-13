@@ -39,5 +39,8 @@ head(JonesStockwell)
 ## extract data for one species, age, and site (e.g., 3rd row)
 JonesStockwell[3,]
 }
+\concept{
+Abundance 'Population Size' Depletion Removal
+}
 \keyword{datasets}
 

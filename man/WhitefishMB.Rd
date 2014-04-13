@@ -23,7 +23,7 @@ four lakes as determined by scales and fin-rays.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(WhitefishMB)
@@ -35,6 +35,9 @@ plot(scale~fin,data=WhitefishMB,subset=lake=="L226",main="Lake L226")
 plot(scale~fin,data=WhitefishMB,subset=lake=="Huron",main="Huron")
 plot(scale~fin,data=WhitefishMB,subset=lake=="Dezadeash",main="Dezadeash")
 par(op)
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

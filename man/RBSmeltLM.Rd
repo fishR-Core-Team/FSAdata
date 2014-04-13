@@ -18,13 +18,16 @@ Rainbow Smelt (\emph{Osmerus mordax}) fork lengths from
 near Grand Haven, Lake Michigan, 1977.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure }
 }
 \examples{
 data(RBSmeltLM)
 str(RBSmeltLM)
 head(RBSmeltLM)
 hist(RBSmeltLM$fl,main="")
+}
+\concept{
+'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
 

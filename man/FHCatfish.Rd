@@ -22,8 +22,7 @@ captured by electrofishing in three rivers -- Coosa River,
 AL; Ocmulgee River, GA; and Satilla River, GA.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(FHCatfish)
@@ -34,6 +33,9 @@ plot(log(abundance)~age,data=FHCatfish,subset=river=="Coosa",main="Coosa")
 plot(log(abundance)~age,data=FHCatfish,subset=river=="Ocmulgee",main="Ocmulgee")
 plot(log(abundance)~age,data=FHCatfish,subset=river=="Satilla",main="Satilla")
 par(op)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

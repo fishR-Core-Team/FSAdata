@@ -44,5 +44,8 @@ plot(rec~year,data=HerringISS,type="l")
 plot(rec~ssb,data=HerringISS)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

@@ -9,7 +9,7 @@
 }}
 \source{
 Extracted (approximately) from Figure 3 of Mtsambiwa, M.Z.
-1992. Fitting a Von Bertalanffy growth model to length at
+1992. Fitting a von Bertalanffy growth model to length at
 age data for larval \emph{Limnothrissa miodon} from Lake
 Kariba.  Paper presented at the Symposium on biology, stock
 assessment, and exploitation of small pelagic fish species
@@ -21,14 +21,16 @@ Age and length of larval Lake Tanganyika Sardine
 (\emph{Limnothrissa miodon}) from Lake Kariba.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(SardineLK)
 str(SardineLK)
 head(SardineLK)
 plot(tl~days,data=SardineLK)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

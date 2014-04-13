@@ -17,6 +17,7 @@
 #' \item Petersen method 
 #' \item Capture history 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Petersen' 'Capture History'
 #'@source Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E.
 #'Partridge.  2004.  Federal aid in fish restoration - 2000 job performance
 #'report. Idaho Department of Fish and Game.

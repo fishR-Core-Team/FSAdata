@@ -16,12 +16,16 @@ A random subsample of the lengths in the
 \code{TroutperchLM2} data frame.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency \item Length expansion }
+  \itemize{ \item Length frequency \item Length expansion
+  \item Size Structure }
 }
 \examples{
 data(TroutperchLM3)
 str(TroutperchLM3)
 head(TroutperchLM3)
+}
+\concept{
+'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
 

@@ -31,7 +31,8 @@ frames and 18.3 m (60 ft) long leads. The gillnets were
 netting.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure
+  \item PSD }
 }
 \examples{
 data(Herman)
@@ -44,6 +45,9 @@ with(subset(Herman,spec=="bkc" & yr==2001),hist(tl,main="Black Crappie, 2001"))
 with(subset(Herman,spec=="yep" & yr==2003),hist(tl,main="Yellow Perch, 2003"))
 with(subset(Herman,spec=="wae" & yr==1999),hist(tl,main="Walleye, 1999"))
 par(op)
+}
+\concept{
+'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

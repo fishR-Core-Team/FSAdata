@@ -16,6 +16,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in
 #'Regression.  Chapman and Hall, New York.  140 pp.
 #'@keywords datasets

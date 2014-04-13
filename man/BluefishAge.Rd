@@ -18,13 +18,16 @@ otoliths by two readers.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(BluefishAge)
 str(BluefishAge)
 head(BluefishAge)
 plot(r1~r2,data=BluefishAge)
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

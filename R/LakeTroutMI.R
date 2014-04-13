@@ -19,6 +19,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Extracted (approximately) from figures in Richards, J.M., M.J.
 #'Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment dynamics of the
 #'1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior.

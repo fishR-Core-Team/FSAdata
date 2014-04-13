@@ -27,5 +27,8 @@ data(MuskieWI06MR)
 str(MuskieWI06MR)
 head(MuskieWI06MR)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
+}
 \keyword{datasets}
 

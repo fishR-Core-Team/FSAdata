@@ -13,10 +13,10 @@
 #' \item{number}{Number of captured fish.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
-#' \item Catch curve 
-#' \item Chapman-Robson 
+#' \item Mortality 
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted (approximately) from Figure 2 in Kwak, T.J., W.E. Pine III,
 #'and D.S. Waters.  2006.  Age, growth, and mortality of introduced flathead
 #'catfish in Atlantic rivers and a review of other populations.  North American

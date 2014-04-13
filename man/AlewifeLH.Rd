@@ -19,7 +19,7 @@ otoliths and scales.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(AlewifeLH)
@@ -27,6 +27,9 @@ str(AlewifeLH)
 head(AlewifeLH)
 plot(scales~otoliths,data=AlewifeLH)
 with(AlewifeLH,table(otoliths,scales))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

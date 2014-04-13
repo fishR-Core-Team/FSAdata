@@ -11,10 +11,10 @@
 #' \item{catch}{A numeric vector of number of fish.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
+#' \item Mortality 
 #' \item Catch curve 
-#' \item Chapman-Robson 
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted from Figure 7 of Araujo, J.N. and A.S. Martins.  2007.
 #'Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the
 #'central coast of Brazil.  Scientia Marina 71:793-800.

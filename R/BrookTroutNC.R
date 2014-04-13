@@ -15,6 +15,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Data extracted approximately (with digitize()) from figure 5 in
 #'Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty.  2010. Dynamics
 #'and regulation of the southern brook trout (\emph{Salvelinus fontinalis})

@@ -18,7 +18,7 @@ Ages assigned to the scales and otoliths of Striped Bass
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(StripedBass6)
@@ -29,6 +29,9 @@ with(StripedBass6,table(otolith,scale))
 }
 \seealso{
 \code{\link{StripedBass4}} and \code{\link{StripedBass5}}.
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

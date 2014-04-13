@@ -30,5 +30,8 @@ plot(recruits~year,data=SardinesPacific,type="l")
 plot(recruits~ssb,data=SardinesPacific)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

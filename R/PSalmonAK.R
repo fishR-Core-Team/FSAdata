@@ -20,6 +20,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source from Table 3.1 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative
 #'Fish Dynamics.  Oxford University Press, New York, New York.
 #'@keywords datasets

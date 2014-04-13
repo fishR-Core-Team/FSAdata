@@ -35,5 +35,8 @@ plot(recruits~year,data=TPrawnsEG,type="l")
 plot(recruits~stock,data=TPrawnsEG)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

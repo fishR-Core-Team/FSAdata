@@ -18,8 +18,7 @@ for each of 1201 Striped Bass (\emph{Morone saxatilis})
 from the Atlantic Ocean.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(StripedBass2)
@@ -29,6 +28,9 @@ plot(tl~age,data=StripedBass2)
 }
 \seealso{
 \code{\link{StripedBass3}}.
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

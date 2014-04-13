@@ -14,8 +14,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted from tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.
 #'The Canada-United States yellowtail flounder age reading workshop: 28-30
 #'November2000, St. John's, Newfoundland.  North Atlantic Fisheries

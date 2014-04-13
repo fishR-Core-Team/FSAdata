@@ -17,8 +17,7 @@ Assigned ages and measured total lengths for each of 1288
 Rock Bass (\emph{Ambloplites rupestris}) from Lake Ontario.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(RockBassLO1)
@@ -28,6 +27,9 @@ plot(tl~age,data=RockBassLO1)
 }
 \seealso{
 \code{\link{RockBassLO2}}.
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

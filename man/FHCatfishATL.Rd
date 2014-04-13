@@ -22,8 +22,7 @@ Lumber River, Northeast Cape Fear River (NCF), and Neuse
 River.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(FHCatfishATL)
@@ -34,6 +33,9 @@ plot(log(number)~age,data=FHCatfishATL,subset=river=="Lumber",main="Lumber")
 plot(log(number)~age,data=FHCatfishATL,subset=river=="NCF",main="NCF")
 plot(log(number)~age,data=FHCatfishATL,subset=river=="Neuse",main="Neuse")
 par(op)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

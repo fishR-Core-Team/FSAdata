@@ -25,6 +25,7 @@
 #' \item Depletion
 #' \item Removal
 #'}
+#'@concept Abundance 'Population Size' Depletion Removal
 #'@source From Table 1 in Jones, M.L. and J.D. Stockwell.  1995.  A rapid
 #'assessment procedure for enumeration of salmonine populations in streams.
 #'North American Journal of Fisheries Management, 15:551-562.

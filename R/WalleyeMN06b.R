@@ -22,6 +22,7 @@
 #' \item Schnabel method 
 #' \item Schumacher-Eschmeyer method 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
 #'@source Data from appendix 2 in Borkholder, B.D., A.J. Edwards, and C. Olson.
 #'2007.  Spring adult and fall juvenile walleye popluation surveys within the
 #'1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of Resource

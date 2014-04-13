@@ -29,5 +29,8 @@ plot(recruits~year,data=Lizardfish,type="l")
 plot(recruits~stock,data=Lizardfish)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

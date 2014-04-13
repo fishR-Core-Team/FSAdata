@@ -18,6 +18,7 @@
 #' \item Petersen method 
 #' \item Capture history 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Petersen' 'Capture History'
 #'@source Simulated from summary table in Burkholder, A.  1991.  Abundance and
 #'composition of northern pike, Harding Lake, 1990.  Fishery Data Series 91-9,
 #'Alaksa Department of Fish and Game.  \url{http://www.sf.adfg.state.ak.us/FedAidpdfs/Fds91-09.pdf}

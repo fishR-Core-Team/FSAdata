@@ -33,7 +33,7 @@ Catch-at-age for Yellow Perch (\emph{Perca flavescens})
 from Chequamegon Bay, Lake Superior, 1973-1988.
 }
 \section{Topic(s)}{
-  \itemize{\ \item Total mortality \item Catch curve }
+  \itemize{\ \item Mortality \item Catch curve }
 }
 \examples{
 data(YPerchCB1)
@@ -66,6 +66,9 @@ yc73 <- diag(as.matrix(YPerchCB1[,2:11]))
 plot(log(yc73)~YPerchCB1$age,main="1973 Year-Class")
 yc82 <- diag(as.matrix(YPerchCB1[1:7,11:17]))
 plot(log(yc82)~YPerchCB1$age[1:7],main="1982 Year-Class")
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

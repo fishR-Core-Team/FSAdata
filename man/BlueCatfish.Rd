@@ -19,14 +19,16 @@ furcatus}) collected form the Wilson Reservoir on the
 Tennessee River, AL.
 }
 \section{Topic(s)}{
-  \itemize{ \item Size-at-age growth modeling \item Von
-  Bertalanffy growth model \item Growth }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(BlueCatfish)
 str(BlueCatfish)
 head(BlueCatfish)
 plot(tl~age,data=BlueCatfish)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

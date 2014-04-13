@@ -22,7 +22,7 @@ macropterus}).
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(Morwong1)
@@ -30,6 +30,9 @@ str(Morwong1)
 head(Morwong1)
 plot(second~first,data=Morwong1)
 with(Morwong1,table(first,second))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

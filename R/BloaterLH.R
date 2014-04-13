@@ -14,6 +14,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Extracted (approximately) from figure 7 of Schaeffer, J.S. 2004.
 #'Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron,
 #'1980-1998.  Ann Zool Fennici. 41:271-279.

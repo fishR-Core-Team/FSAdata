@@ -18,6 +18,7 @@
 #' \item Total mortality 
 #' \item Catch curve 
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted from Figure 2 of Bonvechi, T.F., M.S. Allen, and R.L.
 #'Cailteux.  2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass
 #'in Four Florida Rivers.  North American Journal of Fisheries Management

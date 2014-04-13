@@ -13,8 +13,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted from table 6 of Restall, J.E., and K. Krusic-Golub.  2004.
 #'Development of jackass morwong age-length keys for 2000-2002. Final report to
 #'Australian Fisheries Management Authority. 13 pp. Primary Industries Research

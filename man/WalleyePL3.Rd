@@ -32,5 +32,8 @@ data(WalleyePL3)
 str(WalleyePL3)
 WalleyePL3
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
+}
 \keyword{datasets}
 

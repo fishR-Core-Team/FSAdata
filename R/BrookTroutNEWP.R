@@ -23,6 +23,7 @@
 #' \item Depletion
 #' \item Removal
 #'}
+#'@concept Abundance 'Population Size' Depletion Removal
 #'@source From Table 1 in Schnute, J.  1983.  A new approach to estimating
 #'populations by the removal method.  Canadian Journal of Fisheries and Aquatic
 #'Sciences, 40:2153-2169.

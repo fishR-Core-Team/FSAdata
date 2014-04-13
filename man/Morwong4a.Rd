@@ -34,5 +34,8 @@ str(m4a.length)
 \seealso{
 \code{\link{Morwong4}}.
 }
+\concept{
+'Age-Length Key'
+}
 \keyword{datasets}
 

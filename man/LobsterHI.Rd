@@ -40,14 +40,18 @@ retrieved the following day; therefore, the standard unit
 of effort is the trap-haul.
 }
 \section{Topic(s)}{
-  \itemize{ \item Depletion methods \item Leslie method
-  \item DeLury method \item Population size \item Abundance
+  \itemize{ \item Population size \item Abundance \item
+  Depletion methods \item Leslie method \item DeLury method
   \item Catchability }
 }
 \examples{
 data(LobsterHI)
 str(LobsterHI)
 head(LobsterHI)
+}
+\concept{
+Abundance 'Population Size' Leslie DeLury Depletion
+Catchability
 }
 \keyword{datasets}
 

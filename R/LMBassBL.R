@@ -10,8 +10,11 @@
 #' \item{tl}{measured total length (cm).} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Length frequency 
+#' \item Length frequency
+#' \item Size Structure
+#' \item PSD
 #'}
+#'@concept 'Length Frequency' 'Size Structure' PSD
 #'@source Simulated (uniform distribution of values within length bin) from
 #'summarized length frequencies in FishBase -- \url{www.fishbase.org}.  Data
 #'originally from McNew, R.W. and R.C. Summerfelt.  1978.  Evaluation of a

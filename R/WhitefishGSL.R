@@ -17,10 +17,10 @@
 #' \item{area.IW}{Catches for area IW.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
-#' \item Catch curve 
-#' \item Chapman-Robson 
+#' \item Mortality 
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source From Table 19 of Mosenko, R.W., and G. Low.  1980.  Data from the
 #'commercial fishery for lake whitefish \emph{Coregonus clupeaformis}
 #'(Mitchill), on Great Slave Lake, Northwest Territories, 1979.  Canadian Data

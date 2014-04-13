@@ -38,5 +38,8 @@ seine.il <- subset(InchLake1,netType=="seine")
 \seealso{
 \code{\link{InchLake1}}.
 }
+\concept{
+'Length Frequency' 'Size Structure' PSD
+}
 \keyword{datasets}
 

@@ -18,6 +18,7 @@
 #'@section Topic(s): \itemize{
 #' \item Length-weight
 #'}
+#'@concept 'Length-Weight'
 #'@source Extracted (approximately) from Figure 3 of Parker, B.R., D.W.
 #'Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population
 #'responses to reductions in angler effort and retention limits.  North

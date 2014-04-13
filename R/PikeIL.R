@@ -19,6 +19,7 @@
 #' \item Abundance 
 #' \item Catchability
 #'}
+#'@concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
 #'@source From Table 1 of Peterson, J., M. Taylor, and A. Hanson.  1980.
 #'Leslie population estimate for a large lake.  Transactions of the American
 #'Fisheries Society, 109:329-331.

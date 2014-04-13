@@ -13,10 +13,10 @@
 #' \item{abundance}{Number of captured fish with boat electrofishing.}
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
+#' \item Mortality 
 #' \item Catch curve 
-#' \item Chapman-Robson 
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted (approximately) from figure 3 in Sakaris, P.C., E.R. Irwin,
 #'J.C. Jolley, and D. Harrison.  2006.  Comparison of Native and Introduced
 #'Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and

@@ -28,7 +28,7 @@ cernuus}) captured in the St. Louis River, Lake Superior in
 }
 \section{Topic(s)}{
   \itemize{ \item Length frequency \item Length-weight
-  \item Growth \item Size-at-age growth model }
+  \item Growth \item von Bertalanffy \item Maturity }
 }
 \examples{
 data(RuffeSLRH92)
@@ -43,6 +43,10 @@ par(op)
 table(RuffeSLRH92$age)
 table(RuffeSLRH92$sex)
 table(RuffeSLRH92$maturity)
+}
+\concept{
+Growth 'von Bertalanffy' 'Length Frequency' 'Length-Weight'
+Maturity
 }
 \keyword{datasets}
 

@@ -22,8 +22,7 @@ Trout (\emph{Salmo trutta}) and Rainbow Trout
 Brule River, WI in 1978 and 1979.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(TroutBR)
@@ -33,6 +32,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(tl~age,data=TroutBR,subset=species=="Brown",main="Brown Trout")
 plot(tl~age,data=TroutBR,subset=species=="Rainbow",main="Rainbow Trout")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

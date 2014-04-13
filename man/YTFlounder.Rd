@@ -22,7 +22,7 @@ scales, whole otoliths, or otolith cross-sections.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(YTFlounder)
@@ -33,6 +33,9 @@ plot(scale~whole,data=YTFlounder)
 plot(scale~cross,data=YTFlounder)
 plot(whole~cross,data=YTFlounder)
 par(op)
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

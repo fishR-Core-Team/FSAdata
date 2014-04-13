@@ -40,5 +40,8 @@ plot(w~tl,data=Pallid,subset=loc=="ND",main="North Dakota")
 plot(w~tl,data=Pallid,subset=loc=="MT",main="Montana")
 par(op)
 }
+\concept{
+'Length-Weight'
+}
 \keyword{datasets}
 

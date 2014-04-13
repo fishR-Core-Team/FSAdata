@@ -11,9 +11,12 @@
 #' \item{ageS}{Age assigned from examination of scales.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Age comparison
+#' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error }
+#' \item Age Bias
+#' \item Ageing error
+#'}
+#'@concept Age Precision Bias
 #'@source Extracted from Figure 6 in Chapter 10 of the Virginia Marine Resources
 #'Commissions's Final Report on finfish ageing, 2000. \href{http://ww2.odu.edu/sci/cqfe}{Available here.}
 #'@keywords datasets

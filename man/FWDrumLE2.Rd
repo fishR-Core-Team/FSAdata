@@ -16,7 +16,7 @@ deleted).  This data file can be used to demonstrate the
 use of age-length keys.
 }
 \section{Topic(s)}{
-  \itemize{ \item Age-length key }
+  \itemize{ \item Age-Length Key }
 }
 \examples{
 data(FWDrumLE2)
@@ -31,6 +31,9 @@ str(FWD.length)
 }
 \seealso{
 \code{\link{FWDrumLE1}}.
+}
+\concept{
+'Age-Length Key'
 }
 \keyword{datasets}
 

@@ -22,6 +22,7 @@
 #' \item Mark-recapture 
 #' \item Petersen method 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
 #'@source data provided by Tom Kwak, North Carolina Cooperate Unit at North
 #'Carolina State University and part of the data published in Kwak, T.J. and
 #'T.F. Waters.  1997.  Trout production dynamics and water quality in Minnesota

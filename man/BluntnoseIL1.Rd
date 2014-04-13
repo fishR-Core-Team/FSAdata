@@ -17,7 +17,8 @@ Total lengths of a subsample of 144 Bluntnose Minnows
 County, WI in May, 2007.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency \item Length expansion }
+  \itemize{ \item Length frequency \item Length expansion
+  \item Size Structure \item PSD }
 }
 \examples{
 data(BluntnoseIL1)
@@ -26,6 +27,9 @@ head(BluntnoseIL1)
 }
 \seealso{
 \code{\link{InchLake1}}, \code{\link{InchLake2}}.
+}
+\concept{
+'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

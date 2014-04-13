@@ -13,9 +13,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Simulated from the age-length data provided in Table 1 of House, R.,
 #'and L. Wells.  1973.  Age, growth, spawning season, and fecundity of the
 #'trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan.

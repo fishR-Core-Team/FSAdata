@@ -14,6 +14,7 @@
 #'@section Topic(s): \itemize{
 #' \item Recruitment time-series 
 #'}
+#'@concept Recruitment
 #'@source from Ransom Myers online database -- \url{ram.biology.dal.ca/~myers/data.html}.
 #'
 #'Originally from Ontario Ministry of Natural Resources, Fish and Wildlife

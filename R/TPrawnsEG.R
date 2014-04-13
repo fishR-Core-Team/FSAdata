@@ -16,6 +16,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source from table 9.1 in Haddon, M. 2000.  Modeling and Quantitative Methods
 #'in Fisheries, CRC Press.  Originally from Penn, J. W., and Caputi, N.  1986.
 #'Spawning stock-recruitment relationships and environmental influences on the

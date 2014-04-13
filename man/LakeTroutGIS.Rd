@@ -38,5 +38,8 @@ plot(recruits~year,data=LakeTroutGIS,type="l")
 plot(recruits~stock,data=LakeTroutGIS)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

@@ -29,5 +29,9 @@ data(PikeHL)
 str(PikeHL)
 head(PikeHL)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
+'Capture History'
+}
 \keyword{datasets}
 

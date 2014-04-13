@@ -29,5 +29,8 @@ plot(eggs~year,data=BloaterLH,type="l")
 plot(eggs~age3,data=BloaterLH)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

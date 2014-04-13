@@ -10,8 +10,10 @@
 #' \item{tl}{Total length (mm).} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Length frequency 
+#' \item Length frequency
+#' \item Size Structure
 #'}
+#'@concept 'Length Frequency' 'Size Structure'
 #'@source personal collection by the United States Geological Survey, Lake
 #'Superior Biological Station, Ashland, WI.
 #'@keywords datasets

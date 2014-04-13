@@ -45,7 +45,8 @@ The unique IDs for fish from 1989 were changed to start at
 }
 \section{Topic(s)}{
   \itemize{ \item Length frequency \item Length-weight
-  \item Length conversion \item Size-at-age growth model }
+  \item Length conversion \item Growth \item von
+  Bertalanffy \item Size Structure }
 }
 \examples{
 data(LakeTroutALTER)
@@ -58,6 +59,10 @@ plot(w~tl,data=LakeTroutALTER)
 plot(tl~fl,data=LakeTroutALTER)
 plot(tl~age,data=LakeTroutALTER)
 par(op)
+}
+\concept{
+'Length Frequency' 'Length-Weight' 'Growth' 'von
+Bertalanffy' 'Size Structure'
 }
 \keyword{datasets}
 

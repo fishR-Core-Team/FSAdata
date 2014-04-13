@@ -1,7 +1,11 @@
 # 0.1.5 ongoing
 
-* Changed to using github
-* NEED to MAKE SURE THAT TOPICS ARE CONSISTENT.
+* Changed to using github and compiling under R 3.1.0.
+* Moved FSA to a "suggests" rather than "depends".
+* Made topic sections consistent and added concept fields so that `help.search()` worked better.
+* `BluegillWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `creelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
 
 
 # 0.1.4 Apr14

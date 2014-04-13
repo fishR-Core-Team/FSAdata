@@ -36,5 +36,8 @@ plot(rec~year,data=WhitefishTB,type="b")
 plot(rec~ssb,data=WhitefishTB)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

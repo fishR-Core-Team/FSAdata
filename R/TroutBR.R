@@ -14,9 +14,9 @@
 #'}
 #'@section Topic(s): \itemize{ 
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy 
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram.
 #'1984.  Migratory brown trout and rainbow trout populations of the Brule River,
 #'Wisconsin.  Wisconsin Department of Natural Resources, Fish Management Report No. 123.

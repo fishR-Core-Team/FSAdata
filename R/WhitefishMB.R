@@ -15,8 +15,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted (approximately) from Figure 1 of Mills, K.H., and R.J.
 #'Beamish.  1980.  Comparison of fin-ray and scale age determinations for lake
 #'whitefish (\emph{Coregonus clupeaformis}) and their implications for

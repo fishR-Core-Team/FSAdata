@@ -31,5 +31,8 @@ head(SardineChile)
 SardineChile$age <- SardineChile$age.mon/12
 plot(tl.cm~age,data=SardineChile)
 }
+\concept{
+Growth 'von Bertalanffy' Somers 'Seasonal Growth'
+}
 \keyword{datasets}
 

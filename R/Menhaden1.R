@@ -17,10 +17,10 @@
 #' \item{age6}{Estimated catch (millions) of age-6 fish.}
 #'}
 #'@section Topic(s): \itemize{
-#' \item Catch curve
 #' \item Mortality
-#' \item Chapman-Robson
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith.  2007.
 #'  Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery
 #'  characteristics and biological reference points for management.  Fisheries

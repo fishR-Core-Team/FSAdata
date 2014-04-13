@@ -12,10 +12,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling
-#' \item Von Bertalanffy growth model
+#' \item von Bertalanffy
 #'}
-#'
+#'@concept Growth 'von Bertalanffy'
 #'@source Chapter 1 of the Virginia Marine Resources Commissions's Final Report
 #'on finfish ageing, 1999. \href{http://ww2.odu.edu/sci/cqfe}{Available here.}
 #'@keywords datasets

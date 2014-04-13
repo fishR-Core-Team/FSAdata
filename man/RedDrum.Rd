@@ -19,14 +19,16 @@ ocellatus}) from various areas of the Atlantic Coast,
 1981-1988.
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(RedDrum)
 str(RedDrum)
 head(RedDrum)
 plot(fl~age,data=RedDrum)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

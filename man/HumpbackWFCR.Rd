@@ -31,5 +31,9 @@ data(HumpbackWFCR)
 str(HumpbackWFCR)
 head(HumpbackWFCR)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
+'Capture History'
+}
 \keyword{datasets}
 

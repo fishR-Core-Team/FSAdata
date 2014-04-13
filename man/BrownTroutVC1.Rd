@@ -35,5 +35,8 @@ str(BrownTroutVC1)
 head(BrownTroutVC1)
 hist(BrownTroutVC1$len,main="")
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
+}
 \keyword{datasets}
 

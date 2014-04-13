@@ -21,14 +21,16 @@ macrochirus}) and Redear Sunfish (\emph{Lepomis
 microlophus}) caught in Lake Panasoffkee, FL.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(SunfishLP)
 str(SunfishLP)
 head(SunfishLP)
 plot(log(perc.freq)~age,data=SunfishLP)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

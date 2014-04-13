@@ -13,9 +13,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#'  \item Size-at-age growth modeling
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Simulated from age-length data provided in tables 2 and 3 of Jobes,
 #'F.W.  1946.  The age, growth, and distribution of the longjaw cisco,
 #'\emph{Leucichthys alpenae} Koelz, in Lake Michigan.  Transactions of the

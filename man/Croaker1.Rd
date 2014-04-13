@@ -18,7 +18,7 @@ undulatus}) from two readers.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(Croaker1)
@@ -26,6 +26,9 @@ str(Croaker1)
 head(Croaker1)
 plot(reader2~reader1,data=Croaker1)
 with(Croaker1,table(reader1,reader2))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

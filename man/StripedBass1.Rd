@@ -19,7 +19,7 @@ from heat-pressed scales and cracked-and-burnt otoliths.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(StripedBass1)
@@ -27,6 +27,9 @@ str(StripedBass1)
 head(StripedBass1)
 plot(ageS~ageO,data=StripedBass1)
 with(StripedBass1,table(ageO,ageS))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

@@ -3,10 +3,11 @@ Version: 0.1.5
 Title: Data to support Fish Stock Assessment (FSA) package.
 Description: The datasets to support the ``Fish Stock Assessment'' (FSA)
     package.
-URL: http://www.rforge.net/FSAdata/, http://fishr.wordpress.com/
+URL: http://fishr.wordpress.com/, https://github.com/droglenc/FSAdata
 Author: Derek Ogle <dogle@northland.edu>
 Maintainer: Derek Ogle <dogle@northland.edu>
 Depends:
-    R (>= 3.0.0),
+    R (>= 3.0.0)
+Suggests:
     FSA
 License: GPL (>= 2)

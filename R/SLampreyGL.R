@@ -12,6 +12,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Rrecruit'
 #'@source Extracted (approximately) from Figures 2a and 2b in Dawson, H.A. and
 #'M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea
 #'lamprey (\emph{Petromyzon marinus}) populations.  Journal of Grat Lakes

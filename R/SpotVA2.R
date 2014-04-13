@@ -15,6 +15,7 @@
 #'@section Topic(s): \itemize{
 #' \item Age-length key 
 #'}
+#'@concept 'Age-Length Key'
 #'@seealso \code{SpotVA1} in \pkg{FSA}.
 #'@keywords datasets
 #'@examples

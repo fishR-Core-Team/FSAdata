@@ -11,13 +11,14 @@
 #' \item{effort}{A numeric vector of lines used per day to catch blue crabs.}
 #'}
 #'@section Topic(s): \itemize{
-#' \item Depletion methods
-#' \item Leslie method
-#' \item DeLury method
 #' \item Population size
 #' \item Abundance
+#' \item Depletion
+#' \item Leslie method
+#' \item DeLury method
 #' \item Catchability
 #'}
+#'@concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
 #'@source From Fischler, K.J.  1965.  The use of catch-effort, catch-sampling,
 #'and tagging data to estimate a population of blue crabs.  Transactions of the
 #'American Fisheries Society, 94:287-310.

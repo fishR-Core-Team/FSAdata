@@ -34,5 +34,8 @@ plot(weight~length,data=CiscoTL,subset=sex=="M",main="Male")
 plot(weight~length,data=CiscoTL,subset=sex=="I",main="Immature")
 par(op)
 }
+\concept{
+'Length-Weight'
+}
 \keyword{datasets}
 

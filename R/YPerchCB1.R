@@ -26,9 +26,10 @@
 #' \item{year88}{Number of fish at each age in capture year 1988.} 
 #'}
 #'@section Topic(s): \itemize{\
-#' \item Total mortality
+#' \item Mortality
 #' \item Catch curve 
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Data from table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.
 #'Dynamics of a yellow perch population in Western Lake Superior.  North
 #'American Journal of Fisheries Management 13:511-523.

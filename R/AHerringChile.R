@@ -11,9 +11,12 @@
 #' \item{len}{Total length (to nearest 0.5 cm).}
 #'}
 #'@section Topic(s): \itemize{
-#' \item Growth 
+#' \item Growth
+#' \item Seasonal Growth
 #' \item von Bertalanffy 
+#' \item Somers model
 #'}
+#'@concept 'Seasonal Growth' 'von Bertalanffy' Somers
 #'@source extracted from figure 9 of Cubillos, L.A., D.F. Arcosa, D.A.
 #'Bucareya, M.T. Canalesa.  2001.  Seasonal growth of small pelagic fish off
 #'Talcahuano, Chile (37S, 73W): a consequence of their reproductive strategy to

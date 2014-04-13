@@ -37,5 +37,8 @@ plot(rec~year,data=HalibutPAC,type="l")
 plot(rec~ssb,data=HalibutPAC)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

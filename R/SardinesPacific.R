@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source From Jacobson, L.D. and A.D. MacCall.  1995.  Stock-recruitment
 #'models for Pacific sardine (\emph{Sardinops sagax}). Canadian Journal of
 #'Fisheries and Aquatic Sciences. 52:566-577.

@@ -12,9 +12,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@seealso \code{\link{Jonubi2}}.
 #'@source Simulated from table 2 of Yildirim, A., H.U. Haluloulu, M. Turkmen,
 #'and O. Erdouan. 2003.  Age and growth characteristics of \emph{Chalcalburnus

@@ -18,6 +18,9 @@
 #'str(CreelMN)
 #'head(CreelMN)
 #'levels(CreelMN$species)
+#'
+#'\dontrun{
+#'require(FSA)
 #'wae <- Subset(CreelMN,species=="WAE")
 #'( waetbl <- table(wae$harvest) )
 #'( waeptbl <- prop.table(waetbl)*100 )
@@ -36,5 +39,6 @@
 #'table(wae$svd1)
 #'( svd1 <- sum(wae$svd1[wae$svd1>0]) )
 #'round(svd1/ttlwae*100,1)
+#'}
 #'
 NULL

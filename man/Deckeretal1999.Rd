@@ -45,5 +45,8 @@ head(Deckeretal1999)
 ## extract data for one sampling location (e.g., 3rd row)
 Deckeretal1999[3,]
 }
+\concept{
+Abundance 'Population Size' Depletion Removal
+}
 \keyword{datasets}
 

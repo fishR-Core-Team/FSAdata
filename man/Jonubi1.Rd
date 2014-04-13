@@ -21,8 +21,7 @@ Assigned ages and measured fork lengths for male Jonubi
 (Turkey).
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(Jonubi1)
@@ -32,6 +31,9 @@ plot(fl~age,data=Jonubi1)
 }
 \seealso{
 \code{\link{Jonubi2}}.
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

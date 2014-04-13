@@ -16,9 +16,11 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Length-weight relationships
-#' \item Relative weight 
-#' \item Condition
+#' \item Length frequency
+#' \item Size structure
+#' \item PSD
 #'}
+#'@concept 'Length-Weight' 'Length Frequency' 'Size Structure' PSD
 #'@seealso \code{\link{InchLake1}}.
 #'@source Derek H. Ogle, personal collection
 #'@keywords datasets

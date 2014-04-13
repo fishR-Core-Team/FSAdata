@@ -27,5 +27,8 @@ str(SLampreyGL)
 head(SLampreyGL)
 plot(recruits~stock,data=SLampreyGL)
 }
+\concept{
+'Stock-Rrecruit'
+}
 \keyword{datasets}
 

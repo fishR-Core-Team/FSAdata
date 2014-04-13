@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{ 
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Extracted (approximately) from Figure1 1 and 2 of Marjomaki, T.J.
 #'2004.  Analysis of the spawning stock-recruitment relationship of vendace
 #'(\emph{Coregonus albula} (L.)) with evaluation of alternative models,

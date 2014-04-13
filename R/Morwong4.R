@@ -13,9 +13,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item von Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@seealso \code{\link{Morwong4a}}.
 #'@source Ffrom appendix 1 of Restall, J.E., and K. Krusic-Golub.  2004.
 #'Development of jackass morwong age-length keys for 2000-2002. Final report to

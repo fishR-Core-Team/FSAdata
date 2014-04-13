@@ -11,8 +11,11 @@
 #' \item{loc}{Location of capture (\code{inner} or \code{outer}).} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Length frequency 
+#' \item Length frequency
+#' \item Size Structure
+#' \item PSD
 #'}
+#'@concept 'Length Frequency' 'Size Structure' PSD
 #'@source Simulated (uniform distribution of values within length bin) from
 #'summarized length frequencies in Fig 2 (top) in Diana, J.S. and R. Salz.
 #'1990.  Energy Storage, growth, and maturation of yellow perch from different

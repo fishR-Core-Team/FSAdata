@@ -13,9 +13,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Growth
-#' \item Size-at-age growth modeling 
-#' \item Von Bertalanffy growth model 
+#' \item fon Bertalanffy
 #'}
+#'@concept Growth 'von Bertalanffy'
 #'@source Extracted (approximately) from Figure 2 in Mooij, W.M., J.M. Van
 #'Rooij, and S. Wijnhoven.  1999.  Analysis and comparison of fish growth from
 #'small samples of length-at-age data: Detection of sexual dimorphism in

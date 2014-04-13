@@ -21,7 +21,8 @@ flavescens}) from two locations -- inner and outer bay --
 in Saginaw Bay, Lake Michigan.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure
+  \item PSD }
 }
 \examples{
 data(YPerchSB1)
@@ -31,6 +32,9 @@ op <- par(mfrow=c(1,2),pch=19)
 with(subset(YPerchSB1,loc=="inner"),hist(tl,main="Inner"))
 with(subset(YPerchSB1,loc=="outer"),hist(tl,main="Outer"))
 par(op)
+}
+\concept{
+'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

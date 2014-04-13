@@ -18,8 +18,7 @@ Otolith age, total length, and sex of Atlantic Croaker
 (\emph{Micropogonias undulatus}).
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item von Bertalanffy }
 }
 \examples{
 data(Croaker2)
@@ -29,6 +28,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(tl~age,data=Croaker2,subset=sex=="F",main="Female")
 plot(tl~age,data=Croaker2,subset=sex=="M",main="Male")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

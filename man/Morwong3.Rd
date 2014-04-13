@@ -21,7 +21,7 @@ Jackass Morwong (\emph{Nemadactylus macropterus}).
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(Morwong3)
@@ -29,6 +29,9 @@ str(Morwong3)
 head(Morwong3)
 plot(readerB~readerA,data=Morwong3)
 with(Morwong3,table(readerA,readerB))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

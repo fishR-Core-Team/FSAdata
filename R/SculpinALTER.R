@@ -22,11 +22,12 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Length frequency 
-#' \item Length-weight 
-#' \item Size-at-age growth model
+#' \item Length-weight
 #' \item Growth
-#' \item von Bertalanffy growth model
+#' \item von Bertalanffy
+#' \item Size Structure
 #'}
+#'@concept Growth 'von Bertalanffy' 'Length Frequency' 'Length-Weight' 'Size Structure'
 #'@source Data was available at
 #'\url{ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html}.
 #'@keywords datasets

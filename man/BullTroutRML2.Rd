@@ -28,8 +28,8 @@ implemented (in the 1990s) that led to changes in abundance
 and population structure of bull trout.
 }
 \section{Topic(s)}{
-  \itemize{ \item Size-at-age growth modeling \item Von
-  Bertalanffy growth model \item Growth }
+  \itemize{ \item Growth \item Von Bertalanffy growth model
+  }
 }
 \examples{
 data(BullTroutRML2)
@@ -41,6 +41,9 @@ plot(fl~age,data=BullTroutRML2,subset=lake=="Harrison" & era=="1997-01",main="Ha
 plot(fl~age,data=BullTroutRML2,subset=lake=="Osprey" & era=="1977-80",main="Osprey, 1977-80")
 plot(fl~age,data=BullTroutRML2,subset=lake=="Osprey" & era=="1997-01",main="Osprey, 1997-2001")
 par(op)
+}
+\concept{
+Growth 'Von Bertalanffy'
 }
 \keyword{datasets}
 

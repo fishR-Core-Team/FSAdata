@@ -24,8 +24,10 @@
 #' \item Length frequency 
 #' \item Length-weight 
 #' \item Growth
-#' \item Size-at-age growth model 
+#' \item von Bertalanffy
+#' \item Maturity
 #'}
+#'@concept Growth 'von Bertalanffy' 'Length Frequency' 'Length-Weight' Maturity
 #'@source personal collection by the United States Geological Survey, Lake
 #'Superior Biological Station, Ashland, WI.
 #'@keywords datasets

@@ -25,5 +25,8 @@ plot(w~tl,data=ChinookArg,subset=loc=="Petrohue")
 plot(w~tl,data=ChinookArg,subset=loc=="Puyehue")
 par(op)
 }
+\concept{
+'Length-Weight'
+}
 \keyword{datasets}
 

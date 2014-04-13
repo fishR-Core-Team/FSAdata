@@ -24,6 +24,7 @@
 #' \item Standard weight
 #' \item Length-weight 
 #'}
+#'@concept 'Length-Weight' 'Relative Weight' 'Standard Weight'
 #'@seealso \code{WSlit}, \code{WSval} and \code{rlp} in \pkg{FSA}.
 #'@source From Table 2 in Murphy, B.R., M.L. Brown, and T.A. Springer.  1990.
 #'Evaluation of the relative weight (Wr) index, with new applications to
@@ -36,8 +37,10 @@
 #'
 #'## Recreate Murphy et al. (1990) results for bluegills
 #'# compare to log.a=-5.385 and b=3.318
-#'data(BluegillWs)
+#'\dontrun{
+#'require(FSA)
 #'bg.rlp <- rlp(BluegillWs$log.a,BluegillWs$b,75,395,qtype=6)
 #'coef(bg.rlp)
+#'}
 
 NULL

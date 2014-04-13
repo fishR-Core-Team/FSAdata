@@ -18,13 +18,16 @@ Troutperch (\emph{Percopsis omiscomaycus}) fork lengths
 from near Grand Haven, Lake Michigan, 1977.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure }
 }
 \examples{
 data(TroutperchLM2)
 str(TroutperchLM2)
 head(TroutperchLM2)
 hist(TroutperchLM2$fl,main="")
+}
+\concept{
+'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
 

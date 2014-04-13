@@ -46,5 +46,8 @@ tbl2 <- with(Cabezon,table(length,maturity))
 plot(ptbl2[,2]~as.numeric(row.names(ptbl2)),type="l",xlab="Age",ylab="Proportion Mature")
 par(op)
 }
+\concept{
+Growth 'von Bertalanffy' Maturity
+}
 \keyword{datasets}
 

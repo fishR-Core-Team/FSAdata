@@ -20,6 +20,7 @@
 #' \item Schnabel method 
 #' \item Schumacher-Eschmeyer method 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' Schnabel
 #'@source Gerking, S.D.  1953.  Vital statistics of the fish population of
 #'Gordy Lake, Indiana.  Transactions of the American Fisheries Society.  82:48-67.
 #'

@@ -20,8 +20,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
+#' \item Age Bias
 #' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted from Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.
 #'A comparison of methods for estimating ages of unexploited walleyes.  North
 #'American Journal of Fisheries Management 20:1044-1048.

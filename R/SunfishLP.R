@@ -12,10 +12,10 @@
 #' \item{perc.freq}{Percent frequency of fish collected in 1998.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
-#' \item Catch curve 
-#' \item Chapman-Robson 
+#' \item Mortality 
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Extracted (approximately) from Figure 2 in Crawford, S. and M.S.
 #'Allen.  2006.  Fishing and natural mortality of bluegills and redear sunfish
 #'at Lake Panasoffkee, Florida: Implications for size limits.  North American

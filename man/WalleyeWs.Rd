@@ -43,12 +43,17 @@ head(WalleyeWs)
 
 ## Recreate Murphy et al. (1990) results for walleye
 # compare to log.a=-5.453 and b=3.180
-data(WalleyeWs)
+\dontrun{
+require(FSA)
 wae.rlp <- rlp(WalleyeWs$log.a,WalleyeWs$b,155,1045,qtype=6)
 coef(wae.rlp)
 }
+}
 \seealso{
 \code{WSlit} and \code{WSval} and \code{rlp} in \pkg{FSA}.
+}
+\concept{
+'Length-Weight' 'Relative Weight' 'Standard Weight'
 }
 \keyword{datasets}
 

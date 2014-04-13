@@ -11,7 +11,9 @@
 #'}
 #'@section Topic(s): \itemize{
 #' \item Length frequency 
+#' \item Size Structure
 #'}
+#'@concept 'Length Frequency' 'Size Structure'
 #'@source Simulated from FishBase information -- \url{www.fishbase.org} --
 #'originally obtained from Brandt, S.B., J.J. Magnuson, and L.B. Crowder.
 #'1980.  Thermal habitat partitioning by fishes in Lake Michigan.  Canadian

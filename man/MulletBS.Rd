@@ -23,7 +23,7 @@ Black Sea (Samsun, Turkey).
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(MulletBS)
@@ -31,6 +31,9 @@ str(MulletBS)
 head(MulletBS)
 plot(whole~bb,data=MulletBS)
 with(MulletBS,table(bb,whole))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

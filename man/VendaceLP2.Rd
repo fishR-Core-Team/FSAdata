@@ -30,5 +30,8 @@ str(VendaceLP2)
 head(VendaceLP2)
 plot(recruits~fecundity,data=VendaceLP2)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

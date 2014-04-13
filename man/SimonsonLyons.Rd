@@ -34,5 +34,8 @@ head(SimonsonLyons)
 ## extract data for one species and stream (e.g., 3rd row)
 SimonsonLyons[3,]
 }
+\concept{
+Abundance 'Population Size' Depletion Removal
+}
 \keyword{datasets}
 

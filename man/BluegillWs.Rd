@@ -40,12 +40,17 @@ head(BluegillWs)
 
 ## Recreate Murphy et al. (1990) results for bluegills
 # compare to log.a=-5.385 and b=3.318
-data(BluegillWs)
+\dontrun{
+require(FSA)
 bg.rlp <- rlp(BluegillWs$log.a,BluegillWs$b,75,395,qtype=6)
 coef(bg.rlp)
 }
+}
 \seealso{
 \code{WSlit}, \code{WSval} and \code{rlp} in \pkg{FSA}.
+}
+\concept{
+'Length-Weight' 'Relative Weight' 'Standard Weight'
 }
 \keyword{datasets}
 

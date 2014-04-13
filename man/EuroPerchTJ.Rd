@@ -22,8 +22,7 @@ European Perch (\emph{Perca fluviatilis}) from Lake
 Tjuekemeer (The Netherlands).
 }
 \section{Topic(s)}{
-  \itemize{ \item Growth \item Size-at-age growth modeling
-  \item Von Bertalanffy growth model }
+  \itemize{ \item Growth \item fon Bertalanffy }
 }
 \examples{
 data(EuroPerchTJ)
@@ -33,6 +32,9 @@ op <- par(mfrow=c(1,2),pch=19)
 plot(fl~age,data=EuroPerchTJ,subset=sex=="female",main="Female")
 plot(fl~age,data=EuroPerchTJ,subset=sex=="male",main="Male")
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy'
 }
 \keyword{datasets}
 

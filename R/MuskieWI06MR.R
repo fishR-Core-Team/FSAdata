@@ -20,6 +20,7 @@
 #' \item Mark-recapture 
 #' \item Petersen method 
 #'}
+#'@concept Abundance 'Population Size' 'Mark-Recapture' 'Petersen'
 #'@source Wisconsin Department of Natural Resources.
 #'@keywords datasets
 #'@examples

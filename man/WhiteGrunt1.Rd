@@ -18,14 +18,16 @@ Catch-at-age for White Grunt (\emph{Haemulon plumierii})
 collected from the central coast of Brazil.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(WhiteGrunt1)
 str(WhiteGrunt1)
 head(WhiteGrunt1)
 plot(log(catch)~age,data=WhiteGrunt1)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

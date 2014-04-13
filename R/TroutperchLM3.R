@@ -14,7 +14,9 @@
 #'@section Topic(s): \itemize{
 #' \item Length frequency
 #' \item Length expansion 
+#' \item Size Structure
 #'}
+#'@concept 'Length Frequency' 'Size Structure'
 #'@keywords datasets
 #'@examples
 #'data(TroutperchLM3)

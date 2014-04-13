@@ -12,10 +12,10 @@
 #' \item{number}{A numeric vector of number of fish.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality 
-#' \item Catch curve 
-#' \item Chapman-Robson 
+#' \item Mortality 
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source Data from various tables in Borkholder, B.D., A.J. Edwards, and C.
 #'Olson.  2007.  Spring adult and fall juvenile walleye popluation surveys
 #'within the 1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of

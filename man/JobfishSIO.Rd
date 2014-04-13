@@ -19,14 +19,18 @@ Catch and effort data for Jobfish (\emph{Pristipomoides
 filamentosus}) from the South Indian Ocean.
 }
 \section{Topic(s)}{
-  \itemize{ \item Depletion methods \item Leslie method
-  \item DeLury method \item Population size \item Abundance
+  \itemize{ \item Population size \item Abundance \item
+  Depletion methods \item Leslie method \item DeLury method
   \item Catchability }
 }
 \examples{
 data(JobfishSIO)
 str(JobfishSIO)
 head(JobfishSIO)
+}
+\concept{
+Abundance 'Population Size' Leslie DeLury Depletion
+Catchability
 }
 \keyword{datasets}
 

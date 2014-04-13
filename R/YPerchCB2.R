@@ -15,6 +15,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source Extracted (approximately) from figure 7 in Bronte et al. 1993.
 #'Dynamics of a yellow perch population in Western Lake Superior. North
 #'American Journal of Fisheries Management. 13:511-523.

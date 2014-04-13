@@ -17,14 +17,16 @@ Catch-at-age for Cayuga Lake Rock Bass (\emph{Amploplites
 rupestris}) from a single season.
 }
 \section{Topic(s)}{
-  \itemize{ \item Total mortality \item Catch curve \item
-  Chapman-Robson }
+  \itemize{ \item Mortality \item Catch curve }
 }
 \examples{
 data(RockBassCL)
 str(RockBassCL)
 RockBassCL
 plot(log(catch)~age,data=RockBassCL)
+}
+\concept{
+Mortality 'Catch Curve'
 }
 \keyword{datasets}
 

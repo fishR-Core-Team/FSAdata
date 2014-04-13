@@ -34,5 +34,8 @@ str(sb.length)
 \seealso{
 \code{\link{StripedBass2}}.
 }
+\concept{
+'Age-Length Key'
+}
 \keyword{datasets}
 

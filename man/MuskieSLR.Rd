@@ -21,7 +21,7 @@ masquinongy}) assessed from scales and cleithra.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(MuskieSLR)
@@ -29,6 +29,9 @@ str(MuskieSLR)
 head(MuskieSLR)
 plot(ageS~ageC,data=MuskieSLR)
 with(MuskieSLR,table(ageC,ageS))
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

@@ -15,6 +15,7 @@
 #'@section Topic(s): \itemize{
 #' \item Age-length key 
 #'}
+#'@concept 'Age-Length Key'
 #'@seealso \code{\link{RockBassLO1}}.
 #'@keywords datasets
 #'@examples

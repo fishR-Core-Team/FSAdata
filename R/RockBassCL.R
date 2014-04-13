@@ -11,10 +11,10 @@
 #' \item{catch}{Number in catch.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Total mortality
-#' \item Catch curve 
-#' \item Chapman-Robson 
+#' \item Mortality
+#' \item Catch curve
 #'}
+#'@concept Mortality 'Catch Curve'
 #'@source D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates.
 #'Transactions of the American Fisheries Society. 90:181-189.
 #'@keywords datasets

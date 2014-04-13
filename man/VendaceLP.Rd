@@ -32,5 +32,8 @@ plot(recruits~year,data=VendaceLP,type="l")
 plot(recruits~stock,data=VendaceLP)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

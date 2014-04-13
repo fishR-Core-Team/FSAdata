@@ -38,5 +38,8 @@ plot(recruits~year,data=PikeWindermere,subset=basin=="South",main="South")
 plot(recruits~stock,data=PikeWindermere,subset=basin=="South",main="South")
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

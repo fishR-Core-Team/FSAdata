@@ -22,14 +22,17 @@ Rainbow Trout (\emph{Oncorhynchus mykiss}) in the Kenai
 River, Alaska.
 }
 \section{Topic(s)}{
-  \itemize{ \item Mark-recapture \item Growth \item von
-  Bertalanffy \item Fabens method }
+  \itemize{ \item Growth \item von Bertalanffy \item Fabens
+  method }
 }
 \examples{
 data(RBTroutKenai)
 str(RBTroutKenai)
 head(RBTroutKenai)
 plot((Lr-Lm)~dt,data=RBTroutKenai)
+}
+\concept{
+Growth 'von Bertalanffy' Fabens
 }
 \keyword{datasets}
 

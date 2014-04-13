@@ -21,6 +21,7 @@
 #' \item Length-weight 
 #' \item Length conversion 
 #'}
+#'@concept 'Length-Weight'
 #'@source From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length
 #'conversions and length-weight relations for pallid sturgeon.  North American
 #'Journal of Fisheries Management. 13:395-397.

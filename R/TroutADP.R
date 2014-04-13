@@ -9,6 +9,13 @@
 #' \item{catch}{Removal event.} 
 #' \item{caught}{Number of fish captured and removed.} 
 #'}
+#'@section Topic(s): \itemize{
+#' \item Population size
+#' \item Abundance
+#' \item Depletion
+#' \item Removal
+#'}
+#'@concept Abundance 'Population Size' Depletion Removal
 #'@seealso \link{SalmonADP}
 #'@source From Table 1 in Cowx, I.G.  1983.  Review of the methods for estimating
 #'fish population size from survey removal data.  Fisheries Management, 14:67-82.

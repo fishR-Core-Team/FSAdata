@@ -27,6 +27,7 @@
 #' \item Growth increment analysis 
 #' \item Weisberg linear growth model 
 #'}
+#'@concept Growth Weisberg LGM
 #'@source Cyterski, M.J. and G.R. Spangler.  1996.  A tool for age
 #'determination. North American Journal of Fisheries Management, 16:403-412.
 #'@keywords datasets

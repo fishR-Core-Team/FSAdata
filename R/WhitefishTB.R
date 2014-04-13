@@ -16,6 +16,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source from Ransom Myers online database -- \url{ram.biology.dal.ca/~myers/data.html}
 #'
 #'Originally from from Petzold, M. 1995.  An historical analysis of the Lake

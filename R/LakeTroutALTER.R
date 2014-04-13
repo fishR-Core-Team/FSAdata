@@ -35,8 +35,11 @@
 #' \item Length frequency 
 #' \item Length-weight 
 #' \item Length conversion 
-#' \item Size-at-age growth model 
+#' \item Growth
+#' \item von Bertalanffy 
+#' \item Size Structure
 #'}
+#'@concept 'Length Frequency' 'Length-Weight' 'Growth' 'von Bertalanffy' 'Size Structure'
 #'@source Data was available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html}
 #'@keywords datasets
 #'@examples

@@ -19,6 +19,7 @@
 #' \item Growth 
 #' \item von Bertalanffy 
 #'}
+#'@concept Growth 'von Bertalanffy' Maturity
 #'@source Data from Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.
 #'Length and age at maturity of female yelloweye rockfish (\emph{Sebastes
 #'rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon

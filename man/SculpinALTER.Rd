@@ -32,8 +32,7 @@ otoliths.
 }
 \section{Topic(s)}{
   \itemize{ \item Length frequency \item Length-weight
-  \item Size-at-age growth model \item Growth \item von
-  Bertalanffy growth model }
+  \item Growth \item von Bertalanffy \item Size Structure }
 }
 \examples{
 data(SculpinALTER)
@@ -45,6 +44,10 @@ hist(SculpinALTER$age,main="")
 plot(w~tl,data=SculpinALTER)
 plot(tl~age,data=SculpinALTER)
 par(op)
+}
+\concept{
+Growth 'von Bertalanffy' 'Length Frequency' 'Length-Weight'
+'Size Structure'
 }
 \keyword{datasets}
 

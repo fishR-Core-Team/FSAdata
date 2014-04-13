@@ -28,5 +28,8 @@ plot(recruits~brood.year,data=ChinookKR,type="l")
 plot(recruits~spawners,data=ChinookKR)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

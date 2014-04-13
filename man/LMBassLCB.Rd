@@ -20,13 +20,17 @@ Length measurements of Largemouth Bass (\emph{Micropterus
 salmoides}) from Lake Carl Blackwell, Oklahoma, in 1973.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure
+  \item PSD }
 }
 \examples{
 data(LMBassLCB)
 str(LMBassLCB)
 head(LMBassLCB)
 hist(LMBassLCB$tl,main="")
+}
+\concept{
+'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

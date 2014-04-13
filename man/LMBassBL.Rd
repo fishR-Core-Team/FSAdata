@@ -20,13 +20,17 @@ Length measurements of Largemouth Bass (\emph{Micropterus
 salmoides}) from Boomer Lake, Oklahoma, in 1974.
 }
 \section{Topic(s)}{
-  \itemize{ \item Length frequency }
+  \itemize{ \item Length frequency \item Size Structure
+  \item PSD }
 }
 \examples{
 data(LMBassBL)
 str(LMBassBL)
 head(LMBassBL)
 hist(LMBassBL$tl,main="")
+}
+\concept{
+'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
 

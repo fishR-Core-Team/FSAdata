@@ -12,6 +12,7 @@
 #'\item{recruits}{a numeric vector containing the number of recruits.}
 #'}
 #'@section Topic(s): \itemize{ \item Stock-recruit }
+#'@concept 'Stock-Recruit'
 #'@source from \url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
 #'@keywords datasets
 #'@examples

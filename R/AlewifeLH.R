@@ -12,8 +12,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Hoenig, J.M., M.J. Morgan, and C.A. Brown. 1995.  Analysing
 #'differences between two age determination methods by tests of symmetry.
 #'Canadian Journal of Fisheries And Aquatic Systems, 52:364-368.

@@ -14,6 +14,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source from Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater
 #'herring (\emph{Clupea harengus} L.) in relation to larval production.  ICES
 #'Journal of Marine Science, 58:750-762.

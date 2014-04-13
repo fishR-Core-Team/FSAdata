@@ -33,5 +33,8 @@ data(BrookTroutNEWP)
 ## extract data for one stream, section, and date (e.g., 3rd row)
 BrookTroutNEWP[3,]
 }
+\concept{
+Abundance 'Population Size' Depletion Removal
+}
 \keyword{datasets}
 

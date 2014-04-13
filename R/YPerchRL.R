@@ -11,6 +11,7 @@
 #'@section Topic(s): \itemize{
 #' \item Recruitment time-series 
 #'}
+#'@concept Recruitment
 #'@source from Ransom Myers online database -- \url{ram.biology.dal.ca/~myers/data.html}.
 #'Originally from Smith, L. L. Jr. 1977. Walleye (\emph{Stizostedion vitreum})
 #'and yellow perch (\emph{Perca flavescens}) populations and fisheries of the

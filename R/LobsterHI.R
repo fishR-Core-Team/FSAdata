@@ -28,13 +28,14 @@
 #' \item{effort}{Total daily effort expended.} 
 #'}
 #'@section Topic(s): \itemize{
+#' \item Population size 
+#' \item Abundance 
 #' \item Depletion methods
 #' \item Leslie method
 #' \item DeLury method 
-#' \item Population size 
-#' \item Abundance 
 #' \item Catchability
 #'}
+#'@concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
 #'@source From Table 1 of Clarke, R.P., and S.S. Yoshimoto.  1990.  Application
 #'of the leslie model to commercial catch and effort of the slipper lobster,
 #'\emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands.

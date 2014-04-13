@@ -10,10 +10,12 @@
 #' \item{r2}{Ages assigned by the second reader.}
 #'}
 #'@section Topic(s): \itemize{
-#' \item Age comparison
-#' \item Age precision
+#' \item Age comparison 
+#' \item Age precision 
+#' \item Age Bias
 #' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Extracted from Figure 2 Chapter 3 of the Virginia Marine Resources
 #'Commissions's Final Report on finfish ageing, 2003.
 #'\href{http://ww2.odu.edu/sci/cqfe}{Available here.}

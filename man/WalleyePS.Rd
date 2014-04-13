@@ -29,7 +29,7 @@ not show this exact relationship.
 }
 \section{Topic(s)}{
   \itemize{ \item Age comparison \item Age precision \item
-  Ageing error }
+  Age Bias \item Ageing error }
 }
 \examples{
 data(WalleyePS)
@@ -43,6 +43,9 @@ plot(scale~spine,data=WalleyePS,subset=sex=="male",main="Male")
 plot(spine~otolith,data=WalleyePS,subset=sex=="female",main="Female")
 plot(spine~otolith,data=WalleyePS,subset=sex=="male",main="Male")
 par(op)
+}
+\concept{
+Age Precision Bias
 }
 \keyword{datasets}
 

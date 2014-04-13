@@ -31,5 +31,8 @@ str(BrookTroutNC)
 head(BrookTroutNC)
 plot(adult~yoy,data=BrookTroutNC)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

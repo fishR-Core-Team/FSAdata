@@ -13,6 +13,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source From Hilborn, R. and C.J. Walters.  1992.  Quantitative Fisheries Stock
 #'Assessment: Choice, Dynamics, and Uncertainty.  Chapman and Hall, New York.  570 p.
 #'@keywords datasets

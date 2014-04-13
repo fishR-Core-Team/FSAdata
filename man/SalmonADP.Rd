@@ -16,6 +16,10 @@ data.  Fisheries Management, 14:67-82.
 Catch in removal events of salmon parr from the Afon Dulas
 at Pentre, 19Jun79.
 }
+\section{Topic(s)}{
+  \itemize{ \item Population size \item Abundance \item
+  Depletion \item Removal }
+}
 \examples{
 data(SalmonADP)
 str(SalmonADP)
@@ -23,6 +27,9 @@ SalmonADP
 }
 \seealso{
 \link{TroutADP}
+}
+\concept{
+Abundance 'Population Size' Depletion Removal
 }
 \keyword{datasets}
 

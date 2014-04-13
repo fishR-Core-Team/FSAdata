@@ -33,5 +33,8 @@ plot(recruits~year,data=YPerchSB,type="b")
 plot(recruits~stock,data=YPerchSB)
 par(op)
 }
+\concept{
+'Stock-Recruit'
+}
 \keyword{datasets}
 

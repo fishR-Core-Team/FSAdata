@@ -14,8 +14,9 @@
 #' \item{tl}{Measured total lengths (mm).} 
 #'}
 #'@section Topic(s): \itemize{ 
-#' \item Age-length key 
+#' \item Age-Length Key 
 #'}
+#'@concept 'Age-Length Key'
 #'@seealso \code{\link{FWDrumLE1}}.
 #'@keywords datasets
 #'@examples

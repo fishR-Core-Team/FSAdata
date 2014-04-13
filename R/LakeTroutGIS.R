@@ -17,6 +17,7 @@
 #'@section Topic(s): \itemize{
 #' \item Stock-recruit 
 #'}
+#'@concept 'Stock-Recruit'
 #'@source from Ransom Myers online database -- \url{ram.biology.dal.ca/~myers/data.html}.
 #'
 #'Originally from Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.

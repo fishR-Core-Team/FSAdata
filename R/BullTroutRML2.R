@@ -17,10 +17,10 @@
 #' \item{era}{Era of collection (\code{1977-80} and \code{1997-01}.  See details.} 
 #'}
 #'@section Topic(s): \itemize{
-#' \item Size-at-age growth modeling
-#' \item Von Bertalanffy growth model 
 #' \item Growth
+#' \item Von Bertalanffy growth model 
 #'}
+#'@concept Growth 'Von Bertalanffy'
 #'@source Extracted (approximately) from Figure 2 of Parker, B.R., D.W.
 #'Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population
 #'responses to reductions in angler effort and retention limits.  North

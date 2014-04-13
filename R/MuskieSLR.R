@@ -13,8 +13,10 @@
 #'@section Topic(s): \itemize{
 #' \item Age comparison 
 #' \item Age precision 
-#' \item Ageing error 
+#' \item Age Bias
+#' \item Ageing error
 #'}
+#'@concept Age Precision Bias
 #'@source Casselman,J.M.  1983. Age and growth assessment of fish from their
 #'calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos,
 #'editors, Proceedings of the international workshop on age determination of

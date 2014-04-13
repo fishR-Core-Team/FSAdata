@@ -32,5 +32,9 @@ data(Riffleshell)
 str(Riffleshell)
 head(Riffleshell)
 }
+\concept{
+Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
+'Capture History'
+}
 \keyword{datasets}
 
