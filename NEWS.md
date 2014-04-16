@@ -7,7 +7,8 @@
 * `CreelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
 * `GreensCreekMine`: Added.
 * `JobfishSIO`: Modified.  Added a link to the article in the help file.
-* `SalmonidsMCCA': Added.
+* `SalmonidsMCCA`: Added.
+* `SnapperHG1`: Added.
 * `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
 
 
