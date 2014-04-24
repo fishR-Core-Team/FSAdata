@@ -2,7 +2,7 @@ FSAdata
 =======
 
 ## Introduction
-This is the github page for the **FSAdata** package that contains data for use in common fisheries stock analyses.  Several vignettes depicting typical fisheries stock assessment analyses are available at the <a href="http://fishr.wordpress.com/vignettes/" target="_blank">vignettes</a> page of the the <a href="http://fishr.wordpress.com/" target="_blank">fishR</a> webpage.
+This is the github page for the **FSAdata** package authored by [Derek Ogle](http://droglenc.wordpress.com/) at [Northland College](http://www.northland.edu/) that contains data for use in common fisheries stock analyses.  Several vignettes depicting typical fisheries stock assessment analyses are available at the <a href="http://fishr.wordpress.com/vignettes/" target="_blank">vignettes</a> page of the the <a href="http://fishr.wordpress.com/" target="_blank">fishR</a> webpage.
 
 ## Installation
 This package can be installed from github to your R with the following code
