@@ -6,7 +6,7 @@
 * Cleaned up help files (consistent spacing and labeling).
 * `FSAdata.R`: Modified.  Updated `help.search()` hints to include the FSA package.
 * `AlewifeLH`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.  Added link to reference.
-* `BluegillWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Cleaned up help file.
+* `BluegillWS`: Deleted.  Moved to FSAWs.
 * `BluefishAge`: Modified.  Corrected reference.  Cleaned up help file.
 * `Cabezon`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `ChinookArg`: Removed (moved to FSA).
@@ -35,7 +35,7 @@
 * `StripedBass5`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `StripedBass6`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `SunfishIN`: Modified.  Corrected a data entry error.  Added test example.  Cleaned up help file.
-* `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Cleaned up help file.
+* `WalleyeWS`: Deleted.  Moved to FSAWs.
 * `WhitefishLS`: Modified.  Corrected reference.  Cleaned up help file.
 * `YPerchTL`: Modified.  Corrected reference.  Cleaned up help file.
 
