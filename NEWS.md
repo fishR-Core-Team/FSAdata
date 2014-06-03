@@ -3,14 +3,41 @@
 * Changed to using github and compiling under R 3.1.0.
 * Moved FSA to a "suggests" rather than "depends".
 * Made topic sections consistent, added concept fields, and cleaned up titles in the help files so that `help.search()` worked better.
-* `BluegillWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* Cleaned up help files (consistent spacing and labeling).
+* `FSAdata.R`: Modified.  Updated `help.search()` hints to include the FSA package.
+* `AlewifeLH`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.  Added link to reference.
+* `BluegillWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Cleaned up help file.
+* `BluefishAge`: Modified.  Corrected reference.  Cleaned up help file.
+* `Cabezon`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `ChinookArg`: Removed (moved to FSA).
-* `CreelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `CreelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `Croaker1`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `Croaker2`: Modified.  Corrected reference.  Cleaned up help file.
 * `GreensCreekMine`: Added.
-* `JobfishSIO`: Modified.  Added a link to the article in the help file.
+* `Herman`: Modified.  Modified a link to the article in the help file.  Cleaned up help file.
+* `JobfishSIO`: Modified.  Added a link to the article in the help file.  Cleaned up help file.
+* `LakeTroutALTER`: Modified.  Corrected reference.  Cleaned up help file.
+* `Morwong1`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `Morwong2`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `MulletBS`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `MuskieSLR`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `PikeHL`: Modified.  Added a note.  Cleaned up help file.
+* `RuffeSLRH92`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `SalmonidsMCCA`: Added.
+* `SardineLK`: Modified.  Corrected reference.  Cleaned up help file.
+* `SculpinALTER`: Modified.  Corrected reference.  Cleaned up help file.
 * `SnapperHG1`: Added.
-* `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.
+* `SpotVA2`:  Modified.  Corrected reference.  Cleaned up help file.
+* `StripedBass1`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `StripedBass2`: Modified.  Corrected reference.  Cleaned up help file.
+* `StripedBass3`: Modified.  Corrected reference.  Cleaned up help file.
+* `StripedBass4`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `StripedBass5`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `StripedBass6`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `SunfishIN`: Modified.  Corrected a data entry error.  Added test example.  Cleaned up help file.
+* `WalleyeWS`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Cleaned up help file.
+* `WhitefishLS`: Modified.  Corrected reference.  Cleaned up help file.
+* `YPerchTL`: Modified.  Corrected reference.  Cleaned up help file.
 
 
 # 0.1.4 Apr14
