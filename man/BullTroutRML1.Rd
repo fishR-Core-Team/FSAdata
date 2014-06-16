@@ -4,30 +4,25 @@
 \alias{BullTroutRML1}
 \title{Lengths and weights for Bull Trout from two Rocky Mountain lakes.}
 \format{A data frame with 137 observations on the following 3 variables:
-\describe{
-\item{fl}{Fork length (mm).}
-\item{mass}{Wet mass (g).}
-\item{era}{Era of collection (\code{1977-79} and \code{2001}.  See details.}
-}}
+ \describe{
+   \item{fl}{Fork length (mm).}
+   \item{mass}{Wet mass (g).}
+   \item{era}{Era of collection (\code{1977-79} and \code{2001}.  See details.}
+ }}
 \source{
-Extracted (approximately) from Figure 3 of Parker, B.R., D.W.
-Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population
-responses to reductions in angler effort and retention limits.  North
-American Journal of Fisheries Management, 27:848-859.
+Extracted (approximately) from Figure 3 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.
 }
 \description{
-Lengths and weights for Bull Trout (\emph{Salvelinus confluentis}) from two
-Rocky Mountain lakes in Alberta, CA.
+Lengths and weights for Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA.
 }
-\details{
-The historical (1977-1980) era samples were from before restrictive
-sportfishing regulatory regimes were implemented (in the 1990s) that led to
-changes in abundance and population structure of bull trout.
+\note{
+The historical (1977-1980) era samples were from before restrictive sportfishing regulatory regimes were implemented (in the 1990s) that led to changes in abundance and population structure of bull trout.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Length-weight
-}
+   \item Length-weight
+ }
 }
 \examples{
 data(BullTroutRML1)

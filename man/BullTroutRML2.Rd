@@ -4,33 +4,27 @@
 \alias{BullTroutRML2}
 \title{Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.}
 \format{A data frame with 96 observations on the following 4 variables:
-\describe{
-\item{age}{Age (from otoliths).}
-\item{fl}{Fork length (mm).}
-\item{lake}{Lake (\code{Harrison} and \code{Osprey}).}
-\item{era}{Era of collection (\code{1977-80} and \code{1997-01}.  See details.}
-}}
+ \describe{
+   \item{age}{Age (from otoliths).}
+   \item{fl}{Fork length (mm).}
+   \item{lake}{Lake (\code{Harrison} and \code{Osprey}).}
+   \item{era}{Era of collection (\code{1977-80} and \code{1997-01}.  See details.}
+ }}
 \source{
-Extracted (approximately) from Figure 2 of Parker, B.R., D.W.
-Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population
-responses to reductions in angler effort and retention limits.  North
-American Journal of Fisheries Management, 27:848-859.
+Extracted (approximately) from Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.
 }
 \description{
-Assigned ages (from otoliths) and fork lengths of Bull Trout
-(\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA
-before and after a regulation change.
+Assigned ages (from otoliths) and fork lengths of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA before and after a regulation change.
 }
-\details{
-The historical (1977-1980) era samples were from before restrictive
-sportfishing regulatory regimes were implemented (in the 1990s) that led to
-changes in abundance and population structure of bull trout.
+\note{
+The historical (1977-1980) era samples were from before restrictive sportfishing regulatory regimes were implemented (in the 1990s) that led to changes in abundance and population structure of bull trout.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Growth
-\item Von Bertalanffy growth model
-}
+   \item Growth
+   \item Von Bertalanffy growth model
+ }
 }
 \examples{
 data(BullTroutRML2)

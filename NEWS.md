@@ -23,10 +23,13 @@
 * `MuskieSLR`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `PikeHL`: Modified.  Added a note.  Cleaned up help file.
 * `RuffeSLRH92`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `RWhitefishAI`: Added.
+* `RWhitefishIR`: Added.
 * `SalmonidsMCCA`: Added.
 * `SardineLK`: Modified.  Corrected reference.  Cleaned up help file.
 * `SculpinALTER`: Modified.  Corrected reference.  Cleaned up help file.
 * `SnapperHG1`: Added.
+* `SpottedSucker1`: Added.
 * `SpotVA2`:  Modified.  Corrected reference.  Cleaned up help file.
 * `StripedBass1`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `StripedBass2`: Modified.  Corrected reference.  Cleaned up help file.

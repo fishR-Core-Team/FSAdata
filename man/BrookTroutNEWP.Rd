@@ -2,33 +2,30 @@
 \docType{data}
 \name{BrookTroutNEWP}
 \alias{BrookTroutNEWP}
-\title{Catches in removal events for Brook Trout in the Nashwaak Experimental
-Watersheds Project.}
+\title{Catches in removal events for Brook Trout in the Nashwaak Experimental Watersheds Project.}
 \format{A data frame of 16 observations on the following 7 variables:
 \describe{
-\item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook.}
-\item{section}{Section of stream.  See source.}
-\item{date}{Data of collections.}
-\item{first}{Catch on the first removal pass.}
-\item{second}{Catch on the second removal pass.}
-\item{third}{Catch on the third removal pass.}
-\item{fourth}{Catch on the fourth removal pass.}
+  \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook.}
+  \item{section}{Section of stream.  See source.}
+  \item{date}{Data of collections.}
+  \item{first}{Catch on the first removal pass.}
+  \item{second}{Catch on the second removal pass.}
+  \item{third}{Catch on the third removal pass.}
+  \item{fourth}{Catch on the fourth removal pass.}
 }}
 \source{
-From Table 1 in Schnute, J.  1983.  A new approach to estimating
-populations by the removal method.  Canadian Journal of Fisheries and Aquatic
-Sciences, 40:2153-2169.
+From Table 1 in Schnute, J.  1983.  A new approach to estimating populations by the removal method.  Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 }
 \description{
-Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two
-streams in the the Nashwaak Experimental Watersheds Project on multiple dates.
+Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two streams in the the Nashwaak Experimental Watersheds Project on multiple dates.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Population size
-\item Abundance
-\item Removal
-}
+   \item Population size
+   \item Abundance
+   \item Removal
+ }
 }
 \examples{
 data(BrookTroutNEWP)
