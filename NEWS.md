@@ -1,5 +1,6 @@
-# 0.1.5 ongoing
+# 0.1.6 ongoing
 
+# 0.1.5 Jun14
 * Changed to using github and compiling under R 3.1.0.
 * Moved FSA to a "suggests" rather than "depends".
 * Made topic sections consistent, added concept fields, and cleaned up titles in the help files so that `help.search()` worked better.
