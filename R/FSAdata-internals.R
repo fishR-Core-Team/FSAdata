@@ -1,11 +1,13 @@
-#'Internal functions used in FSAdata.
-#'
-#'Internal functions used in FSAdata.
-#'
-#'@rdname FSAdata-internals
-#'@keywords internal
-#'@aliases .onAttach
-#'
+#' @title Internal functions used in FSAdata.
+#' 
+#' @description Internal functions used in FSAdata.
+#' 
+#' @rdname FSAdata-internals
+#' 
+#' @keywords internal
+#' 
+#' @aliases .onAttach
+#' 
 .onAttach <- function(lib,pkg,...) {
   ## Get version number -- basically code from readPkgVersion in SweaveListingUtils
   vers <- read.dcf(system.file("DESCRIPTION",package=pkg,lib.loc=lib),fields="Version")

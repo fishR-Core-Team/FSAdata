@@ -4,31 +4,27 @@
 \alias{Pallid}
 \title{Lengths and weights of Pallid Sturgeon from the Missouri River.}
 \format{A data frame with 30 observations on the following 7 variables:
-\describe{
-\item{date}{Date of collection}
-\item{sl}{Standard length (mm)}
-\item{fl}{Fork length (mm)}
-\item{tl}{Total length (mm)}
-\item{w}{Weight (g)}
-\item{status}{Living status of fish at time of collection (\code{Frozen},
-\code{Live}, \code{Dead}).}
-\item{loc}{Location of fish collection (\code{NB}=Nebraska, \code{SD}=South Dakota,
-\code{ND}=North Dakota, \code{MT}=Montana)}
-}}
+ \describe{
+   \item{date}{Date of collection}
+   \item{sl}{Standard length (mm)}
+   \item{fl}{Fork length (mm)}
+   \item{tl}{Total length (mm)}
+   \item{w}{Weight (g)}
+   \item{status}{Living status of fish at time of collection (\code{Frozen}, \code{Live}, \code{Dead}).}
+   \item{loc}{Location of fish collection (\code{NB}=Nebraska, \code{SD}=South Dakota, \code{ND}=North Dakota, \code{MT}=Montana)}
+ }}
 \source{
-From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length
-conversions and length-weight relations for pallid sturgeon.  North American
-Journal of Fisheries Management. 13:395-397.
+From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length conversions and length-weight relations for pallid sturgeon.  North American Journal of Fisheries Management. 13:395-397.
 }
 \description{
-Lengths (standard, fork, and total) and weights of Pallid Sturgion
-(\emph{Scaphirhynchus albus}) collected in the Missouri River drainage.
+Lengths (standard, fork, and total) and weights of Pallid Sturgion (\emph{Scaphirhynchus albus}) collected in the Missouri River drainage.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Length-weight
-\item Length conversion
-}
+   \item Length-weight
+   \item Length conversion
+ }
 }
 \examples{
 data(Pallid)

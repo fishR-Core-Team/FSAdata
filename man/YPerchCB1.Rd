@@ -4,39 +4,37 @@
 \alias{YPerchCB1}
 \title{Catch-at-age for Yellow Perch from Chequamegon Bay, Lake Superior.}
 \format{A data frame with 39 observations on the following 5 variables.
-\describe{
-\item{age}{Age in that capture year (1973-1988).}
-\item{year73}{Number of fish at each age in capture year 1973.}
-\item{year74}{Number of fish at each age in capture year 1974.}
-\item{year75}{Number of fish at each age in capture year 1975.}
-\item{year76}{Number of fish at each age in capture year 1976.}
-\item{year77}{Number of fish at each age in capture year 1977.}
-\item{year78}{Number of fish at each age in capture year 1978.}
-\item{year79}{Number of fish at each age in capture year 1979.}
-\item{year80}{Number of fish at each age in capture year 1980.}
-\item{year81}{Number of fish at each age in capture year 1981.}
-\item{year82}{Number of fish at each age in capture year 1982.}
-\item{year83}{Number of fish at each age in capture year 1983.}
-\item{year84}{Number of fish at each age in capture year 1984.}
-\item{year85}{Number of fish at each age in capture year 1985.}
-\item{year86}{Number of fish at each age in capture year 1986.}
-\item{year87}{Number of fish at each age in capture year 1987.}
-\item{year88}{Number of fish at each age in capture year 1988.}
-}}
+ \describe{
+   \item{age}{Age in that capture year (1973-1988).}
+   \item{year73}{Number of fish at each age in capture year 1973.}
+   \item{year74}{Number of fish at each age in capture year 1974.}
+   \item{year75}{Number of fish at each age in capture year 1975.}
+   \item{year76}{Number of fish at each age in capture year 1976.}
+   \item{year77}{Number of fish at each age in capture year 1977.}
+   \item{year78}{Number of fish at each age in capture year 1978.}
+   \item{year79}{Number of fish at each age in capture year 1979.}
+   \item{year80}{Number of fish at each age in capture year 1980.}
+   \item{year81}{Number of fish at each age in capture year 1981.}
+   \item{year82}{Number of fish at each age in capture year 1982.}
+   \item{year83}{Number of fish at each age in capture year 1983.}
+   \item{year84}{Number of fish at each age in capture year 1984.}
+   \item{year85}{Number of fish at each age in capture year 1985.}
+   \item{year86}{Number of fish at each age in capture year 1986.}
+   \item{year87}{Number of fish at each age in capture year 1987.}
+   \item{year88}{Number of fish at each age in capture year 1988.}
+ }}
 \source{
-Data from table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.
-Dynamics of a yellow perch population in Western Lake Superior.  North
-American Journal of Fisheries Management 13:511-523.
+Data from table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
 }
 \description{
-Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay,
-Lake Superior, 1973-1988.
+Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay, Lake Superior, 1973-1988.
 }
 \section{Topic(s)}{
- \itemize{\
-\item Mortality
-\item Catch curve
-}
+
+ \itemize{
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(YPerchCB1)

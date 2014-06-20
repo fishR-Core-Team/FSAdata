@@ -38,6 +38,13 @@
 * `StripedBass5`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `StripedBass6`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
 * `SunfishIN`: Modified.  Corrected a data entry error.  Added test example.  Cleaned up help file.
+* `WalleyeMN06a`: Modified.  Added link to reference.  Cleaned up help file.
+* `WalleyeMN06b`: Modified.  Added link to reference.  Cleaned up help file.
+* `WalleyePL`: Added.
+* `WalleyePL1`: Deleted.  Combined to form `WalleyePL`.
+* `WalleyePL2`: Deleted.  Combined to form `WalleyePL`.
+* `WalleyePL3`: Deleted.  Combined to form `WalleyePL`.
+* `WalleyePL4`: Deleted.  Combined to form `WalleyePL`.
 * `WalleyeWS`: Deleted.  Moved to FSAWs.
 * `WhitefishLS`: Modified.  Corrected reference.  Cleaned up help file.
 * `YPerchTL`: Modified.  Corrected reference.  Cleaned up help file.

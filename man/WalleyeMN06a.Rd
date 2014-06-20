@@ -4,26 +4,23 @@
 \alias{WalleyeMN06a}
 \title{Catch-at-age for Walleye.}
 \format{A data frame with 52 observations on the following 3 variables.
-\describe{
-\item{lake}{A factor vector of collection lake (Crooked, Fourmile, Island, Tom).}
-\item{age}{A numeric vector of assigned ages (from dorsal spines).}
-\item{number}{A numeric vector of number of fish.}
-}}
+ \describe{
+   \item{lake}{A factor vector of collection lake (Crooked, Fourmile, Island, Tom).}
+   \item{age}{A numeric vector of assigned ages (from dorsal spines).}
+   \item{number}{A numeric vector of number of fish.}
+ }}
 \source{
-Data from various tables in Borkholder, B.D., A.J. Edwards, and C.
-Olson.  2007.  Spring adult and fall juvenile walleye popluation surveys
-within the 1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of
-Resource Management, Technical Report #41
+Data from various tables in Borkholder, B.D., A.J. Edwards, and C. Olson. 2007.  \href{http://www.1854treatyauthority.org/cms/files/REP Fish Walleye Survey 2006.pdf}{Spring adult and fall juvenile walleye popluation surveys within the 1854 ceded territory of Minnesota, 2006.}  Fond du Lac Division of Resource Management, Technical Report 41.
 }
 \description{
-Catch-at-age for Walleye (\emph{Sander vitreus}) collected from four lakes in
-Northern Minnesota, USA.
+Catch-at-age for Walleye (\emph{Sander vitreus}) collected from four lakes in Northern Minnesota, USA.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Mortality
-\item Catch curve
-}
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(WalleyeMN06a)

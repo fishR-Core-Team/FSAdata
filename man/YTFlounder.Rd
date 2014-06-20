@@ -3,29 +3,26 @@
 \name{YTFlounder}
 \alias{YTFlounder}
 \title{Ages of Yellowtail Flounder assigned from scales and otoliths.}
-\format{A data frame with 27 paired observations on the following 3
-variables.  \describe{
-\item{scale}{Ages assigned from scales.}
-\item{whole}{Ages assigned from whole otoliths.}
-\item{cross}{Ages assigned from cross-sections of otoliths.}
-}}
+\format{A data frame with 27 paired observations on the following 3 variables.
+ \describe{
+   \item{scale}{Ages assigned from scales.}
+   \item{whole}{Ages assigned from whole otoliths.}
+   \item{cross}{Ages assigned from cross-sections of otoliths.}
+ }}
 \source{
-Extracted from tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.
-The Canada-United States yellowtail flounder age reading workshop: 28-30
-November2000, St. John's, Newfoundland.  North Atlantic Fisheries
-Organization.  Scientific Council Studies 35:1-59.
+Extracted from tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.  The Canada-United States yellowtail flounder age reading workshop: 28-30 November2000, St. John's, Newfoundland.  North Atlantic Fisheries Organization.  Scientific Council Studies 35:1-59.
 }
 \description{
-Ages of commercially caught Georges Bank Yellowtail Flounder (\emph{Limanda
-ferruginea}) as determined by scales, whole otoliths, or otolith cross-sections.
+Ages of commercially caught Georges Bank Yellowtail Flounder (\emph{Limanda ferruginea}) as determined by scales, whole otoliths, or otolith cross-sections.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Age comparison
-\item Age precision
-\item Age Bias
-\item Ageing error
-}
+   \item Age comparison
+   \item Age precision
+   \item Age Bias
+   \item Ageing error
+ }
 }
 \examples{
 data(YTFlounder)

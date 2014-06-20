@@ -4,23 +4,22 @@
 \alias{RockBassCL}
 \title{Catch-at-age of Cayuga Lake Rock Bass.}
 \format{A data frame of 6 observations on the following 2 variables:
-\describe{
-\item{age}{Assigned age.}
-\item{catch}{Number in catch.}
-}}
+ \describe{
+   \item{age}{Assigned age.}
+   \item{catch}{Number in catch.}
+ }}
 \source{
-D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates.
-Transactions of the American Fisheries Society. 90:181-189.
+D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates. Transactions of the American Fisheries Society. 90:181-189.
 }
 \description{
-Catch-at-age for Cayuga Lake Rock Bass (\emph{Amploplites rupestris}) from a
-single season.
+Catch-at-age for Cayuga Lake Rock Bass (\emph{Amploplites rupestris}) from a single season.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Mortality
-\item Catch curve
-}
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(RockBassCL)

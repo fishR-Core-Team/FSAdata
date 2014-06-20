@@ -4,27 +4,23 @@
 \alias{FHCatfishATL}
 \title{Catch-at-age of Flathead Catfish from three Atlantic rivers.}
 \format{A data frame of 44 observations on the following 3 variables:
-\describe{
-\item{river}{Collection river (\code{Lumber}, \code{NCF}, and \code{Neuse}).}
-\item{age}{Age (yrs) assessed by otolith.}
-\item{number}{Number of captured fish.}
-}}
+ \describe{
+   \item{river}{Collection river (\code{Lumber}, \code{NCF}, and \code{Neuse}).}
+   \item{age}{Age (yrs) assessed by otolith.}
+   \item{number}{Number of captured fish.}
+ }}
 \source{
-Extracted (approximately) from Figure 2 in Kwak, T.J., W.E. Pine III,
-and D.S. Waters.  2006.  Age, growth, and mortality of introduced flathead
-catfish in Atlantic rivers and a review of other populations.  North American
-Journal of Fisheries Management 26:73-87.
+Extracted (approximately) from Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters.  2006.  Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations.  North American Journal of Fisheries Management 26:73-87.
 }
 \description{
-Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three
-populations of Atlantic rivers -- Lumber River, Northeast Cape Fear River
-(NCF), and Neuse River.
+Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three populations of Atlantic rivers -- Lumber River, Northeast Cape Fear River (NCF), and Neuse River.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Mortality
-\item Catch curve
-}
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(FHCatfishATL)

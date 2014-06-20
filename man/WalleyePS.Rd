@@ -4,34 +4,29 @@
 \alias{WalleyePS}
 \title{Ages of Walleye assigned from otoliths, scales, and spines.}
 \format{A data frame with 61 observations on the following 4 variables:
-\describe{
-\item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections.}
-\item{spine}{Age (years) assigned from dorsal spine sections.}
-\item{scale}{Age (years) assigned from scale impressions.}
-\item{sex}{Sex of fish (\code{female} and \code{male}).}
-}}
+ \describe{
+   \item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections.}
+   \item{spine}{Age (years) assigned from dorsal spine sections.}
+   \item{scale}{Age (years) assigned from scale impressions.}
+   \item{sex}{Sex of fish (\code{female} and \code{male}).}
+ }}
 \source{
-Extracted from Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.
-A comparison of methods for estimating ages of unexploited walleyes.  North
-American Journal of Fisheries Management 20:1044-1048.
+Extracted from Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.  A comparison of methods for estimating ages of unexploited walleyes.  North American Journal of Fisheries Management 20:1044-1048.
 }
 \description{
-Age of Pymatuning Sanctuary (PA) Walleye (\emph{Sander vitreus}) assessed
-from three calcified structures -- sectioned otoliths, sectioned dorsal
-spines, and scale impressions.
+Age of Pymatuning Sanctuary (PA) Walleye (\emph{Sander vitreus}) assessed from three calcified structures -- sectioned otoliths, sectioned dorsal spines, and scale impressions.
 }
-\details{
-Relationships between otoliths and spines and otoliths and scales are exact
-according to Figure 2.  Relationship between spines and scales is approximate
-as Figure 2 did not show this exact relationship.
+\note{
+Relationships between otoliths and spines and otoliths and scales are exact according to Figure 2.  Relationship between spines and scales is approximate as Figure 2 did not show this exact relationship.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Age comparison
-\item Age precision
-\item Age Bias
-\item Ageing error
-}
+   \item Age comparison
+   \item Age precision
+   \item Age Bias
+   \item Ageing error
+ }
 }
 \examples{
 data(WalleyePS)

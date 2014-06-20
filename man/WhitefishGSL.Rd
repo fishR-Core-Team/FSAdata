@@ -4,32 +4,29 @@
 \alias{WhitefishGSL}
 \title{Catch-at-age of Great Slave Lake Whitefish (commercial) by area.}
 \format{A data frame with 16 observations on the following 6 variables:
-\describe{
-\item{age}{Assigned ages.}
-\item{area.IE}{Catches for area IE.}
-\item{area.II}{Catches for area II.}
-\item{area.IV}{Catches for area IV.}
-\item{area.V}{Catches for area V.}
-\item{area.IW}{Catches for area IW.}
-}}
+ \describe{
+   \item{age}{Assigned ages.}
+   \item{area.IE}{Catches for area IE.}
+   \item{area.II}{Catches for area II.}
+   \item{area.IV}{Catches for area IV.}
+   \item{area.V}{Catches for area V.}
+   \item{area.IW}{Catches for area IW.}
+ }}
 \source{
-From Table 19 of Mosenko, R.W., and G. Low.  1980.  Data from the
-commercial fishery for lake whitefish \emph{Coregonus clupeaformis}
-(Mitchill), on Great Slave Lake, Northwest Territories, 1979.  Canadian Data
-Report of Fisheries And Aquatic Sciences, No. 194.
+From Table 19 of Mosenko, R.W., and G. Low.  1980.  Data from the commercial fishery for lake whitefish \emph{Coregonus clupeaformis} (Mitchill), on Great Slave Lake, Northwest Territories, 1979.  Canadian Data Report of Fisheries And Aquatic Sciences, No. 194.
 }
 \description{
-Age composition of commercial Whitefish (\emph{Coregonus clupeaformis})
-catches for five areas of Great Slave Lake.
+Age composition of commercial Whitefish (\emph{Coregonus clupeaformis}) catches for five areas of Great Slave Lake.
 }
-\details{
-All data is from summer samples except for Area.IW which is a winter sample
+\note{
+All data are from summer samples except for Area.IW which is a winter sample
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Mortality
-\item Catch curve
-}
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(WhitefishGSL)

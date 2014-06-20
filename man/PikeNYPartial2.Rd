@@ -2,32 +2,31 @@
 \docType{data}
 \name{PikeNYPartial2}
 \alias{PikeNYPartial2}
-\title{Capture histories (4 samples), in capture-by-date format, of a subset of
-Northern Pike from Buckthorn Marsh.}
+\title{Capture histories (4 samples) of a subset of Northern Pike from Buckthorn Marsh.}
 \format{A data frame with 69 observations on the following 2 variables.
-\describe{
-\item{sample}{Name of the sample taken.}
-\item{id}{Unique fish identification numbers.}
-}}
+ \describe{
+   \item{sample}{Name of the sample taken.}
+   \item{id}{Unique fish identification numbers.}
+ }}
 \source{
-New York Power Authority.  2004.  Use of buckhorn marsh and grand island
-tributaries by northern pike for spawning and as a nursery. Technical report,
-New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
+New York Power Authority.  2004.  Use of buckhorn marsh and grand island tributaries by northern pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
 }
 \description{
-Each line consists of the date and unique fish identification number over
-four samples of northern pike (\emph{Esox lucius}) in Buckthorn Marsh.  This
-file contains the capture histories for only those pike captured from April 1-4.
+Capture histories (4 samples), in capture-by-date format, of a subset of Northern Pike from Buckthorn Marsh.
+}
+\details{
+Each line consists of the date and unique fish identification number over four samples of northern pike (\emph{Esox lucius}) in Buckthorn Marsh.  This file contains the capture histories for only those pike captured from April 1-4.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Population size
-\item Abundance
-\item Mark-recapture
-\item Schnabel method
-\item Schumacher-Eschmeyer method
-\item Capture history
-}
+   \item Population size
+   \item Abundance
+   \item Mark-recapture
+   \item Schnabel method
+   \item Schumacher-Eschmeyer method
+   \item Capture history
+ }
 }
 \examples{
 data(PikeNYPartial2)

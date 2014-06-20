@@ -4,22 +4,21 @@
 \alias{WalleyeConsumption}
 \title{Consumption of prey by Walleye.}
 \format{A data frame of 23 observations on the following 2 variables:
-\describe{
-\item{PreyDensity}{Density of prey (mg per g per day).}
-\item{FoodConsump}{Food consumption by predator (mg per cubic meter)}
-}}
+ \describe{
+   \item{PreyDensity}{Density of prey (mg per g per day).}
+   \item{FoodConsump}{Food consumption by predator (mg per cubic meter)}
+ }}
 \source{
-Madenjian, C.P., and S.R. Carpenter. 1991. Individual-based model for
-growth of young-of-the-year walleye: A piece of the recruitment puzzle.
-Ecological Applications.  1:268-279.
+Madenjian, C.P., and S.R. Carpenter. 1991. Individual-based model for growth of young-of-the-year walleye: A piece of the recruitment puzzle.  Ecological Applications.  1:268-279.
 }
 \description{
-Consumption of prey by Walleye at different prey densities.
+Consumption of prey by Walleye (\emph{Sander vitreus}) at different prey densities.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Nonlinear modeling
-}
+   \item Nonlinear modeling
+ }
 }
 \examples{
 data(WalleyeConsumption)

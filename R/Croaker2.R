@@ -1,7 +1,6 @@
-#' Ages, lengths, and sexes of Atlantic Croaker by sex.
+#' @title Ages, lengths, and sexes of Atlantic Croaker by sex.
 #' 
-#' Assigned ages (by otoliths), total lengths, and sexes of Atlantic Croaker
-#' (\emph{Micropogonias undulatus}).
+#' @description Assigned ages (by otoliths), total lengths, and sexes of Atlantic Croaker (\emph{Micropogonias undulatus}).
 #' 
 #' @name Croaker2
 #' 

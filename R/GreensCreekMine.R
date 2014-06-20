@@ -6,7 +6,6 @@
 #' 
 #' @name GreensCreekMine
 #' 
-#' 
 #' @docType data
 #' 
 #' @format A data frame of 66 observations on the following 8 variables:

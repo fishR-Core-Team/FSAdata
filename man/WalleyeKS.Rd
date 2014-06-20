@@ -4,30 +4,26 @@
 \alias{WalleyeKS}
 \title{Catch-at-age for Walleye from eight Kansas reservoirs.}
 \format{A data frame with 66 observations on the following 3 variables.
-\describe{
-\item{reservoir}{Reservoir (Cedar.Bluff, Cheney, Glen.Elder, Kirwin,
-Lovewell, Marion, Webster, Wilson)}
-\item{age}{Age of fish at capture}
-\item{catch}{Number of fish captured}
-}}
+ \describe{
+   \item{reservoir}{Reservoir (Cedar.Bluff, Cheney, Glen.Elder, Kirwin, Lovewell, Marion, Webster, Wilson)}
+   \item{age}{Age of fish at capture}
+   \item{catch}{Number of fish captured}
+ }}
 \source{
-Extracted from Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D
-Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs:
-Use of mortality caps to establish realistic management objectives.  North
-American Journal of Fisheries Management 24:990-1002.
+Extracted from Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives.  North American Journal of Fisheries Management 24:990-1002.
 }
 \description{
-Catch-at-age for Walleye (\emph{Sander vitreus}) from eight Kansas reservoirs
-during 1991-1999.
+Catch-at-age for Walleye (\emph{Sander vitreus}) from eight Kansas reservoirs during 1991-1999.
 }
-\details{
+\note{
 The authors used all age-2 and older Walleye to construct the catch curves.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Mortality
-\item Catch curve
-}
+   \item Mortality
+   \item Catch curve
+ }
 }
 \examples{
 data(WalleyeKS)

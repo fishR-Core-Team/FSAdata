@@ -4,11 +4,11 @@
 \alias{Hake}
 \title{Stock and recruitment data for Hake.}
 \format{A data frame with 15 observations on the following 3 variables.
-\describe{
-\item{year}{a numeric vector of years 1982-1996}
-\item{recruits}{a numeric vector of the number of recruits in millions}
-\item{spawn.biomass}{a numeric vector of spawning biomass in thousand tonnes}
-}}
+ \describe{
+   \item{year}{a numeric vector of years 1982-1996}
+   \item{recruits}{a numeric vector of the number of recruits in millions}
+   \item{spawn.biomass}{a numeric vector of spawning biomass in thousand tonnes}
+ }}
 \source{
 Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 pp.
 }
@@ -16,9 +16,10 @@ Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 p
 Stock and recruitment data of Hake (\emph{Merluccius merluccius}), 1982-1996.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Stock-recruit
-}
+   \item Stock-recruit
+ }
 }
 \examples{
 data(Hake)
