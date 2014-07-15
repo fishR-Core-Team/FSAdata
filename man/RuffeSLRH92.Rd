@@ -6,11 +6,11 @@
 \format{A data frame of 738 observations on the following 11 variables:
 
 \describe{
- \item{fish.id}{A semi-unique fish identification number.}
+ \item{fish.id}{A unique fish identification number (across all years, most of which are not shown in this file.}
  \item{month}{Month of capture}
  \item{day}{Day of capture.}
  \item{year}{Year of capture.}
- \item{species}{A unique fish identification number within the year.}
+ \item{indiv}{A unique fish identification number within the year.}
  \item{location}{Grid location of capture.}
  \item{length}{Total length (mm).}
  \item{weight}{Weight (g).}

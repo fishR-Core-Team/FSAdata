@@ -9,7 +9,7 @@
    \item{FoodConsump}{Food consumption by predator (mg per cubic meter)}
  }}
 \source{
-Madenjian, C.P., and S.R. Carpenter. 1991. Individual-based model for growth of young-of-the-year walleye: A piece of the recruitment puzzle.  Ecological Applications.  1:268-279.
+From Figure 3 in Madenjian, C.P., and S.R. Carpenter. 1991. \href{http://www.esajournals.org/doi/abs/10.2307/1941756}{Individual-based model for growth of young-of-the-year walleye: A piece of the recruitment puzzle.}  Ecological Applications.  1:268-279.  Data were originally from Swenson, W. A. 1977. \href{http://www.nrcresearchpress.com/doi/abs/10.1139/f77-229?journalCode=jfrbc}{Food consumptions of walleye (\emph{Stizostedion vitreum vitreum}) and sauger (\emph{S. canadense}) in relation to food availability and physical conditions in Lake of the Woods, Minnesota, Shagawa Lake, and western Lake Superior.}  Journal of the Fisheries Research Board of Canada 34:1643-1654.
 }
 \description{
 Consumption of prey by Walleye (\emph{Sander vitreus}) at different prey densities.
@@ -24,7 +24,7 @@ Consumption of prey by Walleye (\emph{Sander vitreus}) at different prey densiti
 data(WalleyeConsumption)
 str(WalleyeConsumption)
 head(WalleyeConsumption)
-plot(FoodConsump~PreyDensity,data=WalleyeConsumption)
+plot(FoodConsump~PreyDensity,data=WalleyeConsumption,pch=16)
 }
 \keyword{datasets}
 

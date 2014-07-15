@@ -7,10 +7,10 @@
  \describe{
    \item{fl}{Fork length (mm).}
    \item{mass}{Wet mass (g).}
-   \item{era}{Era of collection (\code{1977-79} and \code{2001}.  See details.}
+   \item{era}{Era of collection (\code{1977-79} and \code{2001}).  See details.}
  }}
 \source{
-Extracted (approximately) from Figure 3 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.
+Extracted (approximately) from Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  \href{http://www.tandfonline.com/doi/abs/10.1577/M06-051.1\#.U6bd__ldV8E}{Bull trout population responses to reductions in angler effort and retention limits.}  North American Journal of Fisheries Management, 27:848-859.
 }
 \description{
 Lengths and weights for Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA.

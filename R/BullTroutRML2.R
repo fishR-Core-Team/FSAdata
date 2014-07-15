@@ -13,7 +13,7 @@
 #'    \item{age}{Age (from otoliths).} 
 #'    \item{fl}{Fork length (mm).}
 #'    \item{lake}{Lake (\code{Harrison} and \code{Osprey}).} 
-#'    \item{era}{Era of collection (\code{1977-80} and \code{1997-01}.  See details.} 
+#'    \item{era}{Era of collection (\code{1977-80} and \code{1997-01}).  See details.} 
 #'  }
 #' 
 #' @section Topic(s):
@@ -24,7 +24,7 @@
 #' 
 #' @concept Growth 'Von Bertalanffy'
 #' 
-#' @source Extracted (approximately) from Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.
+#' @source Extracted (approximately) from Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  \href{http://www.tandfonline.com/doi/abs/10.1577/M06-051.1\#.U6bd__ldV8E}{Bull trout population responses to reductions in angler effort and retention limits.}  North American Journal of Fisheries Management, 27:848-859.
 #' 
 #' @keywords datasets
 #' 

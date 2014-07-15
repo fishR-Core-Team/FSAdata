@@ -1,4 +1,4 @@
-fish.id	month	day	year	species	location	length	weight	sex	maturity	age
+fish.id	month	day	year	indiv	location	length	weight	sex	maturity	age
 1992.0001	4	23	1992	1	160170	90	9.3	male	ripe	NA
 1992.0002	4	23	1992	2	160170	128	32.5	female	ripe	NA
 1992.0003	4	23	1992	3	160170	112	19	male	ripe	NA

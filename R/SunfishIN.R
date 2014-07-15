@@ -40,16 +40,16 @@
 #'
 #'## See if mrClosed() (from FSA) results match Ricker 
 #'require(FSA)
-#'mr1 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,type="Schnabel",chapman.mod=FALSE))
+#'mr1 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel",chapman.mod=FALSE))
 #'summary(mr1)                      # should be 448 (Ricker/Krebs)
 #'confint(mr1,ci.type="normal")     # should be 320-746 (Ricker)
 #'confint(mr1,ci.type="Poisson")    # should be 310-720 (Krebs)
 #'
-#'mr1c <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,type="Schnabel"))
+#'mr1c <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel"))
 #'summary(mr1c)                     # should be 430
 #'confint(mr1c,ci.type="Poisson")   # should be 302-697 (Ricker)
 #'
-#'mr2 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,type="SchumacherEschmeyer"))
+#'mr2 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="SchumacherEschmeyer"))
 #'summary(mr2)                      # should be 423
 #'confint(mr2,ci.type="normal")     # should be 304-696 (Ricker), 300-719 (Krebs)
 NULL

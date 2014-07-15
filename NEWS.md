@@ -1,4 +1,10 @@
 # 0.1.6 ongoing
+* `BullTroutRML1`: Modified.  Updated the source reference.
+* `BullTroutRML2`: Modified.  Updated the source reference.
+* `CutthroatALf`: Added.
+* `RuffeSLRH92`: Modified.  Changed the `species` variable to `indiv`.
+* `SunfishIn`: Modified.  Updated example after changes to `mrClosed()` in `FSA`.
+* `WalleyeConsumption`: Modified.  Updated the source reference.
 
 # 0.1.5 Jun14
 * Changed to using github and compiling under R 3.1.0.
