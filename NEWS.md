@@ -1,4 +1,7 @@
-# 0.1.6 ongoing
+# 0.1.7 ongoing
+* Modified two examples to use `interactive()` because of use of `FSA` package.
+
+# 0.1.6 Jul14
 * `BullTroutRML1`: Modified.  Updated the source reference.
 * `BullTroutRML2`: Modified.  Updated the source reference.
 * `CutthroatALf`: Added.

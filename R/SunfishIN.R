@@ -27,29 +27,34 @@
 #'
 #' @source Gerking, S.D.  1953.  Vital statistics of the fish population of Gordy Lake, Indiana.  Transactions of the American Fisheries Society.  82:48-67.
 #'
-#'Krebs, C.J.  1999. Ecological Methodology. Addison-Welsey Educational Publishing, second edition.
+#' Krebs, C.J.  1999. Ecological Methodology. Addison-Welsey Educational Publishing, second edition.
 #'
-#'Ricker, W.E.  1975. Computation and interpretation of biological statistics of fish populations. Technical Report Bulletin 191, Bulletin of the Fisheries Research Board of Canada
+#' Ricker, W.E.  1975. Computation and interpretation of biological statistics of fish populations. Technical Report Bulletin 191, Bulletin of the Fisheries Research Board of Canada
 #'    
 #' @keywords datasets
 #' 
 #' @examples
-#'data(SunfishIN)
-#'str(SunfishIN)
-#'SunfishIN
+#' data(SunfishIN)
+#' str(SunfishIN)
+#' SunfishIN
 #'
-#'## See if mrClosed() (from FSA) results match Ricker 
-#'require(FSA)
-#'mr1 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel",chapman.mod=FALSE))
-#'summary(mr1)                      # should be 448 (Ricker/Krebs)
-#'confint(mr1,ci.type="normal")     # should be 320-746 (Ricker)
-#'confint(mr1,ci.type="Poisson")    # should be 310-720 (Krebs)
+#' ## ONLY RUN IN INTERACTIVE MODE
+#' if (interactive()) {
 #'
-#'mr1c <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel"))
-#'summary(mr1c)                     # should be 430
-#'confint(mr1c,ci.type="Poisson")   # should be 302-697 (Ricker)
+#'   ## See if mrClosed() (from FSA) results match Ricker 
+#'   require(FSA)
+#'   mr1 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel",chapman.mod=FALSE))
+#'   summary(mr1)                      # should be 448 (Ricker/Krebs)
+#'   confint(mr1,ci.type="normal")     # should be 320-746 (Ricker)
+#'   confint(mr1,ci.type="Poisson")    # should be 310-720 (Krebs)
 #'
-#'mr2 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="SchumacherEschmeyer"))
-#'summary(mr2)                      # should be 423
-#'confint(mr2,ci.type="normal")     # should be 304-696 (Ricker), 300-719 (Krebs)
+#'   mr1c <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="Schnabel"))
+#'   summary(mr1c)                     # should be 430
+#'   confint(mr1c,ci.type="Poisson")   # should be 302-697 (Ricker)
+#'
+#'   mr2 <- with(SunfishIN,mrClosed(n=caught,m=recaps,R=retmarks,method="SchumacherEschmeyer"))
+#'   summary(mr2)                      # should be 423
+#'   confint(mr2,ci.type="normal")     # should be 304-696 (Ricker), 300-719 (Krebs)
+#'   
+#' } # end interactive
 NULL
