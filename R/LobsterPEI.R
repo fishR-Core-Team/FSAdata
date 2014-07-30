@@ -8,7 +8,7 @@
 #' 
 #' @docType data
 #' 
-#' @format A data frame with 34 observations on the following 6 variables.
+#' @format A data frame with 34 observations on the following 3 variables.
 #'  \describe{
 #'    \item{day}{Day of the catch.  Day 1 is 2-May-1944.} 
 #'    \item{catch}{Catch of Lobster in 1000s of pounds.} 

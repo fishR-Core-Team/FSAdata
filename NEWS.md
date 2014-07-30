@@ -1,6 +1,8 @@
 # 0.1.7 ongoing
 * Modified two examples to use `interactive()` because of use of `FSA` package.
+* `DarterMahon`: Added.
 * `LobsterPEI`: Added.  Used as an example to test `depletion()` in the `FSA` package.
+* `ShrimpGuam`: Added.
 
 # 0.1.6 Jul14
 * `BullTroutRML1`: Modified.  Updated the source reference.
