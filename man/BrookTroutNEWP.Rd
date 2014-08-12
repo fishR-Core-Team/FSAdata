@@ -5,7 +5,7 @@
 \title{Catches in removal events for Brook Trout in the Nashwaak Experimental Watersheds Project.}
 \format{A data frame of 16 observations on the following 7 variables:
 \describe{
-  \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook.}
+  \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).}
   \item{section}{Section of stream.  See source.}
   \item{date}{Data of collections.}
   \item{first}{Catch on the first removal pass.}
@@ -32,6 +32,9 @@ data(BrookTroutNEWP)
 
 ## extract data for one stream, section, and date (e.g., 3rd row)
 BrookTroutNEWP[3,]
+}
+\seealso{
+See \code{\link{BrookTroutNEWP1}} for these data AND the results from Schnute (1983).
 }
 \concept{
 Abundance 'Population Size' Removal

@@ -8,7 +8,7 @@
 #' 
 #' @format A data frame of 16 observations on the following 7 variables:
 #' \describe{
-#'   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook.} 
+#'   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).} 
 #'   \item{section}{Section of stream.  See source.}
 #'   \item{date}{Data of collections.}
 #'   \item{first}{Catch on the first removal pass.} 
@@ -27,6 +27,8 @@
 #' @concept Abundance 'Population Size' Removal
 #' 
 #' @source From Table 1 in Schnute, J.  1983.  A new approach to estimating populations by the removal method.  Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
+#' 
+#' @seealso See \code{\link{BrookTroutNEWP1}} for these data AND the results from Schnute (1983).
 #' 
 #' @keywords datasets
 #' 
