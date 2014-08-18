@@ -1,6 +1,6 @@
 #' @title Age (subsample) and length (all fish) of Snapper from two survey locations.
 #' 
-#' @description A large sample (not random or proportional) of Snapper (\emph{Pagrus auratus} were aged from otoliths, with the remainder of the fish just measured for length.  Note that age-20 is actually age 19+.
+#' @description A large sample (not random or proportional) of Snapper (\emph{Pagrus auratus}) were aged from otoliths, with the remainder of the fish just measured for length.  Note that age-20 is actually age 19+.
 #' 
 #' @name SnapperHG1
 #' 

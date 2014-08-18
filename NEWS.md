@@ -4,6 +4,7 @@
 * `DarterMahon`: Added.
 * `LobsterPEI`: Added.  Used as an example to test `depletion()` in the `FSA` package.
 * `ShrimpGuam`: Added.
+* `SnapperHG1`: Added.
 
 # 0.1.6 Jul14
 * `BullTroutRML1`: Modified.  Updated the source reference.
