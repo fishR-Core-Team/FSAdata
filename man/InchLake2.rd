@@ -3,7 +3,7 @@
 \name{InchLake2}
 \alias{InchLake2}
 \title{Lengths and weights of fish captured in Inch Lake}
-\format{A data frame of 4894 observations on the following 5 variables:
+\format{A data frame of 516 observations on the following 6 variables:
  \describe{
    \item{netID}{A unique identifier for the sampling event.}
    \item{fishID}{A unique identifier for the individual fish.}
@@ -22,9 +22,7 @@ Total lengths and weights of a subsample of fish captured in Inch Lake, Bayfield
 
  \itemize{
    \item Length-weight relationships
-   \item Length frequency
-   \item Size structure
-   \item PSD
+   \item Condition
  }
 }
 \examples{
@@ -39,10 +37,10 @@ bg.il <- subset(InchLake2,species=="Bluegill")
 lmb7.il <- subset(InchLake2,species=="Largemouth Bass" & year==2007)
 }
 \seealso{
-\code{\link{InchLake1}}.
+See \code{\link{InchLake1}} for the entire sample, but without weights.
 }
 \concept{
-'Length-Weight' 'Length Frequency' 'Size Structure' PSD
+'Length-Weight' Condition
 }
 \keyword{datasets}
 

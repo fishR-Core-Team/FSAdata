@@ -24,7 +24,7 @@
 #'  
 #' @concept 'Length Frequency' 'Size Structure' PSD
 #' 
-#' @seealso \code{\link{InchLake1}}.
+#' @seealso See \code{\link{InchLake2}} for a subsample that include weights.
 #' 
 #' @source Derek H. Ogle, personal collection
 #' 

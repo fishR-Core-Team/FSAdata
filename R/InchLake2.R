@@ -6,7 +6,7 @@
 #' 
 #' @docType data
 #' 
-#' @format A data frame of 4894 observations on the following 5 variables:
+#' @format A data frame of 516 observations on the following 6 variables:
 #'  \describe{
 #'    \item{netID}{A unique identifier for the sampling event.}
 #'    \item{fishID}{A unique identifier for the individual fish.}
@@ -19,14 +19,12 @@
 #' @section Topic(s):
 #'  \itemize{
 #'    \item Length-weight relationships
-#'    \item Length frequency
-#'    \item Size structure
-#'    \item PSD
+#'    \item Condition
 #'  }
 #'  
-#' @concept 'Length-Weight' 'Length Frequency' 'Size Structure' PSD
+#' @concept 'Length-Weight' Condition
 #' 
-#' @seealso \code{\link{InchLake1}}.
+#' @seealso See \code{\link{InchLake1}} for the entire sample, but without weights.
 #' 
 #' @source Derek H. Ogle, personal collection
 #' 
