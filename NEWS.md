@@ -1,4 +1,6 @@
-# 0.1.7 ongoing
+# 0.1.8 ongoing
+
+# 0.1.7 Aug14
 * Modified two examples to use `interactive()` because of use of `FSA` package.
 * `BrookTroutNEWP1`: Added.  Use as an example to test `removal()` in the `FSA` package.
 * `DarterMahon`: Added.
