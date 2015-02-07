@@ -23,7 +23,7 @@
 #'  
 #' @concept Mortality 'Catch Curve'
 #' 
-#' @source Extracted from Figure 2 of Bonvechi, T.F., M.S. Allen, and R.L. Cailteux.  2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass  in Four Florida Rivers.  North American Journal of Fisheries Management 25:275-283.
+#' @source Extracted from Figure 2 of \href{http://sfrc.ufl.edu/allenlab/publications/2005bonvechio_allen_cailteux.pdf}{Bonvechio, T.F., M.S. Allen, and R.L. Cailteux.  2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass  in Four Florida Rivers.  North American Journal of Fisheries Management 25:275-283.}
 #' 
 #' @keywords datasets
 #' 
