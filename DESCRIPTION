@@ -1,6 +1,6 @@
 Package: FSAdata
 Title: Data to support Fish Stock Assessment (FSA) package
-Version: 0.1.8
+Version: 0.1.9
 Date: 2015
 Description: The datasets to support the ``Fish Stock Assessment'' (FSA) package.
 Authors@R: person("Derek","Ogle",email="dogle@northland.edu",role=c("aut","cre"))

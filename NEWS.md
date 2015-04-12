@@ -1,6 +1,9 @@
-# 0.1.8 ongoing
+# 0.1.9 ongoing
+
+# 0.1.8 Apr14
 * Updated DESCRIPTION file (following this -- http://r-pkgs.had.co.nz/description.html).  Also added LazyData: true.
 * `Pathfinder`: Added.
+* `YPerchSB`: Modified.  Corrected bug with data.
 
 # 0.1.7 Aug14
 * Modified two examples to use `interactive()` because of use of `FSA` package.
