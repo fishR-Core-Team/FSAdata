@@ -20,7 +20,7 @@
 #'   
 #' @concept Growth 'von Bertalanffy'
 #'
-#' @source From Box 5.4 in Iseley, J.J. and T.B. Grabowski.  2007.  Age and Growth in Guy, C.S. and M.L. Brown, editors.  \href{http://www.montana.edu/mtcfru/Guy/AIFFD.html}{Analysis and Interpretation of Freshwater Fisheries Data}.  American Fisheries Society.  Likely originally from Grabowski, T.B., S.P. Young, J.J. Isely, and P.C. Ely.  \href{http://www.fwspubs.org/doi/pdf/10.3996/012012-JFWM-008}{Age, growth, and reproductive biology of three catostomids from the Apalachicola River, Florida.}  Journal of Fish and Wildlife Management 3:223-237.
+#' @source From Box 5.4 in Iseley, J.J. and T.B. Grabowski.  2007.  Age and Growth in Guy, C.S. and M.L. Brown, editors.  Analysis and Interpretation of Freshwater Fisheries Data.  American Fisheries Society.  Likely originally from Grabowski, T.B., S.P. Young, J.J. Isely, and P.C. Ely.  \href{http://www.fwspubs.org/doi/pdf/10.3996/012012-JFWM-008}{Age, growth, and reproductive biology of three catostomids from the Apalachicola River, Florida.}  Journal of Fish and Wildlife Management 3:223-237.
 #'
 #' @keywords datasets
 #'

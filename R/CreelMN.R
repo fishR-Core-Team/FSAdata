@@ -23,8 +23,7 @@
 #' levels(CreelMN$species)
 #' 
 #' ## ONLY RUN IN INTERACTIVE MODE
-#' if (interactive()) {
-#' 
+#' \dontrun{
 #'   require(FSA)
 #'   wae <- Subset(CreelMN,species=="WAE")
 #'   ( waetbl <- table(wae$harvest) )
@@ -45,6 +44,6 @@
 #'   ( svd1 <- sum(wae$svd1[wae$svd1>0]) )
 #'   round(svd1/ttlwae*100,1)
 #' 
-#' } # end interactive
+#' }
 #' 
 NULL

@@ -2,7 +2,7 @@
 #' 
 #' @description This package contains data to support the FSA package.
 #' 
-#' @details This package contains additional data files that can be used for common fisheries stock assessment methods described in the \pkg{FSA} package and on the \href{http://fishr.wordpress.com/}{fishR webpage}.
+#' @details This package contains additional data files that can be used for common fisheries stock assessment methods described in the \pkg{FSA} package and on the \href{https://fishr.wordpress.com/}{fishR webpage}.
 #' 
 #' The help files for these datasets are embedded with topics that can be searched to find data files that can be analyzed with those topics.  For example, use the following commands to find data files for the corresponding topics.
 #' 
@@ -26,7 +26,7 @@
 #'  \code{help.search("Age-Length Key",package=c("FSAdata","FSA"))} \tab Age-Length Key data.\cr
 #' }
 #'  
-#' Several additional data sets can be found in the FSA package (development version found at \url{http://fishr.wordpress.com/fsa/}).
+#' Several additional data sets can be found in the FSA package (development version found at \url{https://fishr.wordpress.com/fsa/}).
 #' 
 #' @docType package
 #' 
