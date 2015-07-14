@@ -1,4 +1,11 @@
-# 0.1.9 ongoing
+# 0.2.0 ongoing
+
+# 0.1.9 Jul15
+* Removed several URLs that either did not work consistently or have been moved.  Fixed several others.
+* Fixed title in DESCRIPTION.
+* Fixed CITATION.
+* Removed Suggests for `FSA`.
+* Added Travis CI.
 
 # 0.1.8 Apr14
 * Updated DESCRIPTION file (following this -- http://r-pkgs.had.co.nz/description.html).  Also added LazyData: true.
