@@ -31,4 +31,7 @@
 #' @docType package
 #' 
 #' @name FSAdata
+#' 
+#' @importFrom utils read.table
+
 NULL
