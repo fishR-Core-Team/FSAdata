@@ -1,6 +1,8 @@
 # 0.2.0 ongoing
 * Added importFrom for `utils`.
 * `CutthroatALF.R`: Modified.  Changed to use `utils::read.table()` rather than `read.table()`.
+* `WalleyeErie2`: Added.
+* `WalleyeML`: Added.
 
 # 0.1.9 Jul15
 * Removed several URLs that either did not work consistently or have been moved.  Fixed several others.
