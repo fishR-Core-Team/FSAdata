@@ -17,7 +17,7 @@
  \item{age}{Age (yrs) from otoliths.}
 }}
 \source{
-from XXX.  \bold{Do not use for other than educational purposes without permission from the source.}
+These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot).  \bold{Do not use for other than educational purposes without permission from the source.}
 }
 \description{
 Walleye (\emph{Sander vitreus}) biological data (length, weight, sex, maturity, and age) from several locations in Lake Erie, October-November of 2003-2014.
