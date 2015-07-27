@@ -27,7 +27,7 @@
 #'  \item Condition
 #' }
 #' @concept 'Growth' 'Length-Weight' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition'
-#' @source from XXX.  \bold{Do not use for other than educational purposes without permission from the source.}
+#' @source These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot).  \bold{Do not use for other than educational purposes without permission from the source.}
 #' 
 #' @keywords datasets
 #' 

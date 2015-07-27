@@ -22,7 +22,7 @@
 #'  \item Back-calculation
 #' }
 #' @concept 'Growth' 'von Bertalanffy' 'Back-calculation'
-#' @source from XXX.  \bold{Do not use for other than educational purposes without permission from the source.}
+#' @source These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (Melissa Treml).  \bold{Do not use for other than educational purposes without permission from the source.}
 #' 
 #' @keywords datasets
 #' 
