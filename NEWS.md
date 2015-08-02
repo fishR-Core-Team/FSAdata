@@ -1,5 +1,8 @@
-# 0.2.0 ongoing
+# 0.2.1 ongoing
+
+# 0.2.0 Aug15
 * Added importFrom for `utils`.
+* `BluegilLM`: Added.  Moved from `FSA`.
 * `CutthroatALF.R`: Modified.  Changed to use `utils::read.table()` rather than `read.table()`.
 * `WalleyeErie2`: Added.
 * `WalleyeML`: Added.
