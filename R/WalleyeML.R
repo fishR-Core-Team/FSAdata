@@ -10,7 +10,7 @@
 #'  \item{Year}{Year of data.} 
 #'  \item{Sex}{Sex (female, male).} 
 #'  \item{Est.Age}{Estimated (from otoliths) age (yrs) at capture.}
-#'  \item{TL}{TOtal length (mm).}
+#'  \item{TL}{Total length (mm).}
 #'  \item{Scale.Rad}{Total scale radius (mm) at capture.} 
 #'  \item{Dist.Ann}{Scale radisus (mm) to annulus given in \code{BC.Age}.} 
 #'  \item{BC.Age}{Annulus or previous age.} 
@@ -22,7 +22,7 @@
 #'  \item Back-calculation
 #' }
 #' @concept 'Growth' 'von Bertalanffy' 'Back-calculation'
-#' @source These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (Melissa Treml).  \bold{Do not use for other than educational purposes without permission from the source.}
+#' @source These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (via Melissa Treml).  \bold{Do not use for other than educational purposes without permission from the source.}
 #' 
 #' @keywords datasets
 #' 
