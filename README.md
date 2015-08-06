@@ -1,6 +1,8 @@
 FSAdata
 =======
 [![Travis-CI Build Status](https://travis-ci.org/droglenc/FSAdata.svg?branch=master)](https://travis-ci.org/droglenc/FSAdata)
+[![](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 
 ## Introduction
 The **FSAdata** package, authored by [Derek Ogle](http://droglenc.wordpress.com/) at [Northland College](http://www.northland.edu/), contains data for use in common fisheries stock analyses.  Several vignettes that illustrate typical fisheries stock assessment analyses are available at the <a href="https://fishr.wordpress.com/vignettes/" target="_blank">vignettes</a> page of the the <a href="https://fishr.wordpress.com/" target="_blank">fishR</a> webpage.
