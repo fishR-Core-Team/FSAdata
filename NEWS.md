@@ -1,4 +1,7 @@
-# 0.2.1 ongoing
+# 0.2.2 ongoing
+
+# 0.2.1 Sep15
+* Updated `README.md` and `DESCRIPTION` to reflect the new websites.
 
 # 0.2.0 Aug15
 * Added importFrom for `utils`.
