@@ -1,0 +1,45 @@
+# YPerchSB.txt 
+# 
+# from Ransom Myers online database -- which was from Henderson, B.A. 1985. Factors affecting
+#   growth and recruitment of yellow perch, Perca flavescens Mitchill, in South Bay, Lake 
+#   Huron. Journal of Fisheries Biology 26:449-458.
+#
+# year: Year of data
+# stock: Spawning stock (number per set)
+# recruits: Recruits (number age-4 per set).
+#
+year	stock	recruits
+1950  0.600 NA
+1951 15.228 15.030036
+1952 18.252 45.264960
+1953 11.196 42.959052
+1954 13.652 27.413216
+1955 21.942 31.113756
+1956 27.212  9.496988
+1957 26.414  6.445016
+1958 55.984  4.086832
+1959 45.128  5.821512
+1960 50.850  2.745900
+1961 97.349  3.115168
+1962 63.148  2.020736
+1963 41.562  1.704042
+1964 24.234  0.775488
+1965 15.503  0.170533
+1966  7.779  2.287026
+1967  4.294  2.177058
+1968  4.669  1.340003
+1969  0.686  0.742252
+1970  0.784  0.861616
+1971  0.167  0.939041
+1972  3.896  1.663592
+1973  7.000  2.030000
+1974  0.833  0.489804
+1975  0.330  1.809060
+1976  1.548  0.421056
+1977  4.752  0.574992
+1978  5.027  NA
+1979  1.198  NA
+1980  1.800  NA
+1981  2.558  NA
+1982  2.523  NA
+1983  0.453  NA

@@ -1,4 +1,7 @@
-# 0.2.2 ongoing
+# 0.3.0 ongoing
+
+# 0.2.2 Oct15
+* Converted all `.txt` files to `.Rda` files.  Original `.txt` files are in the `data-raw` directory which was added to `.Rbuildignore`.
 
 # 0.2.1 Sep15
 * Updated `README.md` and `DESCRIPTION` to reflect the new websites.

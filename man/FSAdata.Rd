@@ -9,7 +9,7 @@
 This package contains data to support the FSA package.
 }
 \details{
-This package contains additional data files that can be used for common fisheries stock assessment methods described in the \pkg{FSA} package and on the \href{https://derekogle.com/fishR/}{fishR website}.
+This package contains additional data files that can be used for common fisheries stock assessment methods described in the \pkg{FSA} package and on the \href{http://derekogle.com/fishR/}{fishR website}.
 
 The help files for these datasets are embedded with topics that can be searched to find data files that can be analyzed with those topics.  For example, use the following commands to find data files for the corresponding topics.
 
