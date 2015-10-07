@@ -10,7 +10,9 @@ The **FSAdata** package, authored by [Derek Ogle](http://derekogle.com/) at [Nor
 You can [browse data help pages here](http://rforge.net/doc/packages/FSAdata/00Index.html).    Recent changes are described in the [News file](https://github.com/droglenc/FSAdata/blob/master/NEWS.md)
 
 ## Installation
-**FSAdata** has not yet been released on CRAN.  The latest version can be installed from GitHub (requires the **devtools** package) with ...
+**FSAdata** is available [on CRAN](https://cran.r-project.org/web/packages/FSAdata/index.html) and can be installed like any other package.
+
+The development version can be installed from GitHub (requires the **devtools** package) with ...
 
 ```r
 if (!require('devtools')) install.packages('devtools'); require('devtools')
@@ -23,4 +25,6 @@ Alternatively, **FSAdata** can be installed from **RForge.net** with ...
 source("http://www.rforge.net/FSAdata/InstallFSAdata.R")
 ```
 
-These installations fail in a few situations.  [Send me an e-mail](mailto:fishr@derekogle.com?Subject=FSAdata%20Installation%20Question) if you experience difficulties installing **FSAdata**.
+## Questions / Comments / Problems
+
+Report questions, comments, or bug reports on the [issues page](https://github.com/droglenc/FSAdata/issues).
