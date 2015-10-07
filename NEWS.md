@@ -1,4 +1,7 @@
-# 0.3.0 ongoing
+# 0.3.1 ongoing
+
+# 0.3.0 6Oct15
+* Released to CRAN
 
 # 0.2.2 Oct15
 * Converted all `.txt` files to `.Rda` files.  Original `.txt` files are in the `data-raw` directory which was added to `.Rbuildignore`.
