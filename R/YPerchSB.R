@@ -8,17 +8,18 @@
 #' 
 #' @format A data frame with 15 observations on the following 3 variables:
 #'  \describe{
-#'    \item{year}{Year of data.} 
-#'    \item{stock}{Spawning stock (number per set).} 
-#'    \item{recruits}{Recruits (number per set).} 
+#'    \item{year}{Year of data}
+#'    \item{stock}{Spawning stock (number per set)}
+#'    \item{recruits}{Recruits (number per set)}
 #'  }
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit'
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source from Henderson, B.A. 1985. Factors affecting growth and recruitment of yellow perch, \emph{Perca flavescens} Mitchill, in South Bay, Lake Huron. Journal of Fisheries Biology 26:449-458.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
 #' 

@@ -1,7 +1,6 @@
 #' Ages and lengths of Atlantic Ocean Striped Bass.
 #' 
-#' Assigned ages (from otoliths) and measured total lengths for each of 1201
-#' Striped Bass (\emph{Morone saxatilis}) from the Atlantic Ocean.
+#' Assigned ages (from otoliths) and measured total lengths for each of 1201 Striped Bass (\emph{Morone saxatilis}) from the Atlantic Ocean.
 #' 
 #' @name StripedBass2
 #' 

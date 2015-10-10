@@ -8,19 +8,20 @@
 #' 
 #' @format A data frame of 39 observations on the following 5 variables:
 #'  \describe{
-#'    \item{yrclass}{Year-class of the data.} 
-#'    \item{age0}{Abundance of age-0 Walleye (recruits).} 
-#'    \item{age5}{Abundance of age-5 and older Walleye (stock).} 
-#'    \item{maycv}{Coefficient of variation of May temperatures in birth year.} 
-#'    \item{yep}{Abundance of adult (larger than 152.4 mm) Yellow Perch.} 
+#'    \item{yrclass}{Year-class of the data}
+#'    \item{age0}{Abundance of age-0 Walleye (recruits)}
+#'    \item{age5}{Abundance of age-5 and older Walleye (stock)}
+#'    \item{maycv}{Coefficient of variation of May temperatures in birth year}
+#'    \item{yep}{Abundance of adult (larger than 152.4 mm) Yellow Perch}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
-#'  
-#' @concept 'Stock-Recruit'
+#' 
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs.  1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995.  North American Journal of Fisheries Management 18:764-774.
 #' 

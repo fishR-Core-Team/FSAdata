@@ -8,14 +8,14 @@
 #' 
 #' @format A data frame with 445 observations on the following 2 variables.
 #' \describe{
-#'   \item{r1}{Ages assigned by the first reader.}
-#'   \item{r2}{Ages assigned by the second reader.}
+#'   \item{r1}{Ages assigned by the first reader}
+#'   \item{r2}{Ages assigned by the second reader}
 #' }
 #' @section Topic(s): \itemize{
-#'   \item Age comparison 
-#'   \item Age precision 
+#'   \item Age Comparison
+#'   \item Age Precision 
 #'   \item Age Bias
-#'   \item Ageing error
+#'   \item Ageing Error
 #'  }
 #' 
 #' @concept Age Precision Bias 'Age Comparison'

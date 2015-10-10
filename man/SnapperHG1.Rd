@@ -6,8 +6,8 @@
 \title{Age (subsample) and length (all fish) of Snapper from two survey locations.}
 \format{A data frame of 18421 observations on the following 3 variables:
  \describe{
-   \item{len}{Measured lengths (cm).}
-   \item{age}{Ages assigned from examination of otoliths.}
+   \item{len}{Measured lengths (cm)}
+   \item{age}{Ages assigned from examination of otoliths}
    \item{survey}{Survey location (\code{KAH8810} or \code{KAH0012})}
  }}
 \source{
@@ -19,7 +19,7 @@ A large sample (not random or proportional) of Snapper (\emph{Pagrus auratus}) w
 \section{Topic(s)}{
 
  \itemize{
-   \item Age-length key
+   \item Age-Length Key
  }
 }
 \examples{

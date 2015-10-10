@@ -6,8 +6,8 @@
 \title{Ages of Lake Huron Alewife assigned from otoliths and scales.}
 \format{A data frame of 104 observations on the following 2 variables:
  \describe{
-   \item{otoliths}{Age assigned from examination of otoliths.}
-   \item{scales}{Age assigned from examination of scales.}
+   \item{otoliths}{Age assigned from examination of otoliths}
+   \item{scales}{Age assigned from examination of scales}
  }}
 \source{
 Hoenig, J.M., M.J. Morgan, and C.A. Brown. 1995.  Analysing differences between two age determination methods by tests of symmetry.  Canadian Journal of Fisheries And Aquatic Systems, 52:364-368.
@@ -18,10 +18,10 @@ Ages of Alewife (\emph{Alosa pseudoharengus}) assessed from otoliths and scales.
 \section{Topic(s)}{
 
  \itemize{
-   \item Age comparison
-   \item Age precision
+   \item Age Comparison
+   \item Age Precision
    \item Age Bias
-   \item Ageing error
+   \item Ageing Error
  }
 }
 \examples{

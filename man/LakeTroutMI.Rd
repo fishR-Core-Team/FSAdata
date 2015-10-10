@@ -3,13 +3,13 @@
 \docType{data}
 \name{LakeTroutMI}
 \alias{LakeTroutMI}
-\title{Stock and recruitment data for Lake Trout in Lake Superior.}
+\title{Stock and recruitment data for Lake Trout in Lake Superior, 1971-1991.}
 \format{A data frame of 105 observations on the following 5 variables:
  \describe{
    \item{year}{Year of data}
-   \item{recruits}{Recuit index -- geometric mean number of age-7 fish/km/net-night.}
-   \item{wild}{Wild fish spawning stock index -- geometric mean number of wild age-8 and older fish/km/net-night.}
-   \item{stocked}{Stocked fish spawning stock index -- geometric mean number of stocked age-8 and older fish/km/net-night.}
+   \item{recruits}{Recuit index -- geometric mean number of age-7 fish/km/net-night}
+   \item{wild}{Wild fish spawning stock index -- geometric mean number of wild age-8 and older fish/km/net-night}
+   \item{stocked}{Stocked fish spawning stock index -- geometric mean number of stocked age-8 and older fish/km/net-night}
    \item{area}{Lake Superior management unit}
  }}
 \source{
@@ -21,7 +21,8 @@ Stock and recruitment data for the 1971-1991 year-classes of Lake Trout (\emph{S
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -43,7 +44,7 @@ plot(recruits~stock,data=LakeTroutMI,subset=area=="MI7",col="yellow",main="MI7")
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

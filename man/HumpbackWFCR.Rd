@@ -6,10 +6,10 @@
 \title{Capture histories (2 sample) of Humpback Whitefish.}
 \format{A data frame with 1920 observations on the following 4 variables:
  \describe{
-   \item{sectMrun}{Section where the fish was captured on the marking run.}
-   \item{Mrun}{Indicator variable for the marking run (1=captured).}
-   \item{Rrun}{Indicator variable for the recapture run (1=captured).}
-   \item{sectRrun}{Section where the fish was captured on the recapture run.}
+   \item{sectMrun}{Section where the fish was captured on the marking run}
+   \item{Mrun}{Indicator variable for the marking run (1=captured)}
+   \item{Rrun}{Indicator variable for the recapture run (1=captured)}
+   \item{sectRrun}{Section where the fish was captured on the recapture run}
  }}
 \source{
 From Table 10 in Gryska, A.D.  2014.  Stock assessment of humpback whitefish in the Chatanika River, 2012.  Alaska Department of Fish and Game, Fishery Data Series No. 14-12, Anchorage.  Available from https://www.cf.adfg.state.ak.us/FedAidPDFs/FDS14-12.pdf.
@@ -20,11 +20,12 @@ Capture histories for Humpback Whitefish (\emph{Coregonus pidschian}) greater  t
 \section{Topic(s)}{
 
  \itemize{
-   \item Population size
+   \item Population Size
    \item Abundance
-   \item Mark-recapture
-   \item Petersen method
-   \item Capture history
+   \item Mark-Recapture
+   \item Capture-Recapture
+   \item Petersen
+   \item Capture History
  }
 }
 \examples{
@@ -33,7 +34,7 @@ str(HumpbackWFCR)
 head(HumpbackWFCR)
 }
 \concept{
-Abundance 'Population Size' 'Mark-Recapture' 'Petersen' 'Capture History'
+Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
 }
 \keyword{datasets}
 

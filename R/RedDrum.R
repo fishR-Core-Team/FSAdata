@@ -1,4 +1,4 @@
-#' @title Ages and lengths of Red Drum.
+#' @title Ages and lengths for Red Drum from the Atlantic Coast.
 #' 
 #' @description Assigned ages (from otoliths) and fork lengths of Red Drum (\emph{Sciaenops ocellatus}) from various areas of the Atlantic Coast, 1981-1988.
 #' 
@@ -8,8 +8,8 @@
 #' 
 #' @format A data frame with 393 observations on the following 2 variables.
 #'  \describe{
-#'    \item{age}{Age (from otoliths to the nearest years but recorded at half-years).} 
-#'    \item{fl}{Fork length (mm).} 
+#'    \item{age}{Age (from otoliths to the nearest years but recorded at half-years)} 
+#'    \item{fl}{Fork length (mm)} 
 #'  }
 #'  
 #' @section Topic(s):

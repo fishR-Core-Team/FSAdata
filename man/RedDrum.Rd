@@ -3,11 +3,11 @@
 \docType{data}
 \name{RedDrum}
 \alias{RedDrum}
-\title{Ages and lengths of Red Drum.}
+\title{Ages and lengths for Red Drum from the Atlantic Coast.}
 \format{A data frame with 393 observations on the following 2 variables.
  \describe{
-   \item{age}{Age (from otoliths to the nearest years but recorded at half-years).}
-   \item{fl}{Fork length (mm).}
+   \item{age}{Age (from otoliths to the nearest years but recorded at half-years)}
+   \item{fl}{Fork length (mm)}
  }}
 \source{
 Extracted (approximately) from Figure 27 in Vaughan, D.S. and T.E. Helser.  1990.  Status of the red drum stock of the Atlantic Coast: Stock assessment report for 1989.  NOAA Technical Memorandum, NMFS-SEFC-263.

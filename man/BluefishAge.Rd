@@ -6,8 +6,8 @@
 \title{Ages of Bluefish assigned from otoliths by two readers.}
 \format{A data frame with 445 observations on the following 2 variables.
 \describe{
-  \item{r1}{Ages assigned by the first reader.}
-  \item{r2}{Ages assigned by the second reader.}
+  \item{r1}{Ages assigned by the first reader}
+  \item{r2}{Ages assigned by the second reader}
 }}
 \source{
 Extracted from Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
@@ -17,10 +17,10 @@ Ages assigned to Bluefish (\emph{Pomatomus saltatrix}) otoliths by two readers.
 }
 \section{Topic(s)}{
  \itemize{
-  \item Age comparison
-  \item Age precision
+  \item Age Comparison
+  \item Age Precision
   \item Age Bias
-  \item Ageing error
+  \item Ageing Error
  }
 }
 \examples{

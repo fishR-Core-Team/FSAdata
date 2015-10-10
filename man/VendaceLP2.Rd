@@ -6,8 +6,8 @@
 \title{Stock and recruitment data for Vendace from Lake Pyhajarvi.}
 \format{A data frame of 9 observations on the following 2 variables:
  \describe{
-   \item{fecundity}{Total fecundity (10^9 eggs) of spawning stock.}
-   \item{recruits}{Number of recruits (10^6 fish) in Autumn after hatching.}
+   \item{fecundity}{Total fecundity (10^9 eggs) of spawning stock}
+   \item{recruits}{Number of recruits (10^6 fish) in Autumn after hatching}
  }}
 \source{
 Extracted (approximately) figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland.  Journal of Fish Biology 45:387-400.
@@ -21,7 +21,8 @@ Original authors fit an exponential curve to the fecundity-recruits relationship
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -31,7 +32,7 @@ head(VendaceLP2)
 plot(recruits~fecundity,data=VendaceLP2)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

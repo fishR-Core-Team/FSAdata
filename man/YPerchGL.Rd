@@ -3,7 +3,7 @@
 \docType{data}
 \name{YPerchGL}
 \alias{YPerchGL}
-\title{Lengths and weights of Yellow Perch from Grafton Lake by year.}
+\title{Lengths and weights of Yellow Perch from Grafton Lake (ME) by year.}
 \format{A data frame with 100 observations on the following 3 variables:
  \describe{
    \item{fl}{Fork Length (nearest mm) at capture.}
@@ -19,7 +19,8 @@ Yellow Perch (\emph{Perca flavescens}) fork lengths and weights seperated by yea
 \section{Topic(s)}{
 
  \itemize{
-   \item Length-weight
+   \item Weight-Length
+   \item Length Frequency
  }
 }
 \examples{
@@ -32,7 +33,7 @@ plot(w~fl,data=YPerchGL,subset=year==2000,main="2000")
 par(op)
 }
 \concept{
-'Length-Weight'
+'Weight-Length' 'Length Frequency'
 }
 \keyword{datasets}
 

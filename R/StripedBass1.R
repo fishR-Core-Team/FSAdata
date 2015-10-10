@@ -1,7 +1,6 @@
 #' Ages of Striped Bass assigned from scales and otoliths.
 #' 
-#' Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed
-#' scales and cracked-and-burnt otoliths.
+#' Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed scales and cracked-and-burnt otoliths.
 #' 
 #' @name StripedBass1
 #' 
@@ -9,16 +8,16 @@
 #' 
 #' @format A data frame of 343 observations on the following 2 variables:
 #'  \describe{
-#'    \item{ageO}{Age assigned from examinaton of otoliths.}
-#'    \item{ageS}{Age assigned from examination of scales.} 
+#'    \item{ageO}{Age assigned from examinaton of otoliths}
+#'    \item{ageS}{Age assigned from examination of scales} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #' 
 #' @concept Age Precision Bias

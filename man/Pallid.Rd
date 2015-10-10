@@ -3,7 +3,7 @@
 \docType{data}
 \name{Pallid}
 \alias{Pallid}
-\title{Lengths and weights of Pallid Sturgeon from the Missouri River.}
+\title{Lengths and weights for Pallid Sturgeon from four locations in the Missouri River.}
 \format{A data frame with 30 observations on the following 7 variables:
  \describe{
    \item{date}{Date of collection}
@@ -18,13 +18,13 @@
 From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length conversions and length-weight relations for pallid sturgeon.  North American Journal of Fisheries Management. 13:395-397.
 }
 \description{
-Lengths (standard, fork, and total) and weights of Pallid Sturgion (\emph{Scaphirhynchus albus}) collected in the Missouri River drainage.
+Lengths (standard, fork, and total) and weights for Pallid Sturgion (\emph{Scaphirhynchus albus}) collected at four locations in the Missouri River drainage.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Length-weight
-   \item Length conversion
+   \item Weight-Length
+   \item Length Conversion
  }
 }
 \examples{
@@ -40,7 +40,7 @@ plot(w~tl,data=Pallid,subset=loc=="MT",main="Montana")
 par(op)
 }
 \concept{
-'Length-Weight'
+'Weight-Length' 'Length Conversion'
 }
 \keyword{datasets}
 

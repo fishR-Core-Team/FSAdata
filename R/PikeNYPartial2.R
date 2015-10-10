@@ -10,21 +10,22 @@
 #' 
 #' @format A data frame with 69 observations on the following 2 variables.
 #'  \describe{
-#'    \item{sample}{Name of the sample taken.} 
-#'    \item{id}{Unique fish identification numbers.} 
+#'    \item{sample}{Name of the sample taken}
+#'    \item{id}{Unique fish identification numbers}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Population size 
-#'    \item Abundance 
-#'    \item Mark-recapture 
-#'    \item Schnabel method 
-#'    \item Schumacher-Eschmeyer method 
-#'    \item Capture history
+#'    \item Population Size
+#'    \item Abundance
+#'    \item Mark-Recapture
+#'    \item Capture-Recapture
+#'    \item Schnabel
+#'    \item Schumacher-Eschmeyer
+#'    \item Capture History
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel' 'Capture History'
+#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel' 'Capture History'
 #' 
 #' @source New York Power Authority.  2004.  Use of buckhorn marsh and grand island tributaries by northern pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
 #' 

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Hake}
 \alias{Hake}
-\title{Stock and recruitment data for Hake.}
+\title{Stock and recruitment data for Hake, 1982-1996.}
 \format{A data frame with 15 observations on the following 3 variables.
  \describe{
    \item{year}{a numeric vector of years 1982-1996}
@@ -14,12 +14,13 @@
 Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 pp.
 }
 \description{
-Stock and recruitment data of Hake (\emph{Merluccius merluccius}), 1982-1996.
+Stock and recruitment data for Hake (\emph{Merluccius merluccius}), 1982-1996.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -32,7 +33,7 @@ plot(recruits~spawn.biomass,data=Hake)
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

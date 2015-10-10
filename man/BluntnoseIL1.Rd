@@ -3,10 +3,10 @@
 \docType{data}
 \name{BluntnoseIL1}
 \alias{BluntnoseIL1}
-\title{Lengths of Bluntnose Minnows (subsample) captured in Inch Lake}
+\title{Subampled lengths of Bluntnose Minnows from Inch Lake, WI.}
 \format{A data frame of 25 observations on the following 3 variables:
   \describe{
-    \item{netID}{a netID factor (all 41).}
+    \item{netID}{a netID factor (all 41)}
     \item{species}{species name (all Bluntnose)}
     \item{tl}{total length (inches to nearest 0.1)}
   }}
@@ -14,13 +14,13 @@
 Derek H. Ogle, personal collection
 }
 \description{
-Total lengths of a subsample of 144 Bluntnose Minnows (\emph{Pimephales notatus}) captured in Inch Lake, Bayfield County, WI in May, 2007.
+Total lengths for a subsample from 144 Bluntnose Minnows (\emph{Pimephales notatus}) from Inch Lake, WI in May, 2007.
 }
 \section{Topic(s)}{
 
   \itemize{
-    \item Length frequency
-    \item Length expansion
+    \item Length Frequency
+    \item Length Expansion
     \item Size Structure
     \item PSD
   }
@@ -34,7 +34,7 @@ head(BluntnoseIL1)
 \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 }
 \concept{
-'Length Frequency' 'Size Structure' PSD
+'Length Frequency' 'Size Structure' PSD 'Length Expansion'
 }
 \keyword{datasets}
 

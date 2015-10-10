@@ -10,18 +10,18 @@
 #' 
 #' @format A data frame with 61 observations on the following 4 variables:
 #'  \describe{
-#'    \item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections.} 
-#'    \item{spine}{Age (years) assigned from dorsal spine sections.} 
-#'    \item{scale}{Age (years) assigned from scale impressions.}
-#'    \item{sex}{Sex of fish (\code{female} and \code{male}).} 
+#'    \item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections} 
+#'    \item{spine}{Age (years) assigned from dorsal spine sections}
+#'    \item{scale}{Age (years) assigned from scale impressions}
+#'    \item{sex}{Sex of fish (\code{female} and \code{male})}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #'  
 #' @concept Age Precision Bias 'Age Comparison'

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Herman}
 \alias{Herman}
-\title{Lengths of four species from Lake Herman, SD.}
+\title{Lengths for Walleye, Yellow Perch, Black Crappie, and Black Bullheads from Lake Herman, SD.}
 \format{A data frame of 5931 observations on the following 3 variables:
  \describe{
    \item{tl}{Total lengths (cm).}
@@ -22,7 +22,7 @@ Lake Herman was sampled on June 20-22, 2005 with four overnight gillnet sets and
 \section{Topic(s)}{
 
  \itemize{
-   \item Length frequency
+   \item Length Frequency
    \item Size Structure
    \item PSD
  }

@@ -8,17 +8,18 @@
 #' 
 #' @format A data frame with 12 observations on the following 2 variables:
 #'  \describe{
-#'    \item{yrclass}{Year-class (see below).} 
-#'    \item{stock}{Estimated numbers of mature females caught the year prior to the origin of the 1975-1986 year classes.} 
-#'    \item{recruits}{Catches of age-2 fish (when the year-class is formed.} 
+#'    \item{yrclass}{Year-class (see below)}
+#'    \item{stock}{Estimated numbers of mature females caught the year prior to the origin of the 1975-1986 year classes}
+#'    \item{recruits}{Catches of age-2 fish (when the year-class is formed}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
-#'  
-#' @concept 'Stock-Recruit'
+#' 
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source Extracted (approximately) from figure 7 in Bronte et al. 1993.  Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management. 13:511-523.
 #' 

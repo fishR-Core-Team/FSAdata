@@ -6,8 +6,8 @@
 \title{Ages of Atlantic Croaker assigned from otoliths by two readers.}
 \format{A data frame of 317 observations on the following 2 variables:
  \describe{
-   \item{reader1}{Age assigned by the first reader.}
-   \item{reader2}{Age assigned by the second reader.}
+   \item{reader1}{Age assigned by the first reader}
+   \item{reader2}{Age assigned by the second reader}
  }}
 \source{
 Extracted from Figure 2 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
@@ -18,10 +18,10 @@ Otolith age of Atlantic croaker (\emph{Micropogonias undulatus}) from two reader
 \section{Topic(s)}{
 
  \itemize{
-   \item Age comparison
-   \item Age precision
+   \item Age Comparison
+   \item Age Precision
    \item Age Bias
-   \item Ageing error
+   \item Ageing Error
  }
 }
 \examples{

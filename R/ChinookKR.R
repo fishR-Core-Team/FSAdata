@@ -1,4 +1,4 @@
-#' @title Stock and recruitment data for Klamath River Chinook Salmon.
+#' @title Stock and recruitment data for Klamath River Chinook Salmon, 1979-2000.
 #' 
 #' @description Stock and recruitment data for Klamath River Chinook Salmon (\emph{Oncorhynchus tshawytscha}), 1979-2000 brood years.
 #' 
@@ -8,17 +8,18 @@
 #' 
 #' @format A data frame with 27 observations on the following 3 variables.
 #'  \describe{ 
-#'    \item{brood.year}{a numeric vector of brood years.}
-#'    \item{spawners}{a numeric vector giving number of spawning fish.}
-#'    \item{recruits}{a numeric vector containing the number of recruits.}
+#'    \item{brood.year}{a numeric vector of brood years}
+#'    \item{spawners}{a numeric vector giving number of spawning fish}
+#'    \item{recruits}{a numeric vector containing the number of recruits}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit'
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source from \url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
 #' 

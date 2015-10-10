@@ -1,13 +1,10 @@
-#' Age (subsample) and length (all fish) of Striped Bass.
+#' Ages (subsample) and lengths (all fish) for Striped Bass.
 #' 
-#' As many as 10 fish per 1-inch total length intervals from the
-#' \code{StripedBass2} data frame were obtained for age assignment.  The
-#' remaining fish in the file were only measured for length (i.e., the ages were
-#' deleted).  This data file can be used to demonstrate the use of age-length keys.
+#' As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 #' 
 #' @name StripedBass3
 #'
-#'  @docType data
+#' @docType data
 #' 
 #' @format A data frame of 1201 observations on the following 2 variables:
 #'  \describe{
@@ -17,7 +14,7 @@
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age-length key 
+#'    \item Age-Length Key 
 #'  }
 #' 
 #' @concept 'Age-Length Key'

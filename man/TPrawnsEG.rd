@@ -3,14 +3,14 @@
 \docType{data}
 \name{TPrawnsEG}
 \alias{TPrawnsEG}
-\title{Stock and recruitment data for Exmouth Gulf Tiger Prawn.}
+\title{Stock and recruitment data for Exmouth Gulf Tiger Prawn, 1970-83.}
 \format{A data frame with 14 observations on the following 5 variables.
  \describe{
-   \item{year}{a numeric vector of years.}
-   \item{stock}{a numeric vector giving the index of spawning stock fish.}
-   \item{recruits}{a numeric vector containing the index of recruits.}
-   \item{cycloneJan}{a numeric vector containing the relative rainfal in January as an index of cyclonic activity.}
-   \item{cycloneFeb}{a numeric vector containing the relative rainfal in February as an index of cyclonic activity.}
+   \item{year}{a numeric vector of years}
+   \item{stock}{a numeric vector giving the index of spawning stock fish}
+   \item{recruits}{a numeric vector containing the index of recruits}
+   \item{cycloneJan}{a numeric vector containing the relative rainfal in January as an index of cyclonic activity}
+   \item{cycloneFeb}{a numeric vector containing the relative rainfal in February as an index of cyclonic activity}
  }}
 \source{
 from table 9.1 in Haddon, M. 2000.  Modeling and Quantitative Methods in Fisheries, CRC Press.  Originally from Penn, J. W., and Caputi, N.  1986.  Spawning stock-recruitment relationships and environmental influences on the tiger prawn (\emph{Penaeus esculentus}) fishery in Exmouth Gulf, Western Australia.  Australian Journal of Marine and Freslzwater Research 37:491-505.
@@ -21,7 +21,8 @@ Stock and recruitment data for Exmouth Gulf Tiger Prawn (\emph{Panaeus esculentu
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -34,7 +35,7 @@ plot(recruits~stock,data=TPrawnsEG)
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

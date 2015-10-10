@@ -1,6 +1,6 @@
-#' @title Lengths of fish captured in Inch Lake
+#' @title Lengths for all fish captured in Inch Lake, WI, in two years
 #' 
-#' @description Total lengths of all fish captured in Inch Lake, Bayfield County, WI in May, 2007 and May, 2008.
+#' @description Total lengths of all fish captured in Inch Lake, WI in May, 2007 and May, 2008.
 #' 
 #' @name InchLake1
 #' 
@@ -8,18 +8,18 @@
 #' 
 #' @format A data frame of 4894 observations on the following 5 variables:
 #'  \describe{
-#'    \item{netID}{A unique identifier for the sampling event.}
-#'    \item{netType}{gear used (angling, seine, miniWDNR fyke net, miniNC fyke net, regular fyke net).} 
-#'    \item{year}{year of capture.} 
+#'    \item{netID}{A unique identifier for the sampling event}
+#'    \item{netType}{gear used (angling, seine, miniWDNR fyke net, miniNC fyke net, regular fyke net)}
+#'    \item{year}{year of capture}
 #'    \item{species}{species name} 
 #'    \item{length}{total length (inches to nearest 0.1)} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency 
+#'    \item Length Frequency
 #'    \item PSD 
-#'    \item Size structure 
+#'    \item Size Structure 
 #'  }
 #'  
 #' @concept 'Length Frequency' 'Size Structure' PSD

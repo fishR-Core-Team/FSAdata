@@ -3,7 +3,7 @@
 \docType{data}
 \name{YPerchSB1}
 \alias{YPerchSB1}
-\title{Lengths of Yellow Perch from Saginaw Bay, Lake Michigan.}
+\title{Lengths for Yellow Perch from two locations in Saginaw Bay, Lake Michigan.}
 \format{A data frame with 2074 observations on the following 2 variables:
  \describe{
    \item{tl}{Measured total length (cm).}
@@ -13,12 +13,12 @@
 Simulated (uniform distribution of values within length bin) from summarized length frequencies in Fig 2 (top) in Diana, J.S. and R. Salz. 1990.  Energy Storage, growth, and maturation of yellow perch from different locations in Saginaw Bay, Michigan.  Transactions of the American Fisheries Society 119:976-984.
 }
 \description{
-Length measurements of Yellow Perch (\emph{Perca flavescens}) from two locations -- inner and outer bay -- in Saginaw Bay, Lake Michigan.
+Length measurements for Yellow Perch (\emph{Perca flavescens}) from two locations -- inner and outer bay -- in Saginaw Bay, Lake Michigan.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Length frequency
+   \item Length Frequency
    \item Size Structure
    \item PSD
  }

@@ -1,4 +1,4 @@
-#' @title Lengths of Ruffe captured July, 1989.
+#' @title Lengths of Ruffe captured from the St. Louis River in July, 1989.
 #' 
 #' @description Total length for Ruffe (\emph{Gymnocephalus cernuus}) captured in July, 1989 (cycle 6) in the St. Louis River, Lake Superior.
 #' 
@@ -13,7 +13,7 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency
+#'    \item Length Frequency
 #'    \item Size Structure
 #'  }
 #'  

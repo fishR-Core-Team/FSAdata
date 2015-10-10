@@ -1,6 +1,6 @@
-#' @title Lengths of Bluntnose Minnows (subsample) captured in Inch Lake
+#' @title Subampled lengths of Bluntnose Minnows from Inch Lake, WI.
 #' 
-#' @description Total lengths of a subsample of 144 Bluntnose Minnows (\emph{Pimephales notatus}) captured in Inch Lake, Bayfield County, WI in May, 2007.
+#' @description Total lengths for a subsample from 144 Bluntnose Minnows (\emph{Pimephales notatus}) from Inch Lake, WI in May, 2007.
 #' 
 #' @name BluntnoseIL1
 #' 
@@ -8,20 +8,20 @@
 #' 
 #' @format A data frame of 25 observations on the following 3 variables:
 #'   \describe{
-#'     \item{netID}{a netID factor (all 41).}
+#'     \item{netID}{a netID factor (all 41)}
 #'     \item{species}{species name (all Bluntnose)} 
 #'     \item{tl}{total length (inches to nearest 0.1)} 
 #'   }
 #'   
 #' @section Topic(s):
 #'   \itemize{
-#'     \item Length frequency
-#'     \item Length expansion
+#'     \item Length Frequency
+#'     \item Length Expansion
 #'     \item Size Structure
 #'     \item PSD
 #'   }
 #'   
-#' @concept 'Length Frequency' 'Size Structure' PSD
+#' @concept 'Length Frequency' 'Size Structure' PSD 'Length Expansion'
 #' 
 #' @seealso \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 #' 

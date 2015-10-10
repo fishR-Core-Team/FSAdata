@@ -1,4 +1,4 @@
-#' @title Lengths of Troutperch in Lake Michigan, 1977.
+#' @title Lengths for Troutperch from Lake Michigan, 1977.
 #' 
 #' @description Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from near Grand Haven, Lake Michigan, 1977.
 #' 
@@ -8,12 +8,12 @@
 #' 
 #' @format A data frame of 3385 observations on the following 1 variable:
 #'  \describe{
-#'    \item{fl}{fork length (mm).} 
+#'    \item{fl}{fork length (mm)} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency 
+#'    \item Length Frequency 
 #'    \item Size Structure
 #'  }
 #'  

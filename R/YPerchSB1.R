@@ -1,6 +1,6 @@
-#' @title Lengths of Yellow Perch from Saginaw Bay, Lake Michigan.
+#' @title Lengths for Yellow Perch from two locations in Saginaw Bay, Lake Michigan.
 #' 
-#' @description Length measurements of Yellow Perch (\emph{Perca flavescens}) from two locations -- inner and outer bay -- in Saginaw Bay, Lake Michigan.
+#' @description Length measurements for Yellow Perch (\emph{Perca flavescens}) from two locations -- inner and outer bay -- in Saginaw Bay, Lake Michigan.
 #' 
 #' @name YPerchSB1
 #' 
@@ -14,7 +14,7 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency
+#'    \item Length Frequency
 #'    \item Size Structure
 #'    \item PSD
 #'  }

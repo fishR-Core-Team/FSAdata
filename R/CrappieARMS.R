@@ -4,6 +4,7 @@
 #'
 #' @name CrappieARMS
 #' @docType data
+#' 
 #' @format A data frame of 78 observations on the following 3 variables:
 #'  \describe{
 #'    \item{reservoir}{Reservoir (Atkins, Nimrod, Okatibbee, Ross.Barnett)}
@@ -13,10 +14,11 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit'
+#' @concept 'Stock-Recruit' Recruitment
 #'
 #' @source Extracted (approximately) from figure 2 of Allen, M.S. and L.E. Miranda.  1998.  An age-structured model for erratic crappie fisheries.  Ecological Modeling 107:289-303.
 #'

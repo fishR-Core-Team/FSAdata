@@ -3,25 +3,24 @@
 \docType{data}
 \name{SLampreyGL}
 \alias{SLampreyGL}
-\title{Stock and recruitment data for Sea Lamprey in the Great Lakes.}
+\title{Stock and recruitment data for Sea Lamprey in the Great Lakes, 1997-2007.}
 \format{A data frame of 76 observations on the following two variables:
 \describe{
-\item{stock}{Female spawners per 100 square meters.}
-\item{recruits}{Yearlngs per 100 square meters.}
+  \item{stock}{Female spawners per 100 square meters.}
+  \item{recruits}{Yearlngs per 100 square meters.}
 }}
 \source{
-Extracted (approximately) from Figures 2a and 2b in Dawson, H.A. and
-M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea
-lamprey (\emph{Petromyzon marinus}) populations.  Journal of Grat Lakes
-Research 35:353-360.
+Extracted (approximately) from Figures 2a and 2b in Dawson, H.A. and M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea lamprey (\emph{Petromyzon marinus}) populations.  Journal of Grat Lakes Research 35:353-360.
 }
 \description{
-Stock and recruitment data for Sea Lamprey (\emph{Petromyzon marinus}) in the Great Lakes.
+Stock and recruitment data for Sea Lamprey (\emph{Petromyzon marinus}) in the Great Lakes, 1997-2007 from 37 streams.
 }
 \section{Topic(s)}{
+
  \itemize{
-\item Stock-recruit
-}
+   \item Stock-Recruit
+   \item Recruitment
+ }
 }
 \examples{
 data(SLampreyGL)
@@ -30,7 +29,7 @@ head(SLampreyGL)
 plot(recruits~stock,data=SLampreyGL)
 }
 \concept{
-'Stock-Rrecruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

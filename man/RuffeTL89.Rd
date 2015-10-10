@@ -3,7 +3,7 @@
 \docType{data}
 \name{RuffeTL89}
 \alias{RuffeTL89}
-\title{Lengths of Ruffe captured July, 1989.}
+\title{Lengths of Ruffe captured from the St. Louis River in July, 1989.}
 \format{A data frame of 236 observations on the following 1 variable:
  \describe{
    \item{tl}{Total length (mm).}
@@ -17,7 +17,7 @@ Total length for Ruffe (\emph{Gymnocephalus cernuus}) captured in July, 1989 (cy
 \section{Topic(s)}{
 
  \itemize{
-   \item Length frequency
+   \item Length Frequency
    \item Size Structure
  }
 }

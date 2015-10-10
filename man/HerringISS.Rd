@@ -6,11 +6,11 @@
 \title{Stock and recruitment data for Icelandic summer spawning Herring, 1946-1996.}
 \format{A data frame of 51 observations on the following 6 variables:
  \describe{
-   \item{year}{Year of data.}
-   \item{ssb}{Spawning stock biomass (tonnes).}
-   \item{rec}{Recruits -- i.e., 1-year olds (thousands).}
-   \item{land}{Landings (in millions of pounds).}
-   \item{fmort}{Fishing related mortality.}
+   \item{year}{Year of data}
+   \item{ssb}{Spawning stock biomass (tonnes)}
+   \item{rec}{Recruits -- i.e., 1-year olds (thousands)}
+   \item{land}{Landings (in millions of pounds)}
+   \item{fmort}{Fishing related mortality}
  }}
 \source{
 from the Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1995. Assess: 9.; Anon. 1986. Report of the herring assessment working group for the area south of 62 degrees N. ICES Doc. C.M. 1986. Assess: 19.; Anon. 1991. Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1991. Assess: 17.; State of marine stocks and environmental conditions in Icelandic waters 1989 Fishing prospects 1990, August 1990. Hafranns\'oknastofnun Fj\"olrit NR. 19. Marine Research Institute, Iceland. Mon Jun 20, 1988.; Report of the Northern Pelagic and Blue Whiting Fisheries Working Group. ICES Doc. C.M. 1997. Assess:14.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}
@@ -21,7 +21,8 @@ Icelandic summer spawning Herring (\emph{Clupeaformis harengus}) stock, recruitm
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -34,7 +35,7 @@ plot(rec~ssb,data=HerringISS)
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

@@ -8,17 +8,17 @@
 #' 
 #' @format A data frame with 859 observations on the following 3 variables:
 #'  \describe{
-#'    \item{fin}{Ages assigned from fin-ray sections.} 
-#'    \item{scale}{Ages assigned from scales.} 
-#'    \item{lake}{Lake from which the fish was captured (\code{L122}, \code{L226}, \code{Huron}, or \code{Dezadeash}).} 
+#'    \item{fin}{Ages assigned from fin-ray sections} 
+#'    \item{scale}{Ages assigned from scales} 
+#'    \item{lake}{Lake from which the fish was captured (\code{L122}, \code{L226}, \code{Huron}, or \code{Dezadeash})} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #'  
 #' @concept Age Precision Bias 'Age Comparison'

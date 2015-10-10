@@ -3,7 +3,7 @@
 \docType{data}
 \name{BluegillLM}
 \alias{BluegillLM}
-\title{Length and weight of Bluegill from Lake Mary, MN.}
+\title{Lengths and weights for Bluegill from Lake Mary, MN.}
 \format{A data frame with 100 observations on the following 5 variables:
  \describe{
    \item{sernum}{Unique serial number}
@@ -13,13 +13,14 @@
    \item{wght}{Weight (g)}
  }}
 \description{
-Length (standard, fork, and total) and weight of Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
+Lengths (standard, fork, and total) and weights for Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Length-weight
-   \item Length conversion
+   \item Weight-Length
+   \item Length Conversion
+   \item Length Frequency
  }
 }
 \examples{
@@ -39,7 +40,7 @@ par(op)
 \code{lakemary} in \pkg{alr3} for a different sample of Bluegill from Lake Mary that has length and age.
 }
 \concept{
-'Length-Weight'
+'Weight-Length' 'Length Conversion' 'Length Frequency'
 }
 \keyword{datasets}
 

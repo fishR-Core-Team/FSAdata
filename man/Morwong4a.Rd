@@ -3,11 +3,11 @@
 \docType{data}
 \name{Morwong4a}
 \alias{Morwong4a}
-\title{Age (subsample) and length (all fish) of Morwong from Morwong4.}
+\title{Ages (subsample) and lengths (all fish) for Morwong from Morwong4.}
 \format{A data frame with 392 observations on the following 2 variables.
  \describe{
-   \item{fl}{Fork lengths (cm).}
-   \item{age}{Assigned ages.}
+   \item{fl}{Fork lengths (cm)}
+   \item{age}{Assigned ages}
  }}
 \description{
 A total of 104 fish dispersed proportionately over 1-cm fork length intervals from the \code{Morwong4} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
@@ -15,7 +15,7 @@ A total of 104 fish dispersed proportionately over 1-cm fork length intervals fr
 \section{Topic(s)}{
 
  \itemize{
-   \item Age-length key
+   \item Age-Length Key
  }
 }
 \examples{

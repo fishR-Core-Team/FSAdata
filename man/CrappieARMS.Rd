@@ -19,7 +19,8 @@ Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mis
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -34,7 +35,7 @@ plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Ross.Barnett"),main="Ro
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

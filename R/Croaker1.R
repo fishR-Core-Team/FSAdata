@@ -8,15 +8,15 @@
 #' 
 #' @format A data frame of 317 observations on the following 2 variables:
 #'  \describe{
-#'    \item{reader1}{Age assigned by the first reader.}
-#'    \item{reader2}{Age assigned by the second reader.} 
+#'    \item{reader1}{Age assigned by the first reader}
+#'    \item{reader2}{Age assigned by the second reader} 
 #'  }
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #' 
 #' @concept Age Precision Bias 'Age Comparison'

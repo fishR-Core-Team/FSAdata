@@ -1,4 +1,4 @@
-#' @title Lengths of Rainbow Smelt in Lake Michigan, 1977.
+#' @title Lengths for Rainbow Smelt from Lake Michigan, 1977.
 #' 
 #' @description Rainbow Smelt (\emph{Osmerus mordax}) fork lengths from near Grand Haven, Lake Michigan, 1977.
 #' 
@@ -8,12 +8,12 @@
 #' 
 #' @format A data frame of 3293 observations on the following 1 variable:
 #'  \describe{
-#'    \item{fl}{Fork length (mm).} 
+#'    \item{fl}{Fork length (mm)} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency 
+#'    \item Length Frequency 
 #'    \item Size Structure
 #'  }
 #'  

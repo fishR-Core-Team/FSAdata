@@ -8,17 +8,17 @@
 #' 
 #' @format A data frame with 27 paired observations on the following 3 variables.
 #'  \describe{
-#'    \item{scale}{Ages assigned from scales.}
-#'    \item{whole}{Ages assigned from whole otoliths.} 
-#'    \item{cross}{Ages assigned from cross-sections of otoliths.} 
+#'    \item{scale}{Ages assigned from scales}
+#'    \item{whole}{Ages assigned from whole otoliths} 
+#'    \item{cross}{Ages assigned from cross-sections of otoliths} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #'  
 #' @concept Age Precision Bias 'Age Comparison'

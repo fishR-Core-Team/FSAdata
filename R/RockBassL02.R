@@ -1,6 +1,6 @@
-#' @title Age (subsample) and length (all fish) of Rock Bass from Lake Ontario.
+#' @title Ages (subsample) and lengths (all fish) for Rock Bass from Lake Ontario.
 #' 
-#' @description Age (subsample) and length (all fish) of Rock Bass from Lake Ontario.
+#' @description Ages (subsample) and lengths (all fish) for Rock Bass from Lake Ontario.
 #' 
 #' @details As many as 10 fish per 10-mm total length intervals from the \code{RockBassLO1} data frame was obtained for age assignment.  The remaining fish in the file were only measure for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 #' 
@@ -10,13 +10,13 @@
 #' 
 #' @format A data frame with 1288 observations on the following 2 variables:
 #'  \describe{
-#'    \item{age}{Assigned ages (from scales).} 
-#'    \item{tl}{Measured total lengths (mm).} 
+#'    \item{age}{Assigned ages (from scales)}
+#'    \item{tl}{Measured total lengths (mm)}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age-length key 
+#'    \item Age-Length Key
 #'  }
 #'  
 #' @concept 'Age-Length Key'

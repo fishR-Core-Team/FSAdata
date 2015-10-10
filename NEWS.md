@@ -1,4 +1,5 @@
 # 0.3.1 ongoing
+* `FSAdata`: Modified.  Fixed link to `FSA` package.  Removed `importFrom` for `read.table()` from `utils`.
 
 # 0.3.0 6Oct15
 * Released to CRAN

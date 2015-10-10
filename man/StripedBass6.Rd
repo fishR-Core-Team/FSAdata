@@ -6,8 +6,8 @@
 \title{Ages of Striped Bass assigned from scales and otoliths.}
 \format{A data frame of 451 observations on the following 2 variables:
  \describe{
-  \item{scale}{Ages assigned to scales.}
-  \item{otolith}{Ages assigned to otoliths.}
+  \item{scale}{Ages assigned to scales}
+  \item{otolith}{Ages assigned to otoliths}
  }}
 \source{
 Extracted from Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
@@ -18,10 +18,10 @@ Ages assigned to the scales and otoliths of Striped Bass (\emph{Morone saxatilis
 \section{Topic(s)}{
 
 \itemize{
-  \item Age comparison
-  \item Age precision
+  \item Age Comparison
+  \item Age Precision
   \item Age Bias
-  \item Ageing error
+  \item Ageing Error
  }
 }
 \examples{

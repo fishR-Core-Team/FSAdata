@@ -1,6 +1,6 @@
-#' @title Stock and recruitment data for Hake.
+#' @title Stock and recruitment data for Hake, 1982-1996.
 #' 
-#' @description Stock and recruitment data of Hake (\emph{Merluccius merluccius}), 1982-1996.
+#' @description Stock and recruitment data for Hake (\emph{Merluccius merluccius}), 1982-1996.
 #' 
 #' @name Hake
 #' 
@@ -15,10 +15,11 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
-#'  
-#' @concept 'Stock-Recruit'
+#' 
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 pp.
 #' 

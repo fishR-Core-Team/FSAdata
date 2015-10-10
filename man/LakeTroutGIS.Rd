@@ -6,9 +6,9 @@
 \title{Stock and recruitment data for Lake Trout from Gull Island Shoal, Lake Superior, 1964-1991.}
 \format{A data frame of 28 observations on the following 3 variables:
  \describe{
-   \item{year}{Year of data.}
-   \item{stock}{Mean CPE of adult female Lake Trout per 1000 m of gillnet captured in fall spawning surveys.}
-   \item{recruits}{Recruits (number of age-0 fish per ha) captured the following fall in bottom trawls.}
+   \item{year}{Year of data}
+   \item{stock}{Mean CPE of adult female Lake Trout per 1000 m of gillnet captured in fall spawning surveys}
+   \item{recruits}{Recruits (number of age-0 fish per ha) captured the following fall in bottom trawls}
  }}
 \source{
 from Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.  1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research.  21(supp.1):225-232.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}
@@ -19,7 +19,8 @@ Lake trout (\emph{Salvelinus namaycush}) stock and recruitment by year at Gull I
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -32,7 +33,7 @@ plot(recruits~stock,data=LakeTroutGIS)
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 

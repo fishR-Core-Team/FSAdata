@@ -1,6 +1,6 @@
-#' @title Length and weight of Bluegill from Lake Mary, MN.
+#' @title Lengths and weights for Bluegill from Lake Mary, MN.
 #'
-#' @description Length (standard, fork, and total) and weight of Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
+#' @description Lengths (standard, fork, and total) and weights for Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
 #'
 #' @name BluegillLM
 #'
@@ -17,11 +17,12 @@
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length-weight
-#'    \item Length conversion
+#'    \item Weight-Length
+#'    \item Length Conversion
+#'    \item Length Frequency
 #'  }
 #' 
-#' @concept 'Length-Weight'
+#' @concept 'Weight-Length' 'Length Conversion' 'Length Frequency'
 #' 
 #' @keywords datasets
 #' 

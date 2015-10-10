@@ -1,6 +1,6 @@
-#' @title Lengths and weights of Pallid Sturgeon from the Missouri River.
+#' @title Lengths and weights for Pallid Sturgeon from four locations in the Missouri River.
 #' 
-#' @description Lengths (standard, fork, and total) and weights of Pallid Sturgion (\emph{Scaphirhynchus albus}) collected in the Missouri River drainage.
+#' @description Lengths (standard, fork, and total) and weights for Pallid Sturgion (\emph{Scaphirhynchus albus}) collected at four locations in the Missouri River drainage.
 #' 
 #' @name Pallid
 #' 
@@ -19,11 +19,11 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length-weight 
-#'    \item Length conversion 
+#'    \item Weight-Length 
+#'    \item Length Conversion 
 #'  }
 #'  
-#' @concept 'Length-Weight'
+#' @concept 'Weight-Length' 'Length Conversion'
 #' 
 #' @source From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length conversions and length-weight relations for pallid sturgeon.  North American Journal of Fisheries Management. 13:395-397.
 #' 

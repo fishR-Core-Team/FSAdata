@@ -1,6 +1,6 @@
-#' @title Ages, lengths, and maturity of female Cabezon from Oregon.
+#' @title Ages, lengths, and maturity for female Cabezon from Oregon.
 #' 
-#' @description Ages, lengths, and maturity of female Cabezon (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe Bay, Oregon.
+#' @description Ages, lengths, and maturity for female Cabezon (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe Bay, Oregon.
 #' 
 #' @name Cabezon
 #' 

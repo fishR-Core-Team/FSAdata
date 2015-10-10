@@ -10,18 +10,19 @@
 #' 
 #' @format A data frame with 22 observations on the following 3 variables:
 #'  \describe{
-#'    \item{year}{Year of data} 
-#'    \item{stock}{Spawning stock index -- CPUE in June assessment surveys.} 
-#'    \item{recruits}{Recuit index -- commercial landings in pounds from Aug-Jan.} 
-#'    \item{yrconf}{A code of confidence for whether or not the stock value is known to come from the year shown.  See details} 
+#'    \item{year}{Year of data}
+#'    \item{stock}{Spawning stock index -- CPUE in June assessment surveys}
+#'    \item{recruits}{Recuit index -- commercial landings in pounds from Aug-Jan}
+#'    \item{yrconf}{A code of confidence for whether or not the stock value is known to come from the year shown (see details)}
 #'  }
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
-#'  
-#' @concept 'Stock-Recruit'
+#' 
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source Extracted (approximately) from figures 2 and 3 of Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.
 #' 

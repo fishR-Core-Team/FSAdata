@@ -1,6 +1,6 @@
-#' @title Lengths of Largemouth Bass from Lake Carl Blackwell.
+#' @title Lengths for Largemouth Bass from Lake Carl Blackwell, OK.
 #' 
-#' @description Length measurements of Largemouth Bass (\emph{Micropterus salmoides}) from Lake Carl Blackwell, Oklahoma, in 1973.
+#' @description Lengthsfor Largemouth Bass (\emph{Micropterus salmoides}) from Lake Carl Blackwell, Oklahoma, in 1973.
 #' 
 #' @name LMBassLCB
 #' 
@@ -13,7 +13,7 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency
+#'    \item Length Frequency
 #'    \item Size Structure
 #'    \item PSD
 #'  }

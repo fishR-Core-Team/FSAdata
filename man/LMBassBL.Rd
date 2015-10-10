@@ -3,10 +3,10 @@
 \docType{data}
 \name{LMBassBL}
 \alias{LMBassBL}
-\title{Lengths of Largemouth Bass from Boomer Lake.}
+\title{Lengths for Largemouth Bass from Boomer Lake, OK.}
 \format{A data frame of 447 observations on the following 1 variable:
  \describe{
-   \item{tl}{measured total length (cm).}
+   \item{tl}{measured total length (cm)}
  }}
 \source{
 from McNew, R.W. and R.C. Summerfelt.  1978.  Evaluation of a maximum-likelihood estimator for analysis of length-frequency distributions.  Transactions of the American Fisheries Society 107:730-736.  Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in \url{www.fishbase.org}{FishBase.org}.
@@ -17,7 +17,7 @@ Length measurements of Largemouth Bass (\emph{Micropterus salmoides}) from Boome
 \section{Topic(s)}{
 
  \itemize{
-   \item Length frequency
+   \item Length Frequency
    \item Size Structure
    \item PSD
  }

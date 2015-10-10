@@ -3,33 +3,33 @@
 \docType{data}
 \name{RuffeSLRH92}
 \alias{RuffeSLRH92}
-\title{Biological characteristics of Ruffe captured in the St. Louis River, Lake Superior in 1992.}
+\title{Biological data for Ruffe captured from the St. Louis River in 1992.}
 \format{A data frame of 738 observations on the following 11 variables:
 
 \describe{
- \item{fish.id}{A unique fish identification number (across all years, most of which are not shown in this file.}
+ \item{fish.id}{A unique fish identification number (across all years, most of which are not shown in this file}
  \item{month}{Month of capture}
- \item{day}{Day of capture.}
- \item{year}{Year of capture.}
- \item{indiv}{A unique fish identification number within the year.}
- \item{location}{Grid location of capture.}
- \item{length}{Total length (mm).}
- \item{weight}{Weight (g).}
- \item{sex}{Sex factor.}
- \item{maturity}{Maturity stage factor.}
- \item{age}{Age (yrs) from scales.}
+ \item{day}{Day of capture}
+ \item{year}{Year of capture}
+ \item{indiv}{A unique fish identification number within the year}
+ \item{location}{Grid location of capture}
+ \item{length}{Total length (mm)}
+ \item{weight}{Weight (g)}
+ \item{sex}{Sex factor}
+ \item{maturity}{Maturity stage factor}
+ \item{age}{Age (yrs) from scales}
 }}
 \source{
 personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
 }
 \description{
-Biological characteristics of Ruffe (\emph{Gymnocephalus cernuus}) captured in the St. Louis River, Lake Superior in 1992.
+Biological data for Ruffe (\emph{Gymnocephalus cernuus}) captured in the St. Louis River, Lake Superior in 1992.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Length frequency
-   \item Length-weight
+   \item Length Frequency
+   \item Weight-Length
    \item Growth
    \item von Bertalanffy
    \item Maturity
@@ -50,7 +50,7 @@ xtabs(~sex,data=RuffeSLRH92)
 xtabs(~maturity,data=RuffeSLRH92)
 }
 \concept{
-Growth 'von Bertalanffy' 'Length Frequency' 'Length-Weight' Maturity
+Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' Maturity
 }
 \keyword{datasets}
 

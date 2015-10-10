@@ -9,16 +9,17 @@
 #' @format A data frame of 15 observations on the following 3 variables:
 #'  \describe{
 #'    \item{year}{Year of data} 
-#'    \item{stock}{Spawning stock index -- autumn biomass (kg/ha) of age-1+ fish.} 
-#'    \item{recruits}{Recuit index -- density (indivs/ha) of age-0+ fish in first autumn.} 
+#'    \item{stock}{Spawning stock index -- autumn biomass (kg/ha) of age-1+ fish}
+#'    \item{recruits}{Recuit index -- density (indivs/ha) of age-0+ fish in first autumn}
 #'  }
 #'  
 #' @section Topic(s):
-#'  \itemize{ 
-#'    \item Stock-recruit 
+#'  \itemize{
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
-#'  
-#' @concept 'Stock-Recruit'
+#' 
+#' @concept 'Stock-Recruit' Recruitment
 #' 
 #' @source Extracted (approximately) from Figure1 1 and 2 of Marjomaki, T.J. 2004.  Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors.  Ecology of Freshwater Fish 13:46-60.
 #' 

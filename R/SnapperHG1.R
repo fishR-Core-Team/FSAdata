@@ -8,14 +8,14 @@
 #' 
 #' @format A data frame of 18421 observations on the following 3 variables:
 #'  \describe{
-#'    \item{len}{Measured lengths (cm).} 
-#'    \item{age}{Ages assigned from examination of otoliths.} 
+#'    \item{len}{Measured lengths (cm)}
+#'    \item{age}{Ages assigned from examination of otoliths}
 #'    \item{survey}{Survey location (\code{KAH8810} or \code{KAH0012})}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age-length key 
+#'    \item Age-Length Key
 #'  }
 #'  
 #' @concept 'Age-Length Key'

@@ -8,16 +8,16 @@
 #' 
 #' @format A data frame of 104 observations on the following 2 variables:
 #'  \describe{
-#'    \item{otoliths}{Age assigned from examination of otoliths.}
-#'    \item{scales}{Age assigned from examination of scales.}
+#'    \item{otoliths}{Age assigned from examination of otoliths}
+#'    \item{scales}{Age assigned from examination of scales}
 #'  }
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #' 
 #' @concept Age Precision Bias 'Age Comparison'

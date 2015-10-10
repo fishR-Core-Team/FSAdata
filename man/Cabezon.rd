@@ -3,7 +3,7 @@
 \docType{data}
 \name{Cabezon}
 \alias{Cabezon}
-\title{Ages, lengths, and maturity of female Cabezon from Oregon.}
+\title{Ages, lengths, and maturity for female Cabezon from Oregon.}
 \format{A data frame with 525 observations on the following 5 variables.
  \describe{
    \item{date}{Date fish was collected}
@@ -16,7 +16,7 @@
 Actual data obtained directly (from Bob Hanna) from Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  \href{http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf}{Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity.}  Oregon Department of Fish and Wildlife, Information Reports 2009-04.
 }
 \description{
-Ages, lengths, and maturity of female Cabezon (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe Bay, Oregon.
+Ages, lengths, and maturity for female Cabezon (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe Bay, Oregon.
 }
 \section{Topic(s)}{
 

@@ -1,4 +1,4 @@
-#' @title Lengths of Largemouth Bass from Boomer Lake.
+#' @title Lengths for Largemouth Bass from Boomer Lake, OK.
 #' 
 #' @description Length measurements of Largemouth Bass (\emph{Micropterus salmoides}) from Boomer Lake, Oklahoma, in 1974.
 #' 
@@ -8,12 +8,12 @@
 #' 
 #' @format A data frame of 447 observations on the following 1 variable:
 #'  \describe{
-#'    \item{tl}{measured total length (cm).} 
+#'    \item{tl}{measured total length (cm)} 
 #'  }
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency
+#'    \item Length Frequency
 #'    \item Size Structure
 #'    \item PSD
 #'  }

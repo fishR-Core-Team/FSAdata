@@ -10,22 +10,23 @@
 #' 
 #' @format A data frame with 6 observations on the following 4 variables.
 #'  \describe{
-#'    \item{t}{Sample number.} 
-#'    \item{caught}{Total number of fish caught in the sample.} 
-#'    \item{recaps}{Number of previously marked fish in the sample.} 
-#'    \item{retmarks}{Number of marked fish returned to the population.} 
+#'    \item{t}{Sample number}
+#'    \item{caught}{Total number of fish caught in the sample}
+#'    \item{recaps}{Number of previously marked fish in the sample}
+#'    \item{retmarks}{Number of marked fish returned to the population}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Population size 
-#'    \item Abundance 
-#'    \item Mark-recapture 
-#'    \item Schnabel method 
-#'    \item Schumacher-Eschmeyer method 
+#'    \item Population Size
+#'    \item Abundance
+#'    \item Mark-Recapture
+#'    \item Capture-Recapture
+#'    \item Schnabel
+#'    \item Schumacher-Eschmeyer
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Schnabel'
+#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
 #' 
 #' @source Rogers, S.O. 1999.  Population biology of the tan fiffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation.  Virginia Tech M.S. Thesis.
 #' 

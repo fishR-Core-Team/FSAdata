@@ -3,12 +3,12 @@
 \docType{data}
 \name{BloaterLH}
 \alias{BloaterLH}
-\title{Stock and recruitment data for Lake Huron Bloaters.}
+\title{Stock and recruitment data for Lake Huron Bloaters, 1981-1996.}
 \format{A data frame of 16 observations on the following 3 variables:
  \describe{
-   \item{year}{Year of data (1981-1996).}
-   \item{eggs}{Millions of eggs deposited.}
-   \item{age3}{relative abundance of age-3 fish.}
+   \item{year}{Year of data (1981-1996)}
+   \item{eggs}{Millions of eggs deposited}
+   \item{age3}{Relative abundance of age-3 fish}
  }}
 \source{
 Extracted (approximately) from figure 7 of Schaeffer, J.S. 2004.  Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998.  Ann Zool Fennici. 41:271-279.
@@ -19,7 +19,8 @@ Egg deposition and relative abundance of age-3 Lake Huron Bloaters (\emph{Corego
 \section{Topic(s)}{
 
  \itemize{
-   \item Stock-recruit
+   \item Stock-Recruit
+   \item Recruitment
  }
 }
 \examples{
@@ -32,7 +33,7 @@ plot(eggs~age3,data=BloaterLH)
 par(op)
 }
 \concept{
-'Stock-Recruit'
+'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
 
