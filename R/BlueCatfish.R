@@ -8,8 +8,8 @@
 #' 
 #' @format A data frame with 119 observations on the following 2 variables.
 #'  \describe{
-#'    \item{age}{Age (from otoliths).}
-#'    \item{tl}{Total length (mm).} 
+#'    \item{age}{Age (from otoliths)}
+#'    \item{tl}{Total length (mm)}
 #'  }
 #'  
 #' @section Topic(s):

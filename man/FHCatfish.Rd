@@ -6,9 +6,9 @@
 \title{Catch-at-age of Flathead Catfish from three southeastern rivers.}
 \format{A data frame of 39 observations on the following 3 variables:
  \describe{
-   \item{river}{Location of collection (\code{Coosa}, \code{Ocmulgee}, and \code{Satilla}).}
-   \item{age}{Age (years) assigned from otolith.}
-   \item{abundance}{Number of captured fish with boat electrofishing.}
+   \item{river}{Location of collection (\code{Coosa}, \code{Ocmulgee}, and \code{Satilla})}
+   \item{age}{Age (years) assigned from otolith}
+   \item{abundance}{Number of captured fish with boat electrofishing}
  }}
 \source{
 Extracted (approximately) from figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison.  2006.  Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management.  North American Journal of Fisheries Management 26:867-874.

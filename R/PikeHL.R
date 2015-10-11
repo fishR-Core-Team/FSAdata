@@ -27,7 +27,7 @@
 #'  
 #' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
 #' 
-#' @source Capture histories simulated from summarzed data in table 2 and text of Burkholder, A.  1991.  \href{http://www.sf.adfg.state.ak.us/FedAidpdfs/Fds91-09.pdf}{Abundance and composition of northern pike, Harding Lake, 1990.}  Fishery Data Series 91-9, Alaksa Department of Fish and Game.  
+#' @source Capture histories simulated from summarzed data in table 2 and text of Burkholder, A.  1991.  Abundance and composition of northern pike, Harding Lake, 1990.  Fishery Data Series 91-9, Alaksa Department of Fish and Game.  Accessed from http://www.sf.adfg.state.ak.us/FedAidpdfs/Fds91-09.pdf  
 #' 
 #' @keywords datasets
 #' 

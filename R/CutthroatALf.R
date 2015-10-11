@@ -24,7 +24,7 @@
 #' 
 #' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Jolly-Seber' 'Capture History'
 #' 
-#' @source Entered from Appendix A.3 of Harding, R.D., C.L. Hoover, and R.P. Marshall. 2010.  \href{http://www.sf.adfg.state.ak.us/FedAidPDFs/FDS10-82.pdf}{Abundance of Cutthroat Trout in Auke Lake, Southeast Alaska, in 2005 and 2006}.  Alaska Department of Fish and Game Fisheries Data Series No. 10-82.
+#' @source Entered from Appendix A.3 of Harding, R.D., C.L. Hoover, and R.P. Marshall. 2010.  Abundance of Cutthroat Trout in Auke Lake, Southeast Alaska, in 2005 and 2006.  Alaska Department of Fish and Game Fisheries Data Series No. 10-82.  Accessed from http://www.sf.adfg.state.ak.us/FedAidPDFs/FDS10-82.pdf.
 #' 
 #' @seealso See \code{CutthroatAL} for the same data in \dQuote{individual} fish format (i.e., the data in this file were converted using \code{capHistConvert} from \pkg{FSA}).  See \code{mrOpen} from \pkg{FSA} for an example analysis.
 #' 

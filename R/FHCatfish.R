@@ -8,9 +8,9 @@
 #' 
 #' @format A data frame of 39 observations on the following 3 variables:
 #'  \describe{
-#'    \item{river}{Location of collection (\code{Coosa}, \code{Ocmulgee}, and \code{Satilla}).}
-#'    \item{age}{Age (years) assigned from otolith.} 
-#'    \item{abundance}{Number of captured fish with boat electrofishing.}
+#'    \item{river}{Location of collection (\code{Coosa}, \code{Ocmulgee}, and \code{Satilla})}
+#'    \item{age}{Age (years) assigned from otolith}
+#'    \item{abundance}{Number of captured fish with boat electrofishing}
 #'  }
 #'  
 #' @section Topic(s):
