@@ -1,5 +1,7 @@
 # 0.3.1 ongoing
+* Removed `Imports` for `utils` due to changes in `FSAdata` described below.
 * `FSAdata`: Modified.  Fixed link to `FSA` package.  Removed `importFrom` for `read.table()` from `utils`.
+* Lots of editorial changes to help pages to make it the `datalist` vignette in `FSA` work better an to make the documentation more consistent.
 
 # 0.3.0 6Oct15
 * Released to CRAN
