@@ -1,5 +1,3 @@
-# HalibutPAC.txt
-#
 year	ssb	rec	land	fmort
 1929	NA	NA	56.9	NA	
 1930	NA	NA	49.4	NA	

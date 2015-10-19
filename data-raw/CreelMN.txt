@@ -1,10 +1,3 @@
-# CreelMN.txt
-#
-# species: species
-# harvest: number of fish harvested.
-#
-# from tables in Cook et al. 2001.  Creel limits in Minnesota: A proposal for change.  Fisheries 26:19-26.
-#
 species harvest
 WAE 6
 WAE 6

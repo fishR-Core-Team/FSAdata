@@ -20,7 +20,7 @@
 #'  
 #' @concept Mortality 'Catch Curve'
 #' 
-#' @source Extracted (approximately) from Figure 4 in Downs, C.C., D. Horan, E. Morgan-Harris, and R. Jakubowski.  2006.  Spawning demographics and juvenile dispersal of an adfluvial bull trout population in Trestle Creek, Idaho.  North American Journal of Fisheries Management 26:190-200.
+#' @source Extracted (approximately) from Figure 4a in Downs, C.C., D. Horan, E. Morgan-Harris, and R. Jakubowski.  2006.  Spawning demographics and juvenile dispersal of an adfluvial bull trout population in Trestle Creek, Idaho.  North American Journal of Fisheries Management 26:190-200.
 #' 
 #' @keywords datasets
 #' 

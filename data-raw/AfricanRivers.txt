@@ -1,14 +1,3 @@
-# File -- AfricanRivers.txt
-# from Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands:
-#   species richness of fish communities.  Oecologia 79:236-243.
-#
-# river: name of the river
-# richness: fish species richness
-# surface: surface area in km^2
-# disch: mean annual discharge in m^3/s
-# vegdiv: terrestrial vegetation diversity (Shannon's diversity index of vegetation in drainage)
-# forperc: percentage of drainage area covered by lowland rain forest.
-#
 river	richness	surface	disch	vegdiv	forperc	
 Nile	127	3349000	2640	2.62	8
 Senegal	110	441000	687	0.97	3

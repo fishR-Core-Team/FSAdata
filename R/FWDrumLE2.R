@@ -1,6 +1,6 @@
 #' @title Ages (subsample) and lengths (all fish) for Freshwater Drum from Lake Erie.
 #' 
-#' @description A total of 253 fish dispersed proportionately over 10-mm total length intervals from the \code{FWDrumLE1} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+#' @description A total of 253 fish dispersed proportionately over 10-mm total length intervals from the \code{\link{FWDrumLE1}} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 #' 
 #' @name FWDrumLE2
 #' 

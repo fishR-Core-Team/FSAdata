@@ -8,7 +8,7 @@
  \describe{
    \item{age}{Otolith age-at-capture (years).}
    \item{tl}{Total length (nearest 0.1 mm) at capture.}
-   \item{river}{Location of capture (Salmon or Trent Rivers.}
+   \item{river}{Location of capture (Salmon or Trent Rivers).}
  }}
 \source{
 Extracted from Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations.  Journal of Freshwater Ecology 19:441-444.

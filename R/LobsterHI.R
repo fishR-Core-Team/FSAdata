@@ -32,7 +32,7 @@
 #'  
 #' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
 #' 
-#' @source From Table 1 of Clarke, R.P., and S.S. Yoshimoto.  1990.  Application of the leslie model to commercial catch and effort of the slipper lobster, \emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands.  Marine Fisheries Review, 52(2):1-7.
+#' @source From Table 1 of Clarke, R.P., and S.S. Yoshimoto.  1990.  Application of the Leslie model to commercial catch and effort of the slipper lobster, \emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands.  Marine Fisheries Review, 52(2):1-7.
 #' 
 #' @keywords datasets
 #' 

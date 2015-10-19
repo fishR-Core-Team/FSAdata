@@ -1,8 +1,3 @@
-# Catch-effort data for a population of male blue crabs (Callinectes sapidus) for a 12-week period.
-#  Catch is in pounds, Effort is in lines per day
-#  From Krebs (1999), Ecological methodology.
-#  Originally from Fischler (1965) 
-#
 catch   effort
 33541   194
 47326   248

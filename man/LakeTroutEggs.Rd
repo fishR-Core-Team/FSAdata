@@ -10,7 +10,7 @@
    \item{eggs}{Estimated number of eggs.}
  }}
 \source{
-Schram, S.T. 1993.  Fecundity and egg deposition of a wild Lake Superior Lake Trout stock.  Wisconsin Department of Natural Resources, Fisheries Management Report no. 149.
+Date estimated from Figure 2 of Schram, S.T. 1993.  Fecundity and egg deposition of a wild Lake Superior Lake Trout stock.  Wisconsin Department of Natural Resources, Fisheries Management Report no. 149.
 }
 \description{
 Length and egg deposition of Lake Superior Lake Trout (\emph{Salvelinus namaycush}).

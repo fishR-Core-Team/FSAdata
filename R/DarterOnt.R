@@ -10,7 +10,7 @@
 #'  \describe{
 #'    \item{age}{Otolith age-at-capture (years).} 
 #'    \item{tl}{Total length (nearest 0.1 mm) at capture.} 
-#'    \item{river}{Location of capture (Salmon or Trent Rivers.} 
+#'    \item{river}{Location of capture (Salmon or Trent Rivers).} 
 #'  }
 #'  
 #' @note The original author used a linear model to describe the relationship between length and age.

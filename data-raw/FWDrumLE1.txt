@@ -1,9 +1,3 @@
-# Age (from scales) and total length (mm) of freshwater drum (Aplodinotus grunniens) 
-#   in the western basin of Lake Erie.  Data simulated from the age-length key 
-#   provided in table 3 of Bur, M.T.  1984.  Growth, reproduction, mortality, 
-#   distribution, and biomass of freshwater drum in Lake Erie.  Journal of Great 
-#   Lakes Research.  10:48-58.
-#
 age	tl
 1	106
 1	100

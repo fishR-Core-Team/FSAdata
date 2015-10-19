@@ -1,14 +1,3 @@
-# BullTroutTC.txt
-#
-# Data extracted from Figure 4a of Downs, C.C., D. Horan, E. Morgan-Harris, and R. Jakubowski.  2006.
-#   Spawning demographics and juvenile dispersal of an adfluvial bull trout population in Trestle
-#   Creek, Idaho.  North American Journal of Fisheries Management  26:190-200.
-#
-# age: age (yrs) from otoliths.
-# carcasses: number of carcasses found in and along Trestle Creek.
-#
-# Can be used as an example of a catch curve mortality estimation.
-#
 age	carcasses
 6	1
 7	3

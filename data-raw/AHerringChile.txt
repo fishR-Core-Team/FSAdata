@@ -1,13 +1,3 @@
-# AHerringChile.txt
-#
-# extracted from figure 9 of Cubillos, L.A., D.F. Arcosa, D.A. Bucareya,
-#   M.T. Canalesa.  2001.  Seasonal growth of small pelagic fish off 
-#  Talcahuano, Chile (37°S, 73°W): a consequence of their reproductive 
-#  strategy to seasonal upwelling?  Aquatic Living Resources, 14:115-124.
-#
-# age: age in years
-# len: toal length (to nearest 0.5 cm)
-#
 age	len
 0.25	5.5
 0.33	6.5

@@ -2,7 +2,7 @@
 #' 
 #' @description Ages (subsample) and lengths (all fish) for Jonubi (\emph{Chalcalburnus mossulensis}).
 #' 
-#' @details A total of 50 fish dispersed proportionately over 1-cm fork length intervals from the \code{Jonubi1} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+#' @details A total of 50 fish dispersed proportionately over 1-cm fork length intervals from the \code{\link{Jonubi1}} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 #' 
 #' @name Jonubi2
 #' 

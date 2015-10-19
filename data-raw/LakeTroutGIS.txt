@@ -1,15 +1,3 @@
-# LakeTroutGIS.txt
-# from Schram, S.T. Selgeby, J.H.,  Bronte, C.R. And Swanson B.L. 1995. 
-#   Population recovery and natural recruitment of lake  trout at gull-island 
-#   shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research. 21 supp.1 
-#   :225-232.
-#
-# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html 
-#
-# year: year data collected
-# stock: mean number of female lake trout per 1000 m of gillnet (back=transformed)
-# recruits: number per ha
-#
 year	stock	recruits
 1964	9.06118584990301	11.1228327490456
 1965	14.9992470023677	2.05648867141363

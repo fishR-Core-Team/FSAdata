@@ -1,13 +1,3 @@
-# BluefishAge.txt
-#
-# Ages assigned to bluefish (Pomatomus saltatrix) otoliths by two different readers.
-#
-# Extracted from figure 2 of Chapter 3 of the VMRC summary report on finfish ageing, 2003.
-#   Available at www.odu.edu/cqfe/
-#
-# r1: Ages assigned by the first reader.	
-# r2: Ages assigned by the second reader.	
-#
 r1	r2
 0	0
 0	0

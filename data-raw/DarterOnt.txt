@@ -1,13 +1,3 @@
-# DarterOnt.txt
-#
-# Data extracted from Figure 2 of Reid, S.M. Age estimates and length distributions
-#   of Ontario channel darter (Percina copelandi) populations.  Journal of
-#   Freshwater Ecology 19:441-444.
-#
-# age: age from section otoliths
-# tl: total length
-# river: origin of capture (Salmon or Trent Rivers)
-#
 age	tl	river
 1	37.8	Salmon
 2	39.7	Salmon

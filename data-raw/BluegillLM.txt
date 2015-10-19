@@ -1,5 +1,3 @@
-# Lake Mary Bluegill Data
-#
 sernum	sl	fl	tl	wght
 100	126	152	157	92
 110	124	150	153	88

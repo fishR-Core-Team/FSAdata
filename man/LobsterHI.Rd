@@ -14,7 +14,7 @@
    \item{effort}{Total daily effort expended.}
  }}
 \source{
-From Table 1 of Clarke, R.P., and S.S. Yoshimoto.  1990.  Application of the leslie model to commercial catch and effort of the slipper lobster, \emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands.  Marine Fisheries Review, 52(2):1-7.
+From Table 1 of Clarke, R.P., and S.S. Yoshimoto.  1990.  Application of the Leslie model to commercial catch and effort of the slipper lobster, \emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands.  Marine Fisheries Review, 52(2):1-7.
 }
 \description{
 Catches of Slipper Lobster (\emph{Scyllarides squammosus}) in three categories from the vicinity of Laysan Bank, Hawaiian Islands on 34 consecutive days in 1986.

@@ -21,7 +21,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source From Hilborn, R. and C.J. Walters.  1992.  Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty.  Chapman and Hall, New York.  570 p.
+#' @source VIsually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters.  1992.  Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty.  Chapman and Hall, New York.  570 p.
 #' 
 #' @keywords datasets
 #' 

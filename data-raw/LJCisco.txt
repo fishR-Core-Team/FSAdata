@@ -1,10 +1,3 @@
-# Age (from scales) and total length (mm) of longjaw cisco (Coregonus alpenae) 
-#  captured in northeastern Lake Michigan in 1923 and in southern Lake Michican in 
-#  1928.  Data simulated from age-length data provided in tables 2 and 3 of Jobes, 
-#  F.W.  1946.  The age, growth, and distribution of the longjaw cisco, Leucichthys 
-#  alpenae Koelz, in Lake Michigan.  Transactions of the American Fisheries Society. 
-#  76:215-247.
-#
 age	tl	loc
 2	208	NE
 2	210	NE

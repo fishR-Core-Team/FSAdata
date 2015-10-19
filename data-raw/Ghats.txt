@@ -1,12 +1,3 @@
-# Ghats.txt
-#
-# extracted from Figure 1 in Dahanukar, N., R. Raut, and A. Bhat.  2004.  Distribution,
-#   endemism and threat status of freshwater fishes in the Western Ghats of India.
-#   Journal of Biogeography 31:123-126.
-#
-# unit: a manuscript that was reviewed.
-# cum.spec: cumulative number of species described in the reviewed manuscripts.
-#
 unit	cumspec
 1	1
 1	4

@@ -1,9 +1,3 @@
-# File --> Croaker1.txt	
-# Age (from otoliths) of Atlantic Croaker (Micropogonias undulatus), from two readers.
-# From VMRC final report on finfish ageing, 1999 (Chapter 1)
-# From http://www.odu.edu/sci/cqfe/pdf%20&%20sound%20files/atlanticcroaker_1999.pdf
-# Visually taken from Figure 2.
-#
 reader1	reader2
 1	1
 1	1

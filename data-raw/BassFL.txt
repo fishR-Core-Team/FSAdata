@@ -1,16 +1,3 @@
-# BassFL.txt
-#
-# Extracted from Figure 2 of Bonvechi, T.F., M.S. Allen, and R.L. Cailteux.
-#   2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass in
-#   Four Florida Rivers.  North American Journal of Fisheries Management
-#   25:275–283.
-#
-# species: Species of bass (Suwanee and Largemouth)
-# loc: Location (SantaFe, Wacissa, Withlacoochee, Ochlockonee)
-# year: Year (2001, 2002)
-# num: Number of fish captured
-# age: Age of fish at capture
-#
 species	loc	year	num	age
 Suwanee	SantaFe	2001	129	2
 Suwanee	SantaFe	2001	28	3

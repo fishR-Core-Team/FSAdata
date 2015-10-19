@@ -1,13 +1,3 @@
-# LizardFish.txt 
-# 
-# from Hilborn and Walters (1992).
-#
-# data were visually estimated from Figure 7.12 (p. 267).
-#
-# year: year of data
-# stock: spawning stock index -- in ten thousands
-# recruits: recuit index -- in hundred thousands
-#
 year	stock	recruits
 1955	1.5	2.75
 1956	1.3	3.7

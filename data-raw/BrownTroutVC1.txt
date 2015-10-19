@@ -1,8 +1,3 @@
-# BrownTroutVC1.txt
-#
-# Valley Creek, MN  April, 1988
-# from Tom Kwak
-#
 len	sample	recap
 11.8	first	NO
 11.2	first	NO

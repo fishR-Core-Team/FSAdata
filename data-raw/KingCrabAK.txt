@@ -1,13 +1,3 @@
-# KingCrabAK.txt
-#
-# Data from table 1 in Bechtol W.R. and G.H. Kruse.  2009.  Analysis of a stock-recruit
-#   relationship for red king crab off Kodiak Island Alaska.  Marine and Coastal
-#   Fisheries: Dynamics Management and Ecosystem Science  1:29-44.
-#
-# year: brood year
-# recruits: abundance (thousands) of male recruits (>=125 mm and <145 mm)
-# adults: abundance (thousands) legal (>=145 mm carapace length) males
-#
 year	recruits	adults
 1960	5287	11456				
 1961	20906	10799				

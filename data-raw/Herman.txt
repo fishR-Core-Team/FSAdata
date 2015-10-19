@@ -1,19 +1,3 @@
-# HermanLake.txt
-#
-# Data were extracted from a South Dakota Fish and Game report at 
-#   http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.		
-#
-# Lake Herman was sampled on June 20-22, 2005 with four overnight gill-net sets and 10
-#   overnight trap-net sets. The trap nets are constructed with 19-mm-bar-mesh (0.75 in)
-#   netting, 0.9 m high x 1.5 m wide (3 ft high x 5 ft wide) frames and 18.3 m (60 ft) long
-#   leads. The gillnets are 45.7 m long x 1.8 m deep (150 ft long x 6 ft deep) with one 7.6 m 
-#   (25 ft) panel each of 13, 19, 25, 32, 38 and 51-mm-bar-mesh (0.5, 0.75, 1, 1.25, 1.5, and 2
-#   in) monofilament netting.
-#
-# tl: total length (cm)
-# spec: species code (wae=walleye, yep=yellow perch; bkc=black crappie; bbh=black bullhead)
-# yr: year of capture
-#
 tl	spec	yr
 16.6	wae	1999
 19.2	wae	1999

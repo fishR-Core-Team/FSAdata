@@ -1,19 +1,3 @@
-# Catch (numbers) of lobster in three categories – legal (tail weight > 85g),
-#  sublegal (tail weight < 85g), and berried (egg-bearing females).  Sublegal 
-#  and berried lobsters were returned to the water.
-# The vessel fished between 11 June and 14 July 1986 in the vicinity of Laysan 
-#  Island and its associated bank, which is henceforth referred to as Laysan 
-#  bank.  The daily operations of the vessel involved deploying and hauling 
-#  1,125 Fathom Plus lobster traps set in strings spaced at 30 m intervals.  
-#  They were fished in 7 strings of about 160 traps each and baited with Pacific 
-#  mackerel, Scomber japonicus. Strings were soaked overnight and retrieved the 
-#  following day; therefore, the standard unit of effort is the trap-haul. 
-#
-# Data retrieved from Table 1 of APPLICATION OF THE LESLIE MODEL TO COMMERCIAL 
-#  CATCH AND EFFORT OF THE SLIPPER LOBSTER, SCYLLARIDES SQUAMMOSUS, FISHERY IN 
-#  THE NORTHWESTERN HAWAIIAN ISLANDS ,  By: Clarke, Raymond P., Yoshimoto, 
-#  Stacey S., Marine Fisheries Review, 0090-1830, June 1, 1990, Vol. 52, Issue 2
-#
 day	legal	sublegal	berried	total	effort
 1	2133	1000	1000	4133	1125
 2	1675	450	600	2725	1125

@@ -1,17 +1,3 @@
-# LakeTroutMI.txt
-#
-# from Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment
-#  dynamics of the 1971-1991 year-classes of lake trout in Michigan waters of Lake
-#  Superior.  North American Journal of Fisheries Management.  24:475-489.
-#
-# visually obtained from figures in source
-#
-# yearclass: year-class of lake trout
-# recruits: geometric mean number of age-7 fish/km/net-night.
-# wild: geometric mean number of wild age-8 and older fish/km/net-night.
-# stocked: geometric mean number of stocked age-8 and older fish/km/net-night.
-# area: Lake Superior management unit
-#
 year	recruits	wild	stocked	area
 1971	1.1	0.2	20	MI3
 1972	2.1	0.5	21	MI3

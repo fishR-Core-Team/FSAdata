@@ -1,7 +1,3 @@
-# Instantaneous growth rates (% change per day) for three structures
-#   from age 1-4 female northern pike from Wickett Lake, Ontario
-# Data read from Figure 8 of Casselman, 1990
-#			
 day	body	cleithrum	scale
 14	0.004	0.002	0.001
 47	0.003	0.002	0
