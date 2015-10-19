@@ -4,6 +4,7 @@
 
 ## Raw data files
 ^data-raw$
+^data-html$
 
 ## Miscellaneous webpage and package files
 License
@@ -11,4 +12,4 @@ ToDo
 README.md
 NEWS.md
 .travis.yml
-^cran-comments\.md$
+^cran-comments$
