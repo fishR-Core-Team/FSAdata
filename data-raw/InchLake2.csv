@@ -1,0 +1,517 @@
+netID,fishID,species,length,weight,year
+206,501,Bluegill,1.5,0.7,2008
+205,502,Bluegill,1.7,1.4,2008
+205,503,Bluegill,2.2,1.5,2008
+205,504,Bluegill,2.1,1.4,2008
+205,505,Bluegill,1.5,1,2008
+205,506,Bluegill,1.9,1.8,2008
+205,507,Bluegill,1.9,1.4,2008
+205,508,Bluegill,1.4,0.6,2008
+205,509,Bluegill,1.2,0.3,2008
+205,510,Bluegill,1.4,0.8,2008
+205,511,Bluegill,2,1.3,2008
+205,512,Bluegill,2.3,2.4,2008
+205,513,Bluegill,1.3,0.7,2008
+205,514,Bluegill,1.5,1,2008
+205,515,Bluegill,1.3,0.6,2008
+205,516,Bluegill,2.2,2.8,2008
+205,517,Bluegill,1.3,1.1,2008
+205,518,Bluegill,2.1,2,2008
+205,519,Bluegill,2.6,4.5,2008
+205,520,Bluegill,2.8,4.9,2008
+205,521,Iowa Darter,2.1,1.1,2008
+205,522,Bluntnose Minnow,2.4,2.1,2008
+203,524,Iowa Darter,1.8,0.6,2008
+203,525,Iowa Darter,1.8,0.6,2008
+203,526,Iowa Darter,1.8,0.6,2008
+203,527,Iowa Darter,1.7,0.4,2008
+203,528,Tadpole Madtom,1.6,0.5,2008
+203,529,Tadpole Madtom,1.3,0.2,2008
+203,530,Tadpole Madtom,1.2,0.2,2008
+203,531,Tadpole Madtom,1.2,0.3,2008
+101,532,Black Crappie,12.6,508,2008
+101,533,Bluegill,8.4,190,2008
+101,534,Black Crappie,12,443,2008
+101,535,Black Crappie,12.1,440,2008
+101,536,Largemouth Bass,12.5,407,2008
+101,537,Black Crappie,11.3,379,2008
+101,538,Bluegill,8.5,198,2008
+101,539,Bluegill,8.5,210,2008
+101,540,Bluegill,9.1,258,2008
+101,541,Bluegill,7.6,138,2008
+101,542,Bluegill,8.9,236,2008
+101,543,Bluegill,6.4,75,2008
+101,544,Bluegill,8.8,229,2008
+101,545,Bluegill,7,101,2008
+101,546,Bluegill,7.1,110,2008
+101,547,Bluegill,9.4,295,2008
+101,548,Bluegill,7.2,113,2008
+17,199,Bluegill,5.6,59,2007
+20,200,Pumpkinseed,7.5,200,2007
+20,201,Bluegill,5.5,54,2007
+20,202,Yellow Perch,8.9,122,2007
+15,203,Bluegill,5.6,40,2007
+15,204,Yellow Perch,9.6,130,2007
+15,205,Yellow Perch,10.7,200,2007
+15,206,Bluegill,5.8,30,2007
+15,207,Bluegill,4.7,20,2007
+16,208,Black Crappie,11.6,380,2007
+16,209,Black Crappie,10.8,260,2007
+16,210,Bluegill,9,280,2007
+16,211,Bluegill,8.8,260,2007
+16,212,Bluegill,8.8,260,2007
+16,213,Bluegill,8.8,240,2007
+16,214,Bluegill,5.9,60,2007
+16,215,Bluegill,5.4,60,2007
+21,216,Pumpkinseed,6,80,2007
+21,217,Bluegill,3.7,14,2007
+21,218,Black Crappie,6,46,2007
+21,219,Bluegill,5.1,38,2007
+26,220,Bluegill,5.2,49,2007
+26,221,Bluegill,5.4,41,2007
+23,222,Yellow Perch,9,110,2007
+23,223,Pumpkinseed,7.9,210,2007
+23,224,Bluegill,4.5,20,2007
+27,225,Pumpkinseed,5.1,20,2007
+27,226,Bluegill,5,20,2007
+27,227,Largemouth Bass,5.4,10,2007
+27,228,Bluegill,4.8,20,2007
+24,268,Black Crappie,13,580,2007
+24,269,Black Crappie,12.1,440,2007
+24,229,Pumpkinseed,9,320,2007
+28,230,Bluegill,5.4,50,2007
+28,231,Bluegill,9.2,280,2007
+101,549,Bluegill,8.3,191,2008
+101,550,Bluegill,7.5,139,2008
+101,551,Largemouth Bass,7,60,2008
+101,552,Bluegill,7.5,137,2008
+101,553,Bluegill,7.9,165,2008
+101,554,Bluegill,7,103,2008
+101,555,Bluegill,7.9,166,2008
+101,556,Bluegill,7.1,115,2008
+101,557,Bluegill,6.5,89,2008
+101,558,Bluegill,7.5,121,2008
+101,559,Bluegill,6.2,78,2008
+101,560,Bluegill,6,63,2008
+101,561,Bluegill,8.1,181,2008
+101,562,Bluegill,5.8,60,2008
+101,563,Bluegill,6.4,74,2008
+101,564,Bluegill,7.1,101,2008
+101,565,Bluegill,7.6,141,2008
+101,566,Bluegill,8.5,228,2008
+101,567,Bluegill,9,266,2008
+101,568,Bluegill,6.6,93,2008
+101,569,Bluegill,6.4,74,2008
+101,570,Bluegill,6.5,82,2008
+101,571,Bluegill,9.1,274,2008
+101,572,Bluegill,7.9,151,2008
+101,573,Bluegill,7.4,129,2008
+101,574,Bluegill,6.9,98,2008
+101,575,Bluegill,5.7,57,2008
+101,576,Bluegill,6,62,2008
+101,577,Bluegill,6.9,107,2008
+101,578,Bluegill,8.7,240,2008
+101,580,Bluegill,7,110,2008
+101,581,Bluegill,8.3,208,2008
+101,583,Bluegill,5.5,48,2008
+101,585,Bluegill,6.8,96,2008
+101,586,Bluegill,6,73,2008
+101,587,Bluegill,8.4,198,2008
+101,588,Largemouth Bass,8.7,117,2008
+101,589,Bluntnose Minnow,2.5,1.4,2008
+101,590,Bluntnose Minnow,1.8,0.5,2008
+101,591,Bluntnose Minnow,2.1,1,2008
+101,592,Bluntnose Minnow,2.3,1.7,2008
+101,593,Bluntnose Minnow,2.2,1,2008
+101,594,Bluntnose Minnow,2.3,1.1,2008
+101,595,Bluntnose Minnow,2.3,1,2008
+101,596,Bluntnose Minnow,2.2,1,2008
+101,597,Bluntnose Minnow,2.1,1,2008
+101,598,Bluntnose Minnow,2,0.8,2008
+101,599,Bluntnose Minnow,2.2,0.8,2008
+101,600,Bluntnose Minnow,2.2,1,2008
+101,601,Bluntnose Minnow,2.3,1,2008
+101,602,Iowa Darter,2.2,0.9,2008
+101,603,Bluntnose Minnow,2.5,1.4,2008
+101,604,Iowa Darter,2,0.8,2008
+101,605,Bluntnose Minnow,2.3,1.2,2008
+101,606,Bluntnose Minnow,2.4,1.3,2008
+101,607,Bluntnose Minnow,2.7,1.8,2008
+101,608,Bluntnose Minnow,2.5,1.4,2008
+101,609,Bluntnose Minnow,2.1,0.8,2008
+101,610,Bluntnose Minnow,2.5,1.4,2008
+101,611,Bluntnose Minnow,2.4,1.2,2008
+101,612,Bluntnose Minnow,2,0.7,2008
+101,613,Bluntnose Minnow,2.2,1.1,2008
+101,614,Bluntnose Minnow,2.2,1,2008
+101,615,Bluntnose Minnow,2.1,0.9,2008
+101,616,Bluntnose Minnow,2.3,1.2,2008
+101,617,Bluntnose Minnow,2.1,0.8,2008
+101,618,Bluntnose Minnow,2.1,0.9,2008
+101,619,Bluntnose Minnow,2.6,1.5,2008
+101,620,Bluntnose Minnow,2.4,1.3,2008
+107,621,Bluegill,8,156,2008
+107,622,Bluegill,8.7,242,2008
+107,623,Bluegill,8,187,2008
+107,624,Bluegill,9,242,2008
+107,625,Bluegill,6.7,83,2008
+102,626,Black Crappie,12.1,461,2008
+102,627,Black Crappie,12.2,466,2008
+102,628,Black Crappie,12.4,536,2008
+102,629,Black Crappie,12.7,565,2008
+102,630,Largemouth Bass,16.9,1070,2008
+102,631,Largemouth Bass,15.5,737,2008
+102,632,Largemouth Bass,14.2,548,2008
+102,633,Yellow Perch,9.8,164,2008
+102,634,Yellow Perch,10.4,208,2008
+102,635,Yellow Perch,10,173,2008
+102,636,Yellow Perch,9.8,158,2008
+102,638,Bluntnose Minnow,2.9,3.9,2008
+102,639,Bluntnose Minnow,0.4,2.2,2008
+102,640,Bluntnose Minnow,3.3,1.3,2008
+102,641,Iowa Darter,1.9,1,2008
+102,642,Bluntnose Minnow,2.1,1.3,2008
+102,643,Bluntnose Minnow,2.2,2.1,2008
+102,644,Bluntnose Minnow,2.2,1.4,2008
+102,645,Bluntnose Minnow,2.4,2,2008
+106,646,Iowa Darter,1.5,0.6,2008
+106,647,Iowa Darter,1.8,0.9,2008
+106,648,Iowa Darter,1.7,0.8,2008
+106,649,Iowa Darter,1.9,1,2008
+106,650,Iowa Darter,1.6,0.5,2008
+106,651,Iowa Darter,1.6,0.7,2008
+106,652,Iowa Darter,1.7,0.6,2008
+106,653,Iowa Darter,1.7,0.6,2008
+106,654,Iowa Darter,1.8,0.9,2008
+106,655,Tadpole Madtom,1.8,1.3,2008
+104,656,Largemouth Bass,9.9,172,2008
+104,657,Largemouth Bass,15.2,688,2008
+104,658,Bluegill,8.4,197,2008
+104,659,Bluegill,9,255,2008
+104,660,Bluegill,7.3,111,2008
+103,695,Bluegill,5.4,45.3,2008
+103,697,Bluegill,5.8,50.9,2008
+103,699,Bluegill,2.6,3.4,2008
+103,700,Bluegill,5.9,54.5,2008
+103,701,Bluegill,5.6,48.8,2008
+103,702,Largemouth Bass,14.2,579,2008
+103,703,Bluegill,5.9,50.9,2008
+105,704,Yellow Perch,4.5,14.1,2008
+105,705,Yellow Perch,4,9.7,2008
+105,706,Yellow Perch,4.7,13.6,2008
+105,707,Yellow Perch,3.1,4,2008
+105,708,Yellow Perch,3.2,4.3,2008
+105,709,Yellow Perch,3.1,4.1,2008
+105,710,Yellow Perch,2.9,3.4,2008
+105,711,Iowa Darter,1.9,0.7,2008
+105,712,Iowa Darter,1.8,0.7,2008
+111,713,Largemouth Bass,13.7,556,2008
+111,714,Yellow Perch,12.1,340,2008
+111,717,Bluegill,5.1,35,2008
+111,718,Bluegill,5.4,45,2008
+111,719,Bluegill,5.2,39,2008
+111,722,Bluegill,5.4,43,2008
+111,726,Bluegill,5.4,50,2008
+111,727,Bluntnose Minnow,3.1,3.8,2008
+115,728,Yellow Perch,3.7,6.3,2008
+115,729,Yellow Perch,3.1,4.2,2008
+115,730,Iowa Darter,1.9,0.8,2008
+115,731,Iowa Darter,1.9,0.8,2008
+115,732,Iowa Darter,2,1,2008
+115,733,Iowa Darter,2,1.1,2008
+115,734,Tadpole Madtom,1.5,1,2008
+113,735,Yellow Perch,10.5,201,2008
+113,742,Bluegill,5.3,39,2008
+113,753,Black Crappie,6.1,47,2008
+113,754,Black Crappie,5.8,37,2008
+114,755,Bluegill,2.6,3.1,2008
+114,756,Yellow Perch,11.7,327,2008
+114,759,Largemouth Bass,6.6,48,2008
+116,760,Largemouth Bass,2.8,2,2008
+116,761,Bluegill,3.8,7,2008
+116,762,Bluegill,3.6,6.8,2008
+116,763,Bluntnose Minnow,2.9,2.2,2008
+116,764,Iowa Darter,2,0.8,2008
+116,765,Iowa Darter,1.9,0.6,2008
+116,766,Iowa Darter,2,0.6,2008
+116,767,Iowa Darter,1.7,0.3,2008
+116,768,Iowa Darter,2,0.8,2008
+116,769,Iowa Darter,2.2,0.8,2008
+116,770,Iowa Darter,2.1,0.7,2008
+116,771,Iowa Darter,1.7,0.6,2008
+116,772,Yellow Perch,3.6,4.4,2008
+116,773,Yellow Perch,3.3,2.9,2008
+112,774,Bluegill,8,171,2008
+112,780,Bluegill,3,3.9,2008
+112,781,Bluegill,4.3,12.2,2008
+112,796,Yellow Perch,9,123,2008
+112,797,Yellow Perch,9.4,135,2008
+112,798,Black Crappie,7.4,102,2008
+112,799,Black Crappie,13,606,2008
+112,800,Black Crappie,11.5,362,2008
+112,801,Largemouth Bass,6.6,52,2008
+120,802,Bluegill,3.7,6.9,2008
+120,803,Bluegill,3.3,5.7,2008
+120,804,Bluegill,3.6,6.8,2008
+120,805,Bluegill,3.3,5.6,2008
+120,806,Bluegill,3.4,6,2008
+120,807,Bluegill,2.7,2.6,2008
+121,808,Black Crappie,12.7,509,2008
+121,809,Black Crappie,11.1,352,2008
+121,812,Black Crappie,5.6,37,2008
+121,816,Bluntnose Minnow,2,1.2,2008
+121,817,Bluntnose Minnow,3.1,3.9,2008
+121,818,Bluntnose Minnow,2.9,3.8,2008
+121,819,Bluntnose Minnow,2.5,1.9,2008
+121,820,Bluntnose Minnow,2,1,2008
+121,821,Bluntnose Minnow,2,1.1,2008
+121,822,Bluntnose Minnow,2.5,2.1,2008
+121,823,Bluntnose Minnow,2,1.2,2008
+119,824,Bluegill,4.7,25,2008
+122,825,Yellow Perch,9.8,152,2008
+122,826,Bluegill,5.2,33,2008
+125,827,Yellow Perch,8.7,113,2008
+125,828,Yellow Perch,3.3,4.6,2008
+125,829,Yellow Perch,3.6,7.1,2008
+125,830,Yellow Perch,3.2,4.1,2008
+125,831,Yellow Perch,2.8,2.1,2008
+125,832,Fathead Minnow,3.2,2.8,2008
+125,833,Fathead Minnow,3.2,3.2,2008
+125,834,Bluntnose Minnow,3.1,4.1,2008
+124,835,Pumpkinseed,6.9,130,2008
+109,836,Largemouth Bass,16.7,864,2008
+109,837,Largemouth Bass,12.9,410,2008
+109,838,Largemouth Bass,12.4,385,2008
+109,839,Largemouth Bass,12.8,338,2008
+109,840,Largemouth Bass,10.8,235,2008
+109,842,Largemouth Bass,12.5,386,2008
+109,843,Largemouth Bass,13.1,460,2008
+109,844,Largemouth Bass,15.2,547,2008
+109,845,Largemouth Bass,15.1,540,2008
+109,847,Largemouth Bass,12.1,320,2008
+109,848,Largemouth Bass,12.7,420,2008
+109,849,Largemouth Bass,12.4,406,2008
+109,850,Largemouth Bass,13.8,486,2008
+109,851,Largemouth Bass,9.8,274,2008
+109,852,Largemouth Bass,11.3,265,2008
+109,853,Largemouth Bass,12.1,338,2008
+109,854,Largemouth Bass,11.9,358,2008
+109,855,Largemouth Bass,11.7,333,2008
+109,856,Largemouth Bass,12.6,386,2008
+109,857,Largemouth Bass,13.1,483,2008
+109,858,Largemouth Bass,13.1,426,2008
+109,859,Largemouth Bass,12.1,295,2008
+109,860,Largemouth Bass,9,132,2008
+109,861,Largemouth Bass,7.9,92,2008
+109,862,Largemouth Bass,7.9,88,2008
+110,863,Black Crappie,12.1,415,2008
+110,864,Largemouth Bass,12.8,436,2008
+110,865,Largemouth Bass,12.8,412,2008
+110,866,Largemouth Bass,12.7,444,2008
+110,867,Largemouth Bass,10.7,233,2008
+129,868,Largemouth Bass,14.3,624,2008
+129,869,Largemouth Bass,13.9,561,2008
+129,870,Black Crappie,11,344,2008
+129,871,Largemouth Bass,10.4,211,2008
+129,872,Largemouth Bass,12.4,367,2008
+129,873,Largemouth Bass,9.4,157,2008
+129,874,Largemouth Bass,13,433,2008
+129,875,Largemouth Bass,9.4,154,2008
+129,876,Largemouth Bass,11.8,292,2008
+129,877,Largemouth Bass,12.2,351,2008
+129,878,Largemouth Bass,13,436,2008
+129,879,Black Crappie,11.9,397,2008
+129,880,Largemouth Bass,10.5,244,2008
+129,881,Largemouth Bass,13,437,2008
+129,882,Largemouth Bass,9.2,133,2008
+129,883,Largemouth Bass,12.4,409,2008
+129,884,Largemouth Bass,12.2,330,2008
+129,885,Largemouth Bass,9.9,187,2008
+129,886,Largemouth Bass,8.9,132,2008
+129,887,Largemouth Bass,10,168,2008
+129,888,Largemouth Bass,12.6,385,2008
+129,889,Largemouth Bass,12,324,2008
+129,890,Largemouth Bass,13.1,461,2008
+129,891,Largemouth Bass,8.8,110,2008
+130,892,Largemouth Bass,12.2,346,2008
+130,893,Largemouth Bass,13.6,450,2008
+130,894,Largemouth Bass,13.1,443,2008
+130,895,Largemouth Bass,13.7,537,2008
+130,896,Largemouth Bass,12,306,2008
+130,897,Largemouth Bass,13.5,485,2008
+130,898,Largemouth Bass,12.5,383,2008
+130,899,Largemouth Bass,12.2,348,2008
+130,901,Largemouth Bass,10.7,242,2008
+130,902,Largemouth Bass,10.1,173,2008
+130,903,Largemouth Bass,12.3,371,2008
+130,904,Largemouth Bass,10.1,207,2008
+130,905,Largemouth Bass,12,320,2008
+130,906,Largemouth Bass,12.3,349,2008
+130,907,Largemouth Bass,14.9,723,2008
+130,908,Largemouth Bass,13.7,571,2008
+130,909,Largemouth Bass,11.6,315,2008
+130,910,Largemouth Bass,13.3,462,2008
+131,911,Largemouth Bass,11.8,342,2008
+131,912,Largemouth Bass,10.4,215,2008
+131,913,Largemouth Bass,9.9,180,2008
+131,914,Largemouth Bass,14.9,646,2008
+131,915,Largemouth Bass,12.8,377,2008
+4,128,Bluegill,6.5,85,2007
+4,129,Bluegill,7,100,2007
+4,130,Bluegill,7.6,155,2007
+4,131,Bluegill,7.6,140,2007
+4,132,Bluegill,7.9,180,2007
+4,133,Bluegill,8,185,2007
+4,134,Bluegill,3.9,15,2007
+5,137,Black Crappie,10.5,275,2007
+5,138,Bluegill,5.3,42,2007
+5,139,Bluegill,1.5,2,2007
+5,140,Bluegill,1.6,4,2007
+5,143,Bluegill,6.5,68,2007
+5,145,Bluegill,2,4,2007
+5,146,Bluegill,8,184,2007
+5,147,Bluegill,6.6,98,2007
+5,148,Bluegill,6,62,2007
+5,149,Bluegill,2.5,12,2007
+5,150,Bluegill,6.2,76,2007
+10,151,Bluegill,6.8,100,2007
+10,152,Bluegill,6.8,95,2007
+10,153,Bluegill,7.3,130,2007
+10,154,Bluegill,8.6,250,2007
+10,155,Bluegill,8.1,197,2007
+10,156,Bluegill,6.5,78,2007
+10,157,Bluegill,6,72,2007
+10,158,Bluegill,6.7,98,2007
+9,159,Pumpkinseed,7.4,120,2007
+9,160,Pumpkinseed,7.5,185,2007
+9,161,Bluegill,8.1,175,2007
+9,162,Bluegill,7.5,144,2007
+9,163,Bluegill,7.6,148,2007
+9,164,Bluegill,7.2,130,2007
+9,165,Bluegill,7.9,185,2007
+9,166,Bluegill,8.7,225,2007
+9,167,Bluegill,6.5,80,2007
+9,168,Bluegill,8.1,180,2007
+9,169,Bluegill,8,175,2007
+9,171,Bluegill,7.6,160,2007
+9,173,Yellow Perch,8.7,105,2007
+9,174,Yellow Perch,8.9,150,2007
+9,175,Yellow Perch,11.1,230,2007
+6,176,Bluegill,8.4,200,2007
+6,177,Bluegill,6.1,74,2007
+6,178,Bluegill,6.2,62,2007
+6,179,Bluegill,8.3,220,2007
+6,180,Bluegill,7.4,149,2007
+6,181,Bluegill,7.4,139,2007
+6,182,Bluegill,7.7,132,2007
+6,183,Bluegill,7.4,139,2007
+6,184,Bluegill,6.3,73,2007
+6,185,Bluegill,7.7,120,2007
+6,186,Bluegill,8.7,242,2007
+6,187,Bluegill,7.1,130,2007
+6,188,Bluegill,6,70,2007
+6,189,Bluegill,5.5,40,2007
+6,190,Bluegill,8,170,2007
+6,191,Bluegill,5.7,52,2007
+6,192,Bluegill,5.8,32,2007
+11,193,Bluegill,8.3,218,2007
+11,194,Bluegill,5.8,60,2007
+11,195,Bluegill,6,70,2007
+17,196,Bluegill,8,192,2007
+17,197,Bluegill,5.2,31,2007
+17,198,Largemouth Bass,10.2,190,2007
+12,7,Bluntnose Minnow,2.3,2,2007
+12,8,Bluntnose Minnow,2.3,1.7,2007
+12,9,Pumpkinseed,2.9,6.5,2007
+12,10,Bluntnose Minnow,2.1,1.5,2007
+12,11,Bluntnose Minnow,2.4,1.7,2007
+12,12,Bluntnose Minnow,3.1,2.3,2007
+12,13,Pumpkinseed,2.1,2.2,2007
+12,14,Bluntnose Minnow,2.4,2.2,2007
+12,16,Bluegill,2.4,2.9,2007
+12,17,Bluntnose Minnow,2.3,2,2007
+12,18,Bluntnose Minnow,2.5,2.5,2007
+12,19,Bluntnose Minnow,2.3,2,2007
+12,20,Pumpkinseed,2,1.5,2007
+12,21,Bluntnose Minnow,2.8,3.8,2007
+12,22,Bluntnose Minnow,2.2,2.5,2007
+12,23,Bluegill,2.6,4.5,2007
+12,24,Bluntnose Minnow,2.4,2.2,2007
+12,25,Bluntnose Minnow,2,2,2007
+12,26,Bluntnose Minnow,2.1,1.8,2007
+12,27,Bluntnose Minnow,2.5,2.5,2007
+12,28,Bluntnose Minnow,2.6,4,2007
+12,29,Bluntnose Minnow,2.5,2,2007
+12,30,Bluegill,2.8,5.2,2007
+12,31,Bluntnose Minnow,2.6,2,2007
+12,32,Bluntnose Minnow,2.7,3,2007
+12,33,Bluntnose Minnow,2.8,4.8,2007
+12,34,Bluntnose Minnow,2.6,3,2007
+12,35,Bluntnose Minnow,2.9,4,2007
+12,36,Bluntnose Minnow,2.6,4,2007
+12,37,Bluntnose Minnow,2,2.5,2007
+12,38,Bluntnose Minnow,2.3,1.5,2007
+12,39,Bluntnose Minnow,2.8,3.8,2007
+12,40,Bluntnose Minnow,2.1,1.5,2007
+12,41,Bluntnose Minnow,2.4,1.5,2007
+12,42,Bluntnose Minnow,2.3,1.5,2007
+12,43,Bluntnose Minnow,2.8,3,2007
+12,44,Bluegill,1.5,0.5,2007
+12,45,Bluntnose Minnow,2.7,6,2007
+12,46,Bluntnose Minnow,2.2,1.5,2007
+12,47,Bluntnose Minnow,2.3,1.5,2007
+12,48,Bluntnose Minnow,2.3,2,2007
+12,49,Bluntnose Minnow,2.3,2.5,2007
+12,50,Bluegill,1.7,1,2007
+12,51,Bluntnose Minnow,2.4,3,2007
+12,52,Bluntnose Minnow,2.3,1,2007
+12,53,Bluntnose Minnow,2.8,2,2007
+12,54,Bluntnose Minnow,2.5,2.5,2007
+12,55,Bluntnose Minnow,2.4,1,2007
+12,56,Bluntnose Minnow,2.2,1,2007
+12,57,Bluntnose Minnow,2.3,0.5,2007
+12,58,Bluntnose Minnow,2.6,4,2007
+12,59,Bluntnose Minnow,2.3,2,2007
+12,60,Bluntnose Minnow,2.4,1.5,2007
+12,61,Bluntnose Minnow,2.5,2.5,2007
+12,62,Bluntnose Minnow,2.5,1.5,2007
+12,63,Bluntnose Minnow,2.4,1.8,2007
+12,64,Bluntnose Minnow,2.5,3,2007
+12,65,Bluegill,2.1,2.1,2007
+12,67,Pumpkinseed,2.4,4,2007
+13,68,Bluegill,1.4,0.5,2007
+13,69,Bluegill,2.3,2,2007
+13,70,Bluegill,1.5,0.5,2007
+13,71,Bluegill,1.4,0.5,2007
+13,72,Iowa Darter,2.4,0.5,2007
+13,73,Bluegill,1.6,1,2007
+13,74,Bluegill,1.4,0.5,2007
+13,75,Bluegill,1.3,1,2007
+13,76,Bluegill,1.4,0.5,2007
+13,77,Bluegill,1.5,1,2007
+13,78,Bluegill,2.7,7,2007
+13,79,Fathead Minnow,2.8,5,2007
+13,80,Bluegill,1.5,1,2007
+13,81,Bluegill,1.4,0.5,2007
+13,82,Bluegill,1.5,1,2007
+13,84,Fathead Minnow,2.8,4,2007
+14,85,Largemouth Bass,2.7,3.5,2007
+14,86,Bluegill,1.3,0.5,2007
+14,87,Bluegill,1.2,1.5,2007
+14,88,Bluegill,1.4,1.5,2007
+12,15,Pumpkinseed,1.1,1,2007
+4,113,Yellow Perch,9.4,150,2007
+4,114,Yellow Perch,10.5,170,2007
+4,115,Yellow Perch,10.3,175,2007
+4,116,Yellow Perch,10.1,157,2007
+4,117,Yellow Perch,10.1,160,2007
+4,118,Bluegill,5.9,60,2007
+4,119,Bluegill,7.6,145,2007
+4,120,Bluegill,7.3,123,2007
+4,121,Bluegill,6,67,2007
+4,122,Bluegill,6.3,75,2007
+4,123,Bluegill,7.3,118,2007
+4,124,Bluegill,6.7,100,2007
+4,125,Bluegill,5.3,35,2007
+4,126,Bluegill,7.2,120,2007
+4,127,Bluegill,6.6,90,2007
