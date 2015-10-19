@@ -11,7 +11,7 @@
    \item{survey}{Survey location (\code{KAH8810} or \code{KAH0012})}
  }}
 \source{
-Data re-created from Tables 2, 3, and 5 in Davies, N.M. and C. Walsh.  2002.  \href{http://fs.fish.govt.nz/Page.aspx?pk=113&dk=22516}{Snapper age and length samples from Kaharoa research trawl surveys KAH8810 and KAH0012 of the Hauraki Gulf.}  Final Research Report for Ministry of Fisheries Research Project SNA2000/01.  National Institute of Water and Atmospheric Research.  [Note that the unaged fish were simulated from Table 5 assuming that the total number of fish was large enough that at least one fish was observed in each cell where a  proportion was listed.]
+Recreated from Tables 2, 3, and 5 in Davies, N.M. and C. Walsh.  2002.  \href{http://fs.fish.govt.nz/Page.aspx?pk=113&dk=22516}{Snapper age and length samples from Kaharoa research trawl surveys KAH8810 and KAH0012 of the Hauraki Gulf.}  Final Research Report for Ministry of Fisheries Research Project SNA2000/01.  National Institute of Water and Atmospheric Research.  [Note that the unaged fish were simulated from Table 5 assuming that the total number of fish was large enough that at least one fish was observed in each cell where a  proportion was listed.]
 }
 \description{
 A large sample (not random or proportional) of Snapper (\emph{Pagrus auratus}) were aged from otoliths, with the remainder of the fish just measured for length.  Note that age-20 is actually age 19+.

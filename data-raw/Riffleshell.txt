@@ -1,9 +1,3 @@
-# Number of clams captured, number of recaptures, and the number of marks
-#   returned to the lake.  Data taken from table 1-2 of Rogers, S.O. 1999.
-#   Population biology of the Tan Riffleshell (Epioblasma florentina walkeri)
-#   and the	effects of substratum and light on juvenile mussel propagation. 
-#   Virginia Tech M.S. Thesis.
-#
 t	caught	recaps	retmarks
 1	56	0	56
 2	66	5	66

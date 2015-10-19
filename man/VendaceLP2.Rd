@@ -10,7 +10,7 @@
    \item{recruits}{Number of recruits (10^6 fish) in Autumn after hatching}
  }}
 \source{
-Extracted (approximately) figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland.  Journal of Fish Biology 45:387-400.
+From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland.  Journal of Fish Biology 45:387-400.
 }
 \description{
 Vendace (\emph{Coregonus albula}) recruitment in Lake Pyhajarvi.

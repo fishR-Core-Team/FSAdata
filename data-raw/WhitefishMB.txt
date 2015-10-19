@@ -1,15 +1,3 @@
-# WhitefishMB.txt
-#
-# Ages assigned to lake whitefish (Coregonus clupeaformis) from four lakes by fin rays and scales.
-#
-# Extracted from Figure 1 of Mills, K.H., and R.J. Beamish.  1980.  Comparison of fin-ray and scale age 
-#   determinations for lake whitefish (Coregonus clupeaformis) and their implications for estimates of
-#   growth and annual survival.  Can. J. Fish. Aquat. Sci.  37:534-544.
-#
-# fin: age determined from fin-ray section
-# scale: age determined from scales
-# lake: lake where fish was collected (L112, L226, Huron, Dezadeash)
-#
 fin	scale	lake
 1	1	L226
 1	1	L226

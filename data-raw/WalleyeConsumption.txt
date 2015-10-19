@@ -1,15 +1,3 @@
-# WAE Consumption.txt
-#
-# Food consumption of walleye at given prey densities.  Data from Swenson (1977)
-#  as extracted from figure in Madenjian and Carpenter (1991).
-#
-# Madenjian C.P. and S.R. Carpenter. 1991. Individual-based model for growth of
-#   young-of-the-year walleye: A piece of the recruitment puzzle.  Ecological
-#   Applications.  1:268-279.
-#
-# PreyDensity: Density of prey (mg per g per day)
-# FoodConsump: Food consumption by predator (mg per cubic meter)
-#
 PreyDensity	FoodConsump
 24.4	7.41
 19.5	11.85

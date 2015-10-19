@@ -1,14 +1,3 @@
-# RBTroutKenai.txt
-# 
-# from Table 4.10 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.
-#    Oxford University Press.  560 pages.  This table is a 1/3rd subsample of the actual
-#    data presented in Baker, T.T., R. Lafferty, and T.J. Quinn II.  1991.  A general
-#    growth model for mark-recapture data.  Fisheries Research 11:257-281.
-#
-# Lr: length (mm) at recapture
-# Lm: length (mm) at marking
-# dt: time-at-large (yrs)
-#	
 Lr	Lm	dt
 249	239	0.175
 272	259	0.060

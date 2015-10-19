@@ -1,11 +1,3 @@
-# TroutperchLM2.txt
-#
-# simulated from FishBase information originally obtained from Brandt, S.B., J.J.
-#    Magnuson, and L.B. Crowder.  1980.  Thermal habitat partitioning by fishes in Lake
-#    Michigan.  Canadian Journal of Fisheries and Aquatic Sciences.  37:1557-1564.
-#
-# fl: fork length (mm)
-#
 fl
 28
 30

@@ -1,14 +1,3 @@
-# WalleyeErie.txt
-#
-# from Wolfert, D. R. 1981. The commercial fishery for walleyes in New York 
-#  waters of Lake Erie, 1959-1978. North American Journal of Fisheries 
-#  Management 1: 112-126.
-#
-# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html
-#
-# year: year of data
-# recruits: numbers of fish per 1000 feet of net 
-#
 year	recruits
 1959	5.06
 1960	0.79

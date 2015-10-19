@@ -1,13 +1,3 @@
-# WhitefishLS.txt
-#
-# Landings and value of lake whitefish in Lake Superior by state  from 1971-2001.
-#   from a query at www.st.nmfs.gov/pls/webpls/webst1.MF_GL_SPECIES_HELP.SPECIES
-#
-# year: year of catch
-# state: state of catch (MI, MN, WI)
-# catch: catch in lbs
-# value: value of catch in dollars
-#
 year	state	catch	value
 1971	MI	447564	229001
 1971	WI	264009	110540

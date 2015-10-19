@@ -1,18 +1,3 @@
-#Data file Sculpin_Alter.txt
-#From the Arctic LTER data site – 
-#   http://ecosystems.mbl.edu/ARC/data_doc/lakes/fish/89hes6ag.html
-#This file describes the sculpins that were captured from Lake S-6 during the 
-#  summers of 1988 and 1989. The weights, lengths, and ages of the fish are 
-#  included in the file. This data is part of Kristi's masters research under 
-#  Anne Hershey. 
-#Sculpins were captured using canning jars with acetate funnels inserted in them 
-#  (similar in design to some minnow traps). The sculpin traps were set by raft 
-#  and placed on the bottom of the lake in a specific habitat (inshore, rocky, 
-#  rock-mud interface, and mud bottom). (Roughly) every three days the traps 
-#  were retrieved and the sculpins, if any, were removed. The ages of the fish 
-#  were determined by counting the rings in their otoliths.
-# Wt is in g, TL is in mm
-#
 w	tl	age
 0.9	52	2
 1.15	53	2

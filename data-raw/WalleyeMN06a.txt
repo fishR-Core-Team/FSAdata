@@ -1,14 +1,3 @@
-# WalleyeMN06a.txt
-#
-# Data from various tables in Borkholder, B.D., A.J. Edwards, and C. Olson.
-#   2007.  Spring adult and fall juvenile walleye popluation surveys within
-#   the 1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of
-#   Resource Management, Technical Report #41
-#
-# lake: Lake studied (Island, Crooked, Tom, and Fourmile)
-# age: Age in years (from dorsal spine)
-# number: Number of sampled fish.
-#
 lake	age	number
 Island	3	1376
 Island	4	1715

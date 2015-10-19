@@ -10,7 +10,7 @@
  \item{recruits}{Number of recruits (per 1000 ft of net).}
 }}
 \source{
-from Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+From Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
 }
 \description{
 Walleye (\emph{Sander vitreus}) recruitment time-series for Lake Erie, 1959-1972.

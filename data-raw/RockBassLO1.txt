@@ -1,8 +1,3 @@
-# Age and total length (mm) of rock bass (Ambloplites rupestris) from Eastern Lake 
-#   Ontario.  Data was simulated from the age-length key provided in Table 1 of 
-#   Wolfert, D.R.  1980.  Age and growth of rock bass in Eastern Lake Ontario.  New 
-#   York Fish and Game Journal, 27:88:90.
-#
 age	tl
 3	111
 3	125

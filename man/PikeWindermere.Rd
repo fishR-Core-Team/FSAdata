@@ -13,7 +13,7 @@
    \item{tdd14}{Temperature degree-days over 14C}
  }}
 \source{
-from table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981.  Journal of Animal Ecology 52:989-999.
+From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981.  Journal of Animal Ecology 52:989-999.
 }
 \description{
 Stock and recruitment data for Northern Pike (\emph{Esox lucius}) from Lake Windermere, 1944-1981.

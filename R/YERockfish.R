@@ -11,8 +11,8 @@
 #'    \item{date}{Date fish was collected} 
 #'    \item{length}{Total length (cm)} 
 #'    \item{age}{Otolith age} 
-#'    \item{maturity}{Maturity state (Immature or Mature)} 
-#'    \item{stage}{Stage of maturity (1:Immature, 2:Maturing, 3:Mature, 4:Fertilized, 5:Ripe, 6:Spent, 7:Resting} 
+#'    \item{maturity}{Maturity state (\code{Immature} or \code{Mature})} 
+#'    \item{stage}{Stage of maturity (\code{1}:Immature, \code{2}:Maturing, \code{3}:Mature, \code{4}:Fertilized, \code{5}:Ripe, \code{6}:Spent, \code{7}:Resting} 
 #'  }
 #'  
 #' @section Topic(s):
@@ -24,7 +24,7 @@
 #'  
 #' @concept Growth 'von Bertalanffy' 'Maturity'
 #' 
-#' @source Actual data obtained directly (from Bob Hanna) from Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  \href{http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf}{Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity.}  Oregon Department of Fish and Wildlife, Information Reports 2009-04.  Data obtained directly from Bob Hannah.
+#' @source Obtained directly (from Bob Hannah) from Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  \href{http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf}{Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity.}  Oregon Department of Fish and Wildlife, Information Reports 2009-04.  Data obtained directly from Bob Hannah.
 #' 
 #' @keywords datasets
 #' 

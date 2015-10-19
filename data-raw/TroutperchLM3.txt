@@ -1,9 +1,3 @@
-# TroutperchLM3.txt
-#
-# random subsample of 300 fish lengths from TroutperchLM2
-#
-# fl: fork length (mm)
-#
 fl
 128
 68

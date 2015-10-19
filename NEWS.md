@@ -1,6 +1,7 @@
 # 0.3.1 ongoing
 * Removed `Imports` for `utils` due to changes in `FSAdata` described below.
 * Lots of editorial changes to help pages to make it the `datalist` vignette in `FSA` work better an to make the documentation more consistent.
+* Changed all files in `data-raw` to CSV files.
 * `BGHRfish`: Added.
 * `BGHRsample`: Added.
 * `BlackDrum2001`: Added.

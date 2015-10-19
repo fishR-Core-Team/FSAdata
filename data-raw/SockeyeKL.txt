@@ -1,5 +1,3 @@
-# SockeyeKL.txt 
-#
 year	stock	recruits
 1921	150	449
 1922	40	228

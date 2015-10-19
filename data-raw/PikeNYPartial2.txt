@@ -1,12 +1,3 @@
-# Capture histories for northern pike captured in Buckthorn Marsh on April 1-4 
-#   (fish marked before April 1 were assumed to have been marked on April 1).  
-#   These capture histories are just one possible set of capture histories that 
-#   would result in the summary values for these dates.  The summary values were 
-#   taken from  Table C-1 of New York Power Authority.  2004.  Use of buckhorn 
-#   marsh and grand island tributaries by northern pike for spawning and as a 
-#   nursery. Technical report, New York Power Authority, January 2004. Niagara 
-#   Power Project (FERC No. 2216).
-#
 sample	id
 first	2001
 first	2002

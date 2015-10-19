@@ -1,7 +1,3 @@
-# Otolith (section and bake) and scale (heat pressed) readings for 343 striped bass	
-#   processed at the Old Dominion Age and Growth Lab.  Data from Fig. 6 at	
-# http://www.odu.edu/sci/cqfe/pdf%20&%20sound%20files/stripedbass_2000.pdf	
-#
 ageO	ageS
 3	3
 4	3

@@ -12,7 +12,7 @@
    \item{effort}{Effort (minutes) expended for the sample}
  }}
 \source{
-Data obtained directly from Ben Neely.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Obtained directly from Ben Neely.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \description{
 Information for each electrofishing sample from Big Hill Reservoir, KS, in May, 2014.

@@ -1,18 +1,3 @@
-# WalleyePS.txt
-#
-# data extracted from Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.  A
-#   comparison of methods for estimating ages of unexploited walleyes.  North
-#   American Journal of Fisheries Management 20:1044-1048.
-#
-# Relationships between otoliths and spines and otoliths and scales are exact
-#   according to Figure 2.  Relationship between spines and scales is approximate
-#   as Figure 2 did not show this exact relationship.
-#
-# otolith: age (years) assigned from broken, ground, and polished otolith sections.
-# spine: age (years) assigned from dorsal spine sections.
-# scale: age (years) assigned from scale impressions.
-# sex: sex of fish (female, male).
-#
 otolith	spine	scale	sex
 1	2	1	female
 2	3	2	female

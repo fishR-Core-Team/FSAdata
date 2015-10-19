@@ -21,7 +21,7 @@
 #'  
 #' @concept Growth 'von Bertalanffy'
 #' 
-#' @source Extracted from Figure 4 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+#' @source From Figure 4 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 #'
 #' @keywords datasets
 #' 

@@ -11,7 +11,7 @@
   \item{recap}{A factor variable representing whether the fish was a \dQuote{recap}ture  in the second sample (\code{YES}) or not (\code{NO})}
 }}
 \source{
-data provided by Tom Kwak, North Carolina Cooperate Unit at North Carolina State University and part of the data published in Kwak, T.J. and T.F. Waters.  1997.  Trout production dynamics and water quality in Minnesota streams.  Transactions of the American Fisheries Society, 126:35-48.
+Obtained directly from Tom Kwak, North Carolina Cooperate Unit at North Carolina State University and part of the data published in Kwak, T.J. and T.F. Waters.  1997.  Trout production dynamics and water quality in Minnesota streams.  Transactions of the American Fisheries Society, 126:35-48.
 }
 \description{
 Single censuse mark-recapture data for Brown Trout (\emph{Salmo trutta}) from Valley Creek, MN captured in April, 1988.  Length of trout was recorded so that abundance estimated can be made by length categories.

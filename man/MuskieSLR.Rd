@@ -10,7 +10,7 @@
    \item{ageS}{Age assigned from examination of scales}
  }}
 \source{
-Casselman,J.M.  1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
+From Figure 3 in Casselman,J.M.  1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
 }
 \description{
 Ages of St. Lawrence River, ONT, Muskellunge (\emph{Esox masquinongy}) assessed from scales and cleithra.

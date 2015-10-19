@@ -24,7 +24,7 @@
 #'  
 #' @concept 'Length Frequency' 'Size Structure' PSD
 #' 
-#' @source Extracted from a South Dakota Fish and Game report that was originally at \url{www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf}.  It does not appear to be there (or anywhere) now.
+#' @source From a South Dakota Fish and Game report that was originally at \url{www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf}.  It does not appear to be there (or anywhere) now.
 #' 
 #' @keywords datasets
 #' 

@@ -19,7 +19,7 @@
 #' 
 #' @concept Recruitment
 #' 
-#' @source from Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+#' @source From Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
 #' 
 #' @keywords datasets
 #' 

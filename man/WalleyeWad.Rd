@@ -11,7 +11,7 @@
    \item{numM}{Number of captured males}
  }}
 \source{
-Data from Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System.  Fisheries Research, 167:13-21.  Data obtained directly from Ryan Koenigs.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System.  Fisheries Research, 167:13-21.  Obtained directly from Ryan Koenigs.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \description{
 Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.

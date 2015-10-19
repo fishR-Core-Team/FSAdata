@@ -10,7 +10,7 @@
    \item{age}{Age (yrs; from pectoral fin ray)}
  }}
 \source{
-Data from Pratt, T.C., Gardner, W.M., Pearce, J., Greenwood, S., and Chong, S.C.  2014.  Identification of a robust Lake Sturgeon (\emph{Acipenser fulvescens} Rafinesque, 1917) population in Goulais Bay, Lake Superior.  Journal of Applied Ichthyology, 30:1328-1334.  Data obtained directly from Tom Pratt.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+From Pratt, T.C., Gardner, W.M., Pearce, J., Greenwood, S., and Chong, S.C.  2014.  Identification of a robust Lake Sturgeon (\emph{Acipenser fulvescens} Rafinesque, 1917) population in Goulais Bay, Lake Superior.  Journal of Applied Ichthyology, 30:1328-1334.  Obtained directly from Tom Pratt.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \description{
 Pratt et al. (2014) recorded the capture years and ages for Lake Sturgeon captured in multiple gillnet sets in Goulais Bay, Lake Superior (Ontario) in July 2010-2012.

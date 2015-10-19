@@ -1,6 +1,3 @@
-# Capture histories for rainbow trout in Upper Niagara Springs pond.
-# Created from summaries in Table 10 of Warren et al (2004). 
-#
 first	second
 1	1
 1	0

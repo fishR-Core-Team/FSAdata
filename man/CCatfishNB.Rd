@@ -11,7 +11,7 @@
    \item{loc}{Location of collection (\code{Central} and \code{Lower})}
  }}
 \source{
-Extracted (approximately) from figure 3-14 in Barada, T.J. 2009. \href{http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf}{Catfish population dynamics in the Platte River, Nebraska.}  Master's thesis, University of Nebraska, Lincoln, NE.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+From (approximately) Figure 3-14 in Barada, T.J. 2009. \href{http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf}{Catfish population dynamics in the Platte River, Nebraska.}  Master's thesis, University of Nebraska, Lincoln, NE.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \description{
 Catch-at-age of Channel Catfish (\emph{Ictalurs puncatatus}) from two sections of the Platte River, NB, in 2007 and 2008.

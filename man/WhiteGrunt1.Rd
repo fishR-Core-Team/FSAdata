@@ -10,7 +10,7 @@
    \item{catch}{A numeric vector of number of fish.}
  }}
 \source{
-Extracted from Figure 7 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
+From Figure 7 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
 }
 \description{
 Catch-at-age for White Grunt (\emph{Haemulon plumierii}) collected from the central coast of Brazil.

@@ -1,5 +1,3 @@
-# PSalmon.txt
-#
 year	harvest	escapement	return	SST
 1958	NA	NA	2678	NA
 1959	NA	NA	10459	11.23

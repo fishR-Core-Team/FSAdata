@@ -1,14 +1,3 @@
-# YPerchRL.txt
-#
-# from Smith, L. L. Jr. 1977. Walleye (Stizostedion vitreum) and yellow perch 
-#  (Perca flavescens) populations and fisheries of the Red Lakes, Minnesota, 
-#  1930-75. J. Fish. Res. Board Can. 34: 1774-1783.
-#
-# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html
-#
-# year: year of data
-# recruits: gillnet CPUE relative to a mean
-#
 year	recruits
 1942	37
 1943	49

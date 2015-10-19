@@ -1,17 +1,3 @@
-# YPerchCB2.txt
-#
-# Used extract.data() on Figure 7 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.
-#   1993. Dynamics of a Yellow Perch Population in Western Lake Superior.  North
-#   American Journal of Fisheries Management 13:511-523.
-#
-# FIGURE 7.?Ricker recruitment curves fitted to catches of age-2 fish (recruits) and to 
-# estimated numbers of mature females (parental stock) caught the year prior to the origin 
-# of the 1975-1986 year-classes.
-#
-# stock- estimated numbers of mature females caught the year prior to the origin of the 
-#        1975-1986 year classes
-# recruit- catches of age 2 fish
-#
 yrclass stock	recruits
 1975  354	66
 1976  244	16

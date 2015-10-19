@@ -14,7 +14,7 @@
 #'    \item{scale}{A numeric vector of instantaneous growth rates (percent change per day) for scales.} 
 #'  }
 #'  
-#' @source Extracted from Figure 8 of Casselman, J.M.  1990.  Growth and relative size of calcified structures of fish.  Transactions of the American Fisheries Society.  119:673-688.
+#' @source From Figure 8 of Casselman, J.M.  1990.  Growth and relative size of calcified structures of fish.  Transactions of the American Fisheries Society.  119:673-688.
 #'
 #' @keywords datasets
 #'

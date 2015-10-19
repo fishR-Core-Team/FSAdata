@@ -12,7 +12,7 @@
   \item{retmarks}{Number of marked fish (previously and newly marked) returned to the population}
 }}
 \source{
-Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
+From Table 1 in Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
 }
 \description{
 The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple samples from Black Lake, MI in 1997.  The caught fish were examined for previous  marks, marked (if previously unmarked), and then returned to the population.

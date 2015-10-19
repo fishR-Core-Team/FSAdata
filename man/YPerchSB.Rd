@@ -11,7 +11,7 @@
    \item{recruits}{Recruits (number per set)}
  }}
 \source{
-from Henderson, B.A. 1985. Factors affecting growth and recruitment of yellow perch, \emph{Perca flavescens} Mitchill, in South Bay, Lake Huron. Journal of Fisheries Biology 26:449-458.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+From Henderson, B.A. 1985. Factors affecting growth and recruitment of yellow perch, \emph{Perca flavescens} Mitchill, in South Bay, Lake Huron. Journal of Fisheries Biology 26:449-458.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) stock and recruitment by year in South Bay, Lake Huron, 1950-1983.

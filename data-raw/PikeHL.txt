@@ -1,6 +1,3 @@
-# Capture histories of Harding Lake northern pike, 1990.
-# Created from information in Burkholder (1991).
-#
 fish	first	second
 1	1	0
 2	1	0

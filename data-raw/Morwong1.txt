@@ -1,9 +1,3 @@
-# Ages assigned at two different times by Reader A to the otoliths of jackass
-#   morwong (Nemadactylus macropterus).  Data extracted from table 5 of Restall, 
-#   J.E., and Krusic–Golub, K. (2004). Development of Jackass Morwong Age-Length 
-#   keys for 2000–2002. Final report to Australian Fisheries Management 
-#   Authority. 13 pp. Primary Industries Research Victoria, Queenscliff. 
-#
 first	second
 2	3
 3	3

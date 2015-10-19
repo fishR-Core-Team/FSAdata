@@ -25,7 +25,7 @@
 #' 
 #' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' Schnabel
 #'
-#' @source Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
+#' @source From Table 1 in Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
 #'
 #' @keywords datasets
 #' 

@@ -1,9 +1,3 @@
-# File --> Perch_GL.txt
-# Data visually extracted from Figure 3 in Brylinsky, M.  2001.  An Evaluation of Changes in the
-#   Yellow Perch (Perca flavescens) Population of Grafton Lake, Kejimkujik National Park After Dam
-#   Removal.  Publication No. 59 of the Acadia Centre for Estuarine Research.
-# Fork Length (mm), Weight (g)"
-#
 fl	w	year
 59	2.5	1994
 60	2.5	1994

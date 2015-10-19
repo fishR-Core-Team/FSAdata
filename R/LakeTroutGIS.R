@@ -21,7 +21,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source from Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.  1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research.  21(supp.1):225-232.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}
+#' @source From Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.  1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research.  21(supp.1):225-232.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}
 #' 
 #' @keywords datasets
 #' 

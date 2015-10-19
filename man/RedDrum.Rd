@@ -10,7 +10,7 @@
    \item{fl}{Fork length (mm)}
  }}
 \source{
-Extracted (approximately) from Figure 27 in Vaughan, D.S. and T.E. Helser.  1990.  Status of the red drum stock of the Atlantic Coast: Stock assessment report for 1989.  NOAA Technical Memorandum, NMFS-SEFC-263.
+From (approximately) Figure 27 in Vaughan, D.S. and T.E. Helser.  1990.  Status of the red drum stock of the Atlantic Coast: Stock assessment report for 1989.  NOAA Technical Memorandum, NMFS-SEFC-263.
 }
 \description{
 Assigned ages (from otoliths) and fork lengths of Red Drum (\emph{Sciaenops ocellatus}) from various areas of the Atlantic Coast, 1981-1988.

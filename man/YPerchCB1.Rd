@@ -25,7 +25,7 @@
    \item{year88}{Number of fish at each age in capture year 1988.}
  }}
 \source{
-Data from table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
+From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
 }
 \description{
 Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay, Lake Superior, 1973-1988.

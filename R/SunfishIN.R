@@ -1,6 +1,6 @@
 #' @title Summarized multiple mark-recapture data for Redear Sunfish.
 #'
-#' @description The number of Redear Sunfish (\emph{Lepomis microlophus}) caught in multiple samples from Gordy Lake, IN.  The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.  Data from Table 2.4 in Ricker (1975) or Table 4.4 in Krebs (1999). 
+#' @description The number of Redear Sunfish (\emph{Lepomis microlophus}) caught in multiple samples from Gordy Lake, IN.  The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
 #'
 #' @name SunfishIN
 #' 
@@ -26,9 +26,15 @@
 #' 
 #' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' Schnabel
 #'
-#' @source Gerking, S.D.  1953.  Vital statistics of the fish population of Gordy Lake, Indiana.  Transactions of the American Fisheries Society.  82:48-67.
+#' @source Originally from 
+#' 
+#' Gerking, S.D.  1953.  Vital statistics of the fish population of Gordy Lake, Indiana.  Transactions of the American Fisheries Society.  82:48-67.
+#'
+#' But also found in Table 2.4 of 
 #'
 #' Krebs, C.J.  1999. Ecological Methodology. Addison-Welsey Educational Publishing, second edition.
+#'
+#' and Table 4.4 of
 #'
 #' Ricker, W.E.  1975. Computation and interpretation of biological statistics of fish populations. Technical Report Bulletin 191, Bulletin of the Fisheries Research Board of Canada
 #'    

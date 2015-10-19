@@ -1,5 +1,3 @@
-# SardineLK.txt
-#
 days	tl
 69	13.9
 62	15.1

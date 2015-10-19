@@ -1,10 +1,3 @@
-# The total length (inches) and age (from scales) of brown trout (Salmo trutta) and
-#  rainbow trout (Oncorhynchus mykiss) migrating upstream on the Bois Brule River, 
-#  WI in 1978 and 1979.  Data obtained from tables 18 and 19 of Scholl, D.K., P.J.
-#  Peeters, and S.T. Schram.  1984.  Migratory brown trout and rainbow trout 
-#  populations of the Brule River, Wisconsin.  Wisconsin Department of Natural 
-#  Resources, Fish Management Report No. 123.
-#
 tl	age	species
 16	4	Brown
 16	4	Brown

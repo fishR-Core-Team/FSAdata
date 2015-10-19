@@ -1,19 +1,3 @@
-# WShrimpGA.txt 
-# 
-# from Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment
-#  curves for white shrimp in Georgia.  North American Journal of Fisheries
-#  Management.  24:654-661.
-#
-# data were visually estimated from Figures 2 & 3 (p. 659).
-#
-# year: year of data
-# stock: spawning stock index -- CPUE in June assessment surveys.
-# recruits: recuit index -- commercial landings in pounds from Aug-Jan
-# yrconf: a code of confidence for whether or not the stock value is known
-#         to come from the year shown.  No graph was shown for stock values vs.
-#         year so some stock values had to be haphazardly paired with recruit
-#         values -- especially for stock values between 2.5 and 3.0.
-#
 year	recruits	stock	yrconf
 1979	4.45	1.0	Y
 1980	NA	NA	NA

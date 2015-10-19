@@ -13,7 +13,7 @@
 #'    \item{year}{Year of data}
 #'    \item{stock}{Spawning stock index -- CPUE in June assessment surveys}
 #'    \item{recruits}{Recuit index -- commercial landings in pounds from Aug-Jan}
-#'    \item{yrconf}{A code of confidence for whether or not the stock value is known to come from the year shown (see details)}
+#'    \item{yrconf}{A code of confidence for whether or not the stock value is known to come from the year shown (see the note)}
 #'  }
 #' 
 #' @section Topic(s):
@@ -24,7 +24,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source Extracted (approximately) from figures 2 and 3 of Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.
+#' @source From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.
 #' 
 #' @keywords datasets
 #' 

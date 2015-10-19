@@ -26,7 +26,7 @@
 #'  
 #' @concept Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'
 #' 
-#' @source Data was originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
+#' @source Originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
 #' 
 #' @keywords datasets
 #' 

@@ -22,7 +22,7 @@
 #'  
 #' @concept 'Age-Length Key' 'Growth'
 #' 
-#' @source Data were recreated from information in Box 15.2 of Quist, M.C., Pegg, M.A., and DeVries, D.R. 2012. Age and growth. In Zale, A.V., Parrish, D.L., and Sutton, T.M., editors. Fisheries Techniques, Third Edition, chapter 15, pages 677-731. American Fisheries Society, Bethesda, MD.  Note random digits were added to construct mm lengths from the cm length bins.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @source Recreated from information in Box 15.2 of Quist, M.C., Pegg, M.A., and DeVries, D.R. 2012. Age and growth. In Zale, A.V., Parrish, D.L., and Sutton, T.M., editors. Fisheries Techniques, Third Edition, chapter 15, pages 677-731. American Fisheries Society, Bethesda, MD.  Note random digits were added to construct mm lengths from the cm length bins.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @keywords datasets
 #' 

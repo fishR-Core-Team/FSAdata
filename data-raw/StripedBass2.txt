@@ -1,5 +1,3 @@
-# StripedBass2.txt
-#
 tl	age
 18	2
 18	2

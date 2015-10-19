@@ -1,11 +1,3 @@
-# Fork lengths (FL) and assigned ages (from otoliths) to jackass morwong 
-#   (Nemadactylus macropterus) from the Eastern portion of the Southern and 
-#   Eastern Scalefish and Shark Fishery (SESSF) in 2000.  Data extracted from 
-#   appendix 1 of Restall, J.E., and Krusic–Golub, K. (2004). Development of 
-#   Jackass Morwong Age-Length keys for 2000–2002. Final report to Australian 
-#   Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, 
-#   Queenscliff. 
-#
 fl	age
 19	2
 20	2

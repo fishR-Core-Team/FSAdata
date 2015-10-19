@@ -35,7 +35,7 @@
 #'  
 #' @concept Mortality 'Catch Curve'
 #' 
-#' @source Data from table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
+#' @source From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
 #' 
 #' @keywords datasets
 #' 

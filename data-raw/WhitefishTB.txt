@@ -1,17 +1,3 @@
-# WhitefishTB.txt 
-# 
-# from Petzold, M. 1995.  An historical analysis of the Lake Whitefish fisheries 
-#   of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior.  Ontario 
-#   Min. of Nat. Res. unpubl. manuscript.
-#
-# from Ransom Myers online database – fish.dal.ca/~myers/welcome.html
-#
-# year: year of data
-# ssb: spawning stock biomass (tonnes)
-# rec: recruitment (thousands)
-# land: landings (tonnes)
-# fmort: fishing related mortality (natural mortality assumed to be 0.3)
-#
 year	ssb	rec	land	fmort
 1975	33.4	112.7	19.8	0.70026
 1976	26.2	92.7	8.5	0.28319

@@ -1,12 +1,3 @@
-# SardinesPacific.txt 
-# 
-# from Jacobson, L.D. and A.D. MacCall.  1995.  Stock-recruitment models for
-#   Pacific sardine (Sardinops sagax). Can. J. Fish. Aquat. Sci. 52:566-577. 
-#
-# year: year of data (fishing season)
-# ssb: spawning biomas -- thousands of tonnes
-# recruits: recuit index -- millions of fish
-#
 year	ssb	recruits
 1935	3526	4098
 1936	3417	2821

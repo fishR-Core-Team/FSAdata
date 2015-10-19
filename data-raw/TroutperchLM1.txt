@@ -1,10 +1,3 @@
-# Age and total length (mm) for male and female troutperch (Percopsis omiscomaycus)
-#  captured in southeastern Lake Michigan.  Data were simulated from the age-length
-#  data provided in Table 1 of House, R., and L. Wells.  1973.  Age, growth, 
-#  spawning season, and fecundity of the trout-perch (Percopsis omsicomaycus) in 
-#  southeastern Lake Michigan. Journal of the Fisheries Research Board of Canada.  
-#  30:1221-1225.
-#
 age	tl	sex
 1	48	m
 1	50	m

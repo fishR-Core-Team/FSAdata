@@ -1,13 +1,3 @@
-# RedDrum.txt
-#
-# Extracted (approximately) from Figure 27 in Vaughan, D.S.
-#   and T.E. Helser.  1990.  Status of the red drum stock of
-#   the Atlantic Coast: Stock assessment report for 1989.
-#   NOAA Technical Memorandum, NMFS-SEFC-263.
-#
-# age: Otolith age (years at half-year)
-# fl: fork length (mm)
-#
 age	fl
 0.5	53
 0.5	78

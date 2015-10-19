@@ -1,9 +1,3 @@
-# Number of fish captured, number of recaptures, and the number of new marks
-#   returned to the lake.  Data taken from table 1 of Baker, E.A. and D.J.
-#   Borgeson/  1999. Lake sturgeon abundance and harvest in Black Lake,
-#   Michigan, 1975?1999.  North American Journal of Fisheries Management
-#   19:1080?1088.
-#			
 t	caught	recaptures	retmarks
 1	3	0	3
 2	2	0	2

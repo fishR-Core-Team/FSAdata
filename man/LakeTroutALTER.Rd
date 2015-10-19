@@ -16,7 +16,7 @@
    \item{sex}{Sex of the fish (\code{F}=female and \code{M}=male).}
  }}
 \source{
-Data was originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
+Originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
 }
 \description{
 Biological data (lengths, weight, age, and sex) of Lake Trout (\emph{Salvelinus namaycush}) sampled from Lake NE12 of the Arctic Long Term Ecological Research location.

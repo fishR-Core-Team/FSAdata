@@ -23,7 +23,7 @@
 #'  
 #' @concept Growth 'von Bertalanffy'
 #' 
-#' @source Extracted from Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations.  Journal of Freshwater Ecology 19:441-444.
+#' @source From Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations.  Journal of Freshwater Ecology 19:441-444.
 #' 
 #' @keywords datasets
 #' 

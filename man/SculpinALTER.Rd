@@ -11,7 +11,7 @@
    \item{age}{Age (completed growing seasons from otoliths) at capture}
  }}
 \source{
-Data was originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
+Originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
 }
 \description{
 Biological data (length, weight, and age) for Slimy Sculpin (\emph{Cottus cognatus}) sampled from Lake S-6 of the Arctic Long Term Ecological Research location.

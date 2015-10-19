@@ -10,7 +10,7 @@
    \item{recruits}{Number of recruits (per hour).}
  }}
 \source{
-from Ontario Ministry of Natural Resources, Fish and Wildlife Branch, 1997. Lake Erie fisheries report 1996.  Lake Erie Committee Meeting,
+From Ontario Ministry of Natural Resources, Fish and Wildlife Branch, 1997. Lake Erie fisheries report 1996.  Lake Erie Committee Meeting,
 Great Lakes Fishery Commission, Ann Arbor, Michigan. pp 26.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
 }
 \description{

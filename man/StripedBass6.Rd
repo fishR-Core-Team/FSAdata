@@ -10,7 +10,7 @@
   \item{otolith}{Ages assigned to otoliths}
  }}
 \source{
-Extracted from Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 }
 \description{
 Ages assigned to the scales and otoliths of Striped Bass (\emph{Morone saxatilis}).

@@ -1,21 +1,3 @@
-# YERockfish.txt
-#
-# from Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  Length and age
-#   at maturity of female yelloweye rockfish (Sebastes rubberimus) and
-#   cabezon (Scorpaenichthys marmoratus) from Oregon waters based on histological
-#   evaluation of maturity.  Oregon Department of Fish and Wildlife, Information
-#   Reports 2009-04. Available at ...
-#   http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf
-#
-#   Obtained directly from Bob Hannah
-#
-# date: date fish was collected
-# length: total length (cm)
-# age: otolith age
-# maturity: Maturity state (Immature or Mature)
-# stage: Stage of maturity (1:Immature, 2:Maturing, 3:Mature, 4:Fertilized
-#                           5:Ripe, 6:Spent, 7:Resting
-#
 date	length	age	maturity	stage
 9/2/2003	31	10	Immature	1
 10/7/2002	32	6	Immature	1

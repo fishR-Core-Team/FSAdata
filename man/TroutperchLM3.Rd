@@ -12,7 +12,7 @@
 Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from a subsample of fish captured near Grand Haven, Lake Michigan, 1977.
 }
 \details{
-A random subsample of the lengths in the \code{TroutperchLM2} data frame.
+A random subsample of the lengths in the \code{\link{TroutperchLM2}} data frame.
 }
 \section{Topic(s)}{
 
@@ -26,6 +26,9 @@ A random subsample of the lengths in the \code{TroutperchLM2} data frame.
 data(TroutperchLM3)
 str(TroutperchLM3)
 head(TroutperchLM3)
+}
+\seealso{
+\code{\link{TroutperchLM2}}.
 }
 \concept{
 'Length Frequency' 'Size Structure' 'Length Expansion'

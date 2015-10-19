@@ -13,7 +13,7 @@
    \item{cycloneFeb}{a numeric vector containing the relative rainfal in February as an index of cyclonic activity}
  }}
 \source{
-from table 9.1 in Haddon, M. 2000.  Modeling and Quantitative Methods in Fisheries, CRC Press.  Originally from Penn, J. W., and Caputi, N.  1986.  Spawning stock-recruitment relationships and environmental influences on the tiger prawn (\emph{Penaeus esculentus}) fishery in Exmouth Gulf, Western Australia.  Australian Journal of Marine and Freslzwater Research 37:491-505.
+From table 9.1 in Haddon, M. 2000.  Modeling and Quantitative Methods in Fisheries, CRC Press.  Originally from Penn, J. W., and Caputi, N.  1986.  Spawning stock-recruitment relationships and environmental influences on the tiger prawn (\emph{Penaeus esculentus}) fishery in Exmouth Gulf, Western Australia.  Australian Journal of Marine and Freslzwater Research 37:491-505.
 }
 \description{
 Stock and recruitment data for Exmouth Gulf Tiger Prawn (\emph{Panaeus esculentus}), 1970-1983.

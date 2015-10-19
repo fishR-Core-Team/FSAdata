@@ -20,7 +20,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #'
-#' @source Extracted (approximately) from figure 2 of Allen, M.S. and L.E. Miranda.  1998.  An age-structured model for erratic crappie fisheries.  Ecological Modeling 107:289-303.
+#' @source From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda.  1998.  An age-structured model for erratic crappie fisheries.  Ecological Modeling 107:289-303.
 #'
 #' @keywords datasets
 #'

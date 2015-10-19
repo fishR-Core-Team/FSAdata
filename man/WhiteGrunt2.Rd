@@ -6,12 +6,12 @@
 \title{Ages, lengths, and sexes of White Grunt.}
 \format{A data frame with 465 observations on the following 3 variables.
  \describe{
-   \item{age}{Age (from otoliths to the nearest 0.1 years).}
-   \item{tl}{Total length (mm).}
-   \item{sex}{Sex (male and female).}
+   \item{age}{Age (from otoliths to the nearest 0.1 years)}
+   \item{tl}{Total length (mm)}
+   \item{sex}{Sex (\code{male} and \code{female})}
  }}
 \source{
-Extracted (approximately) from Figure 6 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
+From (approximately) Figure 6 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
 }
 \description{
 Ages, lengths, and sexes of White Grunt (\emph{Haemulon plumierii}) collected from the central coast of Brazil

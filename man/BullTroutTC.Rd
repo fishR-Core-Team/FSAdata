@@ -10,7 +10,7 @@
    \item{carcasses}{A numeric vector of number of carcasses found in and along Trestle Creek.}
  }}
 \source{
-Extracted (approximately) from Figure 4a in Downs, C.C., D. Horan, E. Morgan-Harris, and R. Jakubowski.  2006.  Spawning demographics and juvenile dispersal of an adfluvial bull trout population in Trestle Creek, Idaho.  North American Journal of Fisheries Management 26:190-200.
+From (approximately) Figure 4a in Downs, C.C., D. Horan, E. Morgan-Harris, and R. Jakubowski.  2006.  Spawning demographics and juvenile dispersal of an adfluvial bull trout population in Trestle Creek, Idaho.  North American Journal of Fisheries Management 26:190-200.
 }
 \description{
 Catch-at-age (actually carcasses-at-age) for Bull Trout (\emph{Salvelinus confluentis}) in Trestle Creek, ID.

@@ -20,7 +20,7 @@
 #' 
 #' @concept Age Precision Bias 'Age Comparison'
 #' 
-#' @source Extracted from Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+#' @source From Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 #' 
 #' @keywords datasets
 #' 

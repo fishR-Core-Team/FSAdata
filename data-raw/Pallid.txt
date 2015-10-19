@@ -1,17 +1,3 @@
-# Pallid.txt
-#
-# data from Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length Conversions
-#   and Length-Weight Relations for Pallid Sturgeon.  North American Journal of
-#   Fisheries Management. 13:395-397.
-#
-# date: data of collection
-# sl: standard length (mm)
-# fl: fork length (mm)
-# tl: total length (mm)
-# w: weight (g)
-# status: living status of fish (Frozen, Live, Dead)
-# loc: location of fish collection (NB=Nebraska, SD=South Dakota, ND=North Dakota, MT=Montana).
-#
 date	sl	fl	tl	w	status	loc
 4-Apr-88	807	864	959	2239	Frozen	NB
 29-May-84	875	897	950	2948	Live	NB

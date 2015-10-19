@@ -13,7 +13,7 @@
    \item{SST}{Average sea surface temperature (C) between June and November off Sitka, AK from one year latter (lagging is for matching when the salmon are actually in the ocean)}
  }}
 \source{
-from Table 3.1 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.  Oxford University Press, New York, New York.
+From Table 3.1 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.  Oxford University Press, New York, New York.
 }
 \description{
 Harvest, escapement, and return of northern Southeast Alaska Pink Salmon (\emph{Oncorhynchus gorbuscha}), 1960-1991, and average sea surface temperature between June and November off Sitka, Alaska, 1960-1990.

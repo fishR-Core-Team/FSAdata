@@ -1,8 +1,3 @@
-# File -- RockBassCL.txt
-# Catch-at-age for Cayuga Lake Rock Bass.
-# from D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates. Transactions of the
-#   American Fisheries Society. 90:181–189.
-#
 age catch
 6   118
 7   73

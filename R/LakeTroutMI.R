@@ -23,7 +23,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source Extracted (approximately) from figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior.  North American Journal of Fisheries Management.  24:475-489.
+#' @source From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior.  North American Journal of Fisheries Management.  24:475-489.
 #' 
 #' @keywords datasets
 #' 

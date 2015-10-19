@@ -1,11 +1,3 @@
-# SpotVAage.txt
-#
-# This file is a modification of the data found in SpotVA.txt.  This file contains all of the lengths
-#  found in the original file but only the ages for a fixed sample of fish per length interval.  The
-#  sample was obtained with age.key.subsample(Spot,"len",1,sample.freq=10).  The data in this file is
-#  used to demonstrate the utility of an age-length key.  The original data is described in the
-#  SpotVA.txt data file.
-#
 tl	age
 10.6	1
 7.1	1

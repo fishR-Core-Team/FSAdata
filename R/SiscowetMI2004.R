@@ -26,7 +26,7 @@
 #'  
 #' @concept 'Age-Length Key' 'Growth'
 #' 
-#' @source Data were obtained directly from the U.S. Fish and Wildlife Service via Michael Seider.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @source Obtained directly from the U.S. Fish and Wildlife Service via Michael Seider.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @keywords datasets
 #' 

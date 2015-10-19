@@ -1,13 +1,3 @@
-# YPerchSB1.txt
-#
-# data simulated (uniform distribution of values within length bin) from summarized length
-#   frequencies in Fig 2 (top) in Diana, J.S. and R. Salz.  1990.  Energy Storage, growth, and
-#   maturation of yellow perch from different locations in Saginaw Bay, Michigan.  Transactions
-#   of the American Fisheries Society  119:976-984.
-#
-# tl: measured total length (cm)
-# loc: location of capture (inner or outer bay)
-#
 tl	loc
 7.4	inner
 5.4	inner

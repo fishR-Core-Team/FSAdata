@@ -1,12 +1,3 @@
-# SLampreyGL.txt
-#
-# Data extracted from Figures 2a and 2b in Dawson, H.A. and M.L. Jones. 2009. 
-#   Factors affecting recruiting dynamics of Great Lakes sea lamprey 
-#   (Petromyzon marinus) populations. Journal of Grat Lakes Research 35:353-360.
-#
-# stock: Female spawners per 100 square meters.
-# recruits: Yearlngs per 100 square meters.
-#
 stock recruits
 4.08	120
 3.93	136.67

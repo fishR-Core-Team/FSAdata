@@ -16,7 +16,7 @@
   \item{agerC2}{Ages assigned by reader C at time 2}
 }}
 \source{
-Data from McBride, R.S., Hendricks, M.L., and Olney, J.E. 2005. Testing the validity of Cating's (1953) method for age determination of American Shad using scales. Fisheries, 30:10-18.  Data received direction from Rich McBride.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+From McBride, R.S., Hendricks, M.L., and Olney, J.E. 2005. Testing the validity of Cating's (1953) method for age determination of American Shad using scales. Fisheries, 30:10-18.  Data received direction from Rich McBride.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \description{
 Ages of American Shad (\emph{Alosa sapidissima}) assigned from scales by three readers at two times.

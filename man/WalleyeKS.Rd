@@ -11,7 +11,7 @@
    \item{catch}{Number of fish captured}
  }}
 \source{
-Extracted from Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives.  North American Journal of Fisheries Management 24:990-1002.
+From Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives.  North American Journal of Fisheries Management 24:990-1002.
 }
 \description{
 Catch-at-age for Walleye (\emph{Sander vitreus}) from eight Kansas reservoirs during 1991-1999.

@@ -1,5 +1,3 @@
-# MuskieWI06MR.txt					
-#					
 county	lake	sex	mark	catch	recap
 Langlade	Enterprise	male	72	54	33
 Langlade	Enterprise	female	38	22	7
