@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Ages, lengths, and sexes of Troutperch.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for TroutperchLM1 {FSAdata}"><tr><td>TroutperchLM1 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Ages, lengths, and sexes of Troutperch.</h2>
+
+<h3>Description</h3>
+
+<p>The assigned ages (by scales), total lengths (mm), and sexes of Troutperch (<em>Percopsis omsicomaycus</em>) captured in southeastern Lake Michigan.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 431 observations on the following 3 variables:
+</p>
+
+<ul>
+<li>age: Assigned ages (by scales).</li>
+<li>tl: Measured total length (mm).</li>
+<li>sex: Sex (<code>f</code>=female and <code>m</code>=male).</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Growth
+</p>
+</li>
+<li><p> von Bertalanffy
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>Simulated from the age-length data provided in Table 1 of House, R., and L. Wells.  1973.  Age, growth, spawning season, and fecundity of the trout-perch (<em>Percopsis omsicomaycus</em>) in southeastern Lake Michigan.  Journal of the Fisheries Research Board of Canada.  30:1221-1225.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(TroutperchLM1)
+str(TroutperchLM1)
+head(TroutperchLM1)
+op &lt;- par(mfrow=c(1,2),pch=19)
+plot(tl~age,data=TroutperchLM1,subset=sex=="f",main="female")
+plot(tl~age,data=TroutperchLM1,subset=sex=="m",main="male")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

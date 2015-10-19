@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for Lake Trout in Lake Superior,...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for LakeTroutMI {FSAdata}"><tr><td>LakeTroutMI {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for Lake Trout in Lake Superior, 1971-1991.</h2>
+
+<h3>Description</h3>
+
+<p>Stock and recruitment data for the 1971-1991 year-classes of Lake Trout (<em>Salvelinus namaycush</em>) in Michigan waters of Lake Superior.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 105 observations on the following 5 variables:
+</p>
+
+<ul>
+<li>year: Year of data</li>
+<li>recruits: Recuit index &ndash; geometric mean number of age-7 fish/km/net-night</li>
+<li>wild: Wild fish spawning stock index &ndash; geometric mean number of wild age-8 and older fish/km/net-night</li>
+<li>stocked: Stocked fish spawning stock index &ndash; geometric mean number of stocked age-8 and older fish/km/net-night</li>
+<li>area: Lake Superior management unit</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior.  North American Journal of Fisheries Management.  24:475-489.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(LakeTroutMI)
+LakeTroutMI$stock &lt;- LakeTroutMI$wild+LakeTroutMI$stocked
+str(LakeTroutMI)
+head(LakeTroutMI)
+op &lt;- par(mfrow=c(3,2),pch=19)
+plot(recruits~year,data=LakeTroutMI,subset=area=="MI3",type="l",ylim=c(0,max(recruits,na.rm=TRUE)))
+lines(recruits~year,data=LakeTroutMI,subset=area=="MI4",col="blue")
+lines(recruits~year,data=LakeTroutMI,subset=area=="MI5",col="green")
+lines(recruits~year,data=LakeTroutMI,subset=area=="MI6",col="red")
+lines(recruits~year,data=LakeTroutMI,subset=area=="MI7",col="yellow")
+plot(recruits~stock,data=LakeTroutMI,subset=area=="MI3",main="MI3")
+plot(recruits~stock,data=LakeTroutMI,subset=area=="MI4",col="blue",main="MI4")
+plot(recruits~stock,data=LakeTroutMI,subset=area=="MI5",col="green",main="MI5")
+plot(recruits~stock,data=LakeTroutMI,subset=area=="MI6",col="red",main="MI6")
+plot(recruits~stock,data=LakeTroutMI,subset=area=="MI7",col="yellow",main="MI7")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

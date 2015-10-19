@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Single census mark-recapture data with lengths for Brown...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for BrownTroutVC1 {FSAdata}"><tr><td>BrownTroutVC1 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Single census mark-recapture data with lengths for Brown Trout from Valley Creek, MN.</h2>
+
+<h3>Description</h3>
+
+<p>Single censuse mark-recapture data for Brown Trout (<em>Salmo trutta</em>) from Valley Creek, MN captured in April, 1988.  Length of trout was recorded so that abundance estimated can be made by length categories.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 1014 observations on the following 3 variables.
+</p>
+
+<ul>
+<li>len: A numeric vector of total length measurements (cm)</li>
+<li>sample: A factor variable representing the sample in which the fish was captured.  The marking run is labelled with <code>first</code> and the recapture run is labelled with <code>second</code></li>
+<li>recap: A factor variable representing whether the fish was a &ldquo;recap&rdquo;ture  in the second sample (<code>YES</code>) or not (<code>NO</code>)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Population Size
+</p>
+</li>
+<li><p> Abundance
+</p>
+</li>
+<li><p> Mark-Recapture
+</p>
+</li>
+<li><p> Capture-Recapture
+</p>
+</li>
+<li><p> Petersen
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>Obtained directly from Tom Kwak, North Carolina Cooperate Unit at North Carolina State University and part of the data published in Kwak, T.J. and T.F. Waters.  1997.  Trout production dynamics and water quality in Minnesota streams.  Transactions of the American Fisheries Society, 126:35-48.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(BrownTroutVC1)
+str(BrownTroutVC1)
+head(BrownTroutVC1)
+hist(BrownTroutVC1$len,main="")
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Catches-at-age for male and female Walleye from Lake...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for WalleyeWad {FSAdata}"><tr><td>WalleyeWad {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.</h2>
+
+<h3>Description</h3>
+
+<p>Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 18 observations on the following 3 variables.
+</p>
+
+<ul>
+<li>age: Age (yrs; from pectoral fin ray)</li>
+<li>numF: Number of captured females</li>
+<li>numM: Number of captured males</li>
+</ul>
+
+
+<h3>Details</h3>
+
+<p>Koenigs et al. (2015) captured adult Walleye from Lake Winnebago during spawning assessments in 2010. The sex was recorded and ages were estimated from sectioned otoliths for each fish. Koenigs et al. (2015) fit separate catch curves to female and male Walleye.
+</p>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Mortality
+</p>
+</li>
+<li><p> Catch Curve
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (<em>Sander vitreus</em>) in the Winnebago System.  Fisheries Research, 167:13-21.  Obtained directly from Ryan Koenigs.  Used in the <a href="http://derekogle.com/IFAR/">Introductory Fisheries Analyses with R</a> book.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(WalleyeWad)
+str(WalleyeWad)
+head(WalleyeWad)
+plot(numF~age,data=WalleyeWad)
+points(numM~age,data=WalleyeWad,pch=19)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

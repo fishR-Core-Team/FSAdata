@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Lengths for all fish captured in Inch Lake, WI, in two years</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for InchLake1 {FSAdata}"><tr><td>InchLake1 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Lengths for all fish captured in Inch Lake, WI, in two years</h2>
+
+<h3>Description</h3>
+
+<p>Total lengths of all fish captured in Inch Lake, WI in May, 2007 and May, 2008.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 4894 observations on the following 5 variables:
+</p>
+
+<ul>
+<li>netID: A unique identifier for the sampling event</li>
+<li>netType: gear used (angling, seine, miniWDNR fyke net, miniNC fyke net, regular fyke net)</li>
+<li>year: year of capture</li>
+<li>species: species name</li>
+<li>length: total length (inches to nearest 0.1)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Length Frequency
+</p>
+</li>
+<li><p> PSD
+</p>
+</li>
+<li><p> Size Structure
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>Derek H. Ogle, personal collection
+</p>
+
+
+<h3>See Also</h3>
+
+<p>See <code>InchLake2</code> for a subsample that include weights.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(InchLake1)
+str(InchLake1)
+head(InchLake1)
+
+## Isolate just Bluegills
+bg.il &lt;- subset(InchLake1,species=="Bluegill")
+
+## Isolate just largemouth bass from 2007
+lmb7.il &lt;- subset(InchLake1,species=="Largemouth Bass" &amp; year==2007)
+
+## Isolate all fish captured in seines
+seine.il &lt;- subset(InchLake1,netType=="seine")
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

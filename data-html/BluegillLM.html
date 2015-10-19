@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Lengths and weights for Bluegill from Lake Mary, MN.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for BluegillLM {FSAdata}"><tr><td>BluegillLM {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Lengths and weights for Bluegill from Lake Mary, MN.</h2>
+
+<h3>Description</h3>
+
+<p>Lengths (standard, fork, and total) and weights for Bluegill (<em>Lepomis macrochirus</em>) collected from Lake Mary, Minnesota.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 100 observations on the following 5 variables:
+</p>
+
+<ul>
+<li>sernum: Unique serial number</li>
+<li>sl: Standard length (mm)</li>
+<li>fl: Fork length (mm)</li>
+<li>tl: Total length (mm)</li>
+<li>wght: Weight (g)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Weight-Length
+</p>
+</li>
+<li><p> Length Conversion
+</p>
+</li>
+<li><p> Length Frequency
+</p>
+</li></ul>
+
+
+
+<h3>See Also</h3>
+
+<p><code>lakemary</code> in <span class="pkg">alr3</span> for a different sample of Bluegill from Lake Mary that has length and age.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(BluegillLM)
+str(BluegillLM)
+head(BluegillLM)
+op &lt;- par(mfrow=c(3,2),pch=19)
+plot(wght~sl,data=BluegillLM)
+plot(wght~fl,data=BluegillLM)
+plot(wght~tl,data=BluegillLM)
+plot(tl~fl,data=BluegillLM)
+plot(tl~sl,data=BluegillLM)
+plot(fl~sl,data=BluegillLM)
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

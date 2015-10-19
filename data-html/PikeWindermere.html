@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for Northern Pike from Lake...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for PikeWindermere {FSAdata}"><tr><td>PikeWindermere {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for Northern Pike from Lake Windermere, 1944-1981.</h2>
+
+<h3>Description</h3>
+
+<p>Stock and recruitment data for Northern Pike (<em>Esox lucius</em>) from Lake Windermere, 1944-1981.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 75 observations on the following two variables:
+</p>
+
+<ul>
+<li>year: Year</li>
+<li>stock: Female biomass (kg)</li>
+<li>recruits: Number at age-2</li>
+<li>basin: Basin of Windermere (North or South)</li>
+<li>tdd14: Temperature degree-days over 14C</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>Stock values were originally reported in 1000s of kgs and recruits were originally recorded in tens of numbers.  Thus, plots look very discrete.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From table 3 in Kipling, C. 1983. Changes in the population of pike (<em>Esox lucius</em>) in Windermere from 1944 to 1981.  Journal of Animal Ecology 52:989-999.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(PikeWindermere)
+str(PikeWindermere)
+head(PikeWindermere)
+op &lt;- par(mfrow=c(2,2),pch=19)
+plot(recruits~year,data=PikeWindermere,subset=basin=="North",main="North")
+plot(recruits~stock,data=PikeWindermere,subset=basin=="North",main="North")
+plot(recruits~year,data=PikeWindermere,subset=basin=="South",main="South")
+plot(recruits~stock,data=PikeWindermere,subset=basin=="South",main="South")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

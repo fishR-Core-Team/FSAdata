@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Catch-at-age for White Grunt.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for WhiteGrunt1 {FSAdata}"><tr><td>WhiteGrunt1 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Catch-at-age for White Grunt.</h2>
+
+<h3>Description</h3>
+
+<p>Catch-at-age for White Grunt (<em>Haemulon plumierii</em>) collected from the central coast of Brazil.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 25 observations on the following 2 variables.
+</p>
+
+<ul>
+<li>age: A numeric vector of assigned ages (from otoliths).</li>
+<li>catch: A numeric vector of number of fish.</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Mortality
+</p>
+</li>
+<li><p> Catch curve
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From Figure 7 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (<em>Haemulon plumierii</em>) from the central coast of Brazil.  Scientia Marina 71:793-800.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(WhiteGrunt1)
+str(WhiteGrunt1)
+head(WhiteGrunt1)
+plot(log(catch)~age,data=WhiteGrunt1)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

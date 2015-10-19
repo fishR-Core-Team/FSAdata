@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for White Shrimp off the coast of...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for WShrimpGA {FSAdata}"><tr><td>WShrimpGA {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for White Shrimp off the coast of Georgia (USA), 1979-2000.</h2>
+
+<h3>Description</h3>
+
+<p>White Shrimp (<em>Litopenaeus setiferus</em>) stock and recruitment data from off the coast of Georgia (USA), 1979-2000.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 22 observations on the following 3 variables:
+</p>
+
+<ul>
+<li>year: Year of data</li>
+<li>stock: Spawning stock index &ndash; CPUE in June assessment surveys</li>
+<li>recruits: Recuit index &ndash; commercial landings in pounds from Aug-Jan</li>
+<li>yrconf: A code of confidence for whether or not the stock value is known to come from the year shown (see the note)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>No graph was shown for stock values vs. year so some stock values had to be haphazardly paired with recruit values &ndash; especially for stock values between 2.5 and 3.0.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(WShrimpGA)
+str(WShrimpGA)
+head(WShrimpGA)
+op &lt;- par(mfrow=c(1,2),pch=19)
+plot(recruits~year,data=WShrimpGA,type="b")
+plot(recruits~stock,data=WShrimpGA)
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

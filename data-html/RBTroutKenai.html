@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Length-at-marking and recapture and time-at-large of Rainbow...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for RBTroutKenai {FSAdata}"><tr><td>RBTroutKenai {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Length-at-marking and recapture and time-at-large of Rainbow Trout.</h2>
+
+<h3>Description</h3>
+
+<p>Length-at-marking and recapture and time-at-large for Rainbow Trout (<em>Oncorhynchus mykiss</em>) in the Kenai River, Alaska.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 102 observations on the following 3 variables:
+</p>
+
+<ul>
+<li>Lr: length (mm) at recapture.</li>
+<li>Lm: length (mm) at marking.</li>
+<li>dt: time-at-large (yrs).</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Growth
+</p>
+</li>
+<li><p> von Bertalanffy
+</p>
+</li>
+<li><p> Fabens method
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From Table 4.10 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.  Oxford University Press.  560 pages.  This table is a 1/3rd subsample of the actual data presented in Baker, T.T., R. Lafferty, and T.J. Quinn II.  1991.  A general growth model for mark-recapture data.  Fisheries Research 11:257-281.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(RBTroutKenai)
+str(RBTroutKenai)
+head(RBTroutKenai)
+plot((Lr-Lm)~dt,data=RBTroutKenai)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Biological data for Ruffe captured from the St. Louis River...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for RuffeSLRH92 {FSAdata}"><tr><td>RuffeSLRH92 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Biological data for Ruffe captured from the St. Louis River in 1992.</h2>
+
+<h3>Description</h3>
+
+<p>Biological data for Ruffe (<em>Gymnocephalus cernuus</em>) captured in the St. Louis River, Lake Superior in 1992.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 738 observations on the following 11 variables:
+</p>
+
+<ul>
+<li>fish.id: A unique fish identification number (across all years, most of which are not shown in this file</li>
+<li>month: Month of capture</li>
+<li>day: Day of capture</li>
+<li>year: Year of capture</li>
+<li>indiv: A unique fish identification number within the year</li>
+<li>location: Grid location of capture</li>
+<li>length: Total length (mm)</li>
+<li>weight: Weight (g)</li>
+<li>sex: Sex factor</li>
+<li>maturity: Maturity stage factor</li>
+<li>age: Age (yrs) from scales</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Length Frequency
+</p>
+</li>
+<li><p> Weight-Length
+</p>
+</li>
+<li><p> Growth
+</p>
+</li>
+<li><p> von Bertalanffy
+</p>
+</li>
+<li><p> Maturity
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(RuffeSLRH92)
+str(RuffeSLRH92)
+head(RuffeSLRH92)
+op &lt;- par(mfrow=c(2,2),pch=19)
+hist(RuffeSLRH92$length,main="")
+hist(RuffeSLRH92$age,main="")
+plot(weight~length,data=RuffeSLRH92)
+plot(length~age,data=RuffeSLRH92)
+par(op)
+xtabs(~age,data=RuffeSLRH92)
+xtabs(~sex,data=RuffeSLRH92)
+xtabs(~maturity,data=RuffeSLRH92)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for Crappies from four reservoirs...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for CrappieARMS {FSAdata}"><tr><td>CrappieARMS {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mississippi, USA.</h2>
+
+<h3>Description</h3>
+
+<p>Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mississippi, USA.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 78 observations on the following 3 variables:
+</p>
+
+<ul>
+<li>reservoir: Reservoir (Atkins, Nimrod, Okatibbee, Ross.Barnett)</li>
+<li>stock: Number of age-1+ fish per hectare</li>
+<li>recruits: Number of age-0 fish per hectare</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda.  1998.  An age-structured model for erratic crappie fisheries.  Ecological Modeling 107:289-303.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(CrappieARMS)
+str(CrappieARMS)
+head(CrappieARMS)
+op &lt;- par(mfrow=c(2,2),mar=c(3,3,2,1),mgp=c(1.75,0.5,0),tcl=-0.2,pch=19)
+plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Atkins"),main="Atkins")
+plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Nimrod"),main="Nimrod")
+plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Okatibbee"),main="Okatibbee")
+plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Ross.Barnett"),main="Ross Barnett")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

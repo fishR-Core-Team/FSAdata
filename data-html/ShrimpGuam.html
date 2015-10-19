@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Catch and effort data for Deepwater Caridean Shrimp.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for ShrimpGuam {FSAdata}"><tr><td>ShrimpGuam {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Catch and effort data for Deepwater Caridean Shrimp.</h2>
+
+<h3>Description</h3>
+
+<p>Catch and effort data for Deepwater Caridean Shrimp (<em>Heterocarpus laevigatus</em>) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam).
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 15 observations on the following 4 variables.
+</p>
+
+<ul>
+<li>day: Day of the catch.  Day 9 is 9-Jan-1984.</li>
+<li>standard: Catch (kg) of of Shrimp in the standard traps.</li>
+<li>pyramid: Catch (kg) of of Shrimp in the pyramid traps.</li>
+<li>effort: Total effort (trap-nights) for the standard traps.</li>
+</ul>
+
+
+<h3>Details</h3>
+
+<p>Catch (kg) and effort (trap-nights) of Deepwater Caridean Shrimp (<em>Heterocarpus laevigatus</em>) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam).  The data start on 9-Jan-1984.  Catches were recorded separately for standard traps and in pyramid traps.
+</p>
+<p>The original authors estiamted populations size using the Leslie method with the cumulative catch from the combined catch in the standard and pyramid traps, but with a CPE computed from just the catch in standard traps.
+</p>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Population size
+</p>
+</li>
+<li><p> Abundance
+</p>
+</li>
+<li><p> Depletion methods
+</p>
+</li>
+<li><p> Leslie method
+</p>
+</li>
+<li><p> DeLury method
+</p>
+</li>
+<li><p> Catchability
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From Table 1 of Ralson, S. 1986.  <a href="http://fishbull.noaa.gov/844/ralston.pdf">An intensive fishing experiment for the Caridean Shrimp, Heterocarpus Laevigatus, at Alamagn Island in the Mariana Archipelago</a>.  Fishery Bulletin 84:927-934.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(ShrimpGuam)
+str(ShrimpGuam)
+head(ShrimpGuam)
+
+## Computations by the original authors
+# CPE for just the standard traps
+ShrimpGuam$CPE &lt;- ShrimpGuam$standard/ShrimpGuam$effort
+# Total catch in both traps
+ShrimpGuam$total &lt;- ShrimpGuam$standard+ShrimpGuam$pyramid
+# Cumulative catch in both traps (with the Ricker modification)
+ShrimpGuam$cumCatch &lt;- cumsum(ShrimpGuam$total)-ShrimpGuam$total/2
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

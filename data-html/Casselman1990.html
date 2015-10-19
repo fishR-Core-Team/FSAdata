@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Instantaneous growth rates for two calcified ageing...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for Casselman1990 {FSAdata}"><tr><td>Casselman1990 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Instantaneous growth rates for two calcified ageing structures.</h2>
+
+<h3>Description</h3>
+
+<p>Instantaneous growth rates (percent change per day) for body growth and two calcified ageing structures from age 1-4 female Northern Pike (<em>Esox lucius</em>) from Wickett Lake, Ontario.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 12 observations on the following 4 variables.
+</p>
+
+<ul>
+<li>day: A numeric vector of days since the beginning of the study.</li>
+<li>body: A numeric vector of instantaneous growth rates (percent change per day) for body growth.</li>
+<li>cleithrum: A numeric vector of instantaneous growth rates (percent change per day) for cleithra.</li>
+<li>scale: A numeric vector of instantaneous growth rates (percent change per day) for scales.</li>
+</ul>
+
+
+<h3>Source</h3>
+
+<p>From Figure 8 of Casselman, J.M.  1990.  Growth and relative size of calcified structures of fish.  Transactions of the American Fisheries Society.  119:673-688.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(Casselman1990)
+
+# recreation of Casselman's (199) Figure 8.
+p &lt;- c(19,17,15); clr &lt;- c("black","red","blue"); l &lt;- 1
+with(Casselman1990,
+     matplot(day,cbind(body,cleithrum,scale),type="b",lwd=2,pch=p,col=clr,lty=l,
+             ylab="Instantaneous Growth Rate",xaxt="n",xlab="")
+)
+axis(1,at=c(0,31,60,91,121,152,182,213,243,274,304,335,365),tick=TRUE,labels=FALSE)
+axis(1,at=c(15,46,76,107,137,168,198,229,260,291,321,352),tick=FALSE,
+     labels=c("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"))
+legend("topleft",legend=c("Body","Cleithrum","Scale"),pch=p,col=clr,lty=l,lwd=2)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

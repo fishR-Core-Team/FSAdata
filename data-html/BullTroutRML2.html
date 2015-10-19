@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Ages and lengths of Bull Trout from two Rocky Mountain lakes...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for BullTroutRML2 {FSAdata}"><tr><td>BullTroutRML2 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.</h2>
+
+<h3>Description</h3>
+
+<p>Assigned ages (from otoliths) and fork lengths of Bull Trout (<em>Salvelinus confluentis</em>) from two Rocky Mountain lakes in Alberta, CAN before and after a regulation change.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 96 observations on the following 4 variables:
+</p>
+
+<ul>
+<li>age: Age (from otoliths).</li>
+<li>fl: Fork length (mm).</li>
+<li>lake: Lake (<code>Harrison</code> and <code>Osprey</code>).</li>
+<li>era: Era of collection (<code>1977-80</code> and <code>1997-01</code>).  See details.</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Growth
+</p>
+</li>
+<li><p> Von Bertalanffy growth model
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>The historical (1977-1980) era samples were from before restrictive sportfishing regulatory regimes were implemented (in the 1990s) that led to changes in abundance and population structure of bull trout.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  <a href="https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits">Bull trout population responses to reductions in angler effort and retention limits.</a>  North American Journal of Fisheries Management, 27:848-859.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(BullTroutRML2)
+str(BullTroutRML2)
+head(BullTroutRML2)
+op &lt;- par(mfrow=c(2,2),pch=19)
+plot(fl~age,data=BullTroutRML2,subset=lake=="Harrison" &amp; era=="1977-80",main="Harrison, 1977-80")
+plot(fl~age,data=BullTroutRML2,subset=lake=="Harrison" &amp; era=="1997-01",main="Harrison, 1997-2001")
+plot(fl~age,data=BullTroutRML2,subset=lake=="Osprey" &amp; era=="1977-80",main="Osprey, 1977-80")
+plot(fl~age,data=BullTroutRML2,subset=lake=="Osprey" &amp; era=="1997-01",main="Osprey, 1997-2001")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

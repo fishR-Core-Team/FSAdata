@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Catch-at-age for Walleye from eight Kansas reservoirs.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for WalleyeKS {FSAdata}"><tr><td>WalleyeKS {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Catch-at-age for Walleye from eight Kansas reservoirs.</h2>
+
+<h3>Description</h3>
+
+<p>Catch-at-age for Walleye (<em>Sander vitreus</em>) from eight Kansas reservoirs during 1991-1999.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 66 observations on the following 3 variables.
+</p>
+
+<ul>
+<li>reservoir: Reservoir (Cedar.Bluff, Cheney, Glen.Elder, Kirwin, Lovewell, Marion, Webster, Wilson)</li>
+<li>age: Age of fish at capture</li>
+<li>catch: Number of fish captured</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Mortality
+</p>
+</li>
+<li><p> Catch curve
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>The authors used all age-2 and older Walleye to construct the catch curves.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives.  North American Journal of Fisheries Management 24:990-1002.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(WalleyeKS)
+str(WalleyeKS)
+head(WalleyeKS)
+op &lt;- par(mfrow=c(2,2),mar=c(3,3,2,1),mgp=c(1.75,0.5,0),tcl=-0.2,pch=19)
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Cedar.Bluff"),main="Cedar Bluff")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Cheney"),main="Cheney")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Glen.Elder"),main="Glen Elder")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Kirwin"),main="Kirwin")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Lovewell"),main="Lovewell")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Marion"),main="Marion")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Webster"),main="Webster")
+plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Wilson"),main="Wilson")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

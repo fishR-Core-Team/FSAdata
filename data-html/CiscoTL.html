@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Lengths, weights, and sex of Cisco from Trout Lake, WI.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for CiscoTL {FSAdata}"><tr><td>CiscoTL {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Lengths, weights, and sex of Cisco from Trout Lake, WI.</h2>
+
+<h3>Description</h3>
+
+<p>Lengths, weights, and sex for Cisco (<em>Coregonus artedii</em>) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 8594 observations on the following 8 variables:
+</p>
+
+<ul>
+<li>lakeid: Lake name (all <code>TR</code>=Trout Lake)</li>
+<li>year4: Year of capture</li>
+<li>sampledate: Date of capture</li>
+<li>gearid: Capture gear type</li>
+<li>spname: Species name (all <code>CISCO</code>)</li>
+<li>length: Total length (nearest mm) at capture</li>
+<li>weight: Weight (nearest 0.1 or 1 g) at capture</li>
+<li>sex: Sex (<code>F</code>=Female, <code>I</code>=Immature, <code>M</code>=Male)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Weight-Length
+</p>
+</li>
+<li><p> Length Frequency
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>Available for download from <a href="www.limnology.wisc.edu/">www.limnology.wisc.edu/</a>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(CiscoTL)
+str(CiscoTL)
+head(CiscoTL)
+op &lt;- par(mfrow=c(2,2),pch=19)
+plot(weight~length,data=CiscoTL,subset=sex=="F",main="Female")
+plot(weight~length,data=CiscoTL,subset=sex=="M",main="Male")
+plot(weight~length,data=CiscoTL,subset=sex=="I",main="Immature")
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

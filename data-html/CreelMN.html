@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Results of a large number of creel surveys in Minnestoa...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for CreelMN {FSAdata}"><tr><td>CreelMN {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Results of a large number of creel surveys in Minnestoa lakes.</h2>
+
+<h3>Description</h3>
+
+<p>The species targeted, number of fish harvested, and number of individuals harvesting that number of that species of fish from a large number of surveys on Minnesota Lakes, 1980-1996.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 14550 observations on the following 2 variables:
+</p>
+
+<ul>
+<li>species: species of fish that was targeted.</li>
+<li>harvest: number of fish of that species harvested by one angler.</li>
+</ul>
+
+
+<h3>Source</h3>
+
+<p>From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson.  2001.  Creel limits in Minnesota: A proposal for change.  Fisheries 26:19-26.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(CreelMN)
+str(CreelMN)
+head(CreelMN)
+levels(CreelMN$species)
+
+## ONLY RUN IN INTERACTIVE MODE
+## Not run: 
+  require(FSA)
+  wae &lt;- Subset(CreelMN,species=="WAE")
+  ( waetbl &lt;- table(wae$harvest) )
+  ( waeptbl &lt;- prop.table(waetbl)*100 )
+  ( waercum &lt;- rcumsum(waeptbl) )
+  op &lt;- par(mfrow=c(1,2),mar=c(3.5,3.5,0.5,0.5),mgp=c(2,0.5,0))
+  barplot(waeptbl,xlab="Number of Walleye Harvested",ylab="Percentage of Individuals")
+  barplot(waercum,xlab="Minimum Number of Walleye Harvested",ylab="Percentage of Individuals")
+  par(op)
+  ( ttlwae &lt;- sum(wae$harvest) )
+  wae$svd5 &lt;- wae$harvest-5             # Used to determine the number of fish
+  xtabs(~svd5,data=wae)                 #   saved if limit was reduced to 5.
+  ( svd5 &lt;- sum(wae$svd5[wae$svd5&gt;0]) ) #   Only sum positive numbers (i.e., saved)
+  round(svd5/ttlwae*100,1)              # Show as a percentage
+
+  wae$svd1 &lt;- wae$harvest-1             # same but if reduced to 1 bag.
+  xtabs(~svd1,data=wae)
+  ( svd1 &lt;- sum(wae$svd1[wae$svd1&gt;0]) )
+  round(svd1/ttlwae*100,1)
+
+
+## End(Not run)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

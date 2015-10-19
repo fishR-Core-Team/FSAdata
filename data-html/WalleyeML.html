@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Back-calculated lengths-at-age for Walleye from Lake Mille...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for WalleyeML {FSAdata}"><tr><td>WalleyeML {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Back-calculated lengths-at-age for Walleye from Lake Mille Lacs, 2000-2011.</h2>
+
+<h3>Description</h3>
+
+<p>Back-calculated lengths-at-age for Walleye (<em>Sander vitreus</em>)  from Lake Mille Lacs.  Walleye were captured by Minnesota Department of Natural Resources personnel in fishery-independent gillnets (five multifilament nylon mesh panels with each panel measuring 15.2 m wide and 1.8 m high; bar-measure mesh sizes of the panels were 19.1, 25.4, 31.7, 38.1, and 50.8 mm) set in the fall (mid September to early October) from 2000 to 2011.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 14583 observations on the following 9 variables:
+</p>
+
+<ul>
+<li>ID: A unique fish identification number.</li>
+<li>Year: Year of data.</li>
+<li>Sex: Sex (female, male).</li>
+<li>Est.Age: Estimated (from otoliths) age (yrs) at capture.</li>
+<li>TL: Total length (mm).</li>
+<li>Scale.Rad: Total scale radius (mm) at capture.</li>
+<li>Dist.Ann: Scale radisus (mm) to annulus given in <code>BC.Age</code>.</li>
+<li>BC.Age: Annulus or previous age.</li>
+<li>BC.Len: Back-calculated length at <code>BC.Age</code>.  Lengths were back-calculated using the <em>Scale-Proportional Hypothesis</em> method.</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Growth
+</p>
+</li>
+<li><p> von Bertalanffy
+</p>
+</li>
+<li><p> Back-calculation
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (via Melissa Treml).  <b>Do not use for other than educational purposes without permission from the source.</b>
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(WalleyeML)
+str(WalleyeML)
+head(WalleyeML)
+xtabs(~Year+Est.Age+Sex,data=WalleyeML)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

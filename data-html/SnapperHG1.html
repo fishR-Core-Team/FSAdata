@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Age (subsample) and length (all fish) of Snapper from two...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for SnapperHG1 {FSAdata}"><tr><td>SnapperHG1 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Age (subsample) and length (all fish) of Snapper from two survey locations.</h2>
+
+<h3>Description</h3>
+
+<p>A large sample (not random or proportional) of Snapper (<em>Pagrus auratus</em>) were aged from otoliths, with the remainder of the fish just measured for length.  Note that age-20 is actually age 19+.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 18421 observations on the following 3 variables:
+</p>
+
+<ul>
+<li>len: Measured lengths (cm)</li>
+<li>age: Ages assigned from examination of otoliths</li>
+<li>survey: Survey location (<code>KAH8810</code> or <code>KAH0012</code>)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Age-Length Key
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>Recreated from Tables 2, 3, and 5 in Davies, N.M. and C. Walsh.  2002.  <a href="http://fs.fish.govt.nz/Page.aspx?pk=113&amp;dk=22516">Snapper age and length samples from Kaharoa research trawl surveys KAH8810 and KAH0012 of the Hauraki Gulf.</a>  Final Research Report for Ministry of Fisheries Research Project SNA2000/01.  National Institute of Water and Atmospheric Research.  [Note that the unaged fish were simulated from Table 5 assuming that the total number of fish was large enough that at least one fish was observed in each cell where a  proportion was listed.]
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(SnapperHG1)
+str(SnapperHG1)
+head(SnapperHG1)
+
+## Extract one of the sample surveys
+sn1 &lt;- subset(SnapperHG1,survey=="KAH8810")
+
+## Extract the aged sample
+sn1.aged &lt;- subset(sn1,!is.na(age))
+str(sn1.aged)
+
+## Extract the length sample
+sn1.length &lt;- subset(sn1,is.na(age))
+str(sn1.length)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

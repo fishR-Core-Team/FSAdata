@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Recruitment time-series for Rainbow Smelt in Lake Erie,...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for RBSmeltErie {FSAdata}"><tr><td>RBSmeltErie {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Recruitment time-series for Rainbow Smelt in Lake Erie, 1977-1996.</h2>
+
+<h3>Description</h3>
+
+<p>Rainbow Smelt (<em>Osmerus mordax</em>) recruitment time series for Lake Erie, 1977-1996.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 20 observations on the following 2 variables:
+</p>
+
+<ul>
+<li>year: Year of data.</li>
+<li>recruits: Number of recruits (per hour).</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Recruitment time-series
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>Zeros were changed to 0.1 in 1984, 1987, 1991, and 1994.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From Ontario Ministry of Natural Resources, Fish and Wildlife Branch, 1997. Lake Erie fisheries report 1996.  Lake Erie Committee Meeting,
+Great Lakes Fishery Commission, Ann Arbor, Michigan. pp 26.  Obtained from <a href="http://ram.biology.dal.ca/~myers/data.html">Ransom Myers online database</a>.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(RBSmeltErie)
+str(RBSmeltErie)
+head(RBSmeltErie)
+plot(recruits~year,data=RBSmeltErie,type="l")
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

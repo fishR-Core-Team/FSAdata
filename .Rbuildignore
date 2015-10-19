@@ -5,6 +5,9 @@
 ## Raw data files
 ^data-raw$
 
+## Data help files
+^data-html$
+
 ## Miscellaneous webpage and package files
 License
 ToDo

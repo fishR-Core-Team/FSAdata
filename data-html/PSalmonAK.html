@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for Alaskan Pink Salmon,...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for PSalmonAK {FSAdata}"><tr><td>PSalmonAK {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for Alaskan Pink Salmon, 1960-1990.</h2>
+
+<h3>Description</h3>
+
+<p>Harvest, escapement, and return of northern Southeast Alaska Pink Salmon (<em>Oncorhynchus gorbuscha</em>), 1960-1991, and average sea surface temperature between June and November off Sitka, Alaska, 1960-1990.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 34 rows on the following 5 variables:
+</p>
+
+<ul>
+<li>year: Year of data</li>
+<li>harvest: Harvest (thousands of fish)</li>
+<li>escapement: Escapement (thousands of fish)</li>
+<li>return: Returns (thousands of fish) as sum of harvest and escapement from two years later (lagging is for proper brood year correspondence)</li>
+<li>SST: Average sea surface temperature (C) between June and November off Sitka, AK from one year latter (lagging is for matching when the salmon are actually in the ocean)</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Source</h3>
+
+<p>From Table 3.1 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.  Oxford University Press, New York, New York.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(PSalmonAK)
+str(PSalmonAK)
+head(PSalmonAK)
+op &lt;- par(mfrow=c(1,2))
+plot(return~year,data=PSalmonAK)
+plot(return~escapement,data=PSalmonAK)
+par(op)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>

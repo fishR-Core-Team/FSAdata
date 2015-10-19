@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Stock and recruitment data for Vendace from Lake Pyhajarvi.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="aaaStyleSheet.css" />
+</head><body>
+
+<table width="100%" summary="page for VendaceLP2 {FSAdata}"><tr><td>VendaceLP2 {FSAdata}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Stock and recruitment data for Vendace from Lake Pyhajarvi.</h2>
+
+<h3>Description</h3>
+
+<p>Vendace (<em>Coregonus albula</em>) recruitment in Lake Pyhajarvi.
+</p>
+
+
+<h3>Format</h3>
+
+<p>A data frame of 9 observations on the following 2 variables:
+</p>
+
+<ul>
+<li>fecundity: Total fecundity (10^9 eggs) of spawning stock</li>
+<li>recruits: Number of recruits (10^6 fish) in Autumn after hatching</li>
+</ul>
+
+
+<h3>Topic(s)</h3>
+
+
+<ul>
+<li><p> Stock-Recruit
+</p>
+</li>
+<li><p> Recruitment
+</p>
+</li></ul>
+
+
+
+<h3>Note</h3>
+
+<p>Original authors fit an exponential curve to the fecundity-recruits relationship.
+</p>
+
+
+<h3>Source</h3>
+
+<p>From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (<em>Coregonus albula</em>) in Lake Pyhajarvi, southwest Finland.  Journal of Fish Biology 45:387-400.
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(VendaceLP2)
+str(VendaceLP2)
+head(VendaceLP2)
+plot(recruits~fecundity,data=VendaceLP2)
+</pre>
+
+<hr /><div style="text-align: center;">[Package <em>FSAdata</em> version 0.3.1 ]</div>
+</body></html>
