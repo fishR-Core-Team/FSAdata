@@ -12,6 +12,13 @@
 #'    \item{harvest}{number of fish of that species harvested by one angler.} 
 #'  }
 #' 
+#' @section Topic(s):
+#'  \itemize{
+#'    \item Other
+#'  }
+#'
+#' @concept Other
+#'   
 #' @source From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson.  2001.  Creel limits in Minnesota: A proposal for change.  Fisheries 26:19-26.
 #' 
 #' @keywords datasets

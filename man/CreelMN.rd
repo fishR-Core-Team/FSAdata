@@ -15,6 +15,12 @@ From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jaco
 \description{
 The species targeted, number of fish harvested, and number of individuals harvesting that number of that species of fish from a large number of surveys on Minnesota Lakes, 1980-1996.
 }
+\section{Topic(s)}{
+
+ \itemize{
+   \item Other
+ }
+}
 \examples{
 data(CreelMN)
 str(CreelMN)
@@ -44,6 +50,9 @@ levels(CreelMN$species)
   round(svd1/ttlwae*100,1)
 
 }
+}
+\concept{
+Other
 }
 \keyword{datasets}
 

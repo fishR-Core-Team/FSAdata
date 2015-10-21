@@ -15,7 +15,14 @@
 #'    \item{vegdiv}{terrestrial vegetation diversity (Shannon's diversity index of vegetation in drainage).}
 #'    \item{forperc}{percentage of drainage area covered by lowland rain forest.}
 #'  }
-#'  
+#' 
+#' @section Topic(s):
+#'  \itemize{
+#'    \item Other
+#'  }
+#'
+#' @concept Other
+#'   
 #' @source From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: species richness of fish communities.  Oecologia 79:236-243.
 #' 
 #' @keywords datasets

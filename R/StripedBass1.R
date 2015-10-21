@@ -22,7 +22,7 @@
 #' 
 #' @concept Age Precision Bias
 #' 
-#' @source From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+#' @source From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the \href{http://www.odu.edu/sci/research/cqfe}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 #' 
 #' @keywords datasets
 #' 

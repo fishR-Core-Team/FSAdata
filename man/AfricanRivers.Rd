@@ -19,10 +19,19 @@ From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: 
 \description{
 Characteristics of a sample of West African rivers.
 }
+\section{Topic(s)}{
+
+ \itemize{
+   \item Other
+ }
+}
 \examples{
 data(AfricanRivers)
 str(AfricanRivers)
 head(AfricanRivers)
+}
+\concept{
+Other
 }
 \keyword{datasets}
 

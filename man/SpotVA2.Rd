@@ -10,7 +10,7 @@
    \item{age}{Ages assigned from examination of otoliths}
  }}
 \source{
-From Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the \href{http://www.odu.edu/sci/research/cqfe}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 }
 \description{
 As many as 10 fish per 1-inch total length intervals from the \code{\link[FSA]{SpotVA1}} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.

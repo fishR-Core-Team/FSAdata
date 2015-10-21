@@ -15,11 +15,20 @@ From (approximately) Figure 1 in Dahanukar, N., R. Raut,  and A. Bhat.  2004.  D
 \description{
 Species accumulation data for fish of the Western Ghats of India derived from nine random samples of publications.
 }
+\section{Topic(s)}{
+
+ \itemize{
+   \item Other
+ }
+}
 \examples{
 data(Ghats)
 str(Ghats)
 head(Ghats)
 plot(cumspec~unit,data=Ghats)
+}
+\concept{
+Other
 }
 \keyword{datasets}
 

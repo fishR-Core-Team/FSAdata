@@ -10,7 +10,7 @@
    \item{reader2}{Age assigned by the second reader}
  }}
 \source{
-From Figure 2 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Figure 2 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the \href{http://www.odu.edu/sci/research/cqfe}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
 }
 \description{
 Otolith age of Atlantic croaker (\emph{Micropogonias undulatus}) from two readers.

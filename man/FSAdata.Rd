@@ -4,7 +4,13 @@
 \name{FSAdata}
 \alias{FSAdata}
 \alias{FSAdata-package}
+\alias{FSAdataTopics}
 \title{Data to support the FSA package.}
+\format{\preformatted{ chr [1:16] "Length Expansion" "Length Conversion" "Age Comparison" ...
+}}
+\usage{
+FSAdataTopics
+}
 \description{
 This package contains data to support the FSA package.
 }
@@ -39,4 +45,5 @@ The help files for these datasets are embedded with topics that can be searched 
 
 Additional fisheries-related data sets are in the \code{\link[FSA]{FSA}} and \code{fishmethods} packages.
 }
+\keyword{datasets}
 

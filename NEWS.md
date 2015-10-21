@@ -2,19 +2,26 @@
 * Removed `Imports` for `utils` due to changes in `FSAdata` described below.
 * Lots of editorial changes to help pages to make it the `datalist` vignette in `FSA` work better an to make the documentation more consistent.
 * Changed all files in `data-raw` to CSV files.
+* Added and exported the `FSAdataTopics` object.
+* `AfricanRivers`: Added a topic to help documentation.
 * `BGHRfish`: Added.
 * `BGHRsample`: Added.
 * `BlackDrum2001`: Added.
+* `Casselman1990`: Added a topic to help documentation.
 * `CCatfishNB`: Added.
 * `CreekChub`: Added.
+* `CreelMN`: Added a topic to help documentation.
 * `CutthroatALf`: Modified.  Removed `href` as it seemed inconsistent.
 * `FSAdata`: Modified.  Fixed link to `FSA` package.  Removed `importFrom` for `read.table()` from `utils`.
+* `Ghats`: Added a topic to help documentation.
+* `LakeTroutEggs`: Added a topic to help documentation.
 * `PikeHL`: Modified.  Removed `href` as it seemed inconsistent.
 * `ShadCR`: Added.
 * `SiscowetMI2004`: Added.
 * `StrugeonBG`: Added.
 * `WalleyeWad`: Added.
 * `WalleyeWyrlng`: Added.
+* `WhitefishLS`: Added a topic to help documentation.
 
 # 0.3.0 6Oct15
 * Released to CRAN

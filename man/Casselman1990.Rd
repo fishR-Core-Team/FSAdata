@@ -17,6 +17,12 @@ From Figure 8 of Casselman, J.M.  1990.  Growth and relative size of calcified s
 \description{
 Instantaneous growth rates (percent change per day) for body growth and two calcified ageing structures from age 1-4 female Northern Pike (\emph{Esox lucius}) from Wickett Lake, Ontario.
 }
+\section{Topic(s)}{
+
+ \itemize{
+   \item Other
+ }
+}
 \examples{
 data(Casselman1990)
 
@@ -30,6 +36,9 @@ axis(1,at=c(0,31,60,91,121,152,182,213,243,274,304,335,365),tick=TRUE,labels=FAL
 axis(1,at=c(15,46,76,107,137,168,198,229,260,291,321,352),tick=FALSE,
      labels=c("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"))
 legend("topleft",legend=c("Body","Cleithrum","Scale"),pch=p,col=clr,lty=l,lwd=2)
+}
+\concept{
+Other
 }
 \keyword{datasets}
 

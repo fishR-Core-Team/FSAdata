@@ -17,10 +17,19 @@ Results from a query in 2006 to the \href{http://www.st.nmfs.noaa.gov/pls/webpls
 \description{
 Landings and value of Lake Whitefish \emph{Coregonus clupeaformis} in Lake Superior by state from 1971-2001.
 }
+\section{Topic(s)}{
+
+ \itemize{
+   \item Other
+ }
+}
 \examples{
 data(WhitefishLS)
 str(WhitefishLS)
 head(WhitefishLS)
+}
+\concept{
+Other
 }
 \keyword{datasets}
 

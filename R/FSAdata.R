@@ -36,4 +36,11 @@
 #' @docType package
 #' 
 #' @name FSAdata
-NULL
+#' 
+#' @export
+FSAdataTopics <- c("Length Expansion","Length Conversion",
+                   "Age Comparison","Age-Length Key","Back-Calculation",
+                   "Weight-Length","Length Frequency","Size Structure",
+                   "Capture-Recapture","Depletion","Removal",
+                   "Mortality","Growth","Recruitment","Maturity",
+                   "Other")
