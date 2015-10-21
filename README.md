@@ -1,9 +1,9 @@
 FSAdata
 =======
+[![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 [![Travis-CI Build Status](https://travis-ci.org/droglenc/FSAdata.svg?branch=master)](https://travis-ci.org/droglenc/FSAdata)
-[![Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 
 ## Introduction
 The **FSAdata** package, authored by [Derek Ogle](http://derekogle.com/) at [Northland College](http://www.northland.edu/), contains data for use in common fisheries analyses.  **FSAdata** is a companion package to [**FSA**](https://github.com/droglenc/FSA).  Examples of typical fisheries stock assessment analyses are available on the *Examples* page of the [fishR website](http://derekogle.com/fishR).
