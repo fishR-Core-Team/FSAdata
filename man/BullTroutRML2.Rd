@@ -12,7 +12,7 @@
    \item{era}{Era of collection (\code{1977-80} and \code{1997-01}).  See details.}
  }}
 \source{
-From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  \href{https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits}{Bull trout population responses to reductions in angler effort and retention limits.}  North American Journal of Fisheries Management, 27:848-859.
+From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.  [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
 }
 \description{
 Assigned ages (from otoliths) and fork lengths of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CAN before and after a regulation change.

@@ -15,7 +15,7 @@
    \item{weight}{Weight (nearest 0.1 or 1 g) at capture}
  }}
 \source{
-From a query to the \href{https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current}{North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database}.
+From a query to the North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database which was (is?) at https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current.
 }
 \description{
 Lengths and weights for Yellow Perch \emph{Perca flavescens} from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.

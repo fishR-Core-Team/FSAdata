@@ -1,4 +1,8 @@
-# 0.3.1 ongoing
+# 0.3.2 22-Oct-15
+* Fixed LaTeX quotes in DESCRIPTION file.
+* Removed all `\href{}{}` and `\url{}` codes to websites that I don't control.  The addresses are now "naked" such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link.  Hopefully this will eliminate problems with R CMD CHECK.
+
+# 0.3.1 21-Oct-15
 * Removed `Imports` for `utils` due to changes in `FSAdata` described below.
 * Lots of editorial changes to help pages to make it the `datalist` vignette in `FSA` work better an to make the documentation more consistent.
 * Changed all files in `data-raw` to CSV files.

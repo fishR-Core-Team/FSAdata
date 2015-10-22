@@ -16,7 +16,7 @@
    \item{sex}{Sex (\code{F}=Female, \code{I}=Immature, \code{M}=Male)}
  }}
 \source{
-Available for download from \url{www.limnology.wisc.edu/}.
+Was (is?) available for download from http://www.limnology.wisc.edu/.
 }
 \description{
 Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.

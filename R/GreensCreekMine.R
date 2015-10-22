@@ -29,7 +29,7 @@
 #'  
 #' @concept Abundance 'Population Size' Removal
 #' 
-#' @source From Appendix C1 of Kanouse, K.M. and B.P. Brewster.  2012.  \href{http://dnr.alaska.gov/mlw/mining/largemine/greenscreek/pdf/gc2012bio.pdf}{Aquatic Biomonitoring at Greens Creek Mine, 2012.}  Alaska Department of Fish and Game Technical Report No. 12-11.
+#' @source From Appendix C1 of Kanouse, K.M. and B.P. Brewster.  2012.  Aquatic Biomonitoring at Greens Creek Mine, 2012.  Alaska Department of Fish and Game Technical Report No. 12-11.  [Was (is?) from http://dnr.alaska.gov/mlw/mining/largemine/greenscreek/pdf/gc2012bio.pdf.]
 #' 
 #' @keywords datasets
 #' 

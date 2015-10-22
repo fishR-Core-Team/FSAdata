@@ -13,7 +13,7 @@
    \item{pass3}{Catch on the third removal pass.}
  }}
 \source{
-From Table 2 of Voight, H.  1999.  \href{http://www.krisweb.com/biblio/klamath_yuroktfp_voight_1999_7.pdf}{Assessment of juvenile salmonid populations in two index reaches of McGarvey Creek, a tributary to the lower Klamath River.  First Year of Investigations - 1998.}
+From Table 2 of Voight, H.  1999.  Assessment of juvenile salmonid populations in two index reaches of McGarvey Creek, a tributary to the lower Klamath River.  First Year of Investigations - 1998.  [Was (is?) from http://www.krisweb.com/biblio/klamath_yuroktfp_voight_1999_7.pdf.]
 }
 \description{
 Catches in removal events of Cutthroate Trout (\emph{Oncorhynchus clarki}) and Steelhead  (\emph{Oncorhynchus mykiss}) of various sizes in two reaches of McGarvey Creek (CA).

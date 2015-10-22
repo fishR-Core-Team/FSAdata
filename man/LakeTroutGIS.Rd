@@ -11,7 +11,7 @@
    \item{recruits}{Recruits (number of age-0 fish per ha) captured the following fall in bottom trawls}
  }}
 \source{
-From Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.  1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research.  21(supp.1):225-232.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}
+From Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson.  1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research.  21(supp.1):225-232.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 }
 \description{
 Lake trout (\emph{Salvelinus namaycush}) stock and recruitment by year at Gull Island Shoal, Lake Superior, 1964-1991.

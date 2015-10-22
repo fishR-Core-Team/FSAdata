@@ -11,7 +11,7 @@
    \item{yr}{Capture years.}
  }}
 \source{
-From a South Dakota Fish and Game report that was originally at \url{www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf}.  It does not appear to be there (or anywhere) now.
+From a South Dakota Fish and Game report that was (does not appear to be there (or anywhere) now) at http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.
 }
 \description{
 Total lengths of Walleye (\emph{Sander vitreus}), Yellow Perch (\emph{Perca flavescens}), Black Crappie (\emph{Pomoxis nigromaculatus}), and Black Bullheads (\emph{Ameiurus melas}) for four years in Lake Herman, SD.

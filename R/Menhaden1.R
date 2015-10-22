@@ -26,7 +26,7 @@
 #'  
 #' @concept Mortality 'Catch Curve'
 #'
-#'  @source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith.  2007.  \href{http://menhaden.gsmfc.org/FishRes_Vaughan_etal_2007-GM.pdf}{Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management.}  Fisheries Research 83:263-275.
+#'  @source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith.  2007.  Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management.  Fisheries Research 83:263-275.  [Was (is?) from http://menhaden.gsmfc.org/FishRes_Vaughan_etal_2007-GM.pdf.]
 #'  
 #' @keywords datasets
 #' 

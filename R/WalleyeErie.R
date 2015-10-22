@@ -17,7 +17,7 @@
 #' 
 #' @concept Recruitment
 #' 
-#' @source From Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+#' @source From Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 #' 
 #' @keywords datasets
 #' 

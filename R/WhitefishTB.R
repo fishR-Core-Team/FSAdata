@@ -23,7 +23,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source From Petzold, M. 1995.  An historical analysis of the Lake Whitefish fisheries of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior.  Ontario Min. of Nat. Res. unpubl. manuscript.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+#' @source From Petzold, M. 1995.  An historical analysis of the Lake Whitefish fisheries of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior.  Ontario Min. of Nat. Res. unpubl. manuscript.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 #' 
 #' @keywords datasets
 #' 

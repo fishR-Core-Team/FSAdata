@@ -10,7 +10,7 @@
   \item{r2}{Ages assigned by the second reader}
 }}
 \source{
-From Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://www.odu.edu/sci/research/cqfe}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 }
 \description{
 Ages assigned to Bluefish (\emph{Pomatomus saltatrix}) otoliths by two readers.

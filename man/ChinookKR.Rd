@@ -11,7 +11,7 @@
    \item{recruits}{a numeric vector containing the number of recruits}
  }}
 \source{
-From \url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
+Was (is?) from http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf.
 }
 \description{
 Stock and recruitment data for Klamath River Chinook Salmon (\emph{Oncorhynchus tshawytscha}), 1979-2000 brood years.

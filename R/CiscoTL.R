@@ -26,7 +26,7 @@
 #'  
 #' @concept 'Weight-Length' 'Length Frequency'
 #'
-#' @source Available for download from \url{www.limnology.wisc.edu/}.
+#' @source Was (is?) available for download from http://www.limnology.wisc.edu/.
 #'
 #' @keywords datasets
 #'

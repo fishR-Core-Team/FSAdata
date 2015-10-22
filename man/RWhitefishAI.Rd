@@ -10,7 +10,7 @@
     \item{age}{Age (from scales).}
   }}
 \source{
-From Table 3 (a random tenths digit was added to the TL) in Bailey, M.M.  1963.  \href{http://fishbull.noaa.gov/63-1/bailey.pdf}{Age, growth, and maturity of round whitefish of the Apostle Islands and Isle Royale Regions, Lake Superior.}  Fishery Bulletin, 63:63-75.
+From Table 3 (a random tenths digit was added to the TL) in Bailey, M.M.  1963.  Age, growth, and maturity of round whitefish of the Apostle Islands and Isle Royale Regions, Lake Superior.  Fishery Bulletin, 63:63-75.  [Was (is?) from http://fishbull.noaa.gov/63-1/bailey.pdf.]
 }
 \description{
 Ages and total lengths of Round Whitefish (\emph{Prosopium cylindraecum}) collected from the Apostles Islands, Lake Superior.

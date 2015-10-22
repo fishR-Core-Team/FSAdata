@@ -12,7 +12,7 @@
    \item{value}{Value of catch in dollars.}
  }}
 \source{
-Results from a query in 2006 to the \href{http://www.st.nmfs.noaa.gov/pls/webpls/webst1.MF_GL_SPECIES_HELP.SPECIES}{NMFS Great Lakes Commercial Fishery Landings database}.
+Results from a query in 2006 to the NMFS Great Lakes Commercial Fishery Landings database which was (is?) at http://www.st.nmfs.noaa.gov/pls/webpls/webst1.MF_GL_SPECIES_HELP.SPECIES.
 }
 \description{
 Landings and value of Lake Whitefish \emph{Coregonus clupeaformis} in Lake Superior by state from 1971-2001.

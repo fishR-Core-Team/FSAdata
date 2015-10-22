@@ -19,9 +19,9 @@
    \item{oto_age}{Otolith age (in years)}
  }}
 \source{
-2000 data from Appendix 9 of J. D. McPhail and R. J. Zemlak. October 2001. \href{https://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_245.pdf}{Pygmy whitefish studies on Dina Lake #1, 2000.} Peace/Williston Fish and Wildlife Compensation Program, Report No. 245. 36pp plus appendices.
+2000 data from Appendix 9 of J. D. McPhail and R. J. Zemlak. October 2001. Pygmy whitefish studies on Dina Lake #1, 2000. Peace/Williston Fish and Wildlife Compensation Program, Report No. 245. 36pp plus appendices.  [Was (is?) from https://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_245.pdf.]
 
-2001 data from Appendix 14 of Zemlak, R.J. and J.D. McPhail. 2003. \href{http://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_279.pdf}{Pygmy Whitefish studies on Dina Lake #1, 2001.} Peace/Williston Fish and Wildlife Compensation Program Report No. 279. 35pp plus appendices.
+2001 data from Appendix 14 of Zemlak, R.J. and J.D. McPhail. 2003. Pygmy Whitefish studies on Dina Lake #1, 2001. Peace/Williston Fish and Wildlife Compensation Program Report No. 279. 35pp plus appendices.  [Was (is?) from http://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_279.pdf.]
 }
 \description{
 Biological information for Pygmy Whitefish (\emph{Prosopium coulterii}) from Dina Lake #1 (British Columbia), 2000 and 2001.

@@ -27,7 +27,7 @@
 #'  
 #' @concept 'Weight-Length' 'Length Frequency' 'Size Structure' PSD
 #' 
-#' @source From a query to the \href{https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current}{North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database}.
+#' @source From a query to the North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database which was (is?) at https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current.
 #' 
 #' @keywords datasets
 #' 

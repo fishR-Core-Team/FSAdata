@@ -40,7 +40,7 @@
 #'  
 #' @concept 'Length Frequency' 'Weight-Length' 'Growth' 'von Bertalanffy' 'Size Structure' 'Length Conversion'
 #' 
-#' @source Originally available at \url{ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html}.  However, it does not appear to be available there now.  It seems like it should still be available at the \href{http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml}{Arctic LTER site}.
+#' @source Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html.  It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 #' 
 #' @keywords datasets
 #' 

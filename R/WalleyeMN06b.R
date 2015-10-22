@@ -27,7 +27,7 @@
 #'  
 #' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
 #' 
-#' @source From appendix 2 in Borkholder, B.D., A.J. Edwards, and C. Olson. 2007.  \href{http://www.1854treatyauthority.org/cms/files/REP\%20Fish\%20Walleye\%20Survey\%202006.pdf}{Spring adult and fall juvenile walleye popluation surveys within the 1854 ceded territory of Minnesota, 2006.}  Fond du Lac Division of Resource Management, Technical Report 41.  
+#' @source From appendix 2 in Borkholder, B.D., A.J. Edwards, and C. Olson. 2007.  Spring adult and fall juvenile walleye popluation surveys within the 1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of Resource Management, Technical Report 41.  [Was (is?) from http://www.1854treatyauthority.org/cms/files/REP\%20Fish\%20Walleye\%20Survey\%202006.pdf.]
 #' 
 #' @keywords datasets
 #' 

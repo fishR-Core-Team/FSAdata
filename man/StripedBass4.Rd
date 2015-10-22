@@ -10,7 +10,7 @@
    \item{reader2}{Ages assigned by the second reader}
  }}
 \source{
-From Figure 3 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://www.odu.edu/sci/research/cqfe}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Figure 3 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 }
 \description{
 Ages assigned by two different readers to the scales of Striped Bass (\emph{Morone saxatilis}).

@@ -20,7 +20,9 @@
 #'  
 #' @concept 'Age-Length Key'
 #' 
-#' @source Recreated from Tables 2, 3, and 5 in Davies, N.M. and C. Walsh.  2002.  \href{http://fs.fish.govt.nz/Page.aspx?pk=113&dk=22516}{Snapper age and length samples from Kaharoa research trawl surveys KAH8810 and KAH0012 of the Hauraki Gulf.}  Final Research Report for Ministry of Fisheries Research Project SNA2000/01.  National Institute of Water and Atmospheric Research.  [Note that the unaged fish were simulated from Table 5 assuming that the total number of fish was large enough that at least one fish was observed in each cell where a  proportion was listed.]
+#' @note the unaged fish were simulated from Table 5 assuming that the total number of fish was large enough that at least one fish was observed in each cell where a  proportion was listed.
+#' 
+#' @source Recreated from Tables 2, 3, and 5 in Davies, N.M. and C. Walsh.  2002.  Snapper age and length samples from Kaharoa research trawl surveys KAH8810 and KAH0012 of the Hauraki Gulf.  Final Research Report for Ministry of Fisheries Research Project SNA2000/01.  National Institute of Water and Atmospheric Research.  [Was (is?) from http://fs.fish.govt.nz/Page.aspx?pk=113&dk=22516.]
 #' 
 #' @keywords datasets
 #' 

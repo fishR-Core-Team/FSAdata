@@ -10,7 +10,7 @@
    \item{recruits}{Number of recruits (thousands per hour).}
  }}
 \source{
-From Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+From Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Green Bay, 1978-1992.

@@ -21,7 +21,7 @@
 #' 
 #' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source From \url{http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf}.
+#' @source Was (is?) from http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf.
 #' 
 #' @keywords datasets
 #' 
