@@ -23,7 +23,9 @@
 #'  
 #' @concept 'Data Manipulation'
 #' 
-#' @source Obtained directly from Ben Neely.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' 
+#' @source Obtained directly from Ben Neely.
 #' 
 #' @seealso See \code{\link{BGHRfish}} for individual fish collected in these samples.
 #' 

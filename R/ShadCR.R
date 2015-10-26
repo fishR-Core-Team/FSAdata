@@ -28,7 +28,9 @@
 #' 
 #' @concept Age Precision Bias 'Age Comparison'
 #' 
-#' @source From McBride, R.S., Hendricks, M.L., and Olney, J.E. 2005. Testing the validity of Cating's (1953) method for age determination of American Shad using scales. Fisheries, 30:10-18.  Data received direction from Rich McBride.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' 
+#' @source From McBride, R.S., Hendricks, M.L., and Olney, J.E. 2005. Testing the validity of Cating's (1953) method for age determination of American Shad using scales. Fisheries, 30:10-18.  Obtained directly from Rich McBride.
 #' 
 #' @keywords datasets
 #' 

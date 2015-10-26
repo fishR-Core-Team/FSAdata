@@ -21,7 +21,9 @@
 #'  
 #' @concept Mortality 'Catch Curve'
 #' 
-#' @source From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynamics in the Platte River, Nebraska.  Master's thesis, University of Nebraska, Lincoln, NE.  [Was (is?) from http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf.]  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.  
+#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' 
+#' @source From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynamics in the Platte River, Nebraska.  Master's thesis, University of Nebraska, Lincoln, NE.  [Was (is?) from http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf.]  
 #' 
 #' @keywords datasets
 #' 

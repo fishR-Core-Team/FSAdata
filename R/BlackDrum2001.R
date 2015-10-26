@@ -28,7 +28,9 @@
 #'  
 #' @concept Growth 'von Bertalanffy' 'Weight-Length'
 #' 
-#' @source Obtained directly from the Virginia Marine Resources Commission via Hank Liao.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' 
+#' @source Obtained directly from the Virginia Marine Resources Commission via Hank Liao.
 #' 
 #' @keywords datasets
 #' 

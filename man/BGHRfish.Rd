@@ -14,10 +14,13 @@
    \item{count}{Number of fish sampled of that species and length}
  }}
 \source{
-Obtained directly from Ben Neely.  Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Obtained directly from Ben Neely.
 }
 \description{
 Fish information from samples collected from Big Hill Reservoir, KS, in May, 2014.
+}
+\note{
+Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

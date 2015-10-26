@@ -1,6 +1,9 @@
+# 0.3.3 ongoing
+
 # 0.3.2 22-Oct-15
 * Fixed LaTeX quotes in DESCRIPTION file.
 * Removed all `\href{}{}` and `\url{}` codes to websites that I don't control.  The addresses are now "naked" such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link.  Hopefully this will eliminate problems with R CMD CHECK.
+* Added notes to all files that were used in IFAR.
 
 # 0.3.1 21-Oct-15
 * Removed `Imports` for `utils` due to changes in `FSAdata` described below.
