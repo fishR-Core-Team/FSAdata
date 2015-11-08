@@ -1,6 +1,6 @@
 #' @title Ages (subsample) and lengths (all fish) for Snapper.
 #' 
-#' @description A large sample (approximately fixed sample size per length interval) of Snapper (\emph{Pagrus auratus}) were aged, with the remainder of the fish just measured for length.  Note that age-16 is actually age 16+ and length 60 is for 60-64 cm and 65 if for 65+ cm.
+#' @description A large sample (approximately fixed sample size per length interval) of Snapper (\emph{Pagrus auratus}) were aged, with the remainder of the fish just measured for length.  Note that age-16 is actually age 16+ and length 60 is for 60-64 cm and 65 is for 65+ cm.
 #' 
 #' @name SnapperHG2
 #' 
