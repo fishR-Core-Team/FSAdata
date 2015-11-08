@@ -1,6 +1,6 @@
 #' @title Lengths and weights for Yellow Perch from Trout Lake, WI.
 #' 
-#' @description Lengths and weights for Yellow Perch \emph{Perca flavescens} from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
+#' @description Lengths and weights for Yellow Perch (\emph{Perca flavescens}) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
 #' 
 #' @name YPerchTL
 #' 
@@ -11,7 +11,7 @@
 #'    \item{lakeid}{Lake name (all \code{TR}=Trout Lake)}
 #'    \item{year4}{Year of capture} 
 #'    \item{sampledate}{Date of capture}
-#'    \item{gearid}{Capture gear type}
+#'    \item{gearid}{Capture gear type -- beach seine (\code{BSEINE}), crayfish trap (\code{CRAYTR}), electrofishing (\code{ELFISH}), fyke net (\code{FYKNET}), trammel net (\code{TRAMML}), vertical gillnets of different mesh sizes (\code{VBN0XX}), and different types of fyke nets (\code{FYKNED} and \code{FYKNEL})}
 #'    \item{spname}{Species name (all \code{YELLOWPERCH})}
 #'    \item{length}{Total Length (nearest mm) at capture}
 #'    \item{weight}{Weight (nearest 0.1 or 1 g) at capture} 
