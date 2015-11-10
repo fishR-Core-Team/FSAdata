@@ -2,6 +2,7 @@
 * Started using ROxygen v5.0.0.
 * `SnapperHG`: Modified.  Fixed typo in documentation.
 * `YPerchTL`: Modified.  Minor update to documentation.
+* `YPerchSB1`: Modified.  Fixed typo in documentation.
 
 # 0.3.2 22-Oct-15
 * Fixed LaTeX quotes in DESCRIPTION file.
