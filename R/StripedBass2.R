@@ -9,7 +9,7 @@
 #' @format A data frame of 1201 observations on the following 2 variables:
 #'  \describe{
 #'    \item{age}{Assigned ages (from scales).} 
-#'    \item{tl}{Measured total lengths (mm).} 
+#'    \item{tl}{Measured total lengths (in inches).} 
 #'  }
 #'  
 #' @section Topic(s):

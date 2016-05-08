@@ -1,6 +1,6 @@
 #' @title Ages and lengths of Round Whitefish.
 #'
-#' @description Ages and total lengths of Round Whitefish (\emph{Prosopium cylindraecum}) collected from the Apostles Islands, Lake Superior.
+#' @description Ages and total lengths of Round Whitefish (\emph{Prosopium cylindraceum}) collected from the Apostles Islands, Lake Superior.
 #'
 #' @name RWhitefishAI
 #' 
@@ -8,7 +8,7 @@
 #' 
 #' @format A data frame with 995 observations on the following 2 variables.
 #'   \describe{
-#'     \item{tl}{Total length (mm).}
+#'     \item{tl}{Total length (in).}
 #'     \item{age}{Age (from scales).} 
 #'   }
 #'   

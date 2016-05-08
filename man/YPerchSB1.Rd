@@ -10,7 +10,7 @@
    \item{loc}{Location of capture (\code{inner} or \code{outer}).} 
  }}
 \source{
-Simulated (uniform distribution of values within length bin) from summarized length frequencies in Fig 2 (top) in Diana, J.S. and R. Salz. 1990.  Energy Storage, growth, and maturation of yellow perch from different locations in Saginaw Bay, Michigan.  Transactions of the American Fisheries Society 119:976-984.
+Simulated (uniform distribution of values within length bin) from summarized length frequencies in Figure 2 (top) in Diana, J.S. and R. Salz. 1990.  Energy storage, growth, and maturation of yellow perch from different locations in Saginaw Bay, Michigan.  Transactions of the American Fisheries Society 119:976-984.
 }
 \description{
 Length measurements for Yellow Perch (\emph{Perca flavescens}) from two locations -- inner and outer bay -- in Saginaw Bay, Lake Michigan.

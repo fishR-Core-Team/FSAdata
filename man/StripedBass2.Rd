@@ -7,7 +7,7 @@
 \format{A data frame of 1201 observations on the following 2 variables:
  \describe{
    \item{age}{Assigned ages (from scales).} 
-   \item{tl}{Measured total lengths (mm).} 
+   \item{tl}{Measured total lengths (in inches).} 
  }}
 \source{
 From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
