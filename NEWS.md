@@ -1,5 +1,7 @@
 # 0.3.3 ongoing
 * Started using ROxygen v5.0.0.
+* `Bonito`: Added.
+* `Mosquitofish`: Added.
 * `RWhitefishAI`: Modified.  Fixed typo in scientific names and length units.  Fixes [#3](https://github.com/droglenc/FSAdata/issues/3).  Thanks to Peter Mous.
 * `RWhitefishIR`: Modified.  Fixed typo in scientific names and length units.  Fixes [#3](https://github.com/droglenc/FSAdata/issues/3).  Thanks to Peter Mous.
 * `SnapperHG`: Modified.  Fixed typo in documentation.
