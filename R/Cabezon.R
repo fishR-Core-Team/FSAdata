@@ -11,8 +11,8 @@
 #'    \item{date}{Date fish was collected} 
 #'    \item{length}{Total length (cm)} 
 #'    \item{age}{Otolith age} 
-#'    \item{maturity}{Maturity state (Immature or Mature)} 
-#'    \item{stage}{Stage of maturity (1:Immature, 2:Maturing, 3:Mature, 4:Fertilized, 5:Ripe, 6:Spent, 7:Resting}
+#'    \item{maturity}{Maturity state (\code{Immature} or \code{Mature})} 
+#'    \item{stage}{Stage of maturity (\code{1}:Immature, \code{2}:Maturing, \code{3}:Mature, \code{4}:Fertilized, \code{5}:Ripe, \code{6}:Spent, \code{7}:Resting)}
 #'  }
 #' 
 #' @section Topic(s):

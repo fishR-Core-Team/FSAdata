@@ -8,15 +8,15 @@
 
 \describe{
  \item{fish.id}{A unique fish identification number (across all years, most of which are not shown in this file}
- \item{month}{Month of capture} 
+ \item{month}{Month (numeric) of capture} 
  \item{day}{Day of capture}
  \item{year}{Year of capture} 
  \item{indiv}{A unique fish identification number within the year}
  \item{location}{Grid location of capture}
  \item{length}{Total length (mm)}
  \item{weight}{Weight (g)} 
- \item{sex}{Sex factor}
- \item{maturity}{Maturity stage factor}
+ \item{sex}{Sex factor (\code{female}, \code{male}, or \code{unknown})}
+ \item{maturity}{Maturity stage factor (\code{developing}, \code{immature}, \code{mature}, \code{nearly.ripe}, \code{nearly.spent}, \code{recovering}, \code{ripe}, \code{running}, \code{spent}, \code{unknown}, or \code{yoy})}
  \item{age}{Age (yrs) from scales}
 }}
 \source{
@@ -47,7 +47,9 @@ plot(length~age,data=RuffeSLRH92)
 par(op)
 xtabs(~age,data=RuffeSLRH92)
 xtabs(~sex,data=RuffeSLRH92)
+RuffeSLRH92$maturity <- ordered(RuffeSLRH92$maturity,levels=c("yoy","immature","developing","mature","nearly.ripe","ripe","running","nearly.spent","spent","recovering","unknown"))
 xtabs(~maturity,data=RuffeSLRH92)
+xtabs(~maturity+month+sex,data=RuffeSLRH92)
 
 }
 \concept{

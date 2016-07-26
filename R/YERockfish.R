@@ -12,7 +12,7 @@
 #'    \item{length}{Total length (cm)} 
 #'    \item{age}{Otolith age} 
 #'    \item{maturity}{Maturity state (\code{Immature} or \code{Mature})} 
-#'    \item{stage}{Stage of maturity (\code{1}:Immature, \code{2}:Maturing, \code{3}:Mature, \code{4}:Fertilized, \code{5}:Ripe, \code{6}:Spent, \code{7}:Resting} 
+#'    \item{stage}{Stage of maturity (\code{1}:Immature, \code{2}:Maturing, \code{3}:Mature, \code{4}:Fertilized, \code{5}:Ripe, \code{6}:Spent, \code{7}:Resting)} 
 #'  }
 #'  
 #' @section Topic(s):

@@ -1,4 +1,7 @@
 # 0.3.4 ongoing
+* `Cabezon`: Fixed small typo in documentation.
+* `RuffeSLRH92`: Added more specificity to documentation.
+* `YERockfish`: Fixed small typo in documentation.
 
 # 0.3.3 18-Jul-16
 * Started using ROxygen v5.0.0.
