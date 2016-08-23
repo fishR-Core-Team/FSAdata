@@ -1,6 +1,6 @@
 #' @title Length-at-marking and recapture and time-at-large of Rainbow Trout.
 #' 
-#' @description Length-at-marking and recapture and time-at-large for Rainbow Trout (\emph{Oncorhynchus mykiss}) in the Kenai River, Alaska.
+#' @description Length-at-marking and recapture and time-at-large for Rainbow Trout (\emph{Oncorhynchus mykiss}) from the Kenai River, Alaska.
 #' 
 #' @name RBTroutKenai
 #' 
@@ -8,9 +8,9 @@
 #' 
 #' @format A data frame with 102 observations on the following 3 variables:
 #'  \describe{
-#'    \item{Lr}{length (mm) at recapture.} 
-#'    \item{Lm}{length (mm) at marking.} 
-#'    \item{dt}{time-at-large (yrs).} 
+#'    \item{Lr}{Length (mm) at recapture.} 
+#'    \item{Lm}{Length (mm) at marking.} 
+#'    \item{dt}{Time-at-large (yrs).} 
 #'  }
 #'  
 #' @section Topic(s):

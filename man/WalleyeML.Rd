@@ -12,7 +12,7 @@
  \item{Est.Age}{Estimated (from otoliths) age (yrs) at capture.}
  \item{TL}{Total length (mm).}
  \item{Scale.Rad}{Total scale radius (mm) at capture.} 
- \item{Dist.Ann}{Scale radisus (mm) to annulus given in \code{BC.Age}.} 
+ \item{Dist.Ann}{Scale radius (mm) to annulus given in \code{BC.Age}.} 
  \item{BC.Age}{Annulus or previous age.} 
  \item{BC.Len}{Back-calculated length at \code{BC.Age}.  Lengths were back-calculated using the \emph{Scale-Proportional Hypothesis} method.} 
 }}

@@ -49,7 +49,9 @@
 #' par(op)
 #' xtabs(~age,data=RuffeSLRH92)
 #' xtabs(~sex,data=RuffeSLRH92)
-#' RuffeSLRH92$maturity <- ordered(RuffeSLRH92$maturity,levels=c("yoy","immature","developing","mature","nearly.ripe","ripe","running","nearly.spent","spent","recovering","unknown"))
+#' tmp <- c("yoy","immature","developing","mature","nearly.ripe","ripe",
+#'          "running","nearly.spent","spent","recovering","unknown")
+#' RuffeSLRH92$maturity <- ordered(RuffeSLRH92$maturity,levels=tmp)
 #' xtabs(~maturity,data=RuffeSLRH92)
 #' xtabs(~maturity+month+sex,data=RuffeSLRH92)
 #' 

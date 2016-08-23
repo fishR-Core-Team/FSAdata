@@ -1,6 +1,10 @@
 # 0.3.4 ongoing
+* `BluegillIL`: Added.
 * `Cabezon`: Fixed small typo in documentation.
+* `RBTroutKenai`: Fixed small typo in documentation.
 * `RuffeSLRH92`: Added more specificity to documentation.
+* `WalleyeErie2`: Fixed small typo in documentation.
+* `WalleyeML`: Fixed small typo in documentation.
 * `YERockfish`: Fixed small typo in documentation.
 
 # 0.3.3 18-Jul-16
