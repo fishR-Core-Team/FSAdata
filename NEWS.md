@@ -1,4 +1,5 @@
 # 0.3.5 ongoing
+* `Mosquitofish`: Fixed small typos in documentation.
 
 # 0.3.4 23-Aug-16
 * `BluegillIL`: Added.
