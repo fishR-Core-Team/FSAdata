@@ -1,6 +1,6 @@
-#' @title Ages and lengths of Eastern Mosquitofish from ten locations from souther France to southern Spain.
+#' @title Ages and lengths of Eastern Mosquitofish from ten locations from southern France to southern Spain.
 #' 
-#' @description Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten locations from souther France to southern Spain.
+#' @description Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten locations from southern France to southern Spain.
 #' 
 #' @name Mosquitofish
 #' 
@@ -28,7 +28,7 @@
 #'  
 #' @concept 'Seasonal Growth' 'von Bertalanffy' Somers
 #' 
-#' @source From figure 3 of Carmona-Catot, G., A. Santos, P. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:1-23.
+#' @source From figure 3 of Carmona-Catot, G., A.F.G.N. Santos, P.A. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:1-23.
 #' 
 #' @keywords datasets
 #' 

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Mosquitofish}
 \alias{Mosquitofish}
-\title{Ages and lengths of Eastern Mosquitofish from ten locations from souther France to southern Spain.}
+\title{Ages and lengths of Eastern Mosquitofish from ten locations from southern France to southern Spain.}
 \format{A data frame with the following 8 variables:
  \describe{
    \item{site}{Site (as a name) of capture.}
@@ -16,10 +16,10 @@
    \item{age2}{Age in decimal years.}
  }}
 \source{
-From figure 3 of Carmona-Catot, G., A. Santos, P. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:1-23.
+From figure 3 of Carmona-Catot, G., A.F.G.N. Santos, P.A. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:1-23.
 }
 \description{
-Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten locations from souther France to southern Spain.
+Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten locations from southern France to southern Spain.
 }
 \section{Topic(s)}{
 
