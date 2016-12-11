@@ -1,4 +1,5 @@
 # 0.3.5 ongoing
+* `.onAttach()`: Modified. Streamlined package startup message.
 * `Mosquitofish`: Fixed small typos in documentation.
 
 # 0.3.4 23-Aug-16
