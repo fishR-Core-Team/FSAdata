@@ -1,6 +1,7 @@
 FSAdata
 =======
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![DOI](https://zenodo.org/badge/18454411.svg)](https://zenodo.org/badge/latestdoi/18454411)
 
 [![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
