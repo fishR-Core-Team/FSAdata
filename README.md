@@ -24,8 +24,8 @@ install.packages("FSAdata")
 The development version may be installed from GitHub (requires the **devtools** package) with
 
 ```r
-if (!require('devtools')) install.packages('devtools'); require('devtools')
-devtools::install_github('droglenc/FSAdata')
+if (!require('ghit')) install.packages('ghit'); require('ghit')
+ghit::install_github('droglenc/FSAdata')
 ```
 
 or from **RForge.net** with
