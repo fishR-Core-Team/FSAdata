@@ -9,10 +9,10 @@
 #' @format A data frame with 61 observations on the following 5 variables:
 #'  \describe{
 #'    \item{tag}{Unique Floy tag number.}
-#'    \item{Lm}{length (mm) at tagging.}
-#'    \item{Lr}{Length (mm) at recapture.}
-#'    \item{dL}{Change in length (mm).}
-#'    \item{dt}{Time-at-large (yrs).} 
+#'    \item{lenMark}{length (mm) at tagging.}
+#'    \item{lenRecap}{Length (mm) at recapture.}
+#'    \item{deltaLen}{Change in length (mm).}
+#'    \item{deltaTime}{Time-at-large (yrs).} 
 #'  }
 #'  
 #' @section Topic(s):
@@ -32,6 +32,6 @@
 #' data(BluegillIL)
 #' str(BluegillIL)
 #' head(BluegillIL)
-#' plot((Lr-Lm)~dt,data=BluegillIL)
+#' plot((lenRecap-lenMark)~deltaTime,data=BluegillIL)
 #' 
 NULL

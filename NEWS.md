@@ -1,4 +1,5 @@
 # 0.3.6 ongoing
+* `BluegillIL`: Modified. Changed names of variables.
 
 # 0.3.5 13-Dec-16
 * `.onAttach()`: Modified. Streamlined package startup message.
