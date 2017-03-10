@@ -1,4 +1,6 @@
-# 0.3.6 ongoing
+# 0.3.7 ongoing
+
+# 0.3.6 11-Mar-17
 * `BluegillIL`: Modified. Changed names of variables.
 
 # 0.3.5 13-Dec-16
