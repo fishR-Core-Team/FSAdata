@@ -24,6 +24,7 @@ Ages of Alewife (\emph{Alosa pseudoharengus}) assessed from otoliths and scales.
    \item Ageing Error
  }
 }
+
 \examples{
 data(AlewifeLH)
 str(AlewifeLH)
@@ -36,4 +37,3 @@ xtabs(~otoliths+scales,data=AlewifeLH)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

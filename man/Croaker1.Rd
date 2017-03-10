@@ -24,6 +24,7 @@ Otolith age of Atlantic croaker (\emph{Micropogonias undulatus}) from two reader
    \item Ageing Error
  }
 }
+
 \examples{
 data(Croaker1)
 str(Croaker1)
@@ -36,4 +37,3 @@ xtabs(~reader1+reader2,data=Croaker1)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

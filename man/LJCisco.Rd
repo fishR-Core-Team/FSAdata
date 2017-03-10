@@ -23,6 +23,7 @@ Assigned age (by scales) and total length of Longjaw Cisco (\emph{Leucichthys al
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(LJCisco)
 str(LJCisco)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

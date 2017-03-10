@@ -24,6 +24,7 @@ Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed scales
    \item Ageing Error
  }
 }
+
 \examples{
 data(StripedBass1)
 str(StripedBass1)
@@ -36,4 +37,3 @@ xtabs(~ageO+ageS,data=StripedBass1)
 Age Precision Bias
 }
 \keyword{datasets}
-

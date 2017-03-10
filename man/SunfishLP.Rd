@@ -22,6 +22,7 @@ The percent frequency of of Bluegill (\emph{Lepomis macrochirus}) and Redear Sun
  \item Catch curve
 }
 }
+
 \examples{
 data(SunfishLP)
 str(SunfishLP)
@@ -33,4 +34,3 @@ plot(log(perc.freq)~age,data=SunfishLP)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

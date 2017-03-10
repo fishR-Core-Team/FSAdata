@@ -22,6 +22,7 @@ Stock and recruitment data for Sea Lamprey (\emph{Petromyzon marinus}) in the Gr
    \item Recruitment
  }
 }
+
 \examples{
 data(SLampreyGL)
 str(SLampreyGL)
@@ -33,4 +34,3 @@ plot(recruits~stock,data=SLampreyGL)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

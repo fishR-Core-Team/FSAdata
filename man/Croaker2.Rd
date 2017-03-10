@@ -23,6 +23,7 @@ Assigned ages (by otoliths), total lengths, and sexes of Atlantic Croaker (\emph
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(Croaker2)
 str(Croaker2)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

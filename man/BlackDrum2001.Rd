@@ -33,6 +33,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Weight-Length
  }
 }
+
 \examples{
 data(BlackDrum2001)
 str(BlackDrum2001)
@@ -44,4 +45,3 @@ plot(tl~otoage,data=BlackDrum2001)
 Growth 'von Bertalanffy' 'Weight-Length'
 }
 \keyword{datasets}
-

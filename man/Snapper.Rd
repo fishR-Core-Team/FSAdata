@@ -21,6 +21,7 @@ Lengths of Australian Snapper (\emph{Chrysophrys auratus}) taken by trawl.
    \item Size Structure
  }
 }
+
 \examples{
 data(Snapper)
 str(Snapper)
@@ -32,4 +33,3 @@ hist(Snapper$len,main="")
 'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
-

@@ -21,6 +21,7 @@ Length and egg deposition of Lake Superior Lake Trout (\emph{Salvelinus namaycus
    \item Other
  }
 }
+
 \examples{
 data(LakeTroutEggs)
 str(LakeTroutEggs)
@@ -32,4 +33,3 @@ plot(eggs~tl,data=LakeTroutEggs)
 Other
 }
 \keyword{datasets}
-

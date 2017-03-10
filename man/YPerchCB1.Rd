@@ -37,6 +37,7 @@ Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay, La
    \item Catch curve 
  }
 }
+
 \examples{
 data(YPerchCB1)
 str(YPerchCB1)
@@ -74,4 +75,3 @@ plot(log(yc82)~YPerchCB1$age[1:7],main="1982 Year-Class")
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

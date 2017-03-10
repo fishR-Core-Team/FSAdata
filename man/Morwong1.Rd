@@ -24,6 +24,7 @@ Ages assigned at two different times by Reader A to the otoliths of Jackass Morw
    \item Ageing Error
  }
 }
+
 \examples{
 data(Morwong1)
 str(Morwong1)
@@ -36,4 +37,3 @@ xtabs(~first+second,data=Morwong1)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

@@ -23,6 +23,7 @@ Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three populat
    \item Catch curve
  }
 }
+
 \examples{
 data(FHCatfishATL)
 str(FHCatfishATL)
@@ -38,4 +39,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

@@ -28,6 +28,7 @@ Stock values were originally reported in 1000s of kgs and recruits were original
    \item Recruitment
  }
 }
+
 \examples{
 data(PikeWindermere)
 str(PikeWindermere)
@@ -45,4 +46,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

@@ -29,6 +29,7 @@ Back-calculated lengths-at-age for Walleye (\emph{Sander vitreus})  from Lake Mi
  \item Back-calculation
 }
 }
+
 \examples{
 data(WalleyeML)
 str(WalleyeML)
@@ -40,4 +41,3 @@ xtabs(~Year+Est.Age+Sex,data=WalleyeML)
 'Growth' 'von Bertalanffy' 'Back-calculation'
 }
 \keyword{datasets}
-

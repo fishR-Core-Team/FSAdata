@@ -23,6 +23,7 @@ Lengths (standard, fork, and total) and weights for Bluegill (\emph{Lepomis macr
    \item Length Frequency
  }
 }
+
 \examples{
 data(BluegillLM)
 str(BluegillLM)
@@ -43,4 +44,3 @@ par(op)
 'Weight-Length' 'Length Conversion' 'Length Frequency'
 }
 \keyword{datasets}
-

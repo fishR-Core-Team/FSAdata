@@ -31,6 +31,7 @@ The number of mussels caught in multiple samples of Tan Riffleshell (\emph{Epiob
    \item Schumacher-Eschmeyer
  }
 }
+
 \examples{
 data(Riffleshell)
 str(Riffleshell)
@@ -41,4 +42,3 @@ head(Riffleshell)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
 }
 \keyword{datasets}
-

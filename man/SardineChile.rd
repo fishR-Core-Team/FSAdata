@@ -29,6 +29,7 @@ Ages (in months) and total lengths of two year-classes of Sardine
 \item Somers model 
 }
 }
+
 \examples{
 data(SardineChile)
 str(SardineChile)
@@ -41,4 +42,3 @@ plot(tl.cm~age,data=SardineChile)
 Growth 'von Bertalanffy' Somers 'Seasonal Growth'
 }
 \keyword{datasets}
-

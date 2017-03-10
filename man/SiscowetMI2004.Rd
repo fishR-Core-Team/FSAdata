@@ -31,6 +31,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Growth
  }
 }
+
 \examples{
 data(SiscowetMI2004)
 str(SiscowetMI2004)
@@ -47,4 +48,3 @@ par(op)
 'Age-Length Key' 'Growth'
 }
 \keyword{datasets}
-

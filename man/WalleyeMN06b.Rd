@@ -29,6 +29,7 @@ Summary results of capture histories (number captured, number of recaptured fish
    \item Schumacher-Eschmeyer
  }
 }
+
 \examples{
 data(WalleyeMN06b)
 str(WalleyeMN06b)
@@ -39,4 +40,3 @@ head(WalleyeMN06b)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
 }
 \keyword{datasets}
-

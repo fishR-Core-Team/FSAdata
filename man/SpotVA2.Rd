@@ -21,6 +21,7 @@ As many as 10 fish per 1-inch total length intervals from the \code{\link[FSA]{S
    \item Age-Length Key 
  }
 }
+
 \examples{
 data(SpotVA2)
 str(SpotVA2)
@@ -42,4 +43,3 @@ str(spot.length)
 'Age-Length Key'
 }
 \keyword{datasets}
-

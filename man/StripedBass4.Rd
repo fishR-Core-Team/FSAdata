@@ -24,6 +24,7 @@ Ages assigned by two different readers to the scales of Striped Bass (\emph{Moro
    \item Ageing Error
  }
 }
+
 \examples{
 data(StripedBass4)
 str(StripedBass4)
@@ -39,4 +40,3 @@ xtabs(~reader1+reader2,data=StripedBass4)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

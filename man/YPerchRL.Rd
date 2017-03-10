@@ -21,6 +21,7 @@ Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Red Lakes, MN
    \item Recruitment time-series 
  }
 }
+
 \examples{
 data(YPerchRL)
 str(YPerchRL)
@@ -32,4 +33,3 @@ plot(recruits~year,data=YPerchRL)
 Recruitment
 }
 \keyword{datasets}
-

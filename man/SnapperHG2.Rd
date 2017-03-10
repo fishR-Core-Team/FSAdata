@@ -21,6 +21,7 @@ A large sample (approximately fixed sample size per length interval) of Snapper 
    \item Age-Length Key
  }
 }
+
 \examples{
 data(SnapperHG2)
 str(SnapperHG2)
@@ -42,4 +43,3 @@ See the same data in summarized format as \code{alkdata} in \pkg{fishmethods}.
 'Age-Length Key'
 }
 \keyword{datasets}
-

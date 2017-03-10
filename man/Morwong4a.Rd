@@ -18,6 +18,7 @@ A total of 104 fish dispersed proportionately over 1-cm fork length intervals fr
    \item Age-Length Key
  }
 }
+
 \examples{
 data(Morwong4a)
 str(Morwong4a)
@@ -39,4 +40,3 @@ str(m4a.length)
 'Age-Length Key'
 }
 \keyword{datasets}
-

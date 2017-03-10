@@ -27,6 +27,7 @@ Lake Herman was sampled on June 20-22, 2005 with four overnight gillnet sets and
    \item PSD
  }
 }
+
 \examples{
 data(Herman)
 str(Herman)
@@ -44,4 +45,3 @@ par(op)
 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

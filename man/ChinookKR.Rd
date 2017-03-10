@@ -23,6 +23,7 @@ Stock and recruitment data for Klamath River Chinook Salmon (\emph{Oncorhynchus 
    \item Recruitment
  }
 }
+
 \examples{
 data(ChinookKR)
 str(ChinookKR)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

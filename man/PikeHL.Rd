@@ -30,6 +30,7 @@ Only Northern Pike >449 mm were considered here.
    \item Capture History
  }
 }
+
 \examples{
 data(PikeHL)
 str(PikeHL)
@@ -40,4 +41,3 @@ head(PikeHL)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
 }
 \keyword{datasets}
-

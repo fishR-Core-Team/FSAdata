@@ -1,7 +1,7 @@
 Package: FSAdata
 Title: Data to Support Fish Stock Assessment ('FSA') Package
 Version: 0.3.6
-Date: 2016-12-13
+Date: 2017-3-11
 Description: The datasets to support the Fish Stock Assessment ('FSA') package.
 Authors@R: person("Derek","Ogle",email="derek@derekogle.com",role=c("aut","cre"))
 URL: http://derekogle.com/fishR/, https://github.com/droglenc/FSAdata
@@ -10,4 +10,4 @@ License: GPL (>= 2)
 LazyData: true
 Depends:
     R (>= 3.0.0)
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

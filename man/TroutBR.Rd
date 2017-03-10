@@ -23,6 +23,7 @@ Total lengths (inches) and ages (from scales) of Brown Trout (\emph{Salmo trutta
    \item von Bertalanffy 
  }
 }
+
 \examples{
 data(TroutBR)
 str(TroutBR)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

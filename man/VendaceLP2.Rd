@@ -25,6 +25,7 @@ Original authors fit an exponential curve to the fecundity-recruits relationship
    \item Recruitment
  }
 }
+
 \examples{
 data(VendaceLP2)
 str(VendaceLP2)
@@ -36,4 +37,3 @@ plot(recruits~fecundity,data=VendaceLP2)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

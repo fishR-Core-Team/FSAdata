@@ -23,6 +23,7 @@ Length measurements for Yellow Perch (\emph{Perca flavescens}) from two location
    \item PSD
  }
 }
+
 \examples{
 data(YPerchSB1)
 str(YPerchSB1)
@@ -37,4 +38,3 @@ par(op)
 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

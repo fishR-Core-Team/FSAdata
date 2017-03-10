@@ -21,6 +21,7 @@ Rainbow Smelt (\emph{Osmerus mordax}) fork lengths from near Grand Haven, Lake M
    \item Size Structure
  }
 }
+
 \examples{
 data(RBSmeltLM)
 str(RBSmeltLM)
@@ -32,4 +33,3 @@ hist(RBSmeltLM$fl,main="")
 'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
-

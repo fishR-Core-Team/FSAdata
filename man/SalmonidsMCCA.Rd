@@ -29,6 +29,7 @@ Sampling was conducted using a Smith Root model 15-D POW electrofisher. Block ne
    \item Removal
  }
 }
+
 \examples{
 data(SalmonidsMCCA)
 str(SalmonidsMCCA)
@@ -42,4 +43,3 @@ SalmonidsMCCA[3,]
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

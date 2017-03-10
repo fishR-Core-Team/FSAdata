@@ -29,6 +29,7 @@ The numbers of young-of-year walleye (\emph{Sander vitreus}) that were captured,
    \item Schumacher-Eschmeyer
  }
 }
+
 \examples{
 data(WalleyePL)
 str(WalleyePL)
@@ -40,4 +41,3 @@ subset(WalleyePL,year==1960)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
 }
 \keyword{datasets}
-

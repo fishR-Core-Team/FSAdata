@@ -23,6 +23,7 @@ Sockeye Salmon (\emph{Oncorhynchus nerka}) stock and recruitment in Karluk Lake,
    \item Recruitment
  }
 }
+
 \examples{
 data(SockeyeKL)
 str(SockeyeKL)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

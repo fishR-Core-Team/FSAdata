@@ -26,6 +26,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Catch curve 
  }
 }
+
 \examples{
 data(CCatfishNB)
 str(CCatfishNB)
@@ -40,4 +41,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

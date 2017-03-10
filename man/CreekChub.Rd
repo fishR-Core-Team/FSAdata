@@ -28,6 +28,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Growth
  }
 }
+
 \examples{
 data(CreekChub)
 str(CreekChub)
@@ -40,4 +41,3 @@ plot(len~age,data=CreekChub)
 'Age-Length Key' 'Growth'
 }
 \keyword{datasets}
-

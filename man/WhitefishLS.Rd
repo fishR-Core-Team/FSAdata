@@ -23,6 +23,7 @@ Landings and value of Lake Whitefish \emph{Coregonus clupeaformis} in Lake Super
    \item Other
  }
 }
+
 \examples{
 data(WhitefishLS)
 str(WhitefishLS)
@@ -33,4 +34,3 @@ head(WhitefishLS)
 Other
 }
 \keyword{datasets}
-

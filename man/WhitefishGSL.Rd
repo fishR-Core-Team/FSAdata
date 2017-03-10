@@ -29,6 +29,7 @@ All data are from summer samples except for Area.IW which is a winter sample
    \item Catch curve
  }
 }
+
 \examples{
 data(WhitefishGSL)
 str(WhitefishGSL)
@@ -53,4 +54,3 @@ names(WhitefishGSL1) <- c("age","area","number")
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

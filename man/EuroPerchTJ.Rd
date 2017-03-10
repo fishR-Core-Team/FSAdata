@@ -23,6 +23,7 @@ Assigned ages, measured fork lengths, and observed sexes for European Perch (\em
    \item fon Bertalanffy
  }
 }
+
 \examples{
 data(EuroPerchTJ)
 str(EuroPerchTJ)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

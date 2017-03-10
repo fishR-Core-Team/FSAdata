@@ -25,6 +25,7 @@ Catch-at-age for Suwanee (\emph{Micropterus notius}) and Largemouth Bass (\emph{
    \item Catch curve 
  }
 }
+
 \examples{
 data(BassFL)
 str(BassFL)
@@ -55,4 +56,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

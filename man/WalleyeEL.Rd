@@ -25,6 +25,7 @@ Abundance of age-0 and age-5 and older Walleye (\emph{Sander vitreus}), abundanc
    \item Recruitment
  }
 }
+
 \examples{
 data(WalleyeEL)
 str(WalleyeEL)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

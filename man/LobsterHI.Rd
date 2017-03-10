@@ -35,6 +35,7 @@ The vessel fished between 11 June and 14 July 1986 in the vicinity of Laysan Isl
    \item Catchability
  }
 }
+
 \examples{
 data(LobsterHI)
 str(LobsterHI)
@@ -45,4 +46,3 @@ head(LobsterHI)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

@@ -25,6 +25,7 @@ Pacific Halibut (\emph{Hippoglossus stenolepis}) stock, recruitment, landings, a
    \item Recruitment
  }
 }
+
 \examples{
 data(HalibutPAC)
 str(HalibutPAC)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

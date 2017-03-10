@@ -29,6 +29,7 @@ Catch and effort for three Snapper species (\emph{Pristipomoides zonatus}, \emph
    \item Catchability 
  }
 }
+
 \examples{
 data(Pathfinder)
 str(Pathfinder)
@@ -38,4 +39,3 @@ head(Pathfinder)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

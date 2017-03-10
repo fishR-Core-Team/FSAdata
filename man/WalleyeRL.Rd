@@ -36,6 +36,7 @@ Data is in one-fish-per-line format.
    \item Weisberg linear growth model 
  }
 }
+
 \examples{
 data(WalleyeRL)
 str(WalleyeRL)
@@ -46,4 +47,3 @@ head(WalleyeRL)
 Growth Weisberg LGM
 }
 \keyword{datasets}
-

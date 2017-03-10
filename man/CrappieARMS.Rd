@@ -23,6 +23,7 @@ Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mis
    \item Recruitment
  }
 }
+
 \examples{
 data(CrappieARMS)
 str(CrappieARMS)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

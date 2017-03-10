@@ -29,6 +29,7 @@ Lengths and weights for Yellow Perch (\emph{Perca flavescens}) from Trout Lake, 
    \item PSD
  }
 }
+
 \examples{
 data(YPerchTL)
 str(YPerchTL)
@@ -40,4 +41,3 @@ plot(weight~length,data=YPerchTL)
 'Weight-Length' 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

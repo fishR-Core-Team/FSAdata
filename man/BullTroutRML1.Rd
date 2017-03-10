@@ -26,6 +26,7 @@ The historical (1977-1980) era samples were from before restrictive sportfishing
    \item Length Frequency
  }
 }
+
 \examples{
 data(BullTroutRML1)
 str(BullTroutRML1)
@@ -40,4 +41,3 @@ par(op)
 'Weight-Length' 'Length Frequency'
 }
 \keyword{datasets}
-

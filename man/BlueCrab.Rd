@@ -26,6 +26,7 @@ Catch and effort data for a population of male Blue Crabs (\emph{Callinectes sap
    \item Catchability
  }
 }
+
 \examples{
 data(BlueCrab)
 str(BlueCrab)
@@ -36,4 +37,3 @@ BlueCrab
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

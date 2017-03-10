@@ -26,6 +26,7 @@ Length-at-marking and recapture and time-at-large for Bluegill (\emph{Lepomis ma
    \item Fabens method 
  }
 }
+
 \examples{
 data(BluegillIL)
 str(BluegillIL)
@@ -37,4 +38,3 @@ plot((lenRecap-lenMark)~deltaTime,data=BluegillIL)
 Growth 'von Bertalanffy' Fabens
 }
 \keyword{datasets}
-

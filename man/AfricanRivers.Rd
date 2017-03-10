@@ -25,6 +25,7 @@ Characteristics of a sample of West African rivers.
    \item Other
  }
 }
+
 \examples{
 data(AfricanRivers)
 str(AfricanRivers)
@@ -35,4 +36,3 @@ head(AfricanRivers)
 Other
 }
 \keyword{datasets}
-

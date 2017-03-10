@@ -27,6 +27,7 @@ Lengths (standard, fork, and total) and weights for Pallid Sturgion (\emph{Scaph
    \item Length Conversion 
  }
 }
+
 \examples{
 data(Pallid)
 str(Pallid)
@@ -44,4 +45,3 @@ par(op)
 'Weight-Length' 'Length Conversion'
 }
 \keyword{datasets}
-

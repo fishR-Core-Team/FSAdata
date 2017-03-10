@@ -23,6 +23,7 @@ Numbers of Flathead Catfish (\emph{Pylodictis olivaris}) captured by electrofish
    \item Catch curve 
  }
 }
+
 \examples{
 data(FHCatfish)
 str(FHCatfish)
@@ -38,4 +39,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

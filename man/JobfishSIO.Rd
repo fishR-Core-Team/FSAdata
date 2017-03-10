@@ -26,6 +26,7 @@ Catch and effort data for Jobfish (\emph{Pristipomoides filamentosus}) from the 
    \item Catchability
  }
 }
+
 \examples{
 data(JobfishSIO)
 str(JobfishSIO)
@@ -36,4 +37,3 @@ head(JobfishSIO)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

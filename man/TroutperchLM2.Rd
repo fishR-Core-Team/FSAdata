@@ -21,6 +21,7 @@ Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from near Grand Haven, L
    \item Size Structure
  }
 }
+
 \examples{
 data(TroutperchLM2)
 str(TroutperchLM2)
@@ -32,4 +33,3 @@ hist(TroutperchLM2$fl,main="")
 'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
-

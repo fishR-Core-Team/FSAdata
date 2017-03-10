@@ -23,6 +23,7 @@ Ages assigned to Bluefish (\emph{Pomatomus saltatrix}) otoliths by two readers.
   \item Ageing Error
  }
 }
+
 \examples{
 data(BluefishAge)
 str(BluefishAge)
@@ -34,4 +35,3 @@ plot(r1~r2,data=BluefishAge)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

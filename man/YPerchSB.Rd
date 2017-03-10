@@ -23,6 +23,7 @@ Yellow Perch (\emph{Perca flavescens}) stock and recruitment by year in South Ba
    \item Recruitment
  }
 }
+
 \examples{
 data(YPerchSB)
 str(YPerchSB)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

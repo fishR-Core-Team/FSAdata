@@ -26,6 +26,7 @@ Ages, lengths, and maturity for female Yelloweye Rockfish (\emph{Sebastes rubber
    \item von Bertalanffy 
  }
 }
+
 \examples{
 data(YERockfish)
 str(YERockfish)
@@ -46,4 +47,3 @@ par(op)
 Growth 'von Bertalanffy' 'Maturity'
 }
 \keyword{datasets}
-

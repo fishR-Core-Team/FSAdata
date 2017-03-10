@@ -24,6 +24,7 @@ Length-at-marking and recapture and time-at-large for Rainbow Trout (\emph{Oncor
    \item Fabens method 
  }
 }
+
 \examples{
 data(RBTroutKenai)
 str(RBTroutKenai)
@@ -35,4 +36,3 @@ plot((Lr-Lm)~dt,data=RBTroutKenai)
 Growth 'von Bertalanffy' Fabens
 }
 \keyword{datasets}
-

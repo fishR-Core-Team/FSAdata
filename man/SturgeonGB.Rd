@@ -24,6 +24,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Year-class Strength
  }
 }
+
 \examples{
 data(SturgeonGB)
 str(SturgeonGB)
@@ -35,4 +36,3 @@ plot(age~year,data=SturgeonGB)
 'Year-class Strength'
 }
 \keyword{datasets}
-

@@ -33,6 +33,7 @@ The original authors estiamted populations size using the Leslie method with the
    \item Catchability
  }
 }
+
 \examples{
 data(ShrimpGuam)
 str(ShrimpGuam)
@@ -51,4 +52,3 @@ ShrimpGuam$cumCatch <- cumsum(ShrimpGuam$total)-ShrimpGuam$total/2
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

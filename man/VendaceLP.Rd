@@ -23,6 +23,7 @@ Vendace (\emph{Coregonus albula}) recruitment by year in Lake Puulavesi, 1982-19
    \item Recruitment
  }
 }
+
 \examples{
 data(VendaceLP)
 str(VendaceLP)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

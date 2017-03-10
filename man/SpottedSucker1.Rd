@@ -22,6 +22,7 @@ Ages and total lengths of Spotted Sucker (\emph{Minytrema melanops}) collected f
     \item von Bertalanffy
   }
 }
+
 \examples{
 data(SpottedSucker1)
 str(SpottedSucker1)
@@ -33,4 +34,3 @@ plot(tl~age,data=SpottedSucker1)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

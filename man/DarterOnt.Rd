@@ -26,6 +26,7 @@ The original author used a linear model to describe the relationship between len
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(DarterOnt)
 str(DarterOnt)
@@ -40,4 +41,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

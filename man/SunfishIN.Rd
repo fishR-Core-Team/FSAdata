@@ -38,6 +38,7 @@ The number of Redear Sunfish (\emph{Lepomis microlophus}) caught in multiple sam
    \item Schumacher-Eschmeyer
  }
 }
+
 \examples{
 data(SunfishIN)
 str(SunfishIN)
@@ -47,4 +48,3 @@ SunfishIN
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' Schnabel
 }
 \keyword{datasets}
-

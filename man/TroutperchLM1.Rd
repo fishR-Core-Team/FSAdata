@@ -23,6 +23,7 @@ The assigned ages (by scales), total lengths (mm), and sexes of Troutperch (\emp
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(TroutperchLM1)
 str(TroutperchLM1)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

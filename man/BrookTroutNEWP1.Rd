@@ -41,6 +41,7 @@ Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two 
    \item Removal
  }
 }
+
 \examples{
 data(BrookTroutNEWP1)
 
@@ -55,4 +56,3 @@ See \code{\link{BrookTroutNEWP}} for only the data (note the results from Schnut
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

@@ -26,6 +26,7 @@ The dataset is usually analysed without case 12 because a rockslide occurred tha
     \item Recruitment
   }
 }
+
 \examples{
 data(SockeyeSR)
 str(SockeyeSR)
@@ -41,4 +42,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

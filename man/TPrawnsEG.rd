@@ -25,6 +25,7 @@ Stock and recruitment data for Exmouth Gulf Tiger Prawn (\emph{Panaeus esculentu
    \item Recruitment
  }
 }
+
 \examples{
 data(TPrawnsEG)
 str(TPrawnsEG)
@@ -40,4 +41,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

@@ -28,6 +28,7 @@ Capture histories for Humpback Whitefish (\emph{Coregonus pidschian}) greater  t
    \item Capture History
  }
 }
+
 \examples{
 data(HumpbackWFCR)
 str(HumpbackWFCR)
@@ -38,4 +39,3 @@ head(HumpbackWFCR)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
 }
 \keyword{datasets}
-

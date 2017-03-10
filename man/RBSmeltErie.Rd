@@ -25,6 +25,7 @@ Zeros were changed to 0.1 in 1984, 1987, 1991, and 1994.
    \item Recruitment time-series 
  }
 }
+
 \examples{
 data(RBSmeltErie)
 str(RBSmeltErie)
@@ -36,4 +37,3 @@ plot(recruits~year,data=RBSmeltErie,type="l")
 Recruitment
 }
 \keyword{datasets}
-

@@ -22,6 +22,7 @@ Assigned ages (from otoliths) and fork lengths of Red Drum (\emph{Sciaenops ocel
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(RedDrum)
 str(RedDrum)
@@ -33,4 +34,3 @@ plot(fl~age,data=RedDrum)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

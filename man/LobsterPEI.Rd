@@ -30,6 +30,7 @@ Catch (1000s of pounds) and effort (1000s of traps) of Lobster from 33 days in 1
    \item Catchability
  }
 }
+
 \examples{
 data(LobsterPEI)
 str(LobsterPEI)
@@ -40,4 +41,3 @@ head(LobsterPEI)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

@@ -27,6 +27,7 @@ Only years within each season where more than one spawner and more than one recr
    \item Recruitment
  }
 }
+
 \examples{
 data(BSkateGB)
 str(BSkateGB)
@@ -45,4 +46,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

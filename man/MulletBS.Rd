@@ -24,6 +24,7 @@ Ages assigned to whole and broken-burnt otoliths of Red Mullet (\emph{Mullus bar
    \item Ageing Error
  }
 }
+
 \examples{
 data(MulletBS)
 str(MulletBS)
@@ -36,4 +37,3 @@ xtabs(~bb+whole,data=MulletBS)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

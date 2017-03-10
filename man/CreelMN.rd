@@ -21,6 +21,7 @@ The species targeted, number of fish harvested, and number of individuals harves
    \item Other
  }
 }
+
 \examples{
 data(CreelMN)
 str(CreelMN)
@@ -56,4 +57,3 @@ levels(CreelMN$species)
 Other
 }
 \keyword{datasets}
-

@@ -23,6 +23,7 @@ Instantaneous growth rates (percent change per day) for body growth and two calc
    \item Other
  }
 }
+
 \examples{
 data(Casselman1990)
 
@@ -42,4 +43,3 @@ legend("topleft",legend=c("Body","Cleithrum","Scale"),pch=p,col=clr,lty=l,lwd=2)
 Other
 }
 \keyword{datasets}
-

@@ -20,6 +20,7 @@ Walleye (\emph{Sander vitreus}) recruitment time-series for Lake Erie, 1959-1972
  \item Recruitment time-series 
 }
 }
+
 \examples{
 data(WalleyeErie)
 str(WalleyeErie)
@@ -31,4 +32,3 @@ plot(recruits~year,data=WalleyeErie,type="l")
 Recruitment
 }
 \keyword{datasets}
-

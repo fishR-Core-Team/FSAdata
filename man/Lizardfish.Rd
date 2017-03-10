@@ -23,6 +23,7 @@ Greater Lizardfish (\emph{Saurida tumbil}) stock and recruitment by year, 1955-1
    \item Recruitment
  }
 }
+
 \examples{
 data(Lizardfish)
 str(Lizardfish)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

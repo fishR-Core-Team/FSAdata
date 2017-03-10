@@ -22,6 +22,7 @@ Ages and total lengths of Round Whitefish (\emph{Prosopium cylindraceum}) collec
     \item von Bertalanffy
   }
 }
+
 \examples{
 data(RWhitefishIR)
 str(RWhitefishIR)
@@ -33,4 +34,3 @@ plot(tl~age,data=RWhitefishIR)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

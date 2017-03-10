@@ -25,6 +25,7 @@ Lake Whitefish (\emph{Coregonus clupeaformis}) stock, recruitment, landings, and
    \item Recruitment
  }
 }
+
 \examples{
 data(WhitefishTB)
 str(WhitefishTB)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

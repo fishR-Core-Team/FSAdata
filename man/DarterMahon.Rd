@@ -31,6 +31,7 @@ These data are used in many publications because the stream section was rotenone
    \item Catchability
  }
 }
+
 \examples{
 data(DarterMahon)
 str(DarterMahon)
@@ -41,4 +42,3 @@ head(DarterMahon)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

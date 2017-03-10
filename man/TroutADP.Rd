@@ -23,6 +23,7 @@ Catches of trout on five successive removal events from the Afon Dulas at Pentre
    \item Removal
  }
 }
+
 \examples{
 data(TroutADP)
 str(TroutADP)
@@ -36,4 +37,3 @@ TroutADP
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

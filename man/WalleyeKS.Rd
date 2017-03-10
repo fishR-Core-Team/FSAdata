@@ -26,6 +26,7 @@ The authors used all age-2 and older Walleye to construct the catch curves.
    \item Catch curve 
  }
 }
+
 \examples{
 data(WalleyeKS)
 str(WalleyeKS)
@@ -46,4 +47,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

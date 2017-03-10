@@ -29,6 +29,7 @@ Slimy Sculpin were captured from Lake S-6 during the summers of 1988 and 1989.  
    \item Size Structure
  }
 }
+
 \examples{
 data(SculpinALTER)
 str(SculpinALTER)
@@ -45,4 +46,3 @@ par(op)
 Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'
 }
 \keyword{datasets}
-

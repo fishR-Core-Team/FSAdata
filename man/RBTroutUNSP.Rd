@@ -26,6 +26,7 @@ Capture histories for Rainbow Trout (\emph{Oncorhynchus mykiss}) in Upper Niagar
    \item Capture History 
  }
 }
+
 \examples{
 data(RBTroutUNSP)
 str(RBTroutUNSP)
@@ -36,4 +37,3 @@ head(RBTroutUNSP)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
 }
 \keyword{datasets}
-

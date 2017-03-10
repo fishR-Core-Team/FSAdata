@@ -24,6 +24,7 @@ Ages assigned by two different readers to the otoliths of Striped Bass (\emph{Mo
    \item Ageing Error
  }
 }
+
 \examples{
 data(StripedBass5)
 str(StripedBass5)
@@ -39,4 +40,3 @@ xtabs(~reader1+reader2,data=StripedBass5)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

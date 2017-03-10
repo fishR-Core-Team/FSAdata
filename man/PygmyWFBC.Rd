@@ -35,6 +35,7 @@ Biological information for Pygmy Whitefish (\emph{Prosopium coulterii}) from Din
    \item Length Frequency
  }
 }
+
 \examples{
 data(PygmyWFBC)
 str(PygmyWFBC)
@@ -45,4 +46,3 @@ head(PygmyWFBC)
 'Weight-Length' 'Age Comparison' Condition 'Length Frequency'
 }
 \keyword{datasets}
-

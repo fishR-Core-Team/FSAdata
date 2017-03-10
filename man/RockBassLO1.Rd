@@ -22,6 +22,7 @@ Assigned ages (from scales) and measured total lengths for each of 1288 Rock Bas
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(RockBassLO1)
 str(RockBassLO1)
@@ -36,4 +37,3 @@ plot(tl~age,data=RockBassLO1)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

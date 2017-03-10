@@ -22,6 +22,7 @@ A random subsample of the lengths in the \code{\link{TroutperchLM2}} data frame.
    \item Size Structure
  }
 }
+
 \examples{
 data(TroutperchLM3)
 str(TroutperchLM3)
@@ -35,4 +36,3 @@ head(TroutperchLM3)
 'Length Frequency' 'Size Structure' 'Length Expansion'
 }
 \keyword{datasets}
-

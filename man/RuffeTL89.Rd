@@ -21,6 +21,7 @@ Total length for Ruffe (\emph{Gymnocephalus cernuus}) captured in July, 1989 (cy
    \item Size Structure
  }
 }
+
 \examples{
 data(RuffeTL89)
 str(RuffeTL89)
@@ -32,4 +33,3 @@ hist(RuffeTL89$tl,main="")
 'Length Frequency' 'Size Structure'
 }
 \keyword{datasets}
-

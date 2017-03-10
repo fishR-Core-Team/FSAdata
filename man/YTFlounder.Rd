@@ -25,6 +25,7 @@ Ages of commercially caught Georges Bank Yellowtail Flounder (\emph{Limanda ferr
    \item Ageing Error
  }
 }
+
 \examples{
 data(YTFlounder)
 str(YTFlounder)
@@ -40,4 +41,3 @@ par(op)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

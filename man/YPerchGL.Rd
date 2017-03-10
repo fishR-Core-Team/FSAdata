@@ -23,6 +23,7 @@ Yellow Perch (\emph{Perca flavescens}) fork lengths and weights seperated by yea
    \item Length Frequency
  }
 }
+
 \examples{
 data(YPerchGL)
 str(YPerchGL)
@@ -37,4 +38,3 @@ par(op)
 'Weight-Length' 'Length Frequency'
 }
 \keyword{datasets}
-

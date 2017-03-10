@@ -30,6 +30,7 @@ Each line consists of the date and unique fish identification number over four s
    \item Capture History
  }
 }
+
 \examples{
 data(PikeNYPartial2)
 str(PikeNYPartial2)
@@ -40,4 +41,3 @@ head(PikeNYPartial2)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel' 'Capture History'
 }
 \keyword{datasets}
-

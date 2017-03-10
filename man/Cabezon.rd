@@ -26,6 +26,7 @@ Ages, lengths, and maturity for female Cabezon (\emph{Scorpaenichthys marmoratus
    \item von Bertalanffy 
  }
 }
+
 \examples{
 data(Cabezon)
 str(Cabezon)
@@ -46,4 +47,3 @@ par(op)
 Growth 'von Bertalanffy' Maturity
 }
 \keyword{datasets}
-

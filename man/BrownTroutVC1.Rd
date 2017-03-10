@@ -26,6 +26,7 @@ Single censuse mark-recapture data for Brown Trout (\emph{Salmo trutta}) from Va
    \item Petersen
  }
 }
+
 \examples{
 data(BrownTroutVC1)
 str(BrownTroutVC1)
@@ -37,4 +38,3 @@ hist(BrownTroutVC1$len,main="")
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
 }
 \keyword{datasets}
-

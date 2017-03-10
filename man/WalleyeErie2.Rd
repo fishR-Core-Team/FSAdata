@@ -35,6 +35,7 @@ Walleye (\emph{Sander vitreus}) biological data (length, weight, sex, maturity, 
  \item Condition
 }
 }
+
 \examples{
 data(WalleyeErie2)
 str(WalleyeErie2)
@@ -46,4 +47,3 @@ xtabs(~year+loc+sex,data=WalleyeErie2)
 'Growth' 'Weight-Length' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition' 'Length Frequency'
 }
 \keyword{datasets}
-

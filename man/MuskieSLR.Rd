@@ -24,6 +24,7 @@ Ages of St. Lawrence River, ONT, Muskellunge (\emph{Esox masquinongy}) assessed 
    \item Ageing Error
  }
 }
+
 \examples{
 data(MuskieSLR)
 str(MuskieSLR)
@@ -36,4 +37,3 @@ xtabs(~ageC+ageS,data=MuskieSLR)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

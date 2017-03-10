@@ -22,6 +22,7 @@ Lengthsfor Largemouth Bass (\emph{Micropterus salmoides}) from Lake Carl Blackwe
    \item PSD
  }
 }
+
 \examples{
 data(LMBassLCB)
 str(LMBassLCB)
@@ -33,4 +34,3 @@ hist(LMBassLCB$tl,main="")
 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

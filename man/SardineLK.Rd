@@ -22,6 +22,7 @@ Ages (days) and total lengths of larval Lake Tanganyika Sardine (\emph{Limnothri
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(SardineLK)
 str(SardineLK)
@@ -33,4 +34,3 @@ plot(tl~days,data=SardineLK)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

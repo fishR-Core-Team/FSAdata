@@ -22,6 +22,7 @@ Ages and total lengths of Blue Catfish (\emph{Ictalurus furcatus}) collected for
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(BlueCatfish)
 str(BlueCatfish)
@@ -33,4 +34,3 @@ plot(tl~age,data=BlueCatfish)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

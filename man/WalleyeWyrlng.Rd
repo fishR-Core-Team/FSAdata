@@ -30,6 +30,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Recruitment
  }
 }
+
 \examples{
 data(WalleyeWyrlng)
 str(WalleyeWyrlng)
@@ -41,4 +42,3 @@ plot(yearlings~yrclass,data=WalleyeWyrlng)
 'Year-class Strength' Recruitment
 }
 \keyword{datasets}
-

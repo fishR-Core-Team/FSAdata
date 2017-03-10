@@ -25,6 +25,7 @@ Estimated catch-at-age for Gulf Menhaden (\emph{Brevoortia patronus}), 1964-2004
    \item Catch curve
  }
 }
+
 \examples{
 data(Menhaden1)
 str(Menhaden1)
@@ -41,4 +42,3 @@ Mortality 'Catch Curve'
  @source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith.  2007.  Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management.  Fisheries Research 83:263-275.  [Was (is?) from http://menhaden.gsmfc.org/FishRes_Vaughan_etal_2007-GM.pdf.]
 }
 \keyword{datasets}
-

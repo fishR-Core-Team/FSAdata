@@ -25,6 +25,7 @@ Total lengths for a subsample from 144 Bluntnose Minnows (\emph{Pimephales notat
     \item PSD
   }
 }
+
 \examples{
 data(BluntnoseIL1)
 str(BluntnoseIL1)
@@ -38,4 +39,3 @@ head(BluntnoseIL1)
 'Length Frequency' 'Size Structure' PSD 'Length Expansion'
 }
 \keyword{datasets}
-

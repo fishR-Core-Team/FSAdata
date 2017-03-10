@@ -23,6 +23,7 @@ Catch-at-age for Walleye (\emph{Sander vitreus}) collected from four lakes in No
    \item Catch curve
  }
 }
+
 \examples{
 data(WalleyeMN06a)
 str(WalleyeMN06a)
@@ -39,4 +40,3 @@ par(op)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

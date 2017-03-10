@@ -24,6 +24,7 @@ Ages assigned by two different readers to the otoliths of Jackass Morwong (\emph
    \item Ageing Error
  }
 }
+
 \examples{
 data(Morwong3)
 str(Morwong3)
@@ -36,4 +37,3 @@ with(Morwong3,table(readerA,readerB))
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

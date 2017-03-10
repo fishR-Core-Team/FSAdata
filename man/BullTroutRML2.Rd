@@ -27,6 +27,7 @@ The historical (1977-1980) era samples were from before restrictive sportfishing
    \item Von Bertalanffy growth model 
  }
 }
+
 \examples{
 data(BullTroutRML2)
 str(BullTroutRML2)
@@ -43,4 +44,3 @@ par(op)
 Growth 'Von Bertalanffy'
 }
 \keyword{datasets}
-

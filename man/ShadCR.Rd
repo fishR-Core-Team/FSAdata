@@ -35,6 +35,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
   \item Ageing Error
  }
 }
+
 \examples{
 data(ShadCR)
 str(ShadCR)
@@ -50,4 +51,3 @@ par(op)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

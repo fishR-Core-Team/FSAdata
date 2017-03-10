@@ -23,6 +23,7 @@ Stock and recruitment data for Blackwater Estuary Herring (\emph{Clupea harengus
    \item Recruitment
  }
 }
+
 \examples{
 data(HerringBWE)
 str(HerringBWE)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

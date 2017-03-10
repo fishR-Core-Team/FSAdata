@@ -27,6 +27,7 @@ Catch and effort data for nine removal events of Northern Pike (\emph{Esox luciu
    \item Catchability
  }
 }
+
 \examples{
 data(PikeIL)
 str(PikeIL)
@@ -37,4 +38,3 @@ head(PikeIL)
 Abundance 'Population Size' Leslie DeLury Depletion Catchability
 }
 \keyword{datasets}
-

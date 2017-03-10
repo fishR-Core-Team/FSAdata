@@ -18,6 +18,7 @@ A total of 253 fish dispersed proportionately over 10-mm total length intervals 
    \item Age-Length Key 
  }
 }
+
 \examples{
 data(FWDrumLE2)
 str(FWDrumLE2)
@@ -37,4 +38,3 @@ str(FWD.length)
 'Age-Length Key'
 }
 \keyword{datasets}
-

@@ -25,6 +25,7 @@ The authors fit a linear model to the stock-recruit relationship.
    \item Recruitment
  }
 }
+
 \examples{
 data(BrookTroutNC)
 str(BrookTroutNC)
@@ -36,4 +37,3 @@ plot(adult~yoy,data=BrookTroutNC)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

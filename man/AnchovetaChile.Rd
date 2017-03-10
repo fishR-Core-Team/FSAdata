@@ -25,6 +25,7 @@ Ages (in months) and lengths of Anchoveta (\emph{Engraulis ringens}) from centra
    \item Somers model 
  }
 }
+
 \examples{
 data(AnchovetaChile)
 str(AnchovetaChile)
@@ -37,4 +38,3 @@ plot(tl.cm~age,data=AnchovetaChile)
 'Seasonal Growth' 'von Bertalanffy' Somers
 }
 \keyword{datasets}
-

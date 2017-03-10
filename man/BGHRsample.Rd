@@ -26,6 +26,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Data Manipulation
  }
 }
+
 \examples{
 data(BGHRsample)
 str(BGHRsample)
@@ -39,4 +40,3 @@ See \code{\link{BGHRfish}} for individual fish collected in these samples.
 'Data Manipulation'
 }
 \keyword{datasets}
-

@@ -25,6 +25,7 @@ Ages of Lake Whitefish (\emph{Coregonus clupeaformis}) from four lakes as determ
    \item Ageing Error
  }
 }
+
 \examples{
 data(WhitefishMB)
 str(WhitefishMB)
@@ -41,4 +42,3 @@ par(op)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

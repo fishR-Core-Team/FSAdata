@@ -23,6 +23,7 @@ Catches in removal events of salmon parr from the Afon Dulas at Pentre, 19Jun79.
 \item Removal
 }
 }
+
 \examples{
 data(SalmonADP)
 str(SalmonADP)
@@ -36,4 +37,3 @@ SalmonADP
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

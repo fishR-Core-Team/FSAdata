@@ -25,6 +25,7 @@ Stock and recruitment data for the 1971-1991 year-classes of Lake Trout (\emph{S
    \item Recruitment
  }
 }
+
 \examples{
 data(LakeTroutMI)
 LakeTroutMI$stock <- LakeTroutMI$wild+LakeTroutMI$stocked
@@ -48,4 +49,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

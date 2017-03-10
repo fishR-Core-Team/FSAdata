@@ -22,6 +22,7 @@ Assigned ages and measured fork lengths for male Jonubi (\emph{Chalcalburnus mos
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(Jonubi1)
 str(Jonubi1)
@@ -36,4 +37,3 @@ plot(fl~age,data=Jonubi1)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

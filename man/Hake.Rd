@@ -23,6 +23,7 @@ Stock and recruitment data for Hake (\emph{Merluccius merluccius}), 1982-1996.
    \item Recruitment
  }
 }
+
 \examples{
 data(Hake)
 str(Hake)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

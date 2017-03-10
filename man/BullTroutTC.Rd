@@ -22,6 +22,7 @@ Catch-at-age (actually carcasses-at-age) for Bull Trout (\emph{Salvelinus conflu
    \item Catch curve
  }
 }
+
 \examples{
 data(BullTroutTC)
 str(BullTroutTC)
@@ -33,4 +34,3 @@ plot(log(carcasses)~age,data=BullTroutTC)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

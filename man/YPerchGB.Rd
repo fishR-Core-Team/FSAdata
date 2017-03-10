@@ -21,6 +21,7 @@ Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Green Bay, 19
    \item Recruitment time-series 
  }
 }
+
 \examples{
 data(YPerchGB)
 str(YPerchGB)
@@ -32,4 +33,3 @@ plot(recruits~year,data=YPerchGB)
 Recruitment
 }
 \keyword{datasets}
-

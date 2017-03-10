@@ -35,6 +35,7 @@ Biological data for Ruffe (\emph{Gymnocephalus cernuus}) captured in the St. Lou
    \item Maturity
  }
 }
+
 \examples{
 data(RuffeSLRH92)
 str(RuffeSLRH92)
@@ -58,4 +59,3 @@ xtabs(~maturity+month+sex,data=RuffeSLRH92)
 Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' Maturity
 }
 \keyword{datasets}
-

@@ -32,6 +32,7 @@ Reaches were isolated by natural features, such as shallow riffles.  The sample 
    \item Removal
  }
 }
+
 \examples{
 data(GreensCreekMine)
 str(GreensCreekMine)
@@ -45,4 +46,3 @@ GreensCreekMine[3,]
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

@@ -29,6 +29,7 @@ Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses wi
    \item Catch Curve
  }
 }
+
 \examples{
 data(WalleyeWad)
 str(WalleyeWad)
@@ -41,4 +42,3 @@ points(numM~age,data=WalleyeWad,pch=19)
 'Catch Curve' Mortality
 }
 \keyword{datasets}
-

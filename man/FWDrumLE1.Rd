@@ -22,6 +22,7 @@ Assigned ages (from scales) and measured total lengths for each of 1577 Freshwat
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(FWDrumLE1)
 str(FWDrumLE1)
@@ -36,4 +37,3 @@ plot(tl~age,data=FWDrumLE1)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

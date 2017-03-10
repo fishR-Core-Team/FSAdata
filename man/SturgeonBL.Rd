@@ -28,6 +28,7 @@ The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple sam
     \item Schumacher-Eschmeyer
 }
 }
+
 \examples{
 data(SturgeonBL)
 str(SturgeonBL)
@@ -38,4 +39,3 @@ head(SturgeonBL)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' Schnabel
 }
 \keyword{datasets}
-

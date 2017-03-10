@@ -23,6 +23,7 @@ Ages, lengths, and sexes of White Grunt (\emph{Haemulon plumierii}) collected fr
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(WhiteGrunt2)
 str(WhiteGrunt2)
@@ -37,4 +38,3 @@ par(op)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

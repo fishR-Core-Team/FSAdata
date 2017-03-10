@@ -31,6 +31,7 @@ Catches of Brown (\emph{Salmo trutta}) and Rainbow Trout (\emph{Oncorhynchus myk
    \item Removal
  }
 }
+
 \examples{
 data(JonesStockwell)
 str(JonesStockwell)
@@ -44,4 +45,3 @@ JonesStockwell[3,]
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

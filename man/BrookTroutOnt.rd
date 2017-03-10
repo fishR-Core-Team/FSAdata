@@ -28,6 +28,7 @@ The number of Brook Trout (\emph{Salvelinus fontinalis}) marked, captured, and r
    \item Petersen
  }
 }
+
 \examples{
 data(BrookTroutOnt)
 str(BrookTroutOnt)
@@ -38,4 +39,3 @@ head(BrookTroutOnt)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
 }
 \keyword{datasets}
-

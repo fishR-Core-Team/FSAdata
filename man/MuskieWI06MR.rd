@@ -29,6 +29,7 @@ The number of Muskellunge (\emph{Esox masquinongy}) from a variety of lakes in W
    \item Petersen
  }
 }
+
 \examples{
 data(MuskieWI06MR)
 str(MuskieWI06MR)
@@ -39,4 +40,3 @@ head(MuskieWI06MR)
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
 }
 \keyword{datasets}
-

@@ -25,6 +25,7 @@ the unaged fish were simulated from Table 5 assuming that the total number of fi
    \item Age-Length Key
  }
 }
+
 \examples{
 data(SnapperHG1)
 str(SnapperHG1)
@@ -46,4 +47,3 @@ str(sn1.length)
 'Age-Length Key'
 }
 \keyword{datasets}
-

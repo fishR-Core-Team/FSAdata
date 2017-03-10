@@ -23,6 +23,7 @@ Yellow Perch (\emph{Perca flavescens}) stock-recruitment by year-class in Chequa
    \item Recruitment
  }
 }
+
 \examples{
 data(YPerchCB2)
 str(YPerchCB2)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

@@ -29,6 +29,7 @@ Catches of various species in consecutive removal events at various locations.
 \item Removal
 }
 }
+
 \examples{
 data(SimonsonLyons)
 str(SimonsonLyons)
@@ -42,4 +43,3 @@ SimonsonLyons[3,]
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

@@ -23,6 +23,7 @@ Egg deposition and relative abundance of age-3 Lake Huron Bloaters (\emph{Corego
    \item Recruitment
  }
 }
+
 \examples{
 data(BloaterLH)
 str(BloaterLH)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

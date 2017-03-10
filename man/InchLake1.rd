@@ -26,6 +26,7 @@ Total lengths of all fish captured in Inch Lake, WI in May, 2007 and May, 2008.
    \item Size Structure 
  }
 }
+
 \examples{
 data(InchLake1)
 str(InchLake1)
@@ -48,4 +49,3 @@ See \code{\link{InchLake2}} for a subsample that include weights.
 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

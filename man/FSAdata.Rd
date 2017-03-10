@@ -3,8 +3,8 @@
 \docType{package}
 \name{FSAdata}
 \alias{FSAdata}
-\alias{FSAdata-package}
 \alias{FSAdataTopics}
+\alias{FSAdata-package}
 \title{Data to support the FSA package.}
 \format{An object of class \code{character} of length 16.}
 \usage{
@@ -45,4 +45,3 @@ The help files for these datasets are embedded with topics that can be searched 
 Additional fisheries-related data sets are in the \code{\link[FSA]{FSA}} and \code{fishmethods} packages.
 }
 \keyword{datasets}
-

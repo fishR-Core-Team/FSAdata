@@ -21,6 +21,7 @@ A total of 50 fish dispersed proportionately over 1-cm fork length intervals fro
    \item Age-Length Key
  }
 }
+
 \examples{
 data(Jonubi2)
 str(Jonubi2)
@@ -35,4 +36,3 @@ plot(fl~age,data=Jonubi2)
 'Age-Length Key'
 }
 \keyword{datasets}
-

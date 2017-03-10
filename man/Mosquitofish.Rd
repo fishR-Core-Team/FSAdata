@@ -30,6 +30,7 @@ Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten lo
    \item Somers model
  }
 }
+
 \examples{
 data(Mosquitofish)
 str(Mosquitofish)
@@ -41,4 +42,3 @@ plot(sl~age2,data=Mosquitofish)
 'Seasonal Growth' 'von Bertalanffy' Somers
 }
 \keyword{datasets}
-

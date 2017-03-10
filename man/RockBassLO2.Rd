@@ -21,6 +21,7 @@ As many as 10 fish per 10-mm total length intervals from the \code{\link{RockBas
    \item Age-Length Key
  }
 }
+
 \examples{
 data(RockBassLO2)
 str(RockBassLO2)
@@ -40,4 +41,3 @@ rb.length <- subset(RockBassLO2,is.na(age))
 'Age-Length Key'
 }
 \keyword{datasets}
-

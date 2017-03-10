@@ -25,6 +25,7 @@ Icelandic summer spawning Herring (\emph{Clupeaformis harengus}) stock, recruitm
    \item Recruitment
  }
 }
+
 \examples{
 data(HerringISS)
 str(HerringISS)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

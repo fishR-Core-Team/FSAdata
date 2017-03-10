@@ -22,6 +22,7 @@ Assigned ages (from otoliths) and fork lengths of Jackass Morwong (\emph{Nemadac
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(Morwong4)
 str(Morwong4)
@@ -36,4 +37,3 @@ plot(fl~age,data=Morwong4)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-

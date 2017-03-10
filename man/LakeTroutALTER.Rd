@@ -43,6 +43,7 @@ Lake trout were removed from Lake NE12 in the summers of 1986, 1988, and 1989 us
    \item Size Structure
  }
 }
+
 \examples{
 data(LakeTroutALTER)
 str(LakeTroutALTER)
@@ -60,4 +61,3 @@ par(op)
 'Length Frequency' 'Weight-Length' 'Growth' 'von Bertalanffy' 'Size Structure' 'Length Conversion'
 }
 \keyword{datasets}
-

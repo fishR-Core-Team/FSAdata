@@ -25,6 +25,7 @@ Ages and lengths of Australian Bonito (\emph{Sarda australis}).
    \item Somers model
  }
 }
+
 \examples{
 data(Bonito)
 str(Bonito)
@@ -36,4 +37,3 @@ plot(fl~age,data=Bonito)
 'Seasonal Growth' 'von Bertalanffy' Somers
 }
 \keyword{datasets}
-

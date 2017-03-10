@@ -29,6 +29,7 @@ Relationships between otoliths and spines and otoliths and scales are exact acco
    \item Ageing Error
  }
 }
+
 \examples{
 data(WalleyePS)
 str(WalleyePS)
@@ -47,4 +48,3 @@ par(op)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

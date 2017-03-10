@@ -21,6 +21,7 @@ Species accumulation data for fish of the Western Ghats of India derived from ni
    \item Other
  }
 }
+
 \examples{
 data(Ghats)
 str(Ghats)
@@ -32,4 +33,3 @@ plot(cumspec~unit,data=Ghats)
 Other
 }
 \keyword{datasets}
-

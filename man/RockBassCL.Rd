@@ -22,6 +22,7 @@ Catch-at-age for Cayuga Lake Rock Bass (\emph{Amploplites rupestris}) from a sin
    \item Catch curve
  }
 }
+
 \examples{
 data(RockBassCL)
 str(RockBassCL)
@@ -33,4 +34,3 @@ plot(log(catch)~age,data=RockBassCL)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

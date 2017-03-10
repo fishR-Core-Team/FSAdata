@@ -28,6 +28,7 @@ Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, 
    \item Length Frequency
  }
 }
+
 \examples{
 data(CiscoTL)
 str(CiscoTL)
@@ -43,4 +44,3 @@ par(op)
 'Weight-Length' 'Length Frequency'
 }
 \keyword{datasets}
-

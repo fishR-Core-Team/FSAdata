@@ -22,6 +22,7 @@ Length measurements of Largemouth Bass (\emph{Micropterus salmoides}) from Boome
    \item PSD
  }
 }
+
 \examples{
 data(LMBassBL)
 str(LMBassBL)
@@ -33,4 +34,3 @@ hist(LMBassBL$tl,main="")
 'Length Frequency' 'Size Structure' PSD
 }
 \keyword{datasets}
-

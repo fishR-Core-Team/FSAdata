@@ -31,6 +31,7 @@ Catches of Coho Salmon (\emph{Oncorhynchus kisutch}) and Cutthroat Trout (\emph{
    \item Removal
  }
 }
+
 \examples{
 data(Deckeretal1999)
 str(Deckeretal1999)
@@ -44,4 +45,3 @@ Deckeretal1999[3,]
 Abundance 'Population Size' Removal
 }
 \keyword{datasets}
-

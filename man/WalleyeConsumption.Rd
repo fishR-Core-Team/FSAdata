@@ -21,6 +21,7 @@ Consumption of prey by Walleye (\emph{Sander vitreus}) at different prey densiti
    \item Nonlinear modeling 
  }
 }
+
 \examples{
 data(WalleyeConsumption)
 str(WalleyeConsumption)
@@ -29,4 +30,3 @@ plot(FoodConsump~PreyDensity,data=WalleyeConsumption,pch=16)
 
 }
 \keyword{datasets}
-

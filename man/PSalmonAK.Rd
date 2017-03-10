@@ -25,6 +25,7 @@ Harvest, escapement, and return of northern Southeast Alaska Pink Salmon (\emph{
    \item Recruitment
  }
 }
+
 \examples{
 data(PSalmonAK)
 str(PSalmonAK)
@@ -39,4 +40,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

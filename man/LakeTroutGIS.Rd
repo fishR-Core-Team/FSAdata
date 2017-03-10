@@ -23,6 +23,7 @@ Lake trout (\emph{Salvelinus namaycush}) stock and recruitment by year at Gull I
    \item Recruitment
  }
 }
+
 \examples{
 data(LakeTroutGIS)
 str(LakeTroutGIS)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

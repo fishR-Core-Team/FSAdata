@@ -24,6 +24,7 @@ Ages assigned to the scales and otoliths of Striped Bass (\emph{Morone saxatilis
   \item Ageing Error
  }
 }
+
 \examples{
 data(StripedBass6)
 str(StripedBass6)
@@ -39,4 +40,3 @@ xtabs(~otolith+scale,data=StripedBass6)
 Age Precision Bias 'Age Comparison'
 }
 \keyword{datasets}
-

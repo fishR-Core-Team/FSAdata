@@ -27,6 +27,7 @@ No graph was shown for stock values vs. year so some stock values had to be haph
    \item Recruitment
  }
 }
+
 \examples{
 data(WShrimpGA)
 str(WShrimpGA)
@@ -41,4 +42,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

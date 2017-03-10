@@ -23,6 +23,7 @@ Stock and recruitment data for Red King Crab (\emph{Paralithodes camtschaticus})
    \item Recruitment
  }
 }
+
 \examples{
 data(KingCrabAK)
 str(KingCrabAK)
@@ -37,4 +38,3 @@ par(op)
 'Stock-Recruit' Recruitment
 }
 \keyword{datasets}
-

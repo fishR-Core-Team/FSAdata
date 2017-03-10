@@ -26,6 +26,7 @@ Summarized (\dQuote{RMark} format) capture histories of Cutthroat Trout (\emph{O
    \item Capture History 
  }
 }
+
 \examples{
 data(CutthroatALf)
 str(CutthroatALf)
@@ -39,4 +40,3 @@ See \code{CutthroatAL} for the same data in \dQuote{individual} fish format (i.e
 Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Jolly-Seber' 'Capture History'
 }
 \keyword{datasets}
-

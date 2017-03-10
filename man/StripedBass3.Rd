@@ -18,6 +18,7 @@ As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2
    \item Age-Length Key 
  }
 }
+
 \examples{
 data(StripedBass3)
 str(StripedBass3)
@@ -39,4 +40,3 @@ str(sb.length)
 'Age-Length Key'
 }
 \keyword{datasets}
-

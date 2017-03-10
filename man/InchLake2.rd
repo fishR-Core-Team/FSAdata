@@ -27,6 +27,7 @@ Total lengths and weights for a subsample of fish captured in Inch Lake, WI in M
    \item Length Frequency
  }
 }
+
 \examples{
 data(InchLake2)
 str(InchLake2)
@@ -46,4 +47,3 @@ See \code{\link{InchLake1}} for the entire sample, but without weights.
 'Weight-Length' Condition 'Length Frequency'
 }
 \keyword{datasets}
-

@@ -22,6 +22,7 @@ Catch-at-age for White Grunt (\emph{Haemulon plumierii}) collected from the cent
    \item Catch curve 
  }
 }
+
 \examples{
 data(WhiteGrunt1)
 str(WhiteGrunt1)
@@ -33,4 +34,3 @@ plot(log(catch)~age,data=WhiteGrunt1)
 Mortality 'Catch Curve'
 }
 \keyword{datasets}
-

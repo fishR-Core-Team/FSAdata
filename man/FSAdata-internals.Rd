@@ -10,4 +10,3 @@
 Internal functions used in FSAdata.
 }
 \keyword{internal}
-

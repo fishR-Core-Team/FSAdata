@@ -22,6 +22,7 @@ Assigned ages (from otoliths) and measured total lengths for each of 1201 Stripe
    \item von Bertalanffy
  }
 }
+
 \examples{
 data(StripedBass2)
 str(StripedBass2)
@@ -36,4 +37,3 @@ plot(tl~age,data=StripedBass2)
 Growth 'von Bertalanffy'
 }
 \keyword{datasets}
-
