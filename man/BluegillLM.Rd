@@ -40,7 +40,5 @@ par(op)
 \seealso{
 \code{lakemary} in \pkg{alr3} for a different sample of Bluegill from Lake Mary that has length and age.
 }
-\concept{
-'Weight-Length' 'Length Conversion' 'Length Frequency'
-}
+\concept{'Weight-Length' 'Length Conversion' 'Length Frequency'}
 \keyword{datasets}

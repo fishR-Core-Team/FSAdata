@@ -44,7 +44,5 @@ plot(spine~otolith,data=WalleyePS,subset=sex=="male",main="Male")
 par(op)
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

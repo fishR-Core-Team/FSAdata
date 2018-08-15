@@ -52,7 +52,5 @@ legend("topright",legend=c("2001","2002"),col=c("black","red"),pch=19)
 par(op)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

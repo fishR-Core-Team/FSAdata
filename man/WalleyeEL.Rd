@@ -36,7 +36,5 @@ plot(age0~age5,data=WalleyeEL)
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

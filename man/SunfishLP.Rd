@@ -30,7 +30,5 @@ head(SunfishLP)
 plot(log(perc.freq)~age,data=SunfishLP)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

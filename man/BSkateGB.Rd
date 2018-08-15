@@ -42,7 +42,5 @@ plot(recruits~spawners,data=BSkateGB,subset=season=="winter",main="winter")
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

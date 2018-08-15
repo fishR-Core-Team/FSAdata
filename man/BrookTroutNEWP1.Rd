@@ -52,7 +52,5 @@ BrookTroutNEWP1[3,]
 \seealso{
 See \code{\link{BrookTroutNEWP}} for only the data (note the results from Schnute (1983)).
 }
-\concept{
-Abundance 'Population Size' Removal
-}
+\concept{Abundance 'Population Size' Removal}
 \keyword{datasets}

@@ -33,7 +33,5 @@ head(Bonito)
 plot(fl~age,data=Bonito)
 
 }
-\concept{
-'Seasonal Growth' 'von Bertalanffy' Somers
-}
+\concept{'Seasonal Growth' 'von Bertalanffy' Somers}
 \keyword{datasets}

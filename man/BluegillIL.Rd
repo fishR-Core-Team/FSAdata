@@ -34,7 +34,5 @@ head(BluegillIL)
 plot((lenRecap-lenMark)~deltaTime,data=BluegillIL)
 
 }
-\concept{
-Growth 'von Bertalanffy' Fabens
-}
+\concept{Growth 'von Bertalanffy' Fabens}
 \keyword{datasets}

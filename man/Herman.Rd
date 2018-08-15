@@ -41,7 +41,5 @@ with(subset(Herman,spec=="wae" & yr==1999),hist(tl,main="Walleye, 1999"))
 par(op)
 
 }
-\concept{
-'Length Frequency' 'Size Structure' PSD
-}
+\concept{'Length Frequency' 'Size Structure' PSD}
 \keyword{datasets}

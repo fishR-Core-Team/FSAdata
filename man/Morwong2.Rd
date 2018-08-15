@@ -33,7 +33,5 @@ plot(second~first,data=Morwong2)
 xtabs(~first+second,data=Morwong2)
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

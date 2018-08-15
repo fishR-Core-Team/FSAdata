@@ -36,7 +36,5 @@ plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Ross.Barnett"),main="Ro
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

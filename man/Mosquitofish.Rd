@@ -38,7 +38,5 @@ head(Mosquitofish)
 plot(sl~age2,data=Mosquitofish)
 
 }
-\concept{
-'Seasonal Growth' 'von Bertalanffy' Somers
-}
+\concept{'Seasonal Growth' 'von Bertalanffy' Somers}
 \keyword{datasets}

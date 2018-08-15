@@ -34,7 +34,5 @@ plot(recruits~spawn.biomass,data=Hake)
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

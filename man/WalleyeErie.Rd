@@ -28,7 +28,5 @@ head(WalleyeErie)
 plot(recruits~year,data=WalleyeErie,type="l")
 
 }
-\concept{
-Recruitment
-}
+\concept{Recruitment}
 \keyword{datasets}

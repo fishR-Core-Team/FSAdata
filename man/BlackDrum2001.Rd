@@ -41,7 +41,5 @@ head(BlackDrum2001)
 plot(tl~otoage,data=BlackDrum2001)
 
 }
-\concept{
-Growth 'von Bertalanffy' 'Weight-Length'
-}
+\concept{Growth 'von Bertalanffy' 'Weight-Length'}
 \keyword{datasets}

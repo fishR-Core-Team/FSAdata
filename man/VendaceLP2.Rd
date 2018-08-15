@@ -33,7 +33,5 @@ head(VendaceLP2)
 plot(recruits~fecundity,data=VendaceLP2)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

@@ -30,7 +30,5 @@ head(SLampreyGL)
 plot(recruits~stock,data=SLampreyGL)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

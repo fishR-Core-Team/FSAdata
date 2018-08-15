@@ -29,7 +29,5 @@ head(Snapper)
 hist(Snapper$len,main="")
 
 }
-\concept{
-'Length Frequency' 'Size Structure'
-}
+\concept{'Length Frequency' 'Size Structure'}
 \keyword{datasets}

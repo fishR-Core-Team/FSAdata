@@ -33,7 +33,5 @@ plot(fl~age,data=Jonubi1)
 \seealso{
 \code{\link{Jonubi2}}.
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

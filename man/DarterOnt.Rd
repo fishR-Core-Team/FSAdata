@@ -37,7 +37,5 @@ plot(tl~age,data=DarterOnt,subset=river=="Trent",main="Trent R.")
 par(op)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

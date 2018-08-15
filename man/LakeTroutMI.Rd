@@ -45,7 +45,5 @@ plot(recruits~stock,data=LakeTroutMI,subset=area=="MI7",col="yellow",main="MI7")
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

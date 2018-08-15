@@ -44,7 +44,5 @@ plot(len~age,data=SiscowetMI2004,subset=locID=="Little Lake Harbor",main="Little
 par(op)
 
 }
-\concept{
-'Age-Length Key' 'Growth'
-}
+\concept{'Age-Length Key' 'Growth'}
 \keyword{datasets}

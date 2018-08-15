@@ -43,7 +43,5 @@ plot(log(catch)~age,data=WalleyeKS,subset=(reservoir=="Wilson"),main="Wilson")
 par(op)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

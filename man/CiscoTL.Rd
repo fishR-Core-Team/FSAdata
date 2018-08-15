@@ -40,7 +40,5 @@ plot(weight~length,data=CiscoTL,subset=sex=="I",main="Immature")
 par(op)
 
 }
-\concept{
-'Weight-Length' 'Length Frequency'
-}
+\concept{'Weight-Length' 'Length Frequency'}
 \keyword{datasets}

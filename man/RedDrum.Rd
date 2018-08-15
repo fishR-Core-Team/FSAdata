@@ -30,7 +30,5 @@ head(RedDrum)
 plot(fl~age,data=RedDrum)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

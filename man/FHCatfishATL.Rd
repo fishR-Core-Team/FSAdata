@@ -35,7 +35,5 @@ plot(log(number)~age,data=FHCatfishATL,subset=river=="Neuse",main="Neuse")
 par(op)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

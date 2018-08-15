@@ -40,7 +40,5 @@ plot(fl~age,data=BullTroutRML2,subset=lake=="Osprey" & era=="1997-01",main="Ospr
 par(op)
 
 }
-\concept{
-Growth 'Von Bertalanffy'
-}
+\concept{Growth 'Von Bertalanffy'}
 \keyword{datasets}

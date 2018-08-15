@@ -30,7 +30,5 @@ head(LMBassBL)
 hist(LMBassBL$tl,main="")
 
 }
-\concept{
-'Length Frequency' 'Size Structure' PSD
-}
+\concept{'Length Frequency' 'Size Structure' PSD}
 \keyword{datasets}

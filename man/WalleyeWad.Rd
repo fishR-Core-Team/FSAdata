@@ -38,7 +38,5 @@ plot(numF~age,data=WalleyeWad)
 points(numM~age,data=WalleyeWad,pch=19)
 
 }
-\concept{
-'Catch Curve' Mortality
-}
+\concept{'Catch Curve' Mortality}
 \keyword{datasets}

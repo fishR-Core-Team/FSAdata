@@ -34,7 +34,5 @@ str(FWD.length)
 \seealso{
 \code{\link{FWDrumLE1}}.
 }
-\concept{
-'Age-Length Key'
-}
+\concept{'Age-Length Key'}
 \keyword{datasets}

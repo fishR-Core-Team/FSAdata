@@ -43,7 +43,5 @@ str(WalleyeRL)
 head(WalleyeRL)
 
 }
-\concept{
-Growth Weisberg LGM
-}
+\concept{Growth Weisberg LGM}
 \keyword{datasets}

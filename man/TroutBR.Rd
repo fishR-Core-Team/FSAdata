@@ -34,7 +34,5 @@ plot(tl~age,data=TroutBR,subset=species=="Rainbow",main="Rainbow Trout")
 par(op)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

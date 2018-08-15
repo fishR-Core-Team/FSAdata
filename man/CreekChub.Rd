@@ -37,7 +37,5 @@ xtabs(~age,data=CreekChub)
 plot(len~age,data=CreekChub)
 
 }
-\concept{
-'Age-Length Key' 'Growth'
-}
+\concept{'Age-Length Key' 'Growth'}
 \keyword{datasets}

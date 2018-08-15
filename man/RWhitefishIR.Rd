@@ -30,7 +30,5 @@ head(RWhitefishIR)
 plot(tl~age,data=RWhitefishIR)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

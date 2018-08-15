@@ -34,7 +34,5 @@ plot(recruits~spawners,data=ChinookKR)
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

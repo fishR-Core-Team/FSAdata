@@ -29,7 +29,5 @@ head(YPerchRL)
 plot(recruits~year,data=YPerchRL)
 
 }
-\concept{
-Recruitment
-}
+\concept{Recruitment}
 \keyword{datasets}

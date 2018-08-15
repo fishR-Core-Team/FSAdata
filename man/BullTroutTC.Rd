@@ -30,7 +30,5 @@ head(BullTroutTC)
 plot(log(carcasses)~age,data=BullTroutTC)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

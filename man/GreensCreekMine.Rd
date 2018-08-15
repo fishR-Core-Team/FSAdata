@@ -42,7 +42,5 @@ head(GreensCreekMine)
 GreensCreekMine[3,]
 
 }
-\concept{
-Abundance 'Population Size' Removal
-}
+\concept{Abundance 'Population Size' Removal}
 \keyword{datasets}

@@ -33,7 +33,5 @@ head(RBSmeltErie)
 plot(recruits~year,data=RBSmeltErie,type="l")
 
 }
-\concept{
-Recruitment
-}
+\concept{Recruitment}
 \keyword{datasets}

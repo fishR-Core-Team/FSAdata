@@ -30,7 +30,5 @@ head(SardineLK)
 plot(tl~days,data=SardineLK)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

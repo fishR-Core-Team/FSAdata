@@ -33,7 +33,5 @@ plot(whole~bb,data=MulletBS)
 xtabs(~bb+whole,data=MulletBS)
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

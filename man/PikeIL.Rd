@@ -34,7 +34,5 @@ str(PikeIL)
 head(PikeIL)
 
 }
-\concept{
-Abundance 'Population Size' Leslie DeLury Depletion Catchability
-}
+\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
 \keyword{datasets}

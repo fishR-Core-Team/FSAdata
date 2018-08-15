@@ -36,7 +36,5 @@ head(BGHRsample)
 \seealso{
 See \code{\link{BGHRfish}} for individual fish collected in these samples.
 }
-\concept{
-'Data Manipulation'
-}
+\concept{'Data Manipulation'}
 \keyword{datasets}

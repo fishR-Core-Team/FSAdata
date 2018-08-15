@@ -37,7 +37,5 @@ head(WalleyeML)
 xtabs(~Year+Est.Age+Sex,data=WalleyeML)
 
 }
-\concept{
-'Growth' 'von Bertalanffy' 'Back-calculation'
-}
+\concept{'Growth' 'von Bertalanffy' 'Back-calculation'}
 \keyword{datasets}

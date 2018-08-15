@@ -43,7 +43,5 @@ head(WalleyeErie2)
 xtabs(~year+loc+sex,data=WalleyeErie2)
 
 }
-\concept{
-'Growth' 'Weight-Length' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition' 'Length Frequency'
-}
+\concept{'Growth' 'Weight-Length' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition' 'Length Frequency'}
 \keyword{datasets}

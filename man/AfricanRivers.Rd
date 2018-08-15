@@ -32,7 +32,5 @@ str(AfricanRivers)
 head(AfricanRivers)
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

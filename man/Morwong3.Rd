@@ -33,7 +33,5 @@ plot(readerB~readerA,data=Morwong3)
 with(Morwong3,table(readerA,readerB))
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

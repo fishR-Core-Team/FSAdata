@@ -34,7 +34,5 @@ plot(recruits~stock,data=LakeTroutGIS)
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

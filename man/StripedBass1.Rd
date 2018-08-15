@@ -33,7 +33,5 @@ plot(ageS~ageO,data=StripedBass1)
 xtabs(~ageO+ageS,data=StripedBass1)
 
 }
-\concept{
-Age Precision Bias
-}
+\concept{Age Precision Bias}
 \keyword{datasets}

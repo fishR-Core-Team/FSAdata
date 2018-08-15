@@ -32,7 +32,5 @@ head(AHerringChile)
 plot(len~age,data=AHerringChile)
 
 }
-\concept{
-'Seasonal Growth' 'von Bertalanffy' Somers
-}
+\concept{'Seasonal Growth' 'von Bertalanffy' Somers}
 \keyword{datasets}

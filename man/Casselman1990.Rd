@@ -39,7 +39,5 @@ axis(1,at=c(15,46,76,107,137,168,198,229,260,291,321,352),tick=FALSE,
 legend("topleft",legend=c("Body","Cleithrum","Scale"),pch=p,col=clr,lty=l,lwd=2)
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

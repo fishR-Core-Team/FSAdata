@@ -42,7 +42,5 @@ plot(tl~age,data=SculpinALTER)
 par(op)
 
 }
-\concept{
-Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'
-}
+\concept{Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'}
 \keyword{datasets}

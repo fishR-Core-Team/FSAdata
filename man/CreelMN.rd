@@ -53,7 +53,5 @@ levels(CreelMN$species)
 }
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

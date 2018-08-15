@@ -30,7 +30,5 @@ head(SpottedSucker1)
 plot(tl~age,data=SpottedSucker1)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

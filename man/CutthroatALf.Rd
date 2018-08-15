@@ -36,7 +36,5 @@ head(CutthroatALf)
 \seealso{
 See \code{CutthroatAL} for the same data in \dQuote{individual} fish format (i.e., the data in this file were converted using \code{capHistConvert} from \pkg{FSA}).  See \code{mrOpen} from \pkg{FSA} for an example analysis.
 }
-\concept{
-Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Jolly-Seber' 'Capture History'
-}
+\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Jolly-Seber' 'Capture History'}
 \keyword{datasets}

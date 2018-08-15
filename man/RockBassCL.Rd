@@ -30,7 +30,5 @@ RockBassCL
 plot(log(catch)~age,data=RockBassCL)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

@@ -33,7 +33,5 @@ plot(tl~age,data=FWDrumLE1)
 \seealso{
 \code{\link{FWDrumLE2}}.
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

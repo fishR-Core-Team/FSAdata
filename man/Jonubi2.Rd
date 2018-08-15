@@ -32,7 +32,5 @@ plot(fl~age,data=Jonubi2)
 \seealso{
 \code{\link{Jonubi1}}.
 }
-\concept{
-'Age-Length Key'
-}
+\concept{'Age-Length Key'}
 \keyword{datasets}

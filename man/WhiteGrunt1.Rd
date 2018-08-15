@@ -30,7 +30,5 @@ head(WhiteGrunt1)
 plot(log(catch)~age,data=WhiteGrunt1)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

@@ -57,7 +57,5 @@ plot(tl~age,data=LakeTroutALTER)
 par(op)
 
 }
-\concept{
-'Length Frequency' 'Weight-Length' 'Growth' 'von Bertalanffy' 'Size Structure' 'Length Conversion'
-}
+\concept{'Length Frequency' 'Weight-Length' 'Growth' 'von Bertalanffy' 'Size Structure' 'Length Conversion'}
 \keyword{datasets}

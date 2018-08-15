@@ -48,7 +48,5 @@ ShrimpGuam$total <- ShrimpGuam$standard+ShrimpGuam$pyramid
 ShrimpGuam$cumCatch <- cumsum(ShrimpGuam$total)-ShrimpGuam$total/2
 
 }
-\concept{
-Abundance 'Population Size' Leslie DeLury Depletion Catchability
-}
+\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
 \keyword{datasets}

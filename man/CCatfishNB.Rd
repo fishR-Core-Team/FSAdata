@@ -37,7 +37,5 @@ plot(log(catch)~age,data=CCatfishNB,subset=loc=="Lower",main="Lower")
 par(op)
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

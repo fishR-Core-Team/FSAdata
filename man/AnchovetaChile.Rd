@@ -34,7 +34,5 @@ AnchovetaChile$age <- AnchovetaChile$age.mon/12
 plot(tl.cm~age,data=AnchovetaChile)
 
 }
-\concept{
-'Seasonal Growth' 'von Bertalanffy' Somers
-}
+\concept{'Seasonal Growth' 'von Bertalanffy' Somers}
 \keyword{datasets}

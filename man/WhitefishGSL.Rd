@@ -50,7 +50,5 @@ names(WhitefishGSL1) <- c("age","area","number")
 }
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

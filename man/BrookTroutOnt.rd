@@ -35,7 +35,5 @@ str(BrookTroutOnt)
 head(BrookTroutOnt)
 
 }
-\concept{
-Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
-}
+\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'}
 \keyword{datasets}

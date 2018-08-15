@@ -47,7 +47,5 @@ plot(agerC1~agerC2,data=ShadCR)
 plot(agerA1~agerB1,data=ShadCR)
 par(op)
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

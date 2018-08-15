@@ -37,7 +37,5 @@ WalleyePL
 subset(WalleyePL,year==1960)
 
 }
-\concept{
-Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
-}
+\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'}
 \keyword{datasets}

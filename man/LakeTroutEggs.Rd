@@ -29,7 +29,5 @@ head(LakeTroutEggs)
 plot(eggs~tl,data=LakeTroutEggs)
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

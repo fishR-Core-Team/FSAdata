@@ -71,7 +71,5 @@ yc82 <- diag(as.matrix(YPerchCB1[1:7,11:17]))
 plot(log(yc82)~YPerchCB1$age[1:7],main="1982 Year-Class")
 
 }
-\concept{
-Mortality 'Catch Curve'
-}
+\concept{Mortality 'Catch Curve'}
 \keyword{datasets}

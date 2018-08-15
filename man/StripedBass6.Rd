@@ -36,7 +36,5 @@ xtabs(~otolith+scale,data=StripedBass6)
 \seealso{
 \code{\link{StripedBass4}} and \code{\link{StripedBass5}}.
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

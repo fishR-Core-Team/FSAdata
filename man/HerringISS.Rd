@@ -36,7 +36,5 @@ plot(rec~ssb,data=HerringISS)
 par(op)
 
 }
-\concept{
-'Stock-Recruit' Recruitment
-}
+\concept{'Stock-Recruit' Recruitment}
 \keyword{datasets}

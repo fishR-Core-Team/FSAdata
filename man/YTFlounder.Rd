@@ -37,7 +37,5 @@ plot(whole~cross,data=YTFlounder)
 par(op)
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

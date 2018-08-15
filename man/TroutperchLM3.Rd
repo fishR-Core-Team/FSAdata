@@ -32,7 +32,5 @@ head(TroutperchLM3)
 \seealso{
 \code{\link{TroutperchLM2}}.
 }
-\concept{
-'Length Frequency' 'Size Structure' 'Length Expansion'
-}
+\concept{'Length Frequency' 'Size Structure' 'Length Expansion'}
 \keyword{datasets}

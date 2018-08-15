@@ -38,7 +38,5 @@ head(WalleyeWyrlng)
 plot(yearlings~yrclass,data=WalleyeWyrlng)
 
 }
-\concept{
-'Year-class Strength' Recruitment
-}
+\concept{'Year-class Strength' Recruitment}
 \keyword{datasets}

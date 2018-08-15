@@ -32,7 +32,5 @@ head(RBTroutKenai)
 plot((Lr-Lm)~dt,data=RBTroutKenai)
 
 }
-\concept{
-Growth 'von Bertalanffy' Fabens
-}
+\concept{Growth 'von Bertalanffy' Fabens}
 \keyword{datasets}

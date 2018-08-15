@@ -29,7 +29,5 @@ head(RBSmeltLM)
 hist(RBSmeltLM$fl,main="")
 
 }
-\concept{
-'Length Frequency' 'Size Structure'
-}
+\concept{'Length Frequency' 'Size Structure'}
 \keyword{datasets}

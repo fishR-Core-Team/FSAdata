@@ -34,7 +34,5 @@ plot(tl~age,data=LJCisco,subset=loc=="S",main="south")
 par(op)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

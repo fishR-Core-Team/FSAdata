@@ -30,7 +30,5 @@ str(WhitefishLS)
 head(WhitefishLS)
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

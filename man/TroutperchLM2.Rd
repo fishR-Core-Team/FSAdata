@@ -29,7 +29,5 @@ head(TroutperchLM2)
 hist(TroutperchLM2$fl,main="")
 
 }
-\concept{
-'Length Frequency' 'Size Structure'
-}
+\concept{'Length Frequency' 'Size Structure'}
 \keyword{datasets}

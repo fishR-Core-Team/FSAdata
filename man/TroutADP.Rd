@@ -33,7 +33,5 @@ TroutADP
 \seealso{
 \link{SalmonADP}
 }
-\concept{
-Abundance 'Population Size' Removal
-}
+\concept{Abundance 'Population Size' Removal}
 \keyword{datasets}

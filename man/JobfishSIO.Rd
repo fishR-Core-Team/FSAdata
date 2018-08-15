@@ -33,7 +33,5 @@ str(JobfishSIO)
 head(JobfishSIO)
 
 }
-\concept{
-Abundance 'Population Size' Leslie DeLury Depletion Catchability
-}
+\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
 \keyword{datasets}

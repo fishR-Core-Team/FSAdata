@@ -29,7 +29,5 @@ head(Ghats)
 plot(cumspec~unit,data=Ghats)
 
 }
-\concept{
-Other
-}
+\concept{Other}
 \keyword{datasets}

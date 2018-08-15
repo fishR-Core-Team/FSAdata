@@ -38,7 +38,5 @@ plot(scale~fin,data=WhitefishMB,subset=lake=="Dezadeash",main="Dezadeash")
 par(op)
 
 }
-\concept{
-Age Precision Bias 'Age Comparison'
-}
+\concept{Age Precision Bias 'Age Comparison'}
 \keyword{datasets}

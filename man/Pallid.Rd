@@ -41,7 +41,5 @@ plot(w~tl,data=Pallid,subset=loc=="MT",main="Montana")
 par(op)
 
 }
-\concept{
-'Weight-Length' 'Length Conversion'
-}
+\concept{'Weight-Length' 'Length Conversion'}
 \keyword{datasets}

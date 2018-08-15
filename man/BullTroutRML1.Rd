@@ -37,7 +37,5 @@ plot(mass~fl,data=BullTroutRML1,subset=era=="2001",main="2001")
 par(op)
 
 }
-\concept{
-'Weight-Length' 'Length Frequency'
-}
+\concept{'Weight-Length' 'Length Frequency'}
 \keyword{datasets}

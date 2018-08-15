@@ -33,7 +33,5 @@ plot(fl~age,data=Morwong4)
 \seealso{
 \code{\link{Morwong4a}}.
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

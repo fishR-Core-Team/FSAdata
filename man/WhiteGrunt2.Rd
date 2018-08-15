@@ -34,7 +34,5 @@ plot(tl~age,data=WhiteGrunt2,subset=sex=="male",main="Male")
 par(op)
 
 }
-\concept{
-Growth 'von Bertalanffy'
-}
+\concept{Growth 'von Bertalanffy'}
 \keyword{datasets}

@@ -34,7 +34,5 @@ head(BrownTroutVC1)
 hist(BrownTroutVC1$len,main="")
 
 }
-\concept{
-Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
-}
+\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'}
 \keyword{datasets}
