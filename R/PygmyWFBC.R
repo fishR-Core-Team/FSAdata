@@ -6,7 +6,7 @@
 #' 
 #' @docType data
 #' 
-#' @format A data frame with 368 observations on the following 10 variables.
+#' @format A data frame with 690 observations on the following 13 variables.
 #'  \describe{
 #'    \item{year}{Year of capture (2000, 2001)}
 #'    \item{month}{Month of capture}
@@ -23,7 +23,7 @@
 #'    \item{USE}{Should the individual be used for analyses.}
 #'  }
 #'  
-#' @note The \code{tl} and \code{USE} variables were added or teaching purposes only. The \code{tl} was created from \code{fl} using a known fl-tl relationship and a small random error. An outlier was intentionally added.
+#' @note The \code{tl} and \code{USE} variables were added or teaching purposes only. The \code{tl} was created from \code{fl} using a known fl-tl relationship and a small random error.
 #'  
 #' @section Topic(s):
 #'  \itemize{

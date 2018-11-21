@@ -29,7 +29,7 @@
 Biological information for Pygmy Whitefish (\emph{Prosopium coulterii}) from Dina Lake #1 (British Columbia), 2000 and 2001.
 }
 \note{
-The \code{tl} and \code{USE} variables were added or teaching purposes only. The \code{tl} was created from \code{fl} using a known fl-tl relationship and a small random error. An outlier was intentionally added.
+The \code{tl} and \code{USE} variables were added or teaching purposes only. The \code{tl} was created from \code{fl} using a known fl-tl relationship and a small random error.
 }
 \section{Topic(s)}{
 
