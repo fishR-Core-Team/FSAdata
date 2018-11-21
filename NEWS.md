@@ -1,5 +1,6 @@
 # 0.3.7 ongoing
 * Added `Encoding: UTF-8` to DESCRIPTION.
+* `PygmyWFBC`: Modified. Added the 2000 data (thought they were there but they were not).
 
 # 0.3.6 11-Mar-17
 * `BluegillIL`: Modified. Changed names of variables.
