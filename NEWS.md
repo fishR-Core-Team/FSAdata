@@ -1,4 +1,4 @@
-# 0.3.7 ongoing
+# 0.3.7 24-Mar-19
 * Added `Encoding: UTF-8` to DESCRIPTION.
 * `PygmyWFBC`: Modified. Added the 2000 data (thought they were there but they were not).
 * `RBTroutKenai`: Modified. Corrected error (thanks to Robert Black).
