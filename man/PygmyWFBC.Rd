@@ -4,7 +4,7 @@
 \name{PygmyWFBC}
 \alias{PygmyWFBC}
 \title{Biological data for Pygmy Whitefish from Dina Lake #1 (British Columbia), 2000 and 2001.}
-\format{A data frame with 368 observations on the following 10 variables.
+\format{A data frame with 690 observations on the following 13 variables.
  \describe{
    \item{year}{Year of capture (2000, 2001)}
    \item{month}{Month of capture}
