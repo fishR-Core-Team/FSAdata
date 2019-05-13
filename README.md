@@ -28,12 +28,6 @@ if (!require('devtools')) install.packages('devtools'); require('devtools')
 devtools::install_github('droglenc/FSAdata')
 ```
 
-or from **RForge.net** with
-
-```r
-source("http://www.rforge.net/FSAdata/InstallFSAdata.R")
-```
-
 ## Questions / Comments / Problems
 
 Report questions, comments, or bug reports on the [issues page](https://github.com/droglenc/FSAdata/issues).
