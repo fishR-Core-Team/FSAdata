@@ -23,7 +23,9 @@
 #'    \item Length Frequency
 #'  }
 #'  
-#' @concept 'Weight-Length' Condition 'Length Frequency'
+#' @concept Weight-Length
+#' @concept Condition
+#' @concept Length Frequency
 #' 
 #' @seealso See \code{\link{InchLake1}} for the entire sample, but without weights.
 #' 

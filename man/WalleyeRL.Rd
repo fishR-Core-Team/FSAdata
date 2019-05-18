@@ -21,7 +21,7 @@
    \item{radcap}{Scale radius at time of capture} 
  }}
 \source{
-Cyterski, M.J. and G.R. Spangler.  1996.  A tool for age determination. North American Journal of Fisheries Management, 16:403-412.
+Cyterski, M.J. and G.R. Spangler. 1996. A tool for age determination. North American Journal of Fisheries Management, 16:403-412.
 }
 \description{
 Growth increment data for Red Lakes Walleye (\emph{Sander vitreus}) in one-fish-per-line format.
@@ -43,5 +43,6 @@ str(WalleyeRL)
 head(WalleyeRL)
 
 }
-\concept{Growth Weisberg LGM}
+\concept{Growth}
+\concept{Weisberg LGM}
 \keyword{datasets}

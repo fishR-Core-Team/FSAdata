@@ -11,7 +11,7 @@
    \item{loc}{Capture location (\code{NE}=northeast and \code{S}=south).} 
  }}
 \source{
-Simulated from age-length data provided in tables 2 and 3 of Jobes, F.W.  1946.  The age, growth, and distribution of the longjaw cisco, \emph{Leucichthys alpenae} Koelz, in Lake Michigan.  Transactions of the American Fisheries Society.  76:215-247.
+Simulated from age-length data provided in tables 2 and 3 of Jobes, F.W. 1946. The age, growth, and distribution of the longjaw cisco, \emph{Leucichthys alpenae} Koelz, in Lake Michigan. Transactions of the American Fisheries Society. 76:215-247.
 }
 \description{
 Assigned age (by scales) and total length of Longjaw Cisco (\emph{Leucichthys alpenae}) captured at two locations in Lake Michigan.
@@ -34,5 +34,6 @@ plot(tl~age,data=LJCisco,subset=loc=="S",main="south")
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

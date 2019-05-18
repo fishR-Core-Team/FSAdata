@@ -17,7 +17,7 @@
 #'    \item Age-Length Key 
 #'  }
 #' 
-#' @concept 'Age-Length Key'
+#' @concept Age-Length Key
 #' 
 #' @seealso \code{SpotVA1} in \pkg{FSA}.
 #' 

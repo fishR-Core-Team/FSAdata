@@ -11,7 +11,7 @@
    \item{recruits}{Recuit index -- density (indivs/ha) of age-0+ fish in first autumn}
  }}
 \source{
-From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004.  Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors.  Ecology of Freshwater Fish 13:46-60.
+From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004. Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors. Ecology of Freshwater Fish 13:46-60.
 }
 \description{
 Vendace (\emph{Coregonus albula}) recruitment by year in Lake Puulavesi, 1982-1996.
@@ -34,5 +34,6 @@ plot(recruits~stock,data=VendaceLP)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

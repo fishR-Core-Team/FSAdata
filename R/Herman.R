@@ -22,7 +22,9 @@
 #'    \item PSD
 #'  }
 #'  
-#' @concept 'Length Frequency' 'Size Structure' PSD
+#' @concept Length Frequency
+#' @concept Size Structure
+#' @concept PSD
 #' 
 #' @source From a South Dakota Fish and Game report that was (does not appear to be there (or anywhere) now) at http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.
 #' 

@@ -26,7 +26,9 @@
 #'    \item Somers model
 #'  }
 #'  
-#' @concept 'Seasonal Growth' 'von Bertalanffy' Somers
+#' @concept Seasonal Growth
+#' @concept von Bertalanffy
+#' @concept Somers
 #' 
 #' @source From figure 3 of Carmona-Catot, G., A.F.G.N. Santos, P.A. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:134.
 #' 

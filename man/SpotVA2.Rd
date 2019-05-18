@@ -39,5 +39,5 @@ str(spot.length)
 \seealso{
 \code{SpotVA1} in \pkg{FSA}.
 }
-\concept{'Age-Length Key'}
+\concept{Age-Length Key}
 \keyword{datasets}

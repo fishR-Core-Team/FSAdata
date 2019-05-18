@@ -19,9 +19,11 @@
 #'    \item PSD
 #'  }
 #'  
-#' @concept 'Length Frequency' 'Size Structure' PSD
+#' @concept Length Frequency
+#' @concept Size Structure
+#' @concept PSD
 #' 
-#' @source Simulated (uniform distribution of values within length bin) from summarized length frequencies in Figure 2 (top) in Diana, J.S. and R. Salz. 1990.  Energy storage, growth, and maturation of yellow perch from different locations in Saginaw Bay, Michigan.  Transactions of the American Fisheries Society 119:976-984.
+#' @source Simulated (uniform distribution of values within length bin) from summarized length frequencies in Figure 2 (top) in Diana, J.S. and R. Salz. 1990. Energy storage, growth, and maturation of yellow perch from different locations in Saginaw Bay, Michigan. Transactions of the American Fisheries Society 119:976-984.
 #' 
 #' @keywords datasets
 #' 

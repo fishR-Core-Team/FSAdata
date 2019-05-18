@@ -18,7 +18,9 @@
 #'   \item Ageing Error
 #'  }
 #' 
-#' @concept Age Precision Bias 'Age Comparison'
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
 #' @source From Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 #' 

@@ -13,13 +13,13 @@
    \item{tdd14}{Temperature degree-days over 14C}
  }}
 \source{
-From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981.  Journal of Animal Ecology 52:989-999.
+From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981. Journal of Animal Ecology 52:989-999.
 }
 \description{
 Stock and recruitment data for Northern Pike (\emph{Esox lucius}) from Lake Windermere, 1944-1981.
 }
 \note{
-Stock values were originally reported in 1000s of kgs and recruits were originally recorded in tens of numbers.  Thus, plots look very discrete.
+Stock values were originally reported in 1000s of kgs and recruits were originally recorded in tens of numbers. Thus, plots look very discrete.
 }
 \section{Topic(s)}{
 
@@ -42,5 +42,6 @@ par(op)
 
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

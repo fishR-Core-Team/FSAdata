@@ -20,7 +20,9 @@
 #'    \item Somers model
 #'  }
 #'  
-#' @concept 'Seasonal Growth' 'von Bertalanffy' Somers
+#' @concept Seasonal Growth
+#' @concept von Bertalanffy
+#' @concept Somers
 #' 
 #' @source From figure 9 of Cubillos, L.A., D.F. Arcosa, D.A. Bucareya, M.T. Canalesa.  2001.  Seasonal growth of small pelagic fish off Talcahuano, Chile (37S, 73W): a consequence of their reproductive strategy to seasonal upwelling?  Aquatic Living Resources, 14:115-124.
 #' 

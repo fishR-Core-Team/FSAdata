@@ -11,7 +11,7 @@
    \item{lake}{Lake from which the fish was captured (\code{L122}, \code{L226}, \code{Huron}, or \code{Dezadeash})} 
  }}
 \source{
-From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish.  1980.  Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival.  Canadian Journal of Fisheries and Aquatic Sciences, 37:534-544.
+From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences, 37:534-544.
 }
 \description{
 Ages of Lake Whitefish (\emph{Coregonus clupeaformis}) from four lakes as determined by scales and fin-rays.
@@ -38,5 +38,7 @@ plot(scale~fin,data=WhitefishMB,subset=lake=="Dezadeash",main="Dezadeash")
 par(op)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

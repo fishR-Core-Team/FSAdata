@@ -11,7 +11,7 @@
    \item{catch}{Number of captured and removed pike.} 
  }}
 \source{
-From Table 1 of Peterson, J., M. Taylor, and A. Hanson.  1980.  Leslie population estimate for a large lake.  Transactions of the American Fisheries Society, 109:329-331.
+From Table 1 of Peterson, J., M. Taylor, and A. Hanson. 1980. Leslie population estimate for a large lake. Transactions of the American Fisheries Society, 109:329-331.
 }
 \description{
 Catch and effort data for nine removal events of Northern Pike (\emph{Esox lucius}) from Island Lake, NB.
@@ -34,5 +34,10 @@ str(PikeIL)
 head(PikeIL)
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

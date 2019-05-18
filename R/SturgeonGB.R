@@ -17,7 +17,7 @@
 #'    \item Year-class Strength
 #'  }
 #'  
-#' @concept 'Year-class Strength'
+#' @concept Year-class Strength
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 

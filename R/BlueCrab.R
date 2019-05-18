@@ -22,9 +22,14 @@
 #'    \item Catchability
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Leslie
+#' @concept DeLury
+#' @concept Depletion
+#' @concept Catchability
 #' 
-#' @source From Fischler, K.J.  1965.  The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs.  Transactions of the American Fisheries Society, 94:287-310.
+#' @source From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society, 94:287-310.
 #' 
 #' @keywords datasets
 #' 

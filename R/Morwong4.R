@@ -18,11 +18,12 @@
 #'    \item von Bertalanffy
 #'  }
 #' 
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
 #' @seealso \code{\link{Morwong4a}}.
 #' 
-#' @source Ffrom appendix 1 of  of Restall, J.E., and K. Krusic-Golub.  2004.  Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff.  Available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
+#' @source Ffrom appendix 1 of  of Restall, J.E., and K. Krusic-Golub. 2004. Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff. Was (is?) available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
 #' 
 #' @keywords datasets
 #' 

@@ -17,7 +17,8 @@
 #'    \item Size Structure
 #'  }
 #'  
-#' @concept 'Length Frequency' 'Size Structure'
+#' @concept Length Frequency
+#' @concept Size Structure
 #'  
 #' @source personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
 #' 

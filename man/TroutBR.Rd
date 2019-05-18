@@ -11,7 +11,7 @@
    \item{species}{Species (\code{Brown} and \code{Rainbow}).} 
  }}
 \source{
-From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram.  1984.  Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin.  Wisconsin Department of Natural Resources, Fish Management Report No. 123.
+From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123.
 }
 \description{
 Total lengths (inches) and ages (from scales) of Brown Trout (\emph{Salmo trutta}) and Rainbow Trout (\emph{Oncorhynchus mykiss}) migrating upstream on the Bois Brule River, WI in 1978 and 1979.
@@ -34,5 +34,6 @@ plot(tl~age,data=TroutBR,subset=species=="Rainbow",main="Rainbow Trout")
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

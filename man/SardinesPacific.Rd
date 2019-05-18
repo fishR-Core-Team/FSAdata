@@ -11,7 +11,7 @@
   \item{recruits}{Recruitment index -- millions of fish}
 }}
 \source{
-From Jacobson, L.D. and A.D. MacCall.  1995.  Stock-recruitment models for Pacific sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
+From Jacobson, L.D. and A.D. MacCall. 1995. Stock-recruitment models for Pacific Sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
 }
 \description{
 Pacific Sardine (\emph{Sardinops sagax}) stock and recruitment by year, 1935-1990.
@@ -34,5 +34,6 @@ plot(recruits~ssb,data=SardinesPacific)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

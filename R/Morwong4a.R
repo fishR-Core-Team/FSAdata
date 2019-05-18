@@ -17,7 +17,7 @@
 #'    \item Age-Length Key
 #'  }
 #' 
-#' @concept 'Age-Length Key'
+#' @concept Age-Length Key
 #' 
 #' @seealso \code{\link{Morwong4}}.
 #' 

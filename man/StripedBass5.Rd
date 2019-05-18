@@ -36,5 +36,7 @@ xtabs(~reader1+reader2,data=StripedBass5)
 \seealso{
 \code{\link{StripedBass4}} and \code{\link{StripedBass6}}.
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

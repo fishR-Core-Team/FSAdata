@@ -11,7 +11,7 @@
    \item{recruits}{Number of age-0 fish per hectare}
  }}
 \source{
-From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda.  1998.  An age-structured model for erratic crappie fisheries.  Ecological Modeling 107:289-303.
+From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda. 1998. An age-structured model for erratic crappie fisheries. Ecological Modeling 107:289-303.
 }
 \description{
 Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mississippi, USA.
@@ -36,5 +36,6 @@ plot(recruits~stock,data=CrappieARMS,subset=(reservoir=="Ross.Barnett"),main="Ro
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

@@ -12,7 +12,7 @@
    \item{sectRrun}{Section where the fish was captured on the recapture run}
  }}
 \source{
-From Table 10 in Gryska, A.D.  2014.  Stock assessment of humpback whitefish in the Chatanika River, 2012.  Alaska Department of Fish and Game, Fishery Data Series No. 14-12, Anchorage.  Available from https://www.cf.adfg.state.ak.us/FedAidPDFs/FDS14-12.pdf.
+From Table 10 in Gryska, A.D. 2014. Stock assessment of humpback whitefish in the Chatanika River, 2012. Alaska Department of Fish and Game, Fishery Data Series No. 14-12, Anchorage. Was (is?) at https://www.cf.adfg.state.ak.us/FedAidPDFs/FDS14-12.pdf.
 }
 \description{
 Capture histories for Humpback Whitefish (\emph{Coregonus pidschian}) greater  than 360 mm in the Chatanika River, AK in 2012.
@@ -35,5 +35,10 @@ str(HumpbackWFCR)
 head(HumpbackWFCR)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'}
+\concept{Abundance}
+\concept{Capture History}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Petersen}
+\concept{Population Size}
 \keyword{datasets}

@@ -1,6 +1,6 @@
-#' Ages of Striped Bass assigned from scales by two readers.
+#' @title Ages of Striped Bass assigned from scales by two readers.
 #' 
-#' Ages assigned by two different readers to the scales of Striped Bass (\emph{Morone saxatilis}).
+#' @description Ages assigned by two different readers to the scales of Striped Bass (\emph{Morone saxatilis}).
 #' 
 #' @name StripedBass4
 #' 
@@ -20,7 +20,9 @@
 #'    \item Ageing Error
 #'  }
 #' 
-#' @concept Age Precision Bias 'Age Comparison'
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
 #' @seealso \code{\link{StripedBass5}} and \code{\link{StripedBass6}}.
 #' 

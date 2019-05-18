@@ -18,11 +18,12 @@
 #'    \item von Bertalanffy
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
 #' @seealso \code{\link{RockBassLO2}}.
 #' 
-#' @source Simulated from Table 1 of Wolfert, D.R.  1980.  Age and growth of rock bass in Eastern Lake Ontario.  New York Fish and Game Journal, 27:88:90.
+#' @source Simulated from Table 1 of Wolfert, D.R. 1980. Age and growth of Rock Bass in Eastern Lake Ontario. New York Fish and Game Journal, 27:88:90.
 #' 
 #' @keywords datasets
 #' 

@@ -25,7 +25,7 @@
    \item{year88}{Number of fish at each age in capture year 1988.} 
  }}
 \source{
-From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg.  1993.  Dynamics of a yellow perch population in Western Lake Superior.  North American Journal of Fisheries Management 13:511-523.
+From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management 13:511-523.
 }
 \description{
 Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay, Lake Superior, 1973-1988.
@@ -71,5 +71,6 @@ yc82 <- diag(as.matrix(YPerchCB1[1:7,11:17]))
 plot(log(yc82)~YPerchCB1$age[1:7],main="1982 Year-Class")
 
 }
-\concept{Mortality 'Catch Curve'}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

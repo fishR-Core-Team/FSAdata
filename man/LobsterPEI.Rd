@@ -37,5 +37,10 @@ str(LobsterPEI)
 head(LobsterPEI)
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

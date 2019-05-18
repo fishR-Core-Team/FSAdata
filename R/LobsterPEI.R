@@ -25,7 +25,12 @@
 #'    \item Catchability
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Leslie
+#' @concept DeLury
+#' @concept Depletion
+#' @concept Catchability
 #' 
 #' @source From Table 1 of DeLury, D.B. 1947. On the estimation of biological populations. Biometrics 3:145-167.
 #' 

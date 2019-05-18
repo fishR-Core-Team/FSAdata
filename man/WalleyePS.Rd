@@ -12,7 +12,7 @@
    \item{sex}{Sex of fish (\code{female} and \code{male})}
  }}
 \source{
-From Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.  A comparison of methods for estimating ages of unexploited walleyes.  North American Journal of Fisheries Management 20:1044-1048.
+From Figure 2 in Kocovsky, P.M., and R.M. Carline. 2000. A comparison of methods for estimating ages of unexploited walleyes. North American Journal of Fisheries Management 20:1044-1048.
 }
 \description{
 Age of Pymatuning Sanctuary (PA) Walleye (\emph{Sander vitreus}) assessed from three calcified structures -- sectioned otoliths, sectioned dorsal spines, and scale impressions.
@@ -44,5 +44,7 @@ plot(spine~otolith,data=WalleyePS,subset=sex=="male",main="Male")
 par(op)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

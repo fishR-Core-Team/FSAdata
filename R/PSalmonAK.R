@@ -21,9 +21,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From Table 3.1 in Quinn, T.J. and R.B. Deriso.  1999.  Quantitative Fish Dynamics.  Oxford University Press, New York, New York.
+#' @source From Table 3.1 in Quinn, T.J. and R.B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, New York.
 #' 
 #' @keywords datasets
 #' 

@@ -24,9 +24,13 @@
 #'    \item Petersen
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Petersen
 #' 
-#' @source From Table 1 of Curry, R.A., C. Brady, and G.E. Morgan.  2003.  Effects of Recreational Fishing on the Population Dynamics of Lake-Dwelling Brook Trout.  North American Journal of Fisheries Management 23:35-47.
+#' @source From Table 1 of Curry, R.A., C. Brady, and G.E. Morgan. 2003. Effects of Recreational Fishing on the Population Dynamics of Lake-Dwelling Brook Trout. North American Journal of Fisheries Management 23:35-47.
 #' 
 #' @keywords datasets
 #' 

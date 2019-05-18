@@ -11,7 +11,7 @@
    \item{sex}{Sex (\code{male} and \code{female})}
  }}
 \source{
-From (approximately) Figure 6 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
+From (approximately) Figure 6 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800.
 }
 \description{
 Ages, lengths, and sexes of White Grunt (\emph{Haemulon plumierii}) collected from the central coast of Brazil
@@ -34,5 +34,6 @@ plot(tl~age,data=WhiteGrunt2,subset=sex=="male",main="Male")
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

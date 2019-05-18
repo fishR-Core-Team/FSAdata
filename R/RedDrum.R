@@ -18,9 +18,10 @@
 #'    \item von Bertalanffy
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
-#' @source From (approximately) Figure 27 in Vaughan, D.S. and T.E. Helser.  1990.  Status of the red drum stock of the Atlantic Coast: Stock assessment report for 1989.  NOAA Technical Memorandum, NMFS-SEFC-263.
+#' @source From (approximately) Figure 27 in Vaughan, D.S. and T.E. Helser. 1990. Status of the red drum stock of the Atlantic Coast: Stock assessment report for 1989. NOAA Technical Memorandum, NMFS-SEFC-263.
 #' 
 #' @keywords datasets
 #' 

@@ -10,7 +10,7 @@
    \item{harvest}{number of fish of that species harvested by one angler.} 
  }}
 \source{
-From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson.  2001.  Creel limits in Minnesota: A proposal for change.  Fisheries 26:19-26.
+From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson. 2001. Creel limits in Minnesota: A proposal for change. Fisheries 26:19-26.
 }
 \description{
 The species targeted, number of fish harvested, and number of individuals harvesting that number of that species of fish from a large number of surveys on Minnesota Lakes, 1980-1996.
@@ -31,7 +31,7 @@ levels(CreelMN$species)
 ## ONLY RUN IN INTERACTIVE MODE
 \dontrun{
   require(FSA)
-  wae <- Subset(CreelMN,species=="WAE")
+  wae <- filterD(CreelMN,species=="WAE")
   ( waetbl <- table(wae$harvest) )
   ( waeptbl <- prop.table(waetbl)*100 )
   ( waercum <- rcumsum(waeptbl) )
@@ -49,7 +49,6 @@ levels(CreelMN$species)
   xtabs(~svd1,data=wae)
   ( svd1 <- sum(wae$svd1[wae$svd1>0]) )
   round(svd1/ttlwae*100,1)
-
 }
 
 }

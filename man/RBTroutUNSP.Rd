@@ -10,7 +10,7 @@
    \item{second}{Indicator variable for the second sample (1=captured)}
  }}
 \source{
-Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge.  2004.  Federal aid in fish restoration - 2000 job performance report. Idaho Department of Fish and Game.
+Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game.
 }
 \description{
 Capture histories for Rainbow Trout (\emph{Oncorhynchus mykiss}) in Upper Niagara Springs pond.
@@ -33,5 +33,10 @@ str(RBTroutUNSP)
 head(RBTroutUNSP)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'}
+\concept{Abundance}
+\concept{Capture History}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Petersen}
+\concept{Population Size}
 \keyword{datasets}

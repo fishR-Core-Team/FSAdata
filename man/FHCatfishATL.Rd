@@ -11,7 +11,7 @@
    \item{number}{Number of captured fish.} 
  }}
 \source{
-From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters.  2006.  Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations.  North American Journal of Fisheries Management 26:73-87.
+From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters. 2006. Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations. North American Journal of Fisheries Management 26:73-87.
 }
 \description{
 Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three populations of Atlantic rivers -- Lumber River, Northeast Cape Fear River (NCF), and Neuse River.
@@ -35,5 +35,6 @@ plot(log(number)~age,data=FHCatfishATL,subset=river=="Neuse",main="Neuse")
 par(op)
 
 }
-\concept{Mortality 'Catch Curve'}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

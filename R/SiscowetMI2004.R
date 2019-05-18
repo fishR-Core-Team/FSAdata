@@ -24,7 +24,8 @@
 #'    \item Growth
 #'  }
 #'  
-#' @concept 'Age-Length Key' 'Growth'
+#' @concept Age-Length Key
+#' @concept Growth
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 

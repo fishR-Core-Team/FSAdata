@@ -10,7 +10,7 @@
    \item{recruits}{CPUE of recruits (relative to a mean).} 
  }}
 \source{
-From Smith, L. L. Jr. 1977. Walleye (\emph{Stizostedion vitreum}) and yellow perch (\emph{Perca flavescens}) populations and fisheries of the Red Lakes, Minnesota, 1930-75. J. Fish. Res. Board Can. 34: 1774-1783.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From Smith, L.L. Jr. 1977. Walleye (\emph{Stizostedion vitreum}) and yellow perch (\emph{Perca flavescens}) populations and fisheries of the Red Lakes, Minnesota, 1930-75. J. Fish. Res. Board Can. 34: 1774-1783. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Red Lakes, MN, 1942-1960.

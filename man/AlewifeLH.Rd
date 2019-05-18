@@ -33,5 +33,7 @@ plot(scales~otoliths,data=AlewifeLH)
 xtabs(~otoliths+scales,data=AlewifeLH)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

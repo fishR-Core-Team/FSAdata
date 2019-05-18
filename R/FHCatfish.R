@@ -19,9 +19,10 @@
 #'    \item Catch curve 
 #'  }
 #'  
-#' @concept Mortality 'Catch Curve'
+#' @concept Mortality
+#' @concept Catch Curve
 #' 
-#' @source From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison.  2006.  Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management.  North American Journal of Fisheries Management 26:867-874.
+#' @source From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison. 2006.Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management. North American Journal of Fisheries Management 26:867-874.
 #' 
 #' @keywords datasets
 #' 

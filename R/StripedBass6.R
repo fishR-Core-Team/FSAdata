@@ -1,6 +1,6 @@
-#' Ages of Striped Bass assigned from scales and otoliths.
+#' @title Ages of Striped Bass assigned from scales and otoliths.
 #' 
-#' Ages assigned to the scales and otoliths of Striped Bass (\emph{Morone saxatilis}).
+#' @description Ages assigned to the scales and otoliths of Striped Bass (\emph{Morone saxatilis}).
 #' 
 #' @name StripedBass6
 #' 
@@ -20,7 +20,9 @@
 #'   \item Ageing Error
 #'  }
 #' 
-#' @concept Age Precision Bias 'Age Comparison'
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
 #' @seealso \code{\link{StripedBass4}} and \code{\link{StripedBass5}}.
 #' 

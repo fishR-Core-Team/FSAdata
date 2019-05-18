@@ -9,7 +9,7 @@
    \item{fl}{fork length (mm)} 
  }}
 \source{
-From Brandt, S.B., J.J. Magnuson, and L.B. Crowder.  1980.  Thermal habitat partitioning by fishes in Lake Michigan.  Canadian Journal of Fisheries and Aquatic Sciences.  37:1557-1564.  Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/.
+From Brandt, S.B., J.J. Magnuson, and L.B. Crowder. 1980. Thermal habitat partitioning by fishes in Lake Michigan. Canadian Journal of Fisheries and Aquatic Sciences. 37:1557-1564. Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/.
 }
 \description{
 Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from near Grand Haven, Lake Michigan, 1977.
@@ -29,5 +29,6 @@ head(TroutperchLM2)
 hist(TroutperchLM2$fl,main="")
 
 }
-\concept{'Length Frequency' 'Size Structure'}
+\concept{Length Frequency}
+\concept{Size Structure}
 \keyword{datasets}

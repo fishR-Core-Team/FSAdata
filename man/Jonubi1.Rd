@@ -10,7 +10,7 @@
    \item{age}{Assigned ages (years).} 
  }}
 \source{
-Simulated from table 2 of Yildirim, A., H.U. Haluloulu, M. Turkmen, and O. Erdouan. 2003.  Age and growth characteristics of \emph{Chalcalburnus mossulensis} (Heckel, 1843) living in Karasu River (Erzurum-Turkey).  Turkish Journal of Veterinary and Animal Science.  27: 1091-1096.
+Simulated from table 2 of Yildirim, A., H.U. Haluloulu, M. Turkmen, and O. Erdouan. 2003. Age and growth characteristics of \emph{Chalcalburnus mossulensis} (Heckel, 1843) living in Karasu River (Erzurum-Turkey). Turkish Journal of Veterinary and Animal Science. 27: 1091-1096.
 }
 \description{
 Assigned ages and measured fork lengths for male Jonubi (\emph{Chalcalburnus mossulensis}) from the Karasu River (Turkey).
@@ -33,5 +33,6 @@ plot(fl~age,data=Jonubi1)
 \seealso{
 \code{\link{Jonubi2}}.
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

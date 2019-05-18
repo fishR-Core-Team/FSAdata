@@ -15,7 +15,7 @@
   \item{fourth}{Catch on the fourth removal pass.} 
 }}
 \source{
-From Table 1 in Schnute, J.  1983.  A new approach to estimating populations by the removal method.  Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
+From Table 1 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 }
 \description{
 Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two streams in the the Nashwaak Experimental Watersheds Project on multiple dates.
@@ -39,5 +39,7 @@ BrookTroutNEWP[3,]
 \seealso{
 See \code{\link{BrookTroutNEWP1}} for these data AND the results from Schnute (1983).
 }
-\concept{Abundance 'Population Size' Removal}
+\concept{Abundance}
+\concept{Population Size}
+\concept{Removal}
 \keyword{datasets}

@@ -36,5 +36,9 @@ str(MuskieWI06MR)
 head(MuskieWI06MR)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'}
+\concept{Abundance}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Petersen}
+\concept{Population Size}
 \keyword{datasets}

@@ -13,7 +13,7 @@
    \item{fmort}{Fishing related mortality}
  }}
 \source{
-From the Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1995. Assess: 9.; Anon. 1986. Report of the herring assessment working group for the area south of 62 degrees N. ICES Doc. C.M. 1986. Assess: 19.; Anon. 1991. Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1991. Assess: 17.; State of marine stocks and environmental conditions in Icelandic waters 1989 Fishing prospects 1990, August 1990. Hafranns\'oknastofnun Fj\"olrit NR. 19. Marine Research Institute, Iceland. Mon Jun 20, 1988.; Report of the Northern Pelagic and Blue Whiting Fisheries Working Group. ICES Doc. C.M. 1997. Assess:14.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From the Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1995. Assess: 9.; Anon. 1986. Report of the herring assessment working group for the area south of 62 degrees N. ICES Doc. C.M. 1986. Assess: 19.; Anon. 1991. Report of the Atlanto-Scandian Herring and Capelin Working Group. ICES Doc. C.M. 1991. Assess: 17.; State of marine stocks and environmental conditions in Icelandic waters 1989 Fishing prospects 1990, August 1990. Hafranns\'oknastofnun Fj\"olrit NR. 19. Marine Research Institute, Iceland. Mon Jun 20, 1988.; Report of the Northern Pelagic and Blue Whiting Fisheries Working Group. ICES Doc. C.M. 1997. Assess:14. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 }
 \description{
 Icelandic summer spawning Herring (\emph{Clupeaformis harengus}) stock, recruitment, landings, and fishing mortality by year, 1946-1996.
@@ -36,5 +36,6 @@ plot(rec~ssb,data=HerringISS)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

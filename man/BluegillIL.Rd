@@ -13,7 +13,7 @@
    \item{deltaTime}{Time-at-large (yrs).} 
  }}
 \source{
-These unpublished data are from Derek H. Ogle, Northland College.  \bold{Do not use for other than educational purposes without permission from the source.}
+These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.}
 }
 \description{
 Length-at-marking and recapture and time-at-large for Bluegill (\emph{Lepomis macrochirus}) originally captured in Spring 2010 from Inch Lake, Wisconsin.
@@ -34,5 +34,7 @@ head(BluegillIL)
 plot((lenRecap-lenMark)~deltaTime,data=BluegillIL)
 
 }
-\concept{Growth 'von Bertalanffy' Fabens}
+\concept{Fabens}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

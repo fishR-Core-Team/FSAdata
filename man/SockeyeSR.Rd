@@ -16,7 +16,7 @@ Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in Regression
 \description{
 Stock and recruitment data for Skeena River Sockeye Salmon (\emph{Oncorhynchus nerka}), 1940-1967.
 }
-\details{
+\note{
 The dataset is usually analysed without case 12 because a rockslide occurred that year.
 }
 \section{Topic(s)}{
@@ -38,5 +38,6 @@ plot(recruits~spawners,data=SockeyeSR1)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

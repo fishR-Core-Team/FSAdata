@@ -19,7 +19,7 @@
 #'
 #' @concept Other
 #'   
-#' @source From (approximately) Figure 2 of Schram, S.T. 1993.  Fecundity and egg deposition of a wild Lake Superior Lake Trout stock.  Wisconsin Department of Natural Resources, Fisheries Management Report no. 149.
+#' @source From (approximately) Figure 2 of Schram, S.T. 1993. Fecundity and egg deposition of a wild Lake Superior Lake Trout stock. Wisconsin Department of Natural Resources, Fisheries Management Report no. 149.
 #' 
 #' @keywords datasets
 #' 

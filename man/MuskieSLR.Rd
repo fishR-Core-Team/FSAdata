@@ -10,7 +10,7 @@
    \item{ageS}{Age assigned from examination of scales} 
  }}
 \source{
-From Figure 3 in Casselman,J.M.  1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
+From Figure 3 in Casselman,J.M. 1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
 }
 \description{
 Ages of St. Lawrence River, ONT, Muskellunge (\emph{Esox masquinongy}) assessed from scales and cleithra.
@@ -33,5 +33,7 @@ plot(ageS~ageC,data=MuskieSLR)
 xtabs(~ageC+ageS,data=MuskieSLR)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

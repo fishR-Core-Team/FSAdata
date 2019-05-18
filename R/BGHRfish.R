@@ -21,7 +21,7 @@
 #'    \item Data Manipulation
 #'  }
 #'  
-#' @concept 'Data Manipulation'
+#' @concept Data Manipulation
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 

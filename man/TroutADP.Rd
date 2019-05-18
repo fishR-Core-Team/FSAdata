@@ -10,7 +10,7 @@
    \item{caught}{Number of fish captured and removed.} 
  }}
 \source{
-From Table 1 in Cowx, I.G.  1983.  Review of the methods for estimating fish population size from survey removal data.  Fisheries Management, 14:67-82.
+From Table 1 in Cowx, I.G. 1983. Review of the methods for estimating fish population size from survey removal data. Fisheries Management, 14:67-82.
 }
 \description{
 Catches of trout on five successive removal events from the Afon Dulas at Pentre, 19Jun79.
@@ -33,5 +33,7 @@ TroutADP
 \seealso{
 \link{SalmonADP}
 }
-\concept{Abundance 'Population Size' Removal}
+\concept{Abundance}
+\concept{Population Size}
+\concept{Removal}
 \keyword{datasets}

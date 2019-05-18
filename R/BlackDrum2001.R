@@ -26,7 +26,9 @@
 #'    \item Weight-Length
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy' 'Weight-Length'
+#' @concept Growth
+#' @concept von Bertalanffy
+#' @concept Weight-Length
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 

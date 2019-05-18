@@ -45,5 +45,7 @@ seine.il <- subset(InchLake1,netType=="seine")
 \seealso{
 See \code{\link{InchLake2}} for a subsample that include weights.
 }
-\concept{'Length Frequency' 'Size Structure' PSD}
+\concept{Length Frequency}
+\concept{PSD}
+\concept{Size Structure}
 \keyword{datasets}

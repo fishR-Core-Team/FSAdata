@@ -10,7 +10,7 @@
    \item{id}{Unique fish identification numbers}
  }}
 \source{
-Simulated from summary data in Table C-1 of New York Power Authority.  2004.  Use of buckhorn marsh and grand island tributaries by northern pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
+Simulated from summary data in Table C-1 of New York Power Authority. 2004. Use of Buckhorn Marsh and Grand Island tributaries by Northern Pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
 }
 \description{
 Capture histories (4 samples), in capture-by-date format, of a subset of Northern Pike from Buckthorn Marsh.
@@ -37,5 +37,10 @@ str(PikeNYPartial2)
 head(PikeNYPartial2)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel' 'Capture History'}
+\concept{Abundance}
+\concept{Capture History}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Population Size}
+\concept{Schnabel}
 \keyword{datasets}

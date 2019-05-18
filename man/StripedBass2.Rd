@@ -33,5 +33,6 @@ plot(tl~age,data=StripedBass2)
 \seealso{
 \code{\link{StripedBass3}}.
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

@@ -19,9 +19,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From Henderson, B.A. 1985. Factors affecting growth and recruitment of yellow perch, \emph{Perca flavescens} Mitchill, in South Bay, Lake Huron. Journal of Fisheries Biology 26:449-458.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+#' @source From Henderson, B.A. 1985. Factors affecting growth and recruitment of yellow perch, \emph{Perca flavescens} Mitchill, in South Bay, Lake Huron. Journal of Fisheries Biology 26:449-458. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 #' 
 #' @keywords datasets
 #' 

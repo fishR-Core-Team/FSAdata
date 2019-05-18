@@ -11,7 +11,7 @@
    \item{recruits}{a numeric vector containing the number of recruits}
  }}
 \source{
-From Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater herring (\emph{Clupea harengus} L.) in relation to larval production.  ICES Journal of Marine Science, 58:750-762.
+From Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater herring (\emph{Clupea harengus} L.) in relation to larval production. ICES Journal of Marine Science, 58:750-762.
 }
 \description{
 Stock and recruitment data for Blackwater Estuary Herring (\emph{Clupea harengus}), 1962-1997 spawning years.
@@ -34,5 +34,6 @@ plot(recruits~ssb,data=HerringBWE)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

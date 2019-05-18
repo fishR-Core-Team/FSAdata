@@ -10,7 +10,7 @@
    \item{effort}{A numeric vector of lines used per day to catch Blue Crab.}
  }}
 \source{
-From Fischler, K.J.  1965.  The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs.  Transactions of the American Fisheries Society, 94:287-310.
+From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society, 94:287-310.
 }
 \description{
 Catch and effort data for a population of male Blue Crabs (\emph{Callinectes sapidus}) for a 12-week period.
@@ -33,5 +33,10 @@ str(BlueCrab)
 BlueCrab
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

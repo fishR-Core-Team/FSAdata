@@ -19,9 +19,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From (approximately) Figure 7 in Bronte et al. 1993.  Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management. 13:511-523.
+#' @source From (approximately) Figure 7 in Bronte et al. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management. 13:511-523.
 #' 
 #' @keywords datasets
 #' 

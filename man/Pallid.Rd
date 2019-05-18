@@ -15,7 +15,7 @@
    \item{loc}{Location of fish collection (\code{NB}=Nebraska, \code{SD}=South Dakota, \code{ND}=North Dakota, \code{MT}=Montana)} 
  }}
 \source{
-From Table 1 in Keenlyne, K.D. and S.J. Maxwell.  1993.  Length conversions and length-weight relations for pallid sturgeon.  North American Journal of Fisheries Management. 13:395-397.
+From Table 1 in Keenlyne, K.D. and S.J. Maxwell. 1993. Length conversions and length-weight relations for pallid sturgeon. North American Journal of Fisheries Management. 13:395-397.
 }
 \description{
 Lengths (standard, fork, and total) and weights for Pallid Sturgion (\emph{Scaphirhynchus albus}) collected at four locations in the Missouri River drainage.
@@ -41,5 +41,6 @@ plot(w~tl,data=Pallid,subset=loc=="MT",main="Montana")
 par(op)
 
 }
-\concept{'Weight-Length' 'Length Conversion'}
+\concept{Length Conversion}
+\concept{Weight-Length}
 \keyword{datasets}

@@ -31,7 +31,11 @@
 #'    \item Maturity
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' Maturity
+#' @concept Growth
+#' @concept von Bertalanffy
+#' @concept Length Frequency
+#' @concept Weight-Length
+#' @concept Maturity
 #' 
 #' @source personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
 #' 

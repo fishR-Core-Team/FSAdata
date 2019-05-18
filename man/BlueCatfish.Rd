@@ -10,7 +10,7 @@
    \item{tl}{Total length (mm)}
  }}
 \source{
-From (approximately) Figure 2 of Maceina, M.J.  2007.  Use of piecewise nonlinear models to estimate variable size-related mortality rates.  North American Journal of Fisheries Management, 27:971-977.
+From (approximately) Figure 2 of Maceina, M.J. 2007. Use of piecewise nonlinear models to estimate variable size-related mortality rates. North American Journal of Fisheries Management, 27:971-977.
 }
 \description{
 Ages and total lengths of Blue Catfish (\emph{Ictalurus furcatus}) collected form the Wilson Reservoir on the Tennessee River, AL.
@@ -30,5 +30,6 @@ head(BlueCatfish)
 plot(tl~age,data=BlueCatfish)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

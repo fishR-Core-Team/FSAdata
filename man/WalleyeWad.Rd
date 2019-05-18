@@ -11,7 +11,7 @@
    \item{numM}{Number of captured males}
  }}
 \source{
-From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System.  Fisheries Research, 167:13-21.  Obtained directly from Ryan Koenigs.
+From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
 }
 \description{
 Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.
@@ -38,5 +38,6 @@ plot(numF~age,data=WalleyeWad)
 points(numM~age,data=WalleyeWad,pch=19)
 
 }
-\concept{'Catch Curve' Mortality}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

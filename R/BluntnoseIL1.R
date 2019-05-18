@@ -21,7 +21,10 @@
 #'     \item PSD
 #'   }
 #'   
-#' @concept 'Length Frequency' 'Size Structure' PSD 'Length Expansion'
+#' @concept Length Frequency
+#' @concept Size Structure
+#' @concept PSD
+#' @concept Length Expansion
 #' 
 #' @seealso \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 #' 

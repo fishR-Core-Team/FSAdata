@@ -25,9 +25,13 @@
 #'    \item Schumacher-Eschmeyer
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Schnabel
 #' 
-#' @source From table 3 of Mraz, D.  1968.  Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake.  Wisconsin Department of Natural Resources Technical Bulletin 40.  38 pages.
+#' @source From table 3 of Mraz, D. 1968. Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake. Wisconsin Department of Natural Resources Technical Bulletin 40. 38 pages.
 #' 
 #' @keywords datasets
 #' 

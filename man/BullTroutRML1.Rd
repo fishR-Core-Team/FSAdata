@@ -11,7 +11,7 @@
    \item{era}{Era of collection (\code{1977-79} and \code{2001})}
  }}
 \source{
-From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.  [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
+From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald. 2007. Bull trout population responses to reductions in angler effort and retention limits. North American Journal of Fisheries Management, 27:848-859. [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
 }
 \description{
 Lengths and weights of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CAN and two eras.
@@ -37,5 +37,6 @@ plot(mass~fl,data=BullTroutRML1,subset=era=="2001",main="2001")
 par(op)
 
 }
-\concept{'Weight-Length' 'Length Frequency'}
+\concept{Length Frequency}
+\concept{Weight-Length}
 \keyword{datasets}

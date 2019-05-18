@@ -55,5 +55,9 @@ xtabs(~maturity,data=RuffeSLRH92)
 xtabs(~maturity+month+sex,data=RuffeSLRH92)
 
 }
-\concept{Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' Maturity}
+\concept{Growth}
+\concept{Length Frequency}
+\concept{Maturity}
+\concept{Weight-Length}
+\concept{von Bertalanffy}
 \keyword{datasets}

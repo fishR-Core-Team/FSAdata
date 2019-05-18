@@ -15,7 +15,7 @@
 #'    \item{tdd14}{Temperature degree-days over 14C}
 #'  }
 #'  
-#' @note Stock values were originally reported in 1000s of kgs and recruits were originally recorded in tens of numbers.  Thus, plots look very discrete.
+#' @note Stock values were originally reported in 1000s of kgs and recruits were originally recorded in tens of numbers. Thus, plots look very discrete.
 #' 
 #' @section Topic(s):
 #'  \itemize{
@@ -23,9 +23,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981.  Journal of Animal Ecology 52:989-999.
+#' @source From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981. Journal of Animal Ecology 52:989-999.
 #' 
 #' @keywords datasets
 #' 

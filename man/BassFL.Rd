@@ -13,7 +13,7 @@
    \item{age}{Age of fish at capture}
  }}
 \source{
-From Figure 2 of Bonvechio, T.F., M.S. Allen, and R.L. Cailteux.  2005.  Relative Abundance, Growth, and Mortality of Suwannee Bass  in Four Florida Rivers.  North American Journal of Fisheries Management 25:275-283.  [Was (is?) from http://sfrc.ufl.edu/allenlab/publications/2005bonvechio_allen_cailteux.pdf.]
+From Figure 2 of Bonvechio, T.F., M.S. Allen, and R.L. Cailteux. 2005. Relative Abundance, Growth, and Mortality of Suwannee Bass in Four Florida Rivers. North American Journal of Fisheries Management 25:275-283. [Was (is?) from http://sfrc.ufl.edu/allenlab/publications/2005bonvechio_allen_cailteux.pdf.]
 }
 \description{
 Catch-at-age for Suwanee (\emph{Micropterus notius}) and Largemouth Bass (\emph{Micropterus salmoides}) collected from several lakes in Florida, 2001-2002.
@@ -52,5 +52,6 @@ legend("topright",legend=c("2001","2002"),col=c("black","red"),pch=19)
 par(op)
 
 }
-\concept{Mortality 'Catch Curve'}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

@@ -19,7 +19,7 @@
 #'
 #' @concept Other
 #'   
-#' @source From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson.  2001.  Creel limits in Minnesota: A proposal for change.  Fisheries 26:19-26.
+#' @source From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson. 2001. Creel limits in Minnesota: A proposal for change. Fisheries 26:19-26.
 #' 
 #' @keywords datasets
 #' 
@@ -32,7 +32,7 @@
 #' ## ONLY RUN IN INTERACTIVE MODE
 #' \dontrun{
 #'   require(FSA)
-#'   wae <- Subset(CreelMN,species=="WAE")
+#'   wae <- filterD(CreelMN,species=="WAE")
 #'   ( waetbl <- table(wae$harvest) )
 #'   ( waeptbl <- prop.table(waetbl)*100 )
 #'   ( waercum <- rcumsum(waeptbl) )
@@ -50,7 +50,6 @@
 #'   xtabs(~svd1,data=wae)
 #'   ( svd1 <- sum(wae$svd1[wae$svd1>0]) )
 #'   round(svd1/ttlwae*100,1)
-#' 
 #' }
 #' 
 NULL

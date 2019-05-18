@@ -10,7 +10,7 @@
    \item{effort}{Constant electrofishing effort.} 
  }}
 \source{
-From Mahon, R.  1980.  Accuracy of catch-effort methods for estimating fish density and biomass in streams.  Environmental Biology of Fishes. 4:343-363.
+From Mahon, R. 1980. Accuracy of catch-effort methods for estimating fish density and biomass in streams. Environmental Biology of Fishes. 4:343-363.
 }
 \description{
 Catch and effort data for Fantail Darter (\emph{Etheostoma flabellare}) from seven removal events conducted by Mahon (1980).
@@ -38,5 +38,10 @@ str(DarterMahon)
 head(DarterMahon)
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

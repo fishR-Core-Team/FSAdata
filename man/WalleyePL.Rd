@@ -13,7 +13,7 @@
    \item{newmarks}{Number of unmarked walleyes that were captured, marked, and returned to the population}
  }}
 \source{
-From table 3 of Mraz, D.  1968.  Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake.  Wisconsin Department of Natural Resources Technical Bulletin 40.  38 pages.
+From table 3 of Mraz, D. 1968. Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake. Wisconsin Department of Natural Resources Technical Bulletin 40. 38 pages.
 }
 \description{
 The numbers of young-of-year walleye (\emph{Sander vitreus}) that were captured, found to have previous marks (i.e., recaptured), and were newly marked on several sampling occasions in 1959, 1960, 1961, and 1962 in Pike Lake, Wisconsin.
@@ -37,5 +37,9 @@ WalleyePL
 subset(WalleyePL,year==1960)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'}
+\concept{Abundance}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Population Size}
+\concept{Schnabel}
 \keyword{datasets}

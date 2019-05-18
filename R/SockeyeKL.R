@@ -1,8 +1,9 @@
-#' Stock and recruitment data for Sockeye Salmon from Karluk Lake, AK, 1921-1948.
+#' @title Stock and recruitment data for Sockeye Salmon from Karluk Lake, AK, 1921-1948.
 #'
-#' Sockeye Salmon (\emph{Oncorhynchus nerka}) stock and recruitment in Karluk Lake, AK, by year, 1921-1948.
+#' @description Sockeye Salmon (\emph{Oncorhynchus nerka}) stock and recruitment in Karluk Lake, AK, by year, 1921-1948.
 #'
 #' @name SockeyeKL
+#' 
 #' @docType data
 #'
 #' @format A data frame of 28 observations on the following 3 variables:
@@ -18,9 +19,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From Gulland, J.A. 1983.  Fish stock assessment: A manual of basic methods.  John Wiley and Sons, New York, NY.  223 p.
+#' @source From Gulland, J.A. 1983. Fish stock assessment: A manual of basic methods. John Wiley and Sons, New York, NY. 223 p.
 #' 
 #' @keywords datasets
 #' 

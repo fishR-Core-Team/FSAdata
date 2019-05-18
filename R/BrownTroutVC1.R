@@ -22,9 +22,13 @@
 #'    \item Petersen
 #'  }
 #' 
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Petersen
 #' 
-#' @source Obtained directly from Tom Kwak, North Carolina Cooperate Unit at North Carolina State University and part of the data published in Kwak, T.J. and T.F. Waters.  1997.  Trout production dynamics and water quality in Minnesota streams.  Transactions of the American Fisheries Society, 126:35-48.
+#' @source Obtained directly from Tom Kwak, North Carolina Cooperate Unit at North Carolina State University and part of the data published in Kwak, T.J. and T.F. Waters. 1997. Trout production dynamics and water quality in Minnesota streams. Transactions of the American Fisheries Society, 126:35-48.
 #' 
 #' @keywords datasets
 #' 

@@ -11,7 +11,7 @@
    \item{loc}{Location of collection (\code{Central} and \code{Lower})}
  }}
 \source{
-From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynamics in the Platte River, Nebraska.  Master's thesis, University of Nebraska, Lincoln, NE.  [Was (is?) from http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf.]
+From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynamics in the Platte River, Nebraska. Master's thesis, University of Nebraska, Lincoln, NE. [Was (is?) from http://nlc1.nlc.state.ne.us/epubs/U1500/B013-2009.pdf.]
 }
 \description{
 Catch-at-age of Channel Catfish (\emph{Ictalurs puncatatus}) from two sections of the Platte River, NB, in 2007 and 2008.
@@ -37,5 +37,6 @@ plot(log(catch)~age,data=CCatfishNB,subset=loc=="Lower",main="Lower")
 par(op)
 
 }
-\concept{Mortality 'Catch Curve'}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

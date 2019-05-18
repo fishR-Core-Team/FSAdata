@@ -9,7 +9,7 @@
   \item{len}{Length in inches}
 }}
 \source{
-Simulated from length frequency summaries found in \code{data(cassie)} of the \pkg{mixdist} package.  Data originally from Cassie, R.M.  1954.  Some uses of probability paper in the analysis of size frequency distributions.  Australian Journal of Marine and Freshwater Research.  5:513-522.
+Simulated from length frequency summaries found in \code{data(cassie)} of the \pkg{mixdist} package. Data originally from Cassie, R.M. 1954. Some uses of probability paper in the analysis of size frequency distributions. Australian Journal of Marine and Freshwater Research. 5:513-522.
 }
 \description{
 Lengths of Australian Snapper (\emph{Chrysophrys auratus}) taken by trawl.
@@ -29,5 +29,6 @@ head(Snapper)
 hist(Snapper$len,main="")
 
 }
-\concept{'Length Frequency' 'Size Structure'}
+\concept{Length Frequency}
+\concept{Size Structure}
 \keyword{datasets}

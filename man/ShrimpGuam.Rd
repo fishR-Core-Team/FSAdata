@@ -12,7 +12,7 @@
    \item{effort}{Total effort (trap-nights) for the standard traps.} 
  }}
 \source{
-From Table 1 of Ralson, S. 1986.  An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago.  Fishery Bulletin 84:927-934.  [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
+From Table 1 of Ralson, S. 1986. An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago. Fishery Bulletin 84:927-934. [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
 }
 \description{
 Catch and effort data for Deepwater Caridean Shrimp (\emph{Heterocarpus laevigatus}) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam).
@@ -48,5 +48,10 @@ ShrimpGuam$total <- ShrimpGuam$standard+ShrimpGuam$pyramid
 ShrimpGuam$cumCatch <- cumsum(ShrimpGuam$total)-ShrimpGuam$total/2
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

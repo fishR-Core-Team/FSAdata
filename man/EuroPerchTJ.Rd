@@ -11,7 +11,7 @@
    \item{sex}{Sex (female, male).} 
  }}
 \source{
-From (approximately) Figure 2 in Mooij, W.M., J.M. Van Rooij, and S. Wijnhoven.  1999.  Analysis and comparison of fish growth from small samples of length-at-age data: Detection of sexual dimorphism in Eurasian perch as an example.  Transactions of the American Fisheries Society, 128:483-490.
+From (approximately) Figure 2 in Mooij, W.M., J.M. Van Rooij, and S. Wijnhoven. 1999. Analysis and comparison of fish growth from small samples of length-at-age data: Detection of sexual dimorphism in Eurasian perch as an example. Transactions of the American Fisheries Society, 128:483-490.
 }
 \description{
 Assigned ages, measured fork lengths, and observed sexes for European Perch (\emph{Perca fluviatilis}) from Lake Tjuekemeer (The Netherlands).
@@ -34,5 +34,6 @@ plot(fl~age,data=EuroPerchTJ,subset=sex=="male",main="Male")
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

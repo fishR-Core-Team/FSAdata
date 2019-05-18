@@ -39,5 +39,5 @@ str(sn2.length)
 \seealso{
 See the same data in summarized format as \code{alkdata} in \pkg{fishmethods}.
 }
-\concept{'Age-Length Key'}
+\concept{Age-Length Key}
 \keyword{datasets}

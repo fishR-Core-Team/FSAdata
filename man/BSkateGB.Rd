@@ -12,7 +12,7 @@
    \item{season}{a factor containing the season of capture (fall, spring, winter)}
  }}
 \source{
-estimated (using digitize) from figures 4-6 in Gedamke, T., J.M. Hoenig, W.D. DuPaul, and J.A. Musick.  2009.  Stock-recruitment dynamics and the maximum population growth rate of the barndoor skate on Georges Bank.  North American Journal of Fisheries Management 29:512-526.
+Estimated (using digitize) from figures 4-6 in Gedamke, T., J.M. Hoenig, W.D. DuPaul, and J.A. Musick. 2009. Stock-recruitment dynamics and the maximum population growth rate of the barndoor skate on Georges Bank. North American Journal of Fisheries Management 29:512-526.
 }
 \description{
 Stock and recruitment data for Barndoor Skate (\emph{Dipturus laevis}) from Georges Bank for three seasons.
@@ -42,5 +42,6 @@ plot(recruits~spawners,data=BSkateGB,subset=season=="winter",main="winter")
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

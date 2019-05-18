@@ -27,9 +27,11 @@
 #'    \item Removal
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Removal
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Removal
 #' 
-#' @source From Table 1 in Jones, M.L. and J.D. Stockwell.  1995.  A rapid assessment procedure for enumeration of salmonine populations in streams.  North American Journal of Fisheries Management, 15:551-562.
+#' @source From Table 1 in Jones, M.L. and J.D. Stockwell. 1995. A rapid assessment procedure for enumeration of salmonine populations in streams. North American Journal of Fisheries Management, 15:551-562.
 #' 
 #' @keywords datasets
 #' 

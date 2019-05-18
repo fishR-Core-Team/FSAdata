@@ -21,9 +21,10 @@
 #'    \item Catch curve 
 #'  }
 #'  
-#' @concept Mortality 'Catch Curve'
+#' @concept Mortality
+#' @concept Catch Curve
 #' 
-#' @source From Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz.  2004.  Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives.  North American Journal of Fisheries Management 24:990-1002.
+#' @source From Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz. 2004. Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives. North American Journal of Fisheries Management 24:990-1002.
 #' 
 #' @keywords datasets
 #' 

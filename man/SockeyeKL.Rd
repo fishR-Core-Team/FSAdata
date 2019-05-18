@@ -11,7 +11,7 @@
   \item{recruits}{Recruits.}
 }}
 \source{
-From Gulland, J.A. 1983.  Fish stock assessment: A manual of basic methods.  John Wiley and Sons, New York, NY.  223 p.
+From Gulland, J.A. 1983. Fish stock assessment: A manual of basic methods. John Wiley and Sons, New York, NY. 223 p.
 }
 \description{
 Sockeye Salmon (\emph{Oncorhynchus nerka}) stock and recruitment in Karluk Lake, AK, by year, 1921-1948.
@@ -34,5 +34,6 @@ plot(recruits~stock,data=SockeyeKL)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

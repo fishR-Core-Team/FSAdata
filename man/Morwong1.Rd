@@ -10,7 +10,7 @@
    \item{second}{Ages assigned on the second reading}
  }}
 \source{
-From Table 5 of Restall, J.E., and K. Krusic-Golub.  2004.  Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff.  Available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
+From Table 5 of Restall, J.E., and K. Krusic-Golub. 2004. Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff. Was (is?) available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
 }
 \description{
 Ages assigned at two different times by Reader A to the otoliths of Jackass Morwong (\emph{Nemadactylus macropterus}).
@@ -33,5 +33,7 @@ plot(second~first,data=Morwong1)
 xtabs(~first+second,data=Morwong1)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

@@ -17,7 +17,7 @@
 #'    \item Age-Length Key
 #'  }
 #'  
-#' @concept 'Age-Length Key'
+#' @concept Age-Length Key
 #' 
 #' @source Recreated from summarized results in Table 8.3 of Quinn, T. J. and R. B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, NY. 542 p.
 #' 

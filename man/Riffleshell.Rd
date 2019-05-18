@@ -12,7 +12,7 @@
    \item{retmarks}{Number of marked fish returned to the population}
  }}
 \source{
-From Table 1-2 of Rogers, S.O. 1999.  Population biology of the tan fiffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation.  Virginia Tech M.S. Thesis.
+From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis.
 }
 \description{
 Summarized multiple mark-recapture data for Tan Riffleshell.
@@ -38,5 +38,9 @@ str(Riffleshell)
 head(Riffleshell)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'}
+\concept{Abundance}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Population Size}
+\concept{Schnabel}
 \keyword{datasets}

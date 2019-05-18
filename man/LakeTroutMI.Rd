@@ -13,7 +13,7 @@
    \item{area}{Lake Superior management unit} 
  }}
 \source{
-From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar.  2004.  Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior.  North American Journal of Fisheries Management.  24:475-489.
+From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar. 2004. Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior. North American Journal of Fisheries Management. 24:475-489.
 }
 \description{
 Stock and recruitment data for the 1971-1991 year-classes of Lake Trout (\emph{Salvelinus namaycush}) in Michigan waters of Lake Superior.
@@ -45,5 +45,6 @@ plot(recruits~stock,data=LakeTroutMI,subset=area=="MI7",col="yellow",main="MI7")
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

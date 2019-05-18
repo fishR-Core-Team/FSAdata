@@ -13,7 +13,7 @@
    \item{Ecarbunculus}{Catch of \emph{Etelis carbunculUs}}
  }}
 \source{
-From Table 3 of Polovina, J.J.  1985.  A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock.  Fishery Bulletin 84:423-428.  [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
+From Table 3 of Polovina, J.J. 1985. A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock. Fishery Bulletin 84:423-428. [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
 }
 \description{
 Catch and effort for three Snapper species (\emph{Pristipomoides zonatus}, \emph{Pristipomoides auricilla}, and \emph{Etelis carbunculUs}) in a depletion experiment around Pathfinder Reef in the Mariana Archipelago.
@@ -35,5 +35,10 @@ data(Pathfinder)
 str(Pathfinder)
 head(Pathfinder)
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

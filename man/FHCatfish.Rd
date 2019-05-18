@@ -11,7 +11,7 @@
    \item{abundance}{Number of captured fish with boat electrofishing}
  }}
 \source{
-From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison.  2006.  Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management.  North American Journal of Fisheries Management 26:867-874.
+From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison. 2006.Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management. North American Journal of Fisheries Management 26:867-874.
 }
 \description{
 Numbers of Flathead Catfish (\emph{Pylodictis olivaris}) captured by electrofishing in three rivers -- Coosa River, AL; Ocmulgee River, GA; and Satilla River, GA.
@@ -35,5 +35,6 @@ plot(log(abundance)~age,data=FHCatfish,subset=river=="Satilla",main="Satilla")
 par(op)
 
 }
-\concept{Mortality 'Catch Curve'}
+\concept{Catch Curve}
+\concept{Mortality}
 \keyword{datasets}

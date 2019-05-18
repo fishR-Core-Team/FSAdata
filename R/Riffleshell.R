@@ -26,9 +26,13 @@
 #'    \item Schumacher-Eschmeyer
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Schnabel'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Schnabel
 #' 
-#' @source From Table 1-2 of Rogers, S.O. 1999.  Population biology of the tan fiffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation.  Virginia Tech M.S. Thesis.
+#' @source From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis.
 #' 
 #' @keywords datasets
 #' 

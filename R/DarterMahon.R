@@ -26,9 +26,14 @@
 #'    \item Catchability
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Leslie
+#' @concept DeLury
+#' @concept Depletion
+#' @concept Catchability
 #' 
-#' @source From Mahon, R.  1980.  Accuracy of catch-effort methods for estimating fish density and biomass in streams.  Environmental Biology of Fishes. 4:343-363.
+#' @source From Mahon, R. 1980. Accuracy of catch-effort methods for estimating fish density and biomass in streams. Environmental Biology of Fishes. 4:343-363.
 #' 
 #' @keywords datasets
 #' 

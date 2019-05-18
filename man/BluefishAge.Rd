@@ -31,5 +31,7 @@ head(BluefishAge)
 plot(r1~r2,data=BluefishAge)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

@@ -24,9 +24,11 @@
 #'    \item Ageing Error
 #'  }
 #'  
-#' @concept Age Precision Bias 'Age Comparison'
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
-#' @source From Figure 2 in Kocovsky, P.M., and R.M. Carline.  2000.  A comparison of methods for estimating ages of unexploited walleyes.  North American Journal of Fisheries Management 20:1044-1048.
+#' @source From Figure 2 in Kocovsky, P.M., and R.M. Carline. 2000. A comparison of methods for estimating ages of unexploited walleyes. North American Journal of Fisheries Management 20:1044-1048.
 #' 
 #' @keywords datasets
 #' 

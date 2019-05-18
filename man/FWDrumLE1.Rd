@@ -10,7 +10,7 @@
    \item{tl}{Measured total lengths (mm).} 
  }}
 \source{
-Simulated from Table 3 of Bur, M.T.  1984.  Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie.  Journal of Great Lakes Research.  10:48-58.
+Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58.
 }
 \description{
 Assigned ages (from scales) and measured total lengths for each of 1577 Freshwater Drum (\emph{Aplodinotus grunniens}) from Lake Erie.
@@ -33,5 +33,6 @@ plot(tl~age,data=FWDrumLE1)
 \seealso{
 \code{\link{FWDrumLE2}}.
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

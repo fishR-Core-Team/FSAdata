@@ -24,9 +24,11 @@
 #'    \item Removal
 #'  }
 #' 
-#' @concept Abundance 'Population Size' Removal
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Removal
 #' 
-#' @source From Table 2 of Voight, H.  1999.  Assessment of juvenile salmonid populations in two index reaches of McGarvey Creek, a tributary to the lower Klamath River.  First Year of Investigations - 1998.  [Was (is?) from http://www.krisweb.com/biblio/klamath_yuroktfp_voight_1999_7.pdf.]
+#' @source From Table 2 of Voight, H. 1999. Assessment of juvenile salmonid populations in two index reaches of McGarvey Creek, a tributary to the lower Klamath River. First Year of Investigations - 1998. [Was (is?) from http://www.krisweb.com/biblio/klamath_yuroktfp_voight_1999_7.pdf.]
 #' 
 #' @keywords datasets
 #' 

@@ -19,9 +19,10 @@
 #'    \item Catch curve
 #'  }
 #'  
-#' @concept Mortality 'Catch Curve'
+#' @concept Mortality
+#' @concept Catch Curve
 #' 
-#' @source From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters.  2006.  Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations.  North American Journal of Fisheries Management 26:73-87.
+#' @source From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters. 2006. Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations. North American Journal of Fisheries Management 26:73-87.
 #' 
 #' @keywords datasets
 #' 

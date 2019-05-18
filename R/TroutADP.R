@@ -19,11 +19,13 @@
 #'    \item Removal
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Removal
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Removal
 #' 
 #' @seealso \link{SalmonADP}
 #' 
-#' @source From Table 1 in Cowx, I.G.  1983.  Review of the methods for estimating fish population size from survey removal data.  Fisheries Management, 14:67-82.
+#' @source From Table 1 in Cowx, I.G. 1983. Review of the methods for estimating fish population size from survey removal data. Fisheries Management, 14:67-82.
 #' 
 #' @keywords datasets
 #' 

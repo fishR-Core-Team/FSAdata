@@ -17,23 +17,24 @@
  \item{age}{Age (yrs) from otoliths.}
 }}
 \source{
-These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot).  \bold{Do not use for other than educational purposes without permission from the source.}
+These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot). \bold{Do not use for other than educational purposes without permission from the source.}
 }
 \description{
 Walleye (\emph{Sander vitreus}) biological data (length, weight, sex, maturity, and age) from several locations in Lake Erie, October-November of 2003-2014.
 }
 \section{Topic(s)}{
+
  \itemize{
- \item Growth
- \item von Bertalanffy
- \item Weight-Length
- \item Catch curve
- \item Mortality
- \item Maturity
- \item Size Structure
- \item Length Frequency
- \item Condition
-}
+  \item Growth
+  \item von Bertalanffy
+  \item Weight-Length
+  \item Catch curve
+  \item Mortality
+  \item Maturity
+  \item Size Structure
+  \item Length Frequency
+  \item Condition
+ }
 }
 
 \examples{
@@ -43,5 +44,12 @@ head(WalleyeErie2)
 xtabs(~year+loc+sex,data=WalleyeErie2)
 
 }
-\concept{'Growth' 'Weight-Length' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition' 'Length Frequency'}
+\concept{Catch curve}
+\concept{Condition}
+\concept{Growth}
+\concept{Length Frequency}
+\concept{Maturity}
+\concept{Mortality}
+\concept{Size Structure}
+\concept{Weight-Length}
 \keyword{datasets}

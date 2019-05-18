@@ -22,11 +22,12 @@
 #'    \item Recruitment
 #'  }
 #'  
-#' @concept 'Year-class Strength' Recruitment
+#' @concept Year-class Strength
+#' @concept Recruitment
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
-#' @source From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System.  Fisheries Research, 167:13-21.  Obtained directly from Ryan Koenigs.
+#' @source From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
 #' 
 #' @keywords datasets
 #' 

@@ -13,7 +13,7 @@
    \item{stage}{Stage of maturity (\code{1}:Immature, \code{2}:Maturing, \code{3}:Mature, \code{4}:Fertilized, \code{5}:Ripe, \code{6}:Spent, \code{7}:Resting)} 
  }}
 \source{
-Obtained directly (from Bob Hannah).  Date were used in Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity.  Oregon Department of Fish and Wildlife, Information Reports 2009-04.  [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf]
+Obtained directly (from Bob Hannah). Data were used in Hannah, R.W, M.T.O. Blume, and J.E. Thompson. 2009. Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity. Oregon Department of Fish and Wildlife, Information Reports 2009-04. [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf]
 }
 \description{
 Ages, lengths, and maturity for female Yelloweye Rockfish (\emph{Sebastes rubberimus}) from Oregon.
@@ -43,5 +43,7 @@ plot(ptbl2[,2]~as.numeric(row.names(ptbl2)),type="l",xlab="Age",ylab="Proportion
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy' 'Maturity'}
+\concept{Growth}
+\concept{Maturity}
+\concept{von Bertalanffy}
 \keyword{datasets}

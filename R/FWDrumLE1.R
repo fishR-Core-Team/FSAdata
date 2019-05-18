@@ -18,11 +18,12 @@
 #'    \item von Bertalanffy
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
 #' @seealso \code{\link{FWDrumLE2}}.
 #' 
-#' @source Simulated from Table 3 of Bur, M.T.  1984.  Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie.  Journal of Great Lakes Research.  10:48-58.
+#' @source Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58.
 #' 
 #' @keywords datasets
 #' 

@@ -12,7 +12,7 @@
    \item{yrconf}{A code of confidence for whether or not the stock value is known to come from the year shown (see the note)}
  }}
 \source{
-From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings.  2004.  Evaluation of stock-recruitment curves for white shrimp in Georgia.  North American Journal of Fisheries Management. 24:654-661.
+From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings. 2004. Evaluation of stock-recruitment curves for white shrimp in Georgia. North American Journal of Fisheries Management. 24:654-661.
 }
 \description{
 White Shrimp (\emph{Litopenaeus setiferus}) stock and recruitment data from off the coast of Georgia (USA), 1979-2000.
@@ -38,5 +38,6 @@ plot(recruits~stock,data=WShrimpGA)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

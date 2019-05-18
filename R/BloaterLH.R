@@ -19,9 +19,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From (approximately) Figure 7 of Schaeffer, J.S. 2004.  Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998.  Ann Zool Fennici. 41:271-279.
+#' @source From (approximately) Figure 7 of Schaeffer, J.S. 2004. Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998. Ann Zool Fennici. 41:271-279.
 #' 
 #' @keywords datasets
 #' 

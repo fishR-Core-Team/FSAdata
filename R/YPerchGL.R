@@ -19,9 +19,10 @@
 #'    \item Length Frequency
 #'  }
 #'  
-#' @concept 'Weight-Length' 'Length Frequency'
+#' @concept Weight-Length
+#' @concept Length Frequency
 #' 
-#' @source From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal.  Technical Report Publication No. 59, Acadia Centre for Estuarine Research. 2001.
+#' @source From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal. Technical Report Publication No. 59, Acadia Centre for Estuarine Research.
 #' 
 #' @keywords datasets
 #' 

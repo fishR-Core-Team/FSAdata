@@ -21,9 +21,10 @@
 #'    \item Length Frequency
 #'  }
 #' 
-#' @concept 'Weight-Length' 'Length Frequency'
+#' @concept Weight-Length
+#' @concept Length Frequency
 #' 
-#' @source From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.  [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
+#' @source From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald. 2007. Bull trout population responses to reductions in angler effort and retention limits. North American Journal of Fisheries Management, 27:848-859. [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
 #' 
 #' @keywords datasets
 #' 

@@ -10,7 +10,7 @@
    \item{age}{Assigned ages (from otoliths).} 
  }}
 \source{
-Ffrom appendix 1 of  of Restall, J.E., and K. Krusic-Golub.  2004.  Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff.  Available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
+Ffrom appendix 1 of  of Restall, J.E., and K. Krusic-Golub. 2004. Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff. Was (is?) available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
 }
 \description{
 Assigned ages (from otoliths) and fork lengths of Jackass Morwong (\emph{Nemadactylus macropterus}) from the Eastern portion of the Southern and Eastern Scalefish and Shark Fishery (SESSF) in 2000.
@@ -33,5 +33,6 @@ plot(fl~age,data=Morwong4)
 \seealso{
 \code{\link{Morwong4a}}.
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

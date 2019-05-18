@@ -28,9 +28,14 @@
 #'    \item Catchability
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Leslie
+#' @concept DeLury
+#' @concept Depletion
+#' @concept Catchability
 #' 
-#' @source From Table 1 of Ralson, S. 1986.  An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago.  Fishery Bulletin 84:927-934.  [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
+#' @source From Table 1 of Ralson, S. 1986. An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago. Fishery Bulletin 84:927-934. [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
 #' 
 #' @keywords datasets
 #' 

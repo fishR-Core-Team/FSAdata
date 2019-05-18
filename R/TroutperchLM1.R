@@ -19,9 +19,10 @@
 #'    \item von Bertalanffy
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
-#' @source Simulated from the age-length data provided in Table 1 of House, R., and L. Wells.  1973.  Age, growth, spawning season, and fecundity of the trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan.  Journal of the Fisheries Research Board of Canada.  30:1221-1225.
+#' @source Simulated from the age-length data provided in Table 1 of House, R., and L. Wells.  1973. Age, growth, spawning season, and fecundity of the trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan. Journal of the Fisheries Research Board of Canada. 30:1221-1225.
 #' 
 #' @keywords datasets
 #' 

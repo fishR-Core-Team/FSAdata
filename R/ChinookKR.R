@@ -19,7 +19,8 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
 #' @source Was (is?) from http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf.
 #' 

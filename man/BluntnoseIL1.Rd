@@ -35,5 +35,8 @@ head(BluntnoseIL1)
 \seealso{
 \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 }
-\concept{'Length Frequency' 'Size Structure' PSD 'Length Expansion'}
+\concept{Length Expansion}
+\concept{Length Frequency}
+\concept{PSD}
+\concept{Size Structure}
 \keyword{datasets}

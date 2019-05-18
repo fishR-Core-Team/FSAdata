@@ -33,5 +33,7 @@ plot(reader2~reader1,data=Croaker1)
 xtabs(~reader1+reader2,data=Croaker1)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

@@ -21,7 +21,9 @@
 #'    \item Somers model
 #'  }
 #'  
-#' @concept 'Seasonal Growth' 'von Bertalanffy' Somers
+#' @concept Seasonal Growth
+#' @concept von Bertalanffy
+#' @concept Somers
 #' 
 #' @source From figure 3 of Stewart, J., W. Robbins, K. Rowling, A. Hegarty, and A. Gould. 2013. A multifaceted approach to modelling growth of the Australian bonito, \emph{Sarda australis} (Family Scombridae), with some observations on its reproductive biology. Marine and Freshwater Research 64:671-678.
 #' 

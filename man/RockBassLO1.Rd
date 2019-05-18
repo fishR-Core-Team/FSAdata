@@ -10,7 +10,7 @@
    \item{tl}{Measured total lengths (mm).} 
  }}
 \source{
-Simulated from Table 1 of Wolfert, D.R.  1980.  Age and growth of rock bass in Eastern Lake Ontario.  New York Fish and Game Journal, 27:88:90.
+Simulated from Table 1 of Wolfert, D.R. 1980. Age and growth of Rock Bass in Eastern Lake Ontario. New York Fish and Game Journal, 27:88:90.
 }
 \description{
 Assigned ages (from scales) and measured total lengths for each of 1288 Rock Bass (\emph{Ambloplites rupestris}) from Lake Ontario.
@@ -33,5 +33,6 @@ plot(tl~age,data=RockBassLO1)
 \seealso{
 \code{\link{RockBassLO2}}.
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

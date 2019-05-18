@@ -37,5 +37,5 @@ rb.length <- subset(RockBassLO2,is.na(age))
 \seealso{
 \code{\link{RockBassLO1}}.
 }
-\concept{'Age-Length Key'}
+\concept{Age-Length Key}
 \keyword{datasets}

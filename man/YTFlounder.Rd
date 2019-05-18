@@ -11,7 +11,7 @@
    \item{cross}{Ages assigned from cross-sections of otoliths} 
  }}
 \source{
-From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.  The Canada-United States yellowtail flounder age reading workshop: 28-30 November2000, St. John's, Newfoundland.  North Atlantic Fisheries Organization.  Scientific Council Studies 35:1-59.
+From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002. The Canada-United States yellowtail flounder age reading workshop: 28-30 November 2000, St. John's, Newfoundland. North Atlantic Fisheries Organization. Scientific Council Studies 35:1-59.
 }
 \description{
 Ages of commercially caught Georges Bank Yellowtail Flounder (\emph{Limanda ferruginea}) as determined by scales, whole otoliths, or otolith cross-sections.
@@ -37,5 +37,7 @@ plot(whole~cross,data=YTFlounder)
 par(op)
 
 }
-\concept{Age Precision Bias 'Age Comparison'}
+\concept{Age Bias}
+\concept{Age Comparison}
+\concept{Age Precision}
 \keyword{datasets}

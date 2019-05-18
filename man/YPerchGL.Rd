@@ -11,7 +11,7 @@
    \item{year}{Year of capture (\code{1994} or \code{2000})}
  }}
 \source{
-From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal.  Technical Report Publication No. 59, Acadia Centre for Estuarine Research. 2001.
+From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal. Technical Report Publication No. 59, Acadia Centre for Estuarine Research.
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) fork lengths and weights seperated by year.
@@ -34,5 +34,6 @@ plot(w~fl,data=YPerchGL,subset=year==2000,main="2000")
 par(op)
 
 }
-\concept{'Weight-Length' 'Length Frequency'}
+\concept{Length Frequency}
+\concept{Weight-Length}
 \keyword{datasets}

@@ -10,7 +10,7 @@
    \item{effort}{Effort (man-hours).} 
  }}
 \source{
-From Table 2 of Grandcourt, E.M.  2003.  The effect of intensive line fishing on the virgin biomass of a tropical deepwater snapper, the crimson jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311.  [Was (is?) from http://fishbull.noaa.gov/1012/08grandc.pdf.]
+From Table 2 of Grandcourt, E.M. 2003. The effect of intensive line fishing on the virgin biomass of a tropical deepwater snapper, the crimson jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311. [Was (is?) from http://fishbull.noaa.gov/1012/08grandc.pdf.]
 }
 \description{
 Catch and effort data for Jobfish (\emph{Pristipomoides filamentosus}) from the South Indian Ocean.
@@ -33,5 +33,10 @@ str(JobfishSIO)
 head(JobfishSIO)
 
 }
-\concept{Abundance 'Population Size' Leslie DeLury Depletion Catchability}
+\concept{Abundance}
+\concept{Catchability}
+\concept{DeLury}
+\concept{Depletion}
+\concept{Leslie}
+\concept{Population Size}
 \keyword{datasets}

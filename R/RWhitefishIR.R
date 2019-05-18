@@ -18,9 +18,10 @@
 #'     \item von Bertalanffy
 #'   }
 #'   
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #'
-#' @source From Table 4 (a random tenths digit was added to the TL) in Bailey, M.M.  1963.  Age, growth, and maturity of round whitefish of the Apostle Islands and Isle Royale Regions, Lake Superior.  Fishery Bulletin, 63:63-75.   [Was (is?) from http://fishbull.noaa.gov/63-1/bailey.pdf.]
+#' @source From Table 4 (a random tenths digit was added to the TL) in Bailey, M.M. 1963. Age, growth, and maturity of round whitefish of the Apostle Islands and Isle Royale Regions, Lake Superior. Fishery Bulletin, 63:63-75. [Was (is?) from http://fishbull.noaa.gov/63-1/bailey.pdf.]
 #'
 #' @keywords datasets
 #'

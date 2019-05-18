@@ -22,9 +22,11 @@
 #'    \item Fabens method 
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy' Fabens
+#' @concept Growth
+#' @concept von Bertalanffy
+#' @concept Fabens
 #' 
-#' @source These unpublished data are from Derek H. Ogle, Northland College.  \bold{Do not use for other than educational purposes without permission from the source.}
+#' @source These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.}
 #' 
 #' @keywords datasets
 #' 

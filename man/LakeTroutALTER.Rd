@@ -16,7 +16,7 @@
    \item{sex}{Sex of the fish (\code{F}=female and \code{M}=male).} 
  }}
 \source{
-Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html.  It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
+Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html. It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 }
 \description{
 Biological data (lengths, weight, age, and sex) of Lake Trout (\emph{Salvelinus namaycush}) sampled from Lake NE12 of the Arctic Long Term Ecological Research location.
@@ -57,5 +57,10 @@ plot(tl~age,data=LakeTroutALTER)
 par(op)
 
 }
-\concept{'Length Frequency' 'Weight-Length' 'Growth' 'von Bertalanffy' 'Size Structure' 'Length Conversion'}
+\concept{Growth}
+\concept{Length Conversion}
+\concept{Length Frequency}
+\concept{Size Structure}
+\concept{Weight-Length}
+\concept{von Bertalanffy}
 \keyword{datasets}

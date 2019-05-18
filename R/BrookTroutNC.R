@@ -20,9 +20,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From (approximately) Figure 5 in Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty.  2010. Dynamics and regulation of the southern brook trout (\emph{Salvelinus fontinalis}) population in an Appalachian stream.  Freshwater Biology 55:1494-1508.
+#' @source From (approximately) Figure 5 in Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty. 2010. Dynamics and regulation of the southern brook trout (\emph{Salvelinus fontinalis}) population in an Appalachian stream. Freshwater Biology 55:1494-1508.
 #' 
 #' @keywords datasets
 #' 

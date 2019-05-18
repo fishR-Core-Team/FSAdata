@@ -35,5 +35,9 @@ str(SturgeonBL)
 head(SturgeonBL)
 
 }
-\concept{Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' Schnabel}
+\concept{Abundance}
+\concept{Capture-Recapture}
+\concept{Mark-Recapture}
+\concept{Population Size}
+\concept{Schnabel}
 \keyword{datasets}

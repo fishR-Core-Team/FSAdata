@@ -13,7 +13,7 @@
    \item{yep}{Abundance of adult (larger than 152.4 mm) Yellow Perch}
  }}
 \source{
-Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs.  1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995.  North American Journal of Fisheries Management 18:764-774.
+Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs. 1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995. North American Journal of Fisheries Management 18:764-774.
 }
 \description{
 Abundance of age-0 and age-5 and older Walleye (\emph{Sander vitreus}), abundance of adult Yellow Perch (\emph{Perca flavescens}), and coefficient of variation of May temperatures for Escanaba Lake, WI, 1958-1992.
@@ -36,5 +36,6 @@ plot(age0~age5,data=WalleyeEL)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

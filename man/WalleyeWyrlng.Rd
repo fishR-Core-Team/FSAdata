@@ -12,7 +12,7 @@
    \item{yrclass}{Year-class of the captured yearlings (capture year minus 1)}
  }}
 \source{
-From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System.  Fisheries Research, 167:13-21.  Obtained directly from Ryan Koenigs.
+From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
 }
 \description{
 Annual catches of yearling Walleye (\emph{Sander vitreus}) in bottom trawls from Lake Winnebago, WI, 1986-2010.
@@ -38,5 +38,6 @@ head(WalleyeWyrlng)
 plot(yearlings~yrclass,data=WalleyeWyrlng)
 
 }
-\concept{'Year-class Strength' Recruitment}
+\concept{Recruitment}
+\concept{Year-class Strength}
 \keyword{datasets}

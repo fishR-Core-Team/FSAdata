@@ -21,9 +21,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From Anonymous. 1989. International Pacific Halibut Commission.  Annual Report 1989.; Myhre, Gordon, Peltonen, Stpierre, Skud, and Walden.  International Pacific halibut Commission. Technical Report No. 14.; Pers. Comm. with Pat Sullivan.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+#' @source From Anonymous. 1989. International Pacific Halibut Commission. Annual Report 1989.; Myhre, Gordon, Peltonen, Stpierre, Skud, and Walden. International Pacific halibut Commission. Technical Report No. 14.; Pers. Comm. with Pat Sullivan. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 #' 
 #' @keywords datasets
 #' 

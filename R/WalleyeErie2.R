@@ -3,7 +3,9 @@
 #' @description Walleye (\emph{Sander vitreus}) biological data (length, weight, sex, maturity, and age) from several locations in Lake Erie, October-November of 2003-2014.
 #' 
 #' @name WalleyeErie2
+#' 
 #' @docType data
+#' 
 #' @format A data frame of 33734 observations on the following 10 variables:
 #' \describe{
 #'  \item{setID}{Unique gear (multifilament gill net kegged 6 ft below surface) set identification number.} 
@@ -16,19 +18,30 @@
 #'  \item{mat}{Maturity (immature, mature).}
 #'  \item{age}{Age (yrs) from otoliths.}
 #' }
-#' @section Topic(s): \itemize{
-#'  \item Growth
-#'  \item von Bertalanffy
-#'  \item Weight-Length
-#'  \item Catch curve
-#'  \item Mortality
-#'  \item Maturity
-#'  \item Size Structure
-#'  \item Length Frequency
-#'  \item Condition
-#' }
-#' @concept 'Growth' 'Weight-Length' 'Catch curve' 'Mortality' 'Maturity' 'Size Structure' 'Condition' 'Length Frequency'
-#' @source These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot).  \bold{Do not use for other than educational purposes without permission from the source.}
+#' 
+#' @section Topic(s):
+#'  \itemize{
+#'   \item Growth
+#'   \item von Bertalanffy
+#'   \item Weight-Length
+#'   \item Catch curve
+#'   \item Mortality
+#'   \item Maturity
+#'   \item Size Structure
+#'   \item Length Frequency
+#'   \item Condition
+#'  }
+#' 
+#' @concept Growth
+#' @concept Weight-Length
+#' @concept Catch curve
+#' @concept Mortality
+#' @concept Maturity
+#' @concept Size Structure
+#' @concept Condition
+#' @concept Length Frequency
+#' 
+#' @source These unpublished data are from the Ohio Department of Natural Resources, Division of Wildlife (via Christopher Vandergoot). \bold{Do not use for other than educational purposes without permission from the source.}
 #' 
 #' @keywords datasets
 #' 

@@ -10,7 +10,7 @@
    \item{age}{Assigned ages (yrs; from scales)}
  }}
 \source{
-Recreated (andom digits were added to construct mm lengths from the cm length bins) from information in Box 15.2 of Quist, M.C., Pegg, M.A., and DeVries, D.R. 2012. Age and growth. In Zale, A.V., Parrish, D.L., and Sutton, T.M., editors. Fisheries Techniques, Third Edition, chapter 15, pages 677-731. American Fisheries Society, Bethesda, MD.
+Recreated (random digits were added to construct mm lengths from the cm length bins) from information in Box 15.2 of Quist, M.C., Pegg, M.A., and DeVries, D.R. 2012. Age and growth. In Zale, A.V., Parrish, D.L., and Sutton, T.M., editors. Fisheries Techniques, Third Edition, chapter 15, pages 677-731. American Fisheries Society, Bethesda, MD.
 }
 \description{
 Ages (subsample) and lengths (all fish) for Creek Chub (\emph{Semotilus atromaculatus}).
@@ -37,5 +37,6 @@ xtabs(~age,data=CreekChub)
 plot(len~age,data=CreekChub)
 
 }
-\concept{'Age-Length Key' 'Growth'}
+\concept{Age-Length Key}
+\concept{Growth}
 \keyword{datasets}

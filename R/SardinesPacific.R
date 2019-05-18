@@ -18,9 +18,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source From Jacobson, L.D. and A.D. MacCall.  1995.  Stock-recruitment models for Pacific sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
+#' @source From Jacobson, L.D. and A.D. MacCall. 1995. Stock-recruitment models for Pacific Sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
 #' 
 #' @keywords datasets
 #' 

@@ -19,7 +19,7 @@
 #'    \item Age-Length Key
 #'  }
 #'  
-#' @concept 'Age-Length Key'
+#' @concept Age-Length Key
 #' 
 #' @seealso \code{\link{Jonubi1}}.
 #' 

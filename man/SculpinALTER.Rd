@@ -11,7 +11,7 @@
    \item{age}{Age (completed growing seasons from otoliths) at capture}
  }}
 \source{
-Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html.  It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
+Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html. It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 }
 \description{
 Biological data (length, weight, and age) for Slimy Sculpin (\emph{Cottus cognatus}) sampled from Lake S-6 of the Arctic Long Term Ecological Research location.
@@ -42,5 +42,9 @@ plot(tl~age,data=SculpinALTER)
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'}
+\concept{Growth}
+\concept{Length Frequency}
+\concept{Size Structure}
+\concept{Weight-Length}
+\concept{von Bertalanffy}
 \keyword{datasets}

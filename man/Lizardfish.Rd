@@ -11,7 +11,7 @@
    \item{recruits}{Recruits (in hundred thousands)}
  }}
 \source{
-VIsually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters.  1992.  Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty.  Chapman and Hall, New York.  570 p.
+Visually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters. 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty. Chapman and Hall, New York. 570 p.
 }
 \description{
 Greater Lizardfish (\emph{Saurida tumbil}) stock and recruitment by year, 1955-1964.
@@ -34,5 +34,6 @@ plot(recruits~stock,data=Lizardfish)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

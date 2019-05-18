@@ -23,11 +23,12 @@ These unpublished data are from the Minnesota Department of Natural Resources, S
 Back-calculated lengths-at-age for Walleye (\emph{Sander vitreus})  from Lake Mille Lacs.  Walleye were captured by Minnesota Department of Natural Resources personnel in fishery-independent gillnets (five multifilament nylon mesh panels with each panel measuring 15.2 m wide and 1.8 m high; bar-measure mesh sizes of the panels were 19.1, 25.4, 31.7, 38.1, and 50.8 mm) set in the fall (mid September to early October) from 2000 to 2011.
 }
 \section{Topic(s)}{
+
  \itemize{
- \item Growth
- \item von Bertalanffy
- \item Back-calculation
-}
+  \item Growth
+  \item von Bertalanffy
+  \item Back-calculation
+ }
 }
 
 \examples{
@@ -37,5 +38,7 @@ head(WalleyeML)
 xtabs(~Year+Est.Age+Sex,data=WalleyeML)
 
 }
-\concept{'Growth' 'von Bertalanffy' 'Back-calculation'}
+\concept{Back-calculation}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

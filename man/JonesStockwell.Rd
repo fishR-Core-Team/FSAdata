@@ -18,7 +18,7 @@
    \item{rejected}{Logical is \code{TRUE} if Schnute method rejected the population estimate because the standard error was too large.}
  }}
 \source{
-From Table 1 in Jones, M.L. and J.D. Stockwell.  1995.  A rapid assessment procedure for enumeration of salmonine populations in streams.  North American Journal of Fisheries Management, 15:551-562.
+From Table 1 in Jones, M.L. and J.D. Stockwell. 1995. A rapid assessment procedure for enumeration of salmonine populations in streams. North American Journal of Fisheries Management, 15:551-562.
 }
 \description{
 Catches of Brown (\emph{Salmo trutta}) and Rainbow Trout (\emph{Oncorhynchus mykiss}) in consecutive removal events at various locations.
@@ -41,5 +41,7 @@ head(JonesStockwell)
 JonesStockwell[3,]
 
 }
-\concept{Abundance 'Population Size' Removal}
+\concept{Abundance}
+\concept{Population Size}
+\concept{Removal}
 \keyword{datasets}

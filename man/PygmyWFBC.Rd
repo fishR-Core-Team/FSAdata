@@ -21,7 +21,7 @@
    \item{USE}{Should the individual be used for analyses.}
  }}
 \source{
-2000 data from Appendix 9 of J. D. McPhail and R. J. Zemlak. October 2001. Pygmy whitefish studies on Dina Lake #1, 2000. Peace/Williston Fish and Wildlife Compensation Program, Report No. 245. 36pp plus appendices.  [Was (is?) from https://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_245.pdf.]
+2000 data from Appendix 9 of J. D. McPhail and R. J. Zemlak. October 2001. Pygmy Whitefish studies on Dina Lake #1, 2000. Peace/Williston Fish and Wildlife Compensation Program, Report No. 245. 36pp plus appendices. [Was (is?) from https://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_245.pdf.]
 
 2001 data from Appendix 14 of Zemlak, R.J. and J.D. McPhail. 2003. Pygmy Whitefish studies on Dina Lake #1, 2001. Peace/Williston Fish and Wildlife Compensation Program Report No. 279. 35pp plus appendices.  [Was (is?) from http://a100.gov.bc.ca/appsdata/acat/documents/r39503/pwfwcp_report_no_279_1383686631923_d6d1b25e3156cee45e442c5b3f756a6a7b4bb7ad7753efb1c51dc23ac997a9a6.pdf.]
 }
@@ -47,5 +47,8 @@ str(PygmyWFBC)
 head(PygmyWFBC)
 
 }
-\concept{'Weight-Length' 'Age Comparison' Condition 'Length Frequency'}
+\concept{Age Comparison}
+\concept{Condition}
+\concept{Length Frequency}
+\concept{Weight-Length}
 \keyword{datasets}

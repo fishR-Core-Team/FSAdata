@@ -25,7 +25,11 @@
 #'    \item Petersen
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Petersen
 #' 
 #' @source Wisconsin Department of Natural Resources.
 #' 

@@ -29,5 +29,6 @@ head(RuffeTL89)
 hist(RuffeTL89$tl,main="")
 
 }
-\concept{'Length Frequency' 'Size Structure'}
+\concept{Length Frequency}
+\concept{Size Structure}
 \keyword{datasets}

@@ -27,9 +27,11 @@
 #'    \item Removal
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Removal
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Removal
 #' 
-#' @source From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and J. Korman.  1999.  Estimating standing stock of juvenile coho salmon (\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki}) in a small stream: a comparison of sampling designs.  Canadian Technical Report of Fisheries and Aquatic Sciences 2282.  24 pp.  [Was (is?) from http://www.dfo-mpo.gc.ca/Library/239481.pdf.]
+#' @source From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and J. Korman. 1999. Estimating standing stock of juvenile coho salmon (\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki}) in a small stream: a comparison of sampling designs. Canadian Technical Report of Fisheries and Aquatic Sciences 2282. 24 pp.[Was (is?) from http://www.dfo-mpo.gc.ca/Library/239481.pdf.]
 #' 
 #' @keywords datasets
 #' 

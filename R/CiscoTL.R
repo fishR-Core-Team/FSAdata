@@ -24,7 +24,8 @@
 #'    \item Length Frequency
 #'  }
 #'  
-#' @concept 'Weight-Length' 'Length Frequency'
+#' @concept Weight-Length
+#' @concept Length Frequency
 #'
 #' @source Was (is?) available for download from http://www.limnology.wisc.edu/.
 #'

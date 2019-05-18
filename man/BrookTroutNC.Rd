@@ -10,7 +10,7 @@
    \item{yoy}{a numeric vector giving autumn YOY density (number per square meter) in following year} 
  }}
 \source{
-From (approximately) Figure 5 in Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty.  2010. Dynamics and regulation of the southern brook trout (\emph{Salvelinus fontinalis}) population in an Appalachian stream.  Freshwater Biology 55:1494-1508.
+From (approximately) Figure 5 in Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty. 2010. Dynamics and regulation of the southern brook trout (\emph{Salvelinus fontinalis}) population in an Appalachian stream. Freshwater Biology 55:1494-1508.
 }
 \description{
 Stock and recruitment data for Brook Trout (\emph{Salvelinus fontinalis}) from Ball Creek, NC, 1991-2004.
@@ -33,5 +33,6 @@ head(BrookTroutNC)
 plot(adult~yoy,data=BrookTroutNC)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

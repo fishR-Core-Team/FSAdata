@@ -1,6 +1,6 @@
-#' Ages of Striped Bass assigned from scales and otoliths.
+#' @title Ages of Striped Bass assigned from scales and otoliths.
 #' 
-#' Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed scales and cracked-and-burnt otoliths.
+#' @description Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed scales and cracked-and-burnt otoliths.
 #' 
 #' @name StripedBass1
 #' 
@@ -20,7 +20,9 @@
 #'    \item Ageing Error
 #'  }
 #' 
-#' @concept Age Precision Bias
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
 #' @source From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 #' 

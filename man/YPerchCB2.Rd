@@ -11,7 +11,7 @@
    \item{recruits}{Catches of age-2 fish (when the year-class is formed)}
  }}
 \source{
-From (approximately) Figure 7 in Bronte et al. 1993.  Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management. 13:511-523.
+From (approximately) Figure 7 in Bronte et al. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management. 13:511-523.
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) stock-recruitment by year-class in Chequamegon Bay, 1975-1986.
@@ -34,5 +34,6 @@ plot(recruits~stock,data=YPerchCB2)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

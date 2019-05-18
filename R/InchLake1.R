@@ -22,7 +22,9 @@
 #'    \item Size Structure 
 #'  }
 #'  
-#' @concept 'Length Frequency' 'Size Structure' PSD
+#' @concept Length Frequency
+#' @concept Size Structure
+#' @concept PSD
 #' 
 #' @seealso See \code{\link{InchLake2}} for a subsample that include weights.
 #' 

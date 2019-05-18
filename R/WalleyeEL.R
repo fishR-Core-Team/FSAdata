@@ -21,9 +21,10 @@
 #'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
-#' @source Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs.  1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995.  North American Journal of Fisheries Management 18:764-774.
+#' @source Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs. 1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995. North American Journal of Fisheries Management 18:764-774.
 #' 
 #' @keywords datasets
 #' 

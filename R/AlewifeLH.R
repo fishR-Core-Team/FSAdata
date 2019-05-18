@@ -20,7 +20,9 @@
 #'    \item Ageing Error
 #'  }
 #' 
-#' @concept Age Precision Bias 'Age Comparison'
+#' @concept Age Precision
+#' @concept Age Bias
+#' @concept Age Comparison
 #' 
 #' @source From Table 1A of Hoenig, J.M., M.J. Morgan, and C.A. Brown. 1995.  Analysing differences between two age determination methods by tests of symmetry.  Canadian Journal of Fisheries And Aquatic Systems, 52:364-368.  Originally from O'Gorman, R., D.H. Barwick, and C.A. Bowen.  1987.  Discrepancies between ages determined from scales and otoliths for alewives from the Great Lakes.  pp. 203-210 In.  Summerfelt, R.C. and G.E. Hall (Eds.)  Age and Growth of Fish.  Iowa State University Press, Ames, IA.
 #' 

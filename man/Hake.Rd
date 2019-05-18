@@ -11,7 +11,7 @@
    \item{spawn.biomass}{a numeric vector of spawning biomass in thousand tonnes} 
  }}
 \source{
-Cadima, E. 2003.  Fish Stock Assessment Manual, FAO Fisheries Department.  131 pp.
+Cadima, E. 2003. Fish Stock Assessment Manual, FAO Fisheries Department. 131 pp.
 }
 \description{
 Stock and recruitment data for Hake (\emph{Merluccius merluccius}), 1982-1996.
@@ -34,5 +34,6 @@ plot(recruits~spawn.biomass,data=Hake)
 par(op)
 
 }
-\concept{'Stock-Recruit' Recruitment}
+\concept{Recruitment}
+\concept{Stock-Recruit}
 \keyword{datasets}

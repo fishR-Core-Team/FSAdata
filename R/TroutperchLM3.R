@@ -20,7 +20,9 @@
 #'    \item Size Structure
 #'  }
 #'  
-#' @concept 'Length Frequency' 'Size Structure' 'Length Expansion'
+#' @concept Length Frequency
+#' @concept Size Structure
+#' @concept Length Expansion
 #' 
 #' @seealso \code{\link{TroutperchLM2}}.
 #' 

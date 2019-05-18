@@ -37,9 +37,11 @@
 #'    \item Removal
 #'  }
 #' 
-#' @concept Abundance 'Population Size' Removal
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Removal
 #' 
-#' @source From Tables 1-3 in Schnute, J.  1983.  A new approach to estimating populations by the removal method.  Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
+#' @source From Tables 1-3 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 #' 
 #' @seealso See \code{\link{BrookTroutNEWP}} for only the data (note the results from Schnute (1983)).
 #' 

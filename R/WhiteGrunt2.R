@@ -19,9 +19,10 @@
 #'    \item von Bertalanffy
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy'
+#' @concept Growth
+#' @concept von Bertalanffy
 #' 
-#' @source From (approximately) Figure 6 of Araujo, J.N. and A.S. Martins.  2007.  Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil.  Scientia Marina 71:793-800.
+#' @source From (approximately) Figure 6 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800.
 #' 
 #' @keywords datasets
 #' 

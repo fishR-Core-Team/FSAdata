@@ -34,5 +34,6 @@ plot(tl~age,data=Croaker2,subset=sex=="M",main="Male")
 par(op)
 
 }
-\concept{Growth 'von Bertalanffy'}
+\concept{Growth}
+\concept{von Bertalanffy}
 \keyword{datasets}

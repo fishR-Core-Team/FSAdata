@@ -22,7 +22,9 @@
 #'    \item Length Frequency
 #'  }
 #' 
-#' @concept 'Weight-Length' 'Length Conversion' 'Length Frequency'
+#' @concept Weight-Length
+#' @concept Length Conversion
+#' @concept Length Frequency
 #' 
 #' @keywords datasets
 #' 

@@ -22,9 +22,11 @@
 #'    \item von Bertalanffy 
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy' 'Maturity'
+#' @concept Growth
+#' @concept von Bertalanffy
+#' @concept Maturity
 #' 
-#' @source Obtained directly (from Bob Hannah).  Date were used in Hannah, R.W, M.T.O. Blume, and J.E. Thompson.  2009.  Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity.  Oregon Department of Fish and Wildlife, Information Reports 2009-04.  [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf]
+#' @source Obtained directly (from Bob Hannah). Data were used in Hannah, R.W, M.T.O. Blume, and J.E. Thompson. 2009. Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity. Oregon Department of Fish and Wildlife, Information Reports 2009-04. [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf]
 #' 
 #' @keywords datasets
 #' 

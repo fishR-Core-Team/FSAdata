@@ -24,9 +24,13 @@
 #'    \item Size Structure
 #'  }
 #'  
-#' @concept Growth 'von Bertalanffy' 'Length Frequency' 'Weight-Length' 'Size Structure'
+#' @concept Growth
+#' @concept von Bertalanffy
+#' @concept Length Frequency
+#' @concept Weight-Length
+#' @concept Size Structure
 #' 
-#' @source Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html.  It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
+#' @source Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html. It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 #' 
 #' @keywords datasets
 #' 

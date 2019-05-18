@@ -1,8 +1,6 @@
-#' Stock and recruitment data for Skeena River Sockeye Salmon, 1940-1967.
+#' @title Stock and recruitment data for Skeena River Sockeye Salmon, 1940-1967.
 #'
-#' Stock and recruitment data for Skeena River Sockeye Salmon (\emph{Oncorhynchus nerka}), 1940-1967.
-#'
-#' The dataset is usually analysed without case 12 because a rockslide occurred that year.
+#' @description Stock and recruitment data for Skeena River Sockeye Salmon (\emph{Oncorhynchus nerka}), 1940-1967.
 #'
 #' @name SockeyeSR
 #' 
@@ -21,7 +19,10 @@
 #'     \item Recruitment
 #'   }
 #' 
-#' @concept 'Stock-Recruit' Recruitment
+#' @note The dataset is usually analysed without case 12 because a rockslide occurred that year.
+#' 
+#' @concept Stock-Recruit
+#' @concept Recruitment
 #' 
 #' @source Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in Regression.  Chapman and Hall, New York.  140 pp.
 #' 

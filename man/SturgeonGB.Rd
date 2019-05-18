@@ -32,5 +32,5 @@ head(SturgeonGB)
 plot(age~year,data=SturgeonGB)
 
 }
-\concept{'Year-class Strength'}
+\concept{Year-class Strength}
 \keyword{datasets}

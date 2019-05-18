@@ -25,9 +25,14 @@
 #'    \item Catchability 
 #'  }
 #'  
-#' @concept Abundance 'Population Size' Leslie DeLury Depletion Catchability
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Leslie
+#' @concept DeLury
+#' @concept Depletion
+#' @concept Catchability
 #' 
-#' @source From Table 3 of Polovina, J.J.  1985.  A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock.  Fishery Bulletin 84:423-428.  [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
+#' @source From Table 3 of Polovina, J.J. 1985. A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock. Fishery Bulletin 84:423-428. [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
 #' 
 #' @keywords datasets
 #' 

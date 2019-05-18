@@ -22,9 +22,14 @@
 #'    \item Capture History 
 #'  }
 #'  
-#' @concept Abundance 'Population Size' 'Mark-Recapture' 'Capture-Recapture' 'Petersen' 'Capture History'
+#' @concept Abundance
+#' @concept Population Size
+#' @concept Mark-Recapture
+#' @concept Capture-Recapture
+#' @concept Petersen
+#' @concept Capture History
 #' 
-#' @source Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge.  2004.  Federal aid in fish restoration - 2000 job performance report. Idaho Department of Fish and Game.
+#' @source Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game.
 #' 
 #' @keywords datasets
 #' 
