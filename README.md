@@ -21,11 +21,11 @@ The [CRAN version](https://cran.r-project.org/web/packages/FSAdata/index.html) o
 install.packages("FSAdata")
 ```
 
-The development version may be installed from GitHub (requires the **devtools** package) with
+The development version may be installed from GitHub with
 
 ```r
-if (!require('devtools')) install.packages('devtools'); require('devtools')
-devtools::install_github('droglenc/FSAdata')
+if (!require('manipulate')) utils::install.packages('manipulate')
+remotes::install_github('droglenc/FSAdata')
 ```
 
 ## Questions / Comments / Problems
