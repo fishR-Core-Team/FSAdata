@@ -24,7 +24,7 @@ install.packages("FSAdata")
 The development version may be installed from GitHub with
 
 ```r
-if (!require('manipulate')) utils::install.packages('manipulate')
+if (!require('remotes')) install.packages('remotes'); require('remotes')
 remotes::install_github('droglenc/FSAdata')
 ```
 
