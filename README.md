@@ -5,7 +5,7 @@ FSAdata
 
 [![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
-[![Travis-CI Build Status](https://travis-ci.org/droglenc/FSAdata.svg?branch=master)](https://travis-ci.org/droglenc/FSAdata)
+
 
 [![CRAN RStudio mirror downloads rate](http://cranlogs.r-pkg.org/badges/FSAdata) ![CRAN RSTudio mirror downloads total](http://cranlogs.r-pkg.org/badges/grand-total/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 
