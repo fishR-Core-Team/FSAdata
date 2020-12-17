@@ -12,3 +12,4 @@ ToDo
 README.md
 NEWS.md
 ^cran-comments$
+^\.github$

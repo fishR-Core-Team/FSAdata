@@ -1,8 +1,9 @@
 # 0.3.9 ongoing
-* 
+* Removed Travis-CI.
+* Added GitHub Actions for CI/CD (used `usethis::use_github_action_check_standard()`)
 
 # 0.3.8 17-May-19
-* Corrected misues of `\concept` in Rd files per CRAN request.
+* Corrected misuse of `\concept` in Rd files per CRAN request.
 
 # 0.3.7 24-Mar-19
 * Added `Encoding: UTF-8` to DESCRIPTION.
