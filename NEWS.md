@@ -1,6 +1,7 @@
 # 0.3.9 ongoing
 * Removed Travis-CI.
 * Added GitHub Actions for CI/CD (used `usethis::use_github_action_check_standard()`)
+* Renamed default repo from `master` to `main` (see [this](https://github.com/github/renaming#rename-existing)).
 
 # 0.3.8 17-May-19
 * Corrected misuse of `\concept` in Rd files per CRAN request.
