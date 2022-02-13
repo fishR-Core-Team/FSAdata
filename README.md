@@ -10,7 +10,7 @@ FSAdata
 [![CRAN RStudio mirror downloads rate](http://cranlogs.r-pkg.org/badges/FSAdata) ![CRAN RSTudio mirror downloads total](http://cranlogs.r-pkg.org/badges/grand-total/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)
 
 ## Introduction
-The **FSAdata** package, authored by [Derek Ogle](http://derekogle.com/) at [Northland College](http://www.northland.edu/), contains data for use in common fisheries analyses.  **FSAdata** is a companion package to [**FSA**](https://github.com/droglenc/FSA).  The data and documentation for individual data sets may be viewed and downloaded (as a CSV file) from [the *data* page](http://derekogle.com/fishR/data/) of the [fishR website](http://derekogle.com/fishR).
+The **FSAdata** package, maintained by the [**fishR Core Team**](https://github.com/fishR-Core-Team), contains data for use in common fisheries analyses.  **FSAdata** is a companion package to [**FSA**](https://github.com/droglenc/FSA).  The data and documentation for individual data sets may be viewed and downloaded (as a CSV file) from [the *data* page](http://derekogle.com/fishR/data/) of the [fishR website](http://derekogle.com/fishR).
 
 Examples of typical fisheries stock assessment analyses that use some of these data sets are available on [the *Examples* page](http://derekogle.com/fishR/examples/) of the [fishR website](http://derekogle.com/fishR).
 
@@ -25,7 +25,7 @@ The development version may be installed from GitHub with
 
 ```r
 if (!require('remotes')) install.packages('remotes'); require('remotes')
-remotes::install_github('droglenc/FSAdata')
+remotes::install_github('fishR-Core-Team/FSAdata')
 ```
 
 ## Questions / Comments / Problems
