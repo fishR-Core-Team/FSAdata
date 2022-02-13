@@ -4,11 +4,13 @@
 \name{FWDrumLE1}
 \alias{FWDrumLE1}
 \title{Ages and lengths of Lake Erie Freshwater Drum.}
-\format{A data frame with 1577 observations on the following 2 variables.
+\format{
+A data frame with 1577 observations on the following 2 variables.
  \describe{
    \item{age}{Assigned ages (from scales).} 
    \item{tl}{Measured total lengths (mm).} 
- }}
+ }
+}
 \source{
 Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58.
 }

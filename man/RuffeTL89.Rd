@@ -4,10 +4,12 @@
 \name{RuffeTL89}
 \alias{RuffeTL89}
 \title{Lengths of Ruffe captured from the St. Louis River in July, 1989.}
-\format{A data frame of 236 observations on the following 1 variable:
+\format{
+A data frame of 236 observations on the following 1 variable:
  \describe{
    \item{tl}{Total length (mm).} 
- }}
+ }
+}
 \source{
 personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
 }

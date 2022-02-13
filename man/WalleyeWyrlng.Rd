@@ -4,13 +4,15 @@
 \name{WalleyeWyrlng}
 \alias{WalleyeWyrlng}
 \title{Annual catches of yearling Walleye in bottom trawls from Lake Winnebago, WI, 1986-2010.}
-\format{A data frame with 35 observations on the following 4 variables.
+\format{
+A data frame with 35 observations on the following 4 variables.
  \describe{
    \item{tows}{Number of trawl tows (i.e., effort)}
    \item{year}{Year of capture}
    \item{yearlings}{Number of yearling Walleye captured}
    \item{yrclass}{Year-class of the captured yearlings (capture year minus 1)}
- }}
+ }
+}
 \source{
 From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
 }

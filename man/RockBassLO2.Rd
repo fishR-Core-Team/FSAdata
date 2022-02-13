@@ -4,11 +4,13 @@
 \name{RockBassLO2}
 \alias{RockBassLO2}
 \title{Ages (subsample) and lengths (all fish) for Rock Bass from Lake Ontario.}
-\format{A data frame with 1288 observations on the following 2 variables:
+\format{
+A data frame with 1288 observations on the following 2 variables:
  \describe{
    \item{age}{Assigned ages (from scales)}
    \item{tl}{Measured total lengths (mm)}
- }}
+ }
+}
 \description{
 Ages (subsample) and lengths (all fish) for Rock Bass from Lake Ontario.
 }

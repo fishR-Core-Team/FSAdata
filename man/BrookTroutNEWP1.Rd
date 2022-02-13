@@ -4,7 +4,8 @@
 \name{BrookTroutNEWP1}
 \alias{BrookTroutNEWP1}
 \title{Catches in removal events for Brook Trout in the Nashwaak Experimental Watersheds Project.}
-\format{A data frame of 16 observations on the following 7 variables:
+\format{
+A data frame of 16 observations on the following 7 variables:
 \describe{
   \item{sample}{A unique identified for the sample.}
   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).} 
@@ -26,7 +27,8 @@
   \item{Schnute.p}{Schnute (1983) estimate of p.}
   \item{Schnute.LH}{Schnute (1983) negative log-likelihood.}
   \item{ChiSq}{Schnute (1983) chi-square from likelihood ratio comparison of Moran and Schnute methods.}
-}}
+}
+}
 \source{
 From Tables 1-3 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 }

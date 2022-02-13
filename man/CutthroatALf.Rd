@@ -4,11 +4,13 @@
 \name{CutthroatALf}
 \alias{CutthroatALf}
 \title{Capture histories (9 samples) of Cutthroat Trout from Auke Lake.}
-\format{A data frame with 47 observations on the following 2 variables.
+\format{
+A data frame with 47 observations on the following 2 variables.
  \describe{
    \item{ch}{Unique capture history (as a character string)}
    \item{freq}{Frequency of fish with that capture history}
- }}
+ }
+}
 \source{
 Entered from Appendix A.3 of Harding, R.D., C.L. Hoover, and R.P. Marshall. 2010.  Abundance of Cutthroat Trout in Auke Lake, Southeast Alaska, in 2005 and 2006. Alaska Department of Fish and Game Fisheries Data Series No. 10-82. Accessed from http://www.sf.adfg.state.ak.us/FedAidPDFs/FDS10-82.pdf.
 }

@@ -4,12 +4,14 @@
 \name{SockeyeSR}
 \alias{SockeyeSR}
 \title{Stock and recruitment data for Skeena River Sockeye Salmon, 1940-1967.}
-\format{A data frame with 28 observations on the following 3 variables.
+\format{
+A data frame with 28 observations on the following 3 variables.
 \describe{ 
   \item{year}{a numeric vector of years}
   \item{spawners}{a numeric vector giving number of spawning fish (in thousands)} 
   \item{recruits}{a numeric vector containing the recruitment (thousands)}
-}}
+}
+}
 \source{
 Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in Regression.  Chapman and Hall, New York.  140 pp.
 }

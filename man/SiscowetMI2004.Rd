@@ -4,7 +4,8 @@
 \name{SiscowetMI2004}
 \alias{SiscowetMI2004}
 \title{Ages (subsample) and lengths (all fish) for male and female Siscowet Lake Trout captured at four locations in Michigan waters of Lake Superior.}
-\format{A data frame with 780 observations on the following 8 variables.
+\format{
+A data frame with 780 observations on the following 8 variables.
  \describe{
    \item{locID}{Locations (\code{Blind Sucker},\code{Deer Park},\code{Grand Marais},\code{Little Lake Harbor})}
    \item{pnldep}{Depth of gillnet panel in which the fish was captured}
@@ -14,7 +15,8 @@
    \item{age}{Assigned ages (yrs; from otoliths)}
    \item{len}{Total length (mm)}
    \item{wgt}{Weight (g)}
- }}
+ }
+}
 \source{
 Obtained directly from the U.S. Fish and Wildlife Service via Michael Seider.
 }

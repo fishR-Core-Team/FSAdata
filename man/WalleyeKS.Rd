@@ -4,12 +4,14 @@
 \name{WalleyeKS}
 \alias{WalleyeKS}
 \title{Catch-at-age for Walleye from eight Kansas reservoirs.}
-\format{A data frame with 66 observations on the following 3 variables.
+\format{
+A data frame with 66 observations on the following 3 variables.
  \describe{
    \item{reservoir}{Reservoir (Cedar.Bluff, Cheney, Glen.Elder, Kirwin, Lovewell, Marion, Webster, Wilson)}
    \item{age}{Age of fish at capture}
    \item{catch}{Number of fish captured}
- }}
+ }
+}
 \source{
 From Figure 2 of Quist, M.C., J.L. Stephen, C.S. Guy, and R.D. Schultz. 2004. Age structure and mortality of Walleyes in Kansas reservoirs: Use of mortality caps to establish realistic management objectives. North American Journal of Fisheries Management 24:990-1002.
 }

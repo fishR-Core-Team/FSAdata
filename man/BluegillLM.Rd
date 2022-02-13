@@ -4,14 +4,16 @@
 \name{BluegillLM}
 \alias{BluegillLM}
 \title{Lengths and weights for Bluegill from Lake Mary, MN.}
-\format{A data frame with 100 observations on the following 5 variables:
+\format{
+A data frame with 100 observations on the following 5 variables:
  \describe{
    \item{sernum}{Unique serial number}
    \item{sl}{Standard length (mm)}
    \item{fl}{Fork length (mm)}
    \item{tl}{Total length (mm)}
    \item{wght}{Weight (g)}
- }}
+ }
+}
 \description{
 Lengths (standard, fork, and total) and weights for Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
 }

@@ -4,14 +4,16 @@
 \name{WalleyePL}
 \alias{WalleyePL}
 \title{Summarized multiple mark-recapture data for YOY walleye.}
-\format{A data frame with 33 observations on the following 5 variables:
+\format{
+A data frame with 33 observations on the following 5 variables:
  \describe{
    \item{year}{Sampling year}
    \item{t}{Sampling occasion within each year}
    \item{caught}{Number of walleye captured}
    \item{recaptures}{Number of marked walleyes captured}
    \item{newmarks}{Number of unmarked walleyes that were captured, marked, and returned to the population}
- }}
+ }
+}
 \source{
 From table 3 of Mraz, D. 1968. Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake. Wisconsin Department of Natural Resources Technical Bulletin 40. 38 pages.
 }

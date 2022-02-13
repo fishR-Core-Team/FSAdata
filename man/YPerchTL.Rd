@@ -4,7 +4,8 @@
 \name{YPerchTL}
 \alias{YPerchTL}
 \title{Lengths and weights for Yellow Perch from Trout Lake, WI.}
-\format{A data frame with 7238 observations on the following 7 variables:
+\format{
+A data frame with 7238 observations on the following 7 variables:
  \describe{
    \item{lakeid}{Lake name (all \code{TR}=Trout Lake)}
    \item{year4}{Year of capture} 
@@ -13,7 +14,8 @@
    \item{spname}{Species name (all \code{YELLOWPERCH})}
    \item{length}{Total Length (nearest mm) at capture}
    \item{weight}{Weight (nearest 0.1 or 1 g) at capture} 
- }}
+ }
+}
 \source{
 From a query to the North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database which was (is?) at https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current.
 }

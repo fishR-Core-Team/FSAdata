@@ -4,7 +4,8 @@
 \name{RuffeSLRH92}
 \alias{RuffeSLRH92}
 \title{Biological data for Ruffe captured from the St. Louis River in 1992.}
-\format{A data frame of 738 observations on the following 11 variables:
+\format{
+A data frame of 738 observations on the following 11 variables:
 
 \describe{
  \item{fish.id}{A unique fish identification number (across all years, most of which are not shown in this file}
@@ -18,7 +19,8 @@
  \item{sex}{Sex factor (\code{female}, \code{male}, or \code{unknown})}
  \item{maturity}{Maturity stage factor (\code{developing}, \code{immature}, \code{mature}, \code{nearly.ripe}, \code{nearly.spent}, \code{recovering}, \code{ripe}, \code{running}, \code{spent}, \code{unknown}, or \code{yoy})}
  \item{age}{Age (yrs) from scales}
-}}
+}
+}
 \source{
 personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
 }

@@ -4,7 +4,8 @@
 \name{BlackDrum2001}
 \alias{BlackDrum2001}
 \title{Biological data for Black Drum from Virginia waters of the Atlantic Ocean, 2001.}
-\format{A data frame with 141 observations on the following 9 variables.
+\format{
+A data frame with 141 observations on the following 9 variables.
  \describe{
    \item{year}{Year of capture (all 2001)}
    \item{agid}{Unique identification number}
@@ -15,7 +16,8 @@
    \item{tl}{Total length (mm)}
    \item{sex}{Sex (\code{female}, \code{male}, and \code{unknown})}
    \item{otoage}{Age (yrs; from otoliths)}
- }}
+ }
+}
 \source{
 Obtained directly from the Virginia Marine Resources Commission via Hank Liao.
 }

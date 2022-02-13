@@ -4,11 +4,13 @@
 \name{BrookTroutNC}
 \alias{BrookTroutNC}
 \title{Stock and recruitment data for Brook Trout from Ball Creek, NC, 1991-2004.}
-\format{A data frame with 10 observations on the following 2 variables.
+\format{
+A data frame with 10 observations on the following 2 variables.
  \describe{
    \item{adult}{a numeric vector giving autumn adult density (number per square meter)}
    \item{yoy}{a numeric vector giving autumn YOY density (number per square meter) in following year} 
- }}
+ }
+}
 \source{
 From (approximately) Figure 5 in Grossman, G.D., R.E. Ratajczak, C.M. Wagner, and J.T. Petty. 2010. Dynamics and regulation of the southern brook trout (\emph{Salvelinus fontinalis}) population in an Appalachian stream. Freshwater Biology 55:1494-1508.
 }

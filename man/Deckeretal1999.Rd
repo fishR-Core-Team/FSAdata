@@ -4,7 +4,8 @@
 \name{Deckeretal1999}
 \alias{Deckeretal1999}
 \title{Catches in removal events of Cutthroat Trout and Coho Salmon in Little Stawamus Creek (British Columbia, Canada) in 1997.}
-\format{A data frame of 26 observations on the following 10 variables:
+\format{
+A data frame of 26 observations on the following 10 variables:
  \describe{
    \item{reach}{Reach number of sampling location.}
    \item{habitat}{Habitat type of sampling location -- \code{pool}, \code{riffle}, or \code{run}.}
@@ -16,7 +17,8 @@
    \item{cutt1}{Cutthroat Trout removed on the first pass.}
    \item{cutt2}{Cutthroat Trout removed on the second pass.}
    \item{cutt3}{Cutthroat Trout removed on the third pass.}
- }}
+ }
+}
 \source{
 From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and J. Korman. 1999. Estimating standing stock of juvenile coho salmon (\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki}) in a small stream: a comparison of sampling designs. Canadian Technical Report of Fisheries and Aquatic Sciences 2282. 24 pp.[Was (is?) from http://www.dfo-mpo.gc.ca/Library/239481.pdf.]
 }

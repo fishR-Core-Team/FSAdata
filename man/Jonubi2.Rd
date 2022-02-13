@@ -4,11 +4,13 @@
 \name{Jonubi2}
 \alias{Jonubi2}
 \title{Ages (subsample) and lengths (all fish) of Jonubi.}
-\format{A data frame with 410 observations on the following 2 variables.
+\format{
+A data frame with 410 observations on the following 2 variables.
  \describe{
    \item{fl}{Fork length (cm) measurements}
    \item{age}{Assigned ages (years)}
- }}
+ }
+}
 \description{
 Ages (subsample) and lengths (all fish) for Jonubi (\emph{Chalcalburnus mossulensis}).
 }

@@ -4,13 +4,15 @@
 \name{Casselman1990}
 \alias{Casselman1990}
 \title{Instantaneous growth rates for two calcified ageing structures.}
-\format{A data frame with 12 observations on the following 4 variables.
+\format{
+A data frame with 12 observations on the following 4 variables.
  \describe{
    \item{day}{A numeric vector of days since the beginning of the study.} 
    \item{body}{A numeric vector of instantaneous growth rates (percent change per day) for body growth.} 
    \item{cleithrum}{A numeric vector of instantaneous growth rates (percent change per day) for cleithra.}
    \item{scale}{A numeric vector of instantaneous growth rates (percent change per day) for scales.} 
- }}
+ }
+}
 \source{
 From Figure 8 of Casselman, J.M. 1990. Growth and relative size of calcified structures of fish. Transactions of the American Fisheries Society. 119:673-688.
 }

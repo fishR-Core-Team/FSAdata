@@ -4,12 +4,14 @@
 \name{WhitefishMB}
 \alias{WhitefishMB}
 \title{Ages of Lake Whitefish from four lakes assigned from scales and fin-rays.}
-\format{A data frame with 859 observations on the following 3 variables:
+\format{
+A data frame with 859 observations on the following 3 variables:
  \describe{
    \item{fin}{Ages assigned from fin-ray sections} 
    \item{scale}{Ages assigned from scales} 
    \item{lake}{Lake from which the fish was captured (\code{L122}, \code{L226}, \code{Huron}, or \code{Dezadeash})} 
- }}
+ }
+}
 \source{
 From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences, 37:534-544.
 }

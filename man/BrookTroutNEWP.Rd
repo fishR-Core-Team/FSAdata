@@ -4,7 +4,8 @@
 \name{BrookTroutNEWP}
 \alias{BrookTroutNEWP}
 \title{Catches in removal events for Brook Trout in the Nashwaak Experimental Watersheds Project.}
-\format{A data frame of 16 observations on the following 7 variables:
+\format{
+A data frame of 16 observations on the following 7 variables:
 \describe{
   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).} 
   \item{section}{Section of stream.  See source.}
@@ -13,7 +14,8 @@
   \item{second}{Catch on the second removal pass.} 
   \item{third}{Catch on the third removal pass.} 
   \item{fourth}{Catch on the fourth removal pass.} 
-}}
+}
+}
 \source{
 From Table 1 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
 }

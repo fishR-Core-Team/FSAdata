@@ -4,12 +4,14 @@
 \name{SculpinALTER}
 \alias{SculpinALTER}
 \title{Biological data for Slimy Sculpin from the Arctic LTER (AK).}
-\format{A data frame of 117 observations on the following 3 variables:
+\format{
+A data frame of 117 observations on the following 3 variables:
  \describe{
    \item{w}{Weight (nearest 0.1 g) at capture} 
    \item{tl}{Total length (nearest mm) at capture}
    \item{age}{Age (completed growing seasons from otoliths) at capture}
- }}
+ }
+}
 \source{
 Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89hes6ag.html. It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 }

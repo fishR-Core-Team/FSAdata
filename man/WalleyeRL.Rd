@@ -4,7 +4,8 @@
 \name{WalleyeRL}
 \alias{WalleyeRL}
 \title{Growth increment data for Red Lakes Walleye.}
-\format{A data frame with 1543 observations on the following 13 variables.
+\format{
+A data frame with 1543 observations on the following 13 variables.
  \describe{
    \item{fish}{A fish identification number.  Unique within a year but not across years.} 
    \item{yearcap}{Year the fish was captured.}
@@ -19,7 +20,8 @@
    \item{inc6}{Scale measurement between fifth and sixth annulus.}
    \item{inc7}{Scale measurement between sixth and seventh annulus.}
    \item{radcap}{Scale radius at time of capture} 
- }}
+ }
+}
 \source{
 Cyterski, M.J. and G.R. Spangler. 1996. A tool for age determination. North American Journal of Fisheries Management, 16:403-412.
 }

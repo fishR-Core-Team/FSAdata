@@ -4,11 +4,13 @@
 \name{StripedBass4}
 \alias{StripedBass4}
 \title{Ages of Striped Bass assigned from scales by two readers.}
-\format{A data frame of 1202 observations on the following 2 variables:
+\format{
+A data frame of 1202 observations on the following 2 variables:
  \describe{
    \item{reader1}{Ages assigned by the first reader}
    \item{reader2}{Ages assigned by the second reader} 
- }}
+ }
+}
 \source{
 From Figure 3 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 }

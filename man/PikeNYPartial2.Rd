@@ -4,11 +4,13 @@
 \name{PikeNYPartial2}
 \alias{PikeNYPartial2}
 \title{Capture histories (4 samples) of a subset of Northern Pike from Buckthorn Marsh.}
-\format{A data frame with 69 observations on the following 2 variables.
+\format{
+A data frame with 69 observations on the following 2 variables.
  \describe{
    \item{sample}{Name of the sample taken}
    \item{id}{Unique fish identification numbers}
- }}
+ }
+}
 \source{
 Simulated from summary data in Table C-1 of New York Power Authority. 2004. Use of Buckhorn Marsh and Grand Island tributaries by Northern Pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
 }

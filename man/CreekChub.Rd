@@ -4,11 +4,13 @@
 \name{CreekChub}
 \alias{CreekChub}
 \title{Ages (subsample) and lengths (all fish) for Creek Chub.}
-\format{A data frame with 218 observations on the following 2 variables.
+\format{
+A data frame with 218 observations on the following 2 variables.
  \describe{
    \item{len}{Total length (mm)}
    \item{age}{Assigned ages (yrs; from scales)}
- }}
+ }
+}
 \source{
 Recreated (random digits were added to construct mm lengths from the cm length bins) from information in Box 15.2 of Quist, M.C., Pegg, M.A., and DeVries, D.R. 2012. Age and growth. In Zale, A.V., Parrish, D.L., and Sutton, T.M., editors. Fisheries Techniques, Third Edition, chapter 15, pages 677-731. American Fisheries Society, Bethesda, MD.
 }

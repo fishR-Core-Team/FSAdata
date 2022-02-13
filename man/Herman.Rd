@@ -4,12 +4,14 @@
 \name{Herman}
 \alias{Herman}
 \title{Lengths for Walleye, Yellow Perch, Black Crappie, and Black Bullheads from Lake Herman, SD.}
-\format{A data frame of 5931 observations on the following 3 variables:
+\format{
+A data frame of 5931 observations on the following 3 variables:
  \describe{
    \item{tl}{Total lengths (cm).} 
    \item{spec}{Species codes (\code{wae}=walleye, \code{yep}=yellow perch, \code{bkc}=black crappie, and \code{bbh}=black bullhead).} 
    \item{yr}{Capture years.}
- }}
+ }
+}
 \source{
 From a South Dakota Fish and Game report that was (does not appear to be there (or anywhere) now) at http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.
 }

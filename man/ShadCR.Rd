@@ -4,7 +4,8 @@
 \name{ShadCR}
 \alias{ShadCR}
 \title{Ages of American Shad assigned from scales by three readers at two times.}
-\format{A data frame with 53 observations on the following 8 variables.
+\format{
+A data frame with 53 observations on the following 8 variables.
 \describe{
   \item{fishID}{A unique fish identification number}
   \item{trueAge}{The true age of the fish}
@@ -14,7 +15,8 @@
   \item{agerB2}{Ages assigned by reader B at time 2}
   \item{agerC1}{Ages assigned by reader C at time 1}
   \item{agerC2}{Ages assigned by reader C at time 2}
-}}
+}
+}
 \source{
 From McBride, R.S., Hendricks, M.L., and Olney, J.E. 2005. Testing the validity of Cating's (1953) method for age determination of American Shad using scales. Fisheries, 30:10-18.  Obtained directly from Rich McBride.
 }

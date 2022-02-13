@@ -4,7 +4,8 @@
 \name{WalleyeML}
 \alias{WalleyeML}
 \title{Back-calculated lengths-at-age for Walleye from Lake Mille Lacs, 2000-2011.}
-\format{A data frame of 14583 observations on the following 9 variables:
+\format{
+A data frame of 14583 observations on the following 9 variables:
 \describe{
  \item{ID}{A unique fish identification number.} 
  \item{Year}{Year of data.} 
@@ -15,7 +16,8 @@
  \item{Dist.Ann}{Scale radius (mm) to annulus given in \code{BC.Age}.} 
  \item{BC.Age}{Annulus or previous age.} 
  \item{BC.Len}{Back-calculated length at \code{BC.Age}.  Lengths were back-calculated using the \emph{Scale-Proportional Hypothesis} method.} 
-}}
+}
+}
 \source{
 These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (via Melissa Treml).  \bold{Do not use for other than educational purposes without permission from the source.}
 }

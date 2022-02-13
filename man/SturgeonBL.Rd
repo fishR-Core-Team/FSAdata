@@ -4,13 +4,15 @@
 \name{SturgeonBL}
 \alias{SturgeonBL}
 \title{Summarized multiple mark-recapture data for Lake Sturgeon.}
-\format{A data frame with 6 observations on the following 4 variables:
+\format{
+A data frame with 6 observations on the following 4 variables:
 \describe{
   \item{t}{Sample number} 
   \item{caught}{Total number of fish caught in the sample}
   \item{recaptures}{Number of previously marked fish in the sample}
   \item{retmarks}{Number of marked fish (previously and newly marked) returned to the population}
-}}
+}
+}
 \source{
 From Table 1 in Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
 }

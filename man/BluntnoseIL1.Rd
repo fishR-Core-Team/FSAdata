@@ -4,12 +4,14 @@
 \name{BluntnoseIL1}
 \alias{BluntnoseIL1}
 \title{Subampled lengths of Bluntnose Minnows from Inch Lake, WI.}
-\format{A data frame of 25 observations on the following 3 variables:
+\format{
+A data frame of 25 observations on the following 3 variables:
   \describe{
     \item{netID}{a netID factor (all 41)}
     \item{species}{species name (all Bluntnose)} 
     \item{tl}{total length (inches to nearest 0.1)} 
-  }}
+  }
+}
 \source{
 Derek H. Ogle, personal collection
 }

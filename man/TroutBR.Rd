@@ -4,12 +4,14 @@
 \name{TroutBR}
 \alias{TroutBR}
 \title{Ages and lengths of migratory Brown and Rainbow Trout.}
-\format{A data frame with 851 observations on the following 3 variables:
+\format{
+A data frame with 851 observations on the following 3 variables:
  \describe{
    \item{tl}{Measured total length (inches).} 
    \item{age}{Assigned age (from scales).} 
    \item{species}{Species (\code{Brown} and \code{Rainbow}).} 
- }}
+ }
+}
 \source{
 From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123.
 }

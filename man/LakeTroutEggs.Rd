@@ -4,11 +4,13 @@
 \name{LakeTroutEggs}
 \alias{LakeTroutEggs}
 \title{Length and egg deposition of Lake Superior Lake Trout.}
-\format{A data frame of 101 observations on the following 2 variables:
+\format{
+A data frame of 101 observations on the following 2 variables:
  \describe{
    \item{tl}{Total length (mm) of an individual fish.}
    \item{eggs}{Estimated number of eggs.} 
- }}
+ }
+}
 \source{
 From (approximately) Figure 2 of Schram, S.T. 1993. Fecundity and egg deposition of a wild Lake Superior Lake Trout stock. Wisconsin Department of Natural Resources, Fisheries Management Report no. 149.
 }

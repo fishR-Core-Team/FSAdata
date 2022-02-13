@@ -4,12 +4,14 @@
 \name{TroutperchLM1}
 \alias{TroutperchLM1}
 \title{Ages, lengths, and sexes of Troutperch.}
-\format{A data frame with 431 observations on the following 3 variables:
+\format{
+A data frame with 431 observations on the following 3 variables:
  \describe{
    \item{age}{Assigned ages (by scales).} 
    \item{tl}{Measured total length (mm).} 
    \item{sex}{Sex (\code{f}=female and \code{m}=male).} 
- }}
+ }
+}
 \source{
 Simulated from the age-length data provided in Table 1 of House, R., and L. Wells.  1973. Age, growth, spawning season, and fecundity of the trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan. Journal of the Fisheries Research Board of Canada. 30:1221-1225.
 }

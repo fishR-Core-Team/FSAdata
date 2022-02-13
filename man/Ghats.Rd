@@ -4,11 +4,13 @@
 \name{Ghats}
 \alias{Ghats}
 \title{Species accumulation data for fish of the Western Ghats of India.}
-\format{A data frame with 350 observations on the following 2 variables.
+\format{
+A data frame with 350 observations on the following 2 variables.
  \describe{
    \item{unit}{a manuscript that was reviewed.}
    \item{cumspec}{cumulative number of species described in the reviewed manuscripts.} 
- }}
+ }
+}
 \source{
 From (approximately) Figure 1 in Dahanukar, N., R. Raut, and A. Bhat. 2004. Distribution, endemism and threat status of freshwater fishes in the Western Ghats of India. Journal of Biogeography 31:123-126.
 }

@@ -4,7 +4,8 @@
 \name{GreensCreekMine}
 \alias{GreensCreekMine}
 \title{Catches in removal events of Coho Salmon and Dolly Varden Char at various locations near the Greens Creek (AK) Mine site.}
-\format{A data frame of 66 observations on the following 8 variables:
+\format{
+A data frame of 66 observations on the following 8 variables:
  \describe{
    \item{location}{Sampling location.}
    \item{year}{Sampling year.}
@@ -14,7 +15,8 @@
    \item{set3}{Catch on the third removal pass.}
    \item{min.FL}{Minimum observed fork length.}
    \item{max.FL}{Maximum observed fork length.}
- }}
+ }
+}
 \source{
 From Appendix C1 of Kanouse, K.M. and B.P. Brewster. 2012. Aquatic Biomonitoring at Greens Creek Mine, 2012. Alaska Department of Fish and Game Technical Report No. 12-11. [Was (is?) from http://dnr.alaska.gov/mlw/mining/largemine/greenscreek/pdf/gc2012bio.pdf.]
 }

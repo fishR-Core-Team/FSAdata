@@ -4,14 +4,16 @@
 \name{PikeWindermere}
 \alias{PikeWindermere}
 \title{Stock and recruitment data for Northern Pike from Lake Windermere, 1944-1981.}
-\format{A data frame of 75 observations on the following two variables:
+\format{
+A data frame of 75 observations on the following two variables:
  \describe{
    \item{year}{Year}
    \item{stock}{Female biomass (kg)}
    \item{recruits}{Number at age-2}
    \item{basin}{Basin of Windermere (North or South)}
    \item{tdd14}{Temperature degree-days over 14C}
- }}
+ }
+}
 \source{
 From table 3 in Kipling, C. 1983. Changes in the population of pike (\emph{Esox lucius}) in Windermere from 1944 to 1981. Journal of Animal Ecology 52:989-999.
 }

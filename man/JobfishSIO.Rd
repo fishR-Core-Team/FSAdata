@@ -4,11 +4,13 @@
 \name{JobfishSIO}
 \alias{JobfishSIO}
 \title{Catch and effort data for South Indian Ocean Jobfish.}
-\format{A data frame with 13 observations on the following 2 variables.
+\format{
+A data frame with 13 observations on the following 2 variables.
  \describe{
    \item{catch}{Catches (kg).} 
    \item{effort}{Effort (man-hours).} 
- }}
+ }
+}
 \source{
 From Table 2 of Grandcourt, E.M. 2003. The effect of intensive line fishing on the virgin biomass of a tropical deepwater snapper, the crimson jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311. [Was (is?) from http://fishbull.noaa.gov/1012/08grandc.pdf.]
 }

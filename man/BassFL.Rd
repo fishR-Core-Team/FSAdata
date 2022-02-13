@@ -4,14 +4,16 @@
 \name{BassFL}
 \alias{BassFL}
 \title{Catch-at-age for Suwanee and Largemouth Bass.}
-\format{A data frame with 39 observations on the following 5 variables.
+\format{
+A data frame with 39 observations on the following 5 variables.
  \describe{
    \item{species}{Species of bass (Suwanee and Largemouth)}
    \item{loc}{Location (SantaFe, Wacissa, Withlacoochee, Ochlockonee)}
    \item{year}{Year (2001, 2002)} 
    \item{num}{Number of fish captured}
    \item{age}{Age of fish at capture}
- }}
+ }
+}
 \source{
 From Figure 2 of Bonvechio, T.F., M.S. Allen, and R.L. Cailteux. 2005. Relative Abundance, Growth, and Mortality of Suwannee Bass in Four Florida Rivers. North American Journal of Fisheries Management 25:275-283. [Was (is?) from http://sfrc.ufl.edu/allenlab/publications/2005bonvechio_allen_cailteux.pdf.]
 }

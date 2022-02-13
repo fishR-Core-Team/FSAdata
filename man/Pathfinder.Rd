@@ -4,14 +4,16 @@
 \name{Pathfinder}
 \alias{Pathfinder}
 \title{Catch and effort for three Snapper species in a depletion experiment.}
-\format{A data frame with 13 observations on the following 5 variables.
+\format{
+A data frame with 13 observations on the following 5 variables.
  \describe{
    \item{date}{Date (1984)}
    \item{effort}{Fishing effort (line-hours of a bottom hand-line)}
    \item{Pzonatus}{Catch of \emph{Pristipomoides zonatus}} 
    \item{Pauricilla}{Catch of \emph{Pristipomoides auricilla}}
    \item{Ecarbunculus}{Catch of \emph{Etelis carbunculUs}}
- }}
+ }
+}
 \source{
 From Table 3 of Polovina, J.J. 1985. A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock. Fishery Bulletin 84:423-428. [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
 }

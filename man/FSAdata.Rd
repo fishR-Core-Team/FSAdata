@@ -5,7 +5,9 @@
 \alias{FSAdata}
 \alias{FSAdataTopics}
 \title{Data to support the FSA package.}
-\format{An object of class \code{character} of length 16.}
+\format{
+An object of class \code{character} of length 16.
+}
 \usage{
 FSAdataTopics
 }

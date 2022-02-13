@@ -4,7 +4,8 @@
 \name{LobsterHI}
 \alias{LobsterHI}
 \title{Catch and effort data for Hawaiian Islands Slipper Lobster.}
-\format{A data frame with 34 observations on the following 6 variables.
+\format{
+A data frame with 34 observations on the following 6 variables.
  \describe{
    \item{day}{Day of the catch} 
    \item{legal}{Number of legal lobsters caught.} 
@@ -12,7 +13,8 @@
    \item{berried}{Number of egg-bearing lobsters caught.} 
    \item{total}{Total number of lobsters caught.} 
    \item{effort}{Total daily effort expended.} 
- }}
+ }
+}
 \source{
 From Table 1 of Clarke, R.P., and S.S. Yoshimoto. 1990. Application of the Leslie model to commercial catch and effort of the slipper lobster, \emph{Scyllarides squammosus}, fishery in the northwestern hawaiian islands. Marine Fisheries Review, 52(2):1-7.
 }

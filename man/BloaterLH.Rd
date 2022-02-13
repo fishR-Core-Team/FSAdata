@@ -4,12 +4,14 @@
 \name{BloaterLH}
 \alias{BloaterLH}
 \title{Stock and recruitment data for Lake Huron Bloaters, 1981-1996.}
-\format{A data frame of 16 observations on the following 3 variables:
+\format{
+A data frame of 16 observations on the following 3 variables:
  \describe{
    \item{year}{Year of data (1981-1996)}
    \item{eggs}{Millions of eggs deposited} 
    \item{age3}{Relative abundance of age-3 fish}
- }}
+ }
+}
 \source{
 From (approximately) Figure 7 of Schaeffer, J.S. 2004. Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998. Ann Zool Fennici. 41:271-279.
 }

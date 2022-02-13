@@ -4,13 +4,15 @@
 \name{WhitefishLS}
 \alias{WhitefishLS}
 \title{Landings and value of Lake Superior Lake Whitefish.}
-\format{A data frame with 12 observations on the following 4 variables:
+\format{
+A data frame with 12 observations on the following 4 variables:
  \describe{
    \item{year}{Year of catch.}
    \item{state}{State of catch (\code{MI}, \code{MN}, or \code{WI}).}
    \item{catch}{Catch in lbs.}
    \item{value}{Value of catch in dollars.}
- }}
+ }
+}
 \source{
 Results from a query in 2006 to the NMFS Great Lakes Commercial Fishery Landings database which was (is?) at http://www.st.nmfs.noaa.gov/pls/webpls/webst1.MF_GL_SPECIES_HELP.SPECIES.
 }

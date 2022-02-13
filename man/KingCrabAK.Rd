@@ -4,12 +4,14 @@
 \name{KingCrabAK}
 \alias{KingCrabAK}
 \title{Stock and recruitment data for Red King Crab in Alaska, 1960-2004.}
-\format{A data frame of 44 observations on the following 3 variables:
+\format{
+A data frame of 44 observations on the following 3 variables:
  \describe{
    \item{year}{Brood year (1960-2004)}
    \item{recruits}{abundance (thousands) of male recruits (>=125 mm and <145 mm)}
    \item{adults}{abundance (thousands) legal (>=145 mm carapace length) males}
- }}
+ }
+}
 \source{
 From table 1 in Bechtol W.R. and G.H. Kruse. 2009. Analysis of a stock-recruit relationship for Red King Crab off Kodiak Island Alaska. Marine and Coastal Fisheries: Dynamics Management and Ecosystem Science 1:29-44.
 }

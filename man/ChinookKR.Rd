@@ -4,12 +4,14 @@
 \name{ChinookKR}
 \alias{ChinookKR}
 \title{Stock and recruitment data for Klamath River Chinook Salmon, 1979-2000.}
-\format{A data frame with 27 observations on the following 3 variables.
+\format{
+A data frame with 27 observations on the following 3 variables.
  \describe{ 
    \item{brood.year}{a numeric vector of brood years}
    \item{spawners}{a numeric vector giving number of spawning fish}
    \item{recruits}{a numeric vector containing the number of recruits}
- }}
+ }
+}
 \source{
 Was (is?) from http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf.
 }

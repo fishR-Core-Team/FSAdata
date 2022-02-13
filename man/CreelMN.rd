@@ -4,11 +4,13 @@
 \name{CreelMN}
 \alias{CreelMN}
 \title{Results of a large number of creel surveys in Minnestoa lakes.}
-\format{A data frame of 14550 observations on the following 2 variables:
+\format{
+A data frame of 14550 observations on the following 2 variables:
  \describe{
    \item{species}{species of fish that was targeted.}
    \item{harvest}{number of fish of that species harvested by one angler.} 
- }}
+ }
+}
 \source{
 From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson. 2001. Creel limits in Minnesota: A proposal for change. Fisheries 26:19-26.
 }

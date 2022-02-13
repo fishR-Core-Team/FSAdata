@@ -4,12 +4,14 @@
 \name{HerringBWE}
 \alias{HerringBWE}
 \title{Stock and recruitment data for Blackwater Estuary Herring, 1962-1997.}
-\format{A data frame with 36 observations on the following 3 variables.
+\format{
+A data frame with 36 observations on the following 3 variables.
  \describe{
    \item{spawning.year}{a numeric vector of spawning years}
    \item{ssb}{a numeric vector giving biomass of spawning fish}
    \item{recruits}{a numeric vector containing the number of recruits}
- }}
+ }
+}
 \source{
 From Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater herring (\emph{Clupea harengus} L.) in relation to larval production. ICES Journal of Marine Science, 58:750-762.
 }

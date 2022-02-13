@@ -4,12 +4,14 @@
 \name{YPerchGL}
 \alias{YPerchGL}
 \title{Lengths and weights of Yellow Perch from Grafton Lake (ME) by year.}
-\format{A data frame with 100 observations on the following 3 variables:
+\format{
+A data frame with 100 observations on the following 3 variables:
  \describe{
    \item{fl}{Fork Length (nearest mm) at capture}
    \item{w}{Weight (nearest 0.1 g) at capture}
    \item{year}{Year of capture (\code{1994} or \code{2000})}
- }}
+ }
+}
 \source{
 From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal. Technical Report Publication No. 59, Acadia Centre for Estuarine Research.
 }

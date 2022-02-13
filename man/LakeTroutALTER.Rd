@@ -4,7 +4,8 @@
 \name{LakeTroutALTER}
 \alias{LakeTroutALTER}
 \title{Biological data for Lake Trout from the Arctic LTER (AK).}
-\format{A data frame of 86 observations on the following 6 variables:
+\format{
+A data frame of 86 observations on the following 6 variables:
  \describe{
    \item{id}{A unique identification number.} 
    \item{tl}{Total Length (nearest mm) at capture.} 
@@ -14,7 +15,8 @@
    \item{otorad}{Total otolith radius (mm) at capture.}
    \item{age}{Age (completed growing seasons) at capture.} 
    \item{sex}{Sex of the fish (\code{F}=female and \code{M}=male).} 
- }}
+ }
+}
 \source{
 Was (does not appear to be available there now) from http://ecosystems.mbl.edu/ARC/lakes/fish/89mcne12.html. It seems like it should still be available from the Arctic LTER site at http://ecosystems.mbl.edu/ARC/lakes/fish/index.shtml.
 }

@@ -4,13 +4,15 @@
 \name{ShrimpGuam}
 \alias{ShrimpGuam}
 \title{Catch and effort data for Deepwater Caridean Shrimp.}
-\format{A data frame with 15 observations on the following 4 variables.
+\format{
+A data frame with 15 observations on the following 4 variables.
  \describe{
    \item{day}{Day of the catch.  Day 9 is 9-Jan-1984.} 
    \item{standard}{Catch (kg) of of Shrimp in the standard traps.} 
    \item{pyramid}{Catch (kg) of of Shrimp in the pyramid traps.} 
    \item{effort}{Total effort (trap-nights) for the standard traps.} 
- }}
+ }
+}
 \source{
 From Table 1 of Ralson, S. 1986. An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago. Fishery Bulletin 84:927-934. [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
 }

@@ -4,7 +4,8 @@
 \name{PygmyWFBC}
 \alias{PygmyWFBC}
 \title{Biological data for Pygmy Whitefish from Dina Lake #1 (British Columbia), 2000 and 2001.}
-\format{A data frame with 690 observations on the following 13 variables.
+\format{
+A data frame with 690 observations on the following 13 variables.
  \describe{
    \item{year}{Year of capture (2000, 2001)}
    \item{month}{Month of capture}
@@ -19,7 +20,8 @@
    \item{scale_age}{Scale age (in years)}
    \item{oto_age}{Otolith age (in years)}
    \item{USE}{Should the individual be used for analyses.}
- }}
+ }
+}
 \source{
 2000 data from Appendix 9 of J. D. McPhail and R. J. Zemlak. October 2001. Pygmy Whitefish studies on Dina Lake #1, 2000. Peace/Williston Fish and Wildlife Compensation Program, Report No. 245. 36pp plus appendices. [Was (is?) from https://www.bchydro.com/pwcp/pdfs/reports/pwfwcp_report_no_245.pdf.]
 

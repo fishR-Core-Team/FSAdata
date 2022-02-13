@@ -4,11 +4,13 @@
 \name{RockBassLO1}
 \alias{RockBassLO1}
 \title{Ages and lengths of Lake Ontario Rock Bass.}
-\format{A data frame with 1288 observations on the following 2 variables:
+\format{
+A data frame with 1288 observations on the following 2 variables:
  \describe{
    \item{age}{Assigned ages (from scales).} 
    \item{tl}{Measured total lengths (mm).} 
- }}
+ }
+}
 \source{
 Simulated from Table 1 of Wolfert, D.R. 1980. Age and growth of Rock Bass in Eastern Lake Ontario. New York Fish and Game Journal, 27:88:90.
 }

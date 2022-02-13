@@ -4,7 +4,8 @@
 \name{InchLake2}
 \alias{InchLake2}
 \title{Lengths and weights for fish captured in Inch Lake}
-\format{A data frame of 516 observations on the following 6 variables:
+\format{
+A data frame of 516 observations on the following 6 variables:
  \describe{
    \item{netID}{A unique identifier for the sampling event}
    \item{fishID}{A unique identifier for the individual fish}
@@ -12,7 +13,8 @@
    \item{length}{Total length (inches to nearest 0.1)}
    \item{weight}{Wet weight (grams to nearest 0.1)} 
    \item{year}{Year of capture}
-  }}
+  }
+}
 \source{
 Derek H. Ogle, personal collection
 }

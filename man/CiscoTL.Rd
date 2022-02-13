@@ -4,7 +4,8 @@
 \name{CiscoTL}
 \alias{CiscoTL}
 \title{Lengths, weights, and sex of Cisco from Trout Lake, WI.}
-\format{A data frame of 8594 observations on the following 8 variables:
+\format{
+A data frame of 8594 observations on the following 8 variables:
  \describe{
    \item{lakeid}{Lake name (all \code{TR}=Trout Lake)}
    \item{year4}{Year of capture} 
@@ -14,7 +15,8 @@
    \item{length}{Total length (nearest mm) at capture}
    \item{weight}{Weight (nearest 0.1 or 1 g) at capture} 
    \item{sex}{Sex (\code{F}=Female, \code{I}=Immature, \code{M}=Male)}
- }}
+ }
+}
 \source{
 Was (is?) available for download from http://www.limnology.wisc.edu/.
 }

@@ -4,7 +4,8 @@
 \name{MuskieWI06MR}
 \alias{MuskieWI06MR}
 \title{Summarized mark-recapture data for Muskellunge from many Wisconsin Lakes, 2006.}
-\format{A data frame with 40 observations on the following 7 variables.
+\format{
+A data frame with 40 observations on the following 7 variables.
  \describe{
    \item{county}{County of the collection}
    \item{lake}{Lake of the collection}
@@ -12,7 +13,8 @@
    \item{mark}{Total number of fish marked on the marking run}
    \item{catch}{Total number of fish caught on the recapture run}
    \item{recap}{Total number of previously marked fish in the recapture run}
- }}
+ }
+}
 \source{
 Wisconsin Department of Natural Resources.
 }

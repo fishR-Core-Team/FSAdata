@@ -4,12 +4,14 @@
 \name{DarterOnt}
 \alias{DarterOnt}
 \title{Ages and lengths of Channel Darters from two locations.}
-\format{A data frame of 54 observations on the following 3 variables:
+\format{
+A data frame of 54 observations on the following 3 variables:
  \describe{
    \item{age}{Otolith age-at-capture (years).} 
    \item{tl}{Total length (nearest 0.1 mm) at capture.} 
    \item{river}{Location of capture (Salmon or Trent Rivers).} 
- }}
+ }
+}
 \source{
 From Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations.  Journal of Freshwater Ecology 19:441-444.
 }

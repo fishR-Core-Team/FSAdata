@@ -4,13 +4,15 @@
 \name{SunfishIN}
 \alias{SunfishIN}
 \title{Summarized multiple mark-recapture data for Redear Sunfish.}
-\format{A data frame with 6 observations on the following 4 variables:
+\format{
+A data frame with 6 observations on the following 4 variables:
  \describe{
    \item{t}{Sample number} 
    \item{caught}{Total number of fish caught in the sample}
    \item{recaps}{Number of previously marked fish in the sample}
    \item{retmarks}{Number of marked fish returned to the population}
- }}
+ }
+}
 \source{
 Originally from Gerking, S.D. 1953. Vital statistics of the fish population of Gordy Lake, Indiana. Transactions of the American Fisheries Society. 82:48-67. But also found in Table 2.4 of Krebs, C.J. 1999. Ecological Methodology. Addison-Welsey Educational Publishing, second edition and Table 4.4 of Ricker, W.E. 1975. Computation and interpretation of biological statistics of fish populations. Technical Report Bulletin 191, Bulletin of the Fisheries Research Board of Canada.
 }

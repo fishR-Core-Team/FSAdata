@@ -4,12 +4,14 @@
 \name{SockeyeKL}
 \alias{SockeyeKL}
 \title{Stock and recruitment data for Sockeye Salmon from Karluk Lake, AK, 1921-1948.}
-\format{A data frame of 28 observations on the following 3 variables:
+\format{
+A data frame of 28 observations on the following 3 variables:
 \describe{
   \item{year}{Year of data.} 
   \item{stock}{Upstream escapement.}
   \item{recruits}{Recruits.}
-}}
+}
+}
 \source{
 From Gulland, J.A. 1983. Fish stock assessment: A manual of basic methods. John Wiley and Sons, New York, NY. 223 p.
 }

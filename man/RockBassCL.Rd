@@ -4,11 +4,13 @@
 \name{RockBassCL}
 \alias{RockBassCL}
 \title{Catch-at-age of Cayuga Lake Rock Bass.}
-\format{A data frame of 6 observations on the following 2 variables:
+\format{
+A data frame of 6 observations on the following 2 variables:
  \describe{
    \item{age}{Assigned age.}
    \item{catch}{Number in catch.} 
- }}
+ }
+}
 \source{
 D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates. Transactions of the American Fisheries Society. 90:181-189.
 }

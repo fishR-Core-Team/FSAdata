@@ -4,12 +4,14 @@
 \name{SunfishLP}
 \alias{SunfishLP}
 \title{Catch-at-age for Bluegill and Redear Sunfish in Florida.}
-\format{A data frame with 12 observations on the following 3 variables:
+\format{
+A data frame with 12 observations on the following 3 variables:
 \describe{
  \item{species}{Species of sunfish (\code{bluegill} or \code{redear})}
  \item{age}{Age (yrs from otoliths)}
  \item{perc.freq}{Percent frequency of fish collected in 1998}
-}}
+}
+}
 \source{
 From (approximately) Figure 2 in Crawford, S. and M.S. Allen. 2006. Fishing and natural mortality of Bluegills and Redear Sunfish at Lake Panasoffkee, Florida: Implications for size limits. North American Journal of Fisheries Management 26:42-51. Note that I added a percentage for age-1 fish (the difference in percentages from Fig. 2).
 }

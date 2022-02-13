@@ -4,11 +4,13 @@
 \name{BluefishAge}
 \alias{BluefishAge}
 \title{Ages of Bluefish assigned from otoliths by two readers.}
-\format{A data frame with 445 observations on the following 2 variables.
+\format{
+A data frame with 445 observations on the following 2 variables.
 \describe{
   \item{r1}{Ages assigned by the first reader}
   \item{r2}{Ages assigned by the second reader}
-}}
+}
+}
 \source{
 From Figure 2 in Chapter 3 (Bluefish) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 }

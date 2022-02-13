@@ -4,14 +4,16 @@
 \name{WhitefishTB}
 \alias{WhitefishTB}
 \title{Stock and recruitment data for Lake Whitefish in Thunder Bay, Lake Superior, 1975-1988.}
-\format{A data frame of 14 observations on the following 5 variables:
+\format{
+A data frame of 14 observations on the following 5 variables:
  \describe{
    \item{year}{Year of data}
    \item{ssb}{Spawning stock biomass (in tonnes)}
    \item{rec}{Recruits (in thousands)}
    \item{land}{Landings (in tonnes)}
    \item{fmort}{Fishing related mortality (natural mortality was assumed to be 0.3)}
- }}
+ }
+}
 \source{
 From Petzold, M. 1995. An historical analysis of the Lake Whitefish fisheries of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior. Ontario Min. of Nat. Res. unpubl. manuscript. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 }

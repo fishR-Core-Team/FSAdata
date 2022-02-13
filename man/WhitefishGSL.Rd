@@ -4,7 +4,8 @@
 \name{WhitefishGSL}
 \alias{WhitefishGSL}
 \title{Catch-at-age of Great Slave Lake Whitefish (commercial) by area.}
-\format{A data frame with 16 observations on the following 6 variables:
+\format{
+A data frame with 16 observations on the following 6 variables:
  \describe{
    \item{age}{Assigned ages.} 
    \item{area.IE}{Catches for area IE.}
@@ -12,7 +13,8 @@
    \item{area.IV}{Catches for area IV.}
    \item{area.V}{Catches for area V.} 
    \item{area.IW}{Catches for area IW.} 
- }}
+ }
+}
 \source{
 From Table 19 of Mosenko, R.W., and G. Low. 1980. Data from the commercial fishery for lake whitefish \emph{Coregonus clupeaformis} (Mitchill), on Great Slave Lake, Northwest Territories, 1979. Canadian Data Report of Fisheries And Aquatic Sciences, No. 194.
 }

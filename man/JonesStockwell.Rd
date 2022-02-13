@@ -4,7 +4,8 @@
 \name{JonesStockwell}
 \alias{JonesStockwell}
 \title{Catches in removal events of Brown and Rainbow Trout at various locations.}
-\format{A data frame of 40 observations on the following 10 variables:
+\format{
+A data frame of 40 observations on the following 10 variables:
  \describe{
    \item{species}{Species of trout (\code{brown} or \code{rainbow}).}
    \item{site}{Site in the watershed.  See source.}
@@ -16,7 +17,8 @@
    \item{pop.sch}{Population estimate by Schnute method.}
    \item{q.cons}{Logical is \code{TRUE} if catchability was constant.}
    \item{rejected}{Logical is \code{TRUE} if Schnute method rejected the population estimate because the standard error was too large.}
- }}
+ }
+}
 \source{
 From Table 1 in Jones, M.L. and J.D. Stockwell. 1995. A rapid assessment procedure for enumeration of salmonine populations in streams. North American Journal of Fisheries Management, 15:551-562.
 }

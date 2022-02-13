@@ -4,14 +4,16 @@
 \name{SalmonidsMCCA}
 \alias{SalmonidsMCCA}
 \title{Catches in removal events of Cutthroate Trout and Steelhead of various sizes in two reaches of McGarvey Creek (CA).}
-\format{A data frame of 5 observations on the following 5 variables:
+\format{
+A data frame of 5 observations on the following 5 variables:
  \describe{
    \item{reach}{Sampling location.}
    \item{group}{Size or species caught (\code{fry}=both age-0 Cutthroat Trout and Steelhead, \code{Steelhead}=age-1+ Steelhead, or \code{Cutthroat}=age-1+ Cutthroat Trout).}
    \item{pass1}{Catch on the first removal pass.}
    \item{pass2}{Catch on the second removal pass.}
    \item{pass3}{Catch on the third removal pass.}
- }}
+ }
+}
 \source{
 From Table 2 of Voight, H. 1999. Assessment of juvenile salmonid populations in two index reaches of McGarvey Creek, a tributary to the lower Klamath River. First Year of Investigations - 1998. [Was (is?) from http://www.krisweb.com/biblio/klamath_yuroktfp_voight_1999_7.pdf.]
 }

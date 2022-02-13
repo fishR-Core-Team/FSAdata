@@ -4,11 +4,13 @@
 \name{RBTroutUNSP}
 \alias{RBTroutUNSP}
 \title{Capture histories (2 sample) of Rainbow Trout.}
-\format{A data frame with 173 observations on the following 2 variables:
+\format{
+A data frame with 173 observations on the following 2 variables:
  \describe{
    \item{first}{Indicator variable for the first sample (1=captured)}
    \item{second}{Indicator variable for the second sample (1=captured)}
- }}
+ }
+}
 \source{
 Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game.
 }

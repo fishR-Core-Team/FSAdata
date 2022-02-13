@@ -4,11 +4,13 @@
 \name{DarterMahon}
 \alias{DarterMahon}
 \title{Catch and effort data for Fantail Darter.}
-\format{A data frame with 7 observations on the following 2 variables.
+\format{
+A data frame with 7 observations on the following 2 variables.
  \describe{
    \item{catch}{Catch of Fantail Darter.} 
    \item{effort}{Constant electrofishing effort.} 
- }}
+ }
+}
 \source{
 From Mahon, R. 1980. Accuracy of catch-effort methods for estimating fish density and biomass in streams. Environmental Biology of Fishes. 4:343-363.
 }

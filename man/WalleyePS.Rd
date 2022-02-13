@@ -4,13 +4,15 @@
 \name{WalleyePS}
 \alias{WalleyePS}
 \title{Ages of Walleye assigned from otoliths, scales, and spines.}
-\format{A data frame with 61 observations on the following 4 variables:
+\format{
+A data frame with 61 observations on the following 4 variables:
  \describe{
    \item{otolith}{Age (years) assigned from broken, ground, and polished otolith sections} 
    \item{spine}{Age (years) assigned from dorsal spine sections}
    \item{scale}{Age (years) assigned from scale impressions}
    \item{sex}{Sex of fish (\code{female} and \code{male})}
- }}
+ }
+}
 \source{
 From Figure 2 in Kocovsky, P.M., and R.M. Carline. 2000. A comparison of methods for estimating ages of unexploited walleyes. North American Journal of Fisheries Management 20:1044-1048.
 }

@@ -4,12 +4,14 @@
 \name{SardinesPacific}
 \alias{SardinesPacific}
 \title{Stock and recruitment data for Pacific Sardines, 1935-1990.}
-\format{A data frame of 34 observations on the following 3 variables:
+\format{
+A data frame of 34 observations on the following 3 variables:
 \describe{
   \item{year}{Year of data}
   \item{ssb}{Spawning stock biomass -- millions of fish}
   \item{recruits}{Recruitment index -- millions of fish}
-}}
+}
+}
 \source{
 From Jacobson, L.D. and A.D. MacCall. 1995. Stock-recruitment models for Pacific Sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
 }

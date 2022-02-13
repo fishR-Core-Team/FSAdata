@@ -4,7 +4,8 @@
 \name{Pallid}
 \alias{Pallid}
 \title{Lengths and weights for Pallid Sturgeon from four locations in the Missouri River.}
-\format{A data frame with 30 observations on the following 7 variables:
+\format{
+A data frame with 30 observations on the following 7 variables:
  \describe{
    \item{date}{Date of collection} 
    \item{sl}{Standard length (mm)}
@@ -13,7 +14,8 @@
    \item{w}{Weight (g)}
    \item{status}{Living status of fish at time of collection (\code{Frozen}, \code{Live}, \code{Dead}).} 
    \item{loc}{Location of fish collection (\code{NB}=Nebraska, \code{SD}=South Dakota, \code{ND}=North Dakota, \code{MT}=Montana)} 
- }}
+ }
+}
 \source{
 From Table 1 in Keenlyne, K.D. and S.J. Maxwell. 1993. Length conversions and length-weight relations for pallid sturgeon. North American Journal of Fisheries Management. 13:395-397.
 }

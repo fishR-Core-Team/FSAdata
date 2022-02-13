@@ -4,12 +4,14 @@
 \name{Bonito}
 \alias{Bonito}
 \title{Ages and lengths of Australian Bonito.}
-\format{A data frame with the following 3 variables:
+\format{
+A data frame with the following 3 variables:
  \describe{
    \item{sex}{Sex (\code{Female}, \code{Juvenile}, \code{Male}).}
    \item{age}{Age in decimal years.}
    \item{fl}{Total length (to nearest 0.1 cm).}
- }}
+ }
+}
 \source{
 From figure 3 of Stewart, J., W. Robbins, K. Rowling, A. Hegarty, and A. Gould. 2013. A multifaceted approach to modelling growth of the Australian bonito, \emph{Sarda australis} (Family Scombridae), with some observations on its reproductive biology. Marine and Freshwater Research 64:671-678.
 }

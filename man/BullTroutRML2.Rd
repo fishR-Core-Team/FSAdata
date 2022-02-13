@@ -4,13 +4,15 @@
 \name{BullTroutRML2}
 \alias{BullTroutRML2}
 \title{Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.}
-\format{A data frame with 96 observations on the following 4 variables:
+\format{
+A data frame with 96 observations on the following 4 variables:
  \describe{
    \item{age}{Age (from otoliths).} 
    \item{fl}{Fork length (mm).}
    \item{lake}{Lake (\code{Harrison} and \code{Osprey}).} 
    \item{era}{Era of collection (\code{1977-80} and \code{1997-01}).  See details.} 
- }}
+ }
+}
 \source{
 From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald. 2007. Bull trout population responses to reductions in angler effort and retention limits. North American Journal of Fisheries Management, 27:848-859. [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
 }

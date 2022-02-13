@@ -4,11 +4,13 @@
 \name{SLampreyGL}
 \alias{SLampreyGL}
 \title{Stock and recruitment data for Sea Lamprey in the Great Lakes, 1997-2007.}
-\format{A data frame of 76 observations on the following two variables:
+\format{
+A data frame of 76 observations on the following two variables:
 \describe{
   \item{stock}{Female spawners per 100 square meters.}
   \item{recruits}{Yearlngs per 100 square meters.} 
-}}
+}
+}
 \source{
 From (approximately) Figures 2a and 2b in Dawson, H.A. and M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea lamprey (\emph{Petromyzon marinus}) populations.  Journal of Great Lakes Research 35:353-360.
 }

@@ -1,4 +1,5 @@
-# 0.3.9 ongoing
+# 0.3.9 12-Feb-22
+* Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
 * Removed Travis-CI.
 * Added GitHub Actions for CI/CD (used `usethis::use_github_action_check_standard()`)
 * Renamed default repo from `master` to `main` (see [this](https://github.com/github/renaming#rename-existing)).

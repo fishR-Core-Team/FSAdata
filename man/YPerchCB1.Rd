@@ -4,7 +4,8 @@
 \name{YPerchCB1}
 \alias{YPerchCB1}
 \title{Catch-at-age for Yellow Perch from Chequamegon Bay, Lake Superior.}
-\format{A data frame with 39 observations on the following 5 variables.
+\format{
+A data frame with 39 observations on the following 5 variables.
  \describe{
    \item{age}{Age in that capture year (1973-1988).}
    \item{year73}{Number of fish at each age in capture year 1973.}
@@ -23,7 +24,8 @@
    \item{year86}{Number of fish at each age in capture year 1986.}
    \item{year87}{Number of fish at each age in capture year 1987.}
    \item{year88}{Number of fish at each age in capture year 1988.} 
- }}
+ }
+}
 \source{
 From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management 13:511-523.
 }

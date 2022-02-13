@@ -4,7 +4,8 @@
 \name{Menhaden1}
 \alias{Menhaden1}
 \title{Catch-at-age for Gulf Menhaden, 1964-2004.}
-\format{A data frame with 41 observations on the following 7 variables.
+\format{
+A data frame with 41 observations on the following 7 variables.
  \describe{
    \item{year}{Year of capture.}
    \item{age0}{Estimated catch (millions) of age-0 fish.}
@@ -14,7 +15,8 @@
    \item{age4}{Estimated catch (millions) of age-4 fish.}
    \item{age5}{Estimated catch (millions) of age-5 fish.}
    \item{age6}{Estimated catch (millions) of age-6 fish.}
- }}
+ }
+}
 \source{
 From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith. 2007. Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management. Fisheries Research 83:263-275.
 }

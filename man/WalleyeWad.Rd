@@ -4,12 +4,14 @@
 \name{WalleyeWad}
 \alias{WalleyeWad}
 \title{Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.}
-\format{A data frame with 18 observations on the following 3 variables.
+\format{
+A data frame with 18 observations on the following 3 variables.
  \describe{
    \item{age}{Age (yrs; from pectoral fin ray)}
    \item{numF}{Number of captured females}
    \item{numM}{Number of captured males}
- }}
+ }
+}
 \source{
 From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
 }

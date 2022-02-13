@@ -4,12 +4,14 @@
 \name{WalleyeMN06a}
 \alias{WalleyeMN06a}
 \title{Catch-at-age for Walleye.}
-\format{A data frame with 52 observations on the following 3 variables.
+\format{
+A data frame with 52 observations on the following 3 variables.
  \describe{
    \item{lake}{A factor vector of collection lake (\code{Crooked}, \code{Fourmile}, \code{Island}, \code{Tom})}
    \item{age}{A numeric vector of assigned ages (from dorsal spines)}
    \item{number}{A numeric vector of number of fish}
- }}
+ }
+}
 \source{
 From various tables in Borkholder, B.D., A.J. Edwards, and C. Olson. 2007. Spring adult and fall juvenile walleye popluation surveys within the 1854 ceded territory of Minnesota, 2006.  Fond du Lac Division of Resource Management, Technical Report 41. [Was (is?) from http://www.1854treatyauthority.org/cms/files/REP\%20Fish\%20Walleye\%20Survey\%202006.pdf.]
 }

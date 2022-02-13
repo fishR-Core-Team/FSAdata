@@ -4,11 +4,13 @@
 \name{RWhitefishAI}
 \alias{RWhitefishAI}
 \title{Ages and lengths of Round Whitefish.}
-\format{A data frame with 995 observations on the following 2 variables.
+\format{
+A data frame with 995 observations on the following 2 variables.
   \describe{
     \item{tl}{Total length (in).}
     \item{age}{Age (from scales).} 
-  }}
+  }
+}
 \source{
 From Table 3 (a random tenths digit was added to the TL) in Bailey, M.M. 1963. Age, growth, and maturity of Round Whitefish of the Apostle Islands and Isle Royale Regions, Lake Superior. Fishery Bulletin, 63:63-75. [Was (is?) from http://fishbull.noaa.gov/63-1/bailey.pdf.]
 }
