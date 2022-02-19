@@ -1,3 +1,6 @@
+# 0.3.10 Ongoing
+* Added Code of Conduct
+
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
 * Removed Travis-CI.
