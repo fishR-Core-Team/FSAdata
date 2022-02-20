@@ -1,5 +1,6 @@
 # 0.3.10 Ongoing
 * Added Code of Conduct
+* Updated `R-CMD-check.yaml` GitHub action to [v2](https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow) (this addresses the issue with the action on Ubuntu-dev).
 
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
