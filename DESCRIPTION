@@ -7,11 +7,18 @@ Authors@R: person("Derek","Ogle",
     email="derek@derekogle.com",
     role=c("aut","cre"),
     comment=c(ORCID="0000-0002-0370-9299"))
-URL: http://derekogle.com/fishR/, https://github.com/droglenc/FSAdata
-BugReports: https://github.com/droglenc/FSAdata/issues
+URL: https://fishr-core-team.github.io/FSAdata/
+BugReports: https://github.com/fishR-Core-Team/FSAdata/issues
 License: GPL (>= 2)
 LazyData: true
 Depends:
     R (>= 3.0.0)
+Suggests:
+    dplyr,
+    fishmethods,
+    FSA,
+    knitr,
+    pkgdown,
+    rmarkdown
 Encoding: UTF-8
 RoxygenNote: 7.1.2

@@ -1,0 +1,23 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: spacelab
+  
+development:
+  mode: release
+
+navbar:
+  type: inverse
+  left:
+    - text: Reference
+      href: reference/index.html
+    - text: Data By Topic
+      href: articles/Datasets_byTopic.html
+    
+  right:
+    - text: News
+      href: news/index.html
+    - icon: fa-home fa-2x
+      href: index.html
+    - icon: fa-github fa-2x
+      href: https://github.com/fishr-core-team/FSAdata

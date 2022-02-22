@@ -1,6 +1,10 @@
 # 0.3.10 Ongoing
 * Added Code of Conduct
 * Updated `R-CMD-check.yaml` GitHub action to [v2](https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow) (this addresses the issue with the action on Ubuntu-dev).
+* Added `pkgdown` site.
+    * Added Suggests for `dplyr`, `fishmethods`, `FSA`, `knitr`, `pkgdown`, and `rmarkdown` (related to creating website).
+    * Added `pkgdown.yaml` GitHub action.
+    * Added `Datasets_byTopic` vignette.
 
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.

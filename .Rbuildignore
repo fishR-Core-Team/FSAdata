@@ -10,7 +10,10 @@
 License
 ToDo
 README.md
-NEWS.md
 ^cran-comments$
 ^\.github$
 CODE_OF_CONDUCT.md
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^vignettes
