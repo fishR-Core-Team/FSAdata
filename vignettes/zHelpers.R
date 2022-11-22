@@ -1,12 +1,3 @@
----
-title: "Fisheries Datasets by Topic"
-output: 
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: vignette
----
-
-```{r setup, include = FALSE}
 knitr::opts_chunk$set(
   echo=FALSE,
   collapse = TRUE,
@@ -41,9 +32,9 @@ maketable <- function(db,top) {
   db %>%
     filter(Concept==top) %>%
     filter(!duplicated(Dataset)) %>%
+    arrange(Dataset,Package) %>%
     mutate(Dataset=makelink(.)) %>%
     select(Dataset,Description) %>%
-    arrange(Dataset) %>%
     knitr::kable()
 }
 
@@ -54,19 +45,3 @@ topics <- c("Length Expansion","Length Conversion",
             "Depletion","Removal","Capture-Recapture",
             "Mortality","Growth","Recruitment","Maturity",
             "Data Manipulation","Other")
-
-## Database of datasets in FSA and FSAdata
-fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"))
-```
-
-```{r results='asis'}
-for (i in topics) {
-  cat("#",i)
-  print(maketable(fish_db,i))
-  cat("\n")
-}
-```
-
-----
-
-Last updated: `r format(Sys.Date(),format="%B %d, %Y")`

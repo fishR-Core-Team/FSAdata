@@ -1,0 +1,33 @@
+---
+title: "Fisheries Datasets by Topic"
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: vignette
+---
+
+```{r setup, include = FALSE}
+source("zHelpers.R")
+```
+
+```{r results='asis'}
+## Get dataset list from other packages
+## Datasets from other packages are manually entered into
+##   DataFromOtherPackages.xlsx. Make sure to "Clean and Install" the package
+##   locally so that updates will be found when knitting this vignette.
+tmp <- readxl::read_excel(system.file("extdata/DataFromOtherPackages.xlsx",
+                                      package="FSAdata")) %>%
+  select(-starts_with("Entered"))
+## Database of datasets in FSA and FSAdata, with other packages appended
+fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"),tmp)
+
+for (i in topics) {
+  cat("#",i)
+  print(maketable(fish_db,i))
+  cat("\n")
+}
+```
+
+----
+
+Last updated: `r format(Sys.Date(),format="%B %d, %Y")`

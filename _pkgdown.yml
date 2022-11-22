@@ -11,8 +11,11 @@ navbar:
   left:
     - text: Reference
       href: reference/index.html
-    - text: Data By Topic
-      href: articles/Datasets_byTopic.html
+    - text: Data Lists
+      - text: FSA Data By Topic
+        href: articles/FSA_byTopic.html
+      - text: Comprehensive Fisheries Data By Topic
+        href: articles/Comprehensive_byTopic.html
     
   right:
     - text: News
