@@ -14,7 +14,7 @@ A data frame with 12 observations on the following 4 variables.
  }
 }
 \source{
-From Figure 8 of Casselman, J.M. 1990. Growth and relative size of calcified structures of fish. Transactions of the American Fisheries Society. 119:673-688.
+From Figure 8 of Casselman, J.M. 1990. Growth and relative size of calcified structures of fish. Transactions of the American Fisheries Society. 119:673-688. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Casselman1990.csv}{CSV file}
 }
 \description{
 Instantaneous growth rates (percent change per day) for body growth and two calcified ageing structures from age 1-4 female Northern Pike (\emph{Esox lucius}) from Wickett Lake, Ontario.

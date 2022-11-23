@@ -7,22 +7,22 @@
 \format{
 A data frame with 15 observations on the following 4 variables.
  \describe{
-   \item{day}{Day of the catch.  Day 9 is 9-Jan-1984.} 
+   \item{day}{Day of the catch. Day 9 is 9-Jan-1984.} 
    \item{standard}{Catch (kg) of of Shrimp in the standard traps.} 
    \item{pyramid}{Catch (kg) of of Shrimp in the pyramid traps.} 
    \item{effort}{Total effort (trap-nights) for the standard traps.} 
  }
 }
 \source{
-From Table 1 of Ralson, S. 1986. An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago. Fishery Bulletin 84:927-934. [Was (is?) from http://fishbull.noaa.gov/844/ralston.pdf.]
+From Table 1 of Ralson, S. 1986. An intensive fishing experiment for the Caridean Shrimp, \emph{Heterocarpus laevigatus}, at Alamagn Island in the Mariana Archipelago. Fishery Bulletin 84:927-934. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/ShrimpGuam.csv}{CSV file}
 }
 \description{
 Catch and effort data for Deepwater Caridean Shrimp (\emph{Heterocarpus laevigatus}) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam).
 }
 \details{
-Catch (kg) and effort (trap-nights) of Deepwater Caridean Shrimp (\emph{Heterocarpus laevigatus}) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam).  The data start on 9-Jan-1984.  Catches were recorded separately for standard traps and in pyramid traps.
+Catch (kg) and effort (trap-nights) of Deepwater Caridean Shrimp (\emph{Heterocarpus laevigatus}) from 15 days in 1984 from near Alamagan Islan in the Marian Archipelago (near Guam). The data start on 9-Jan-1984. Catches were recorded separately for standard traps and in pyramid traps.
 
-The original authors estiamted populations size using the Leslie method with the cumulative catch from the combined catch in the standard and pyramid traps, but with a CPE computed from just the catch in standard traps.
+The original authors estimated populations size using the Leslie method with the cumulative catch from the combined catch in the standard and pyramid traps, but with a CPE computed from just the catch in standard traps.
 }
 \section{Topic(s)}{
 

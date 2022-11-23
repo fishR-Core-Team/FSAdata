@@ -13,7 +13,7 @@ A data frame of 10 observations on the following 6 variables:
  }
 }
 \source{
-Visually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters. 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty. Chapman and Hall, New York. 570 p.
+Visually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters. 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty. Chapman and Hall, New York. 570 p. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Lizardfish.csv}{CSV file}
 }
 \description{
 Greater Lizardfish (\emph{Saurida tumbil}) stock and recruitment by year, 1955-1964.

@@ -13,7 +13,7 @@ A data frame of 25 observations on the following 3 variables:
   }
 }
 \source{
-Derek H. Ogle, personal collection
+Derek H. Ogle, personal collection. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluntnoseIL1.csv}{CSV file}
 }
 \description{
 Total lengths for a subsample from 144 Bluntnose Minnows (\emph{Pimephales notatus}) from Inch Lake, WI in May, 2007.

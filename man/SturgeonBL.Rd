@@ -14,10 +14,10 @@ A data frame with 6 observations on the following 4 variables:
 }
 }
 \source{
-From Table 1 in Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
+From Table 1 in Baker, E.A. and D.J. Borgeson. 1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999. North American Journal of Fisheries Management 19:1080-1088. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SturgeonBL.csv}{CSV file}
 }
 \description{
-The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple samples from Black Lake, MI in 1997.  The caught fish were examined for previous  marks, marked (if previously unmarked), and then returned to the population.
+The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple samples from Black Lake, MI in 1997. The caught fish were examined for previous  marks, marked (if previously unmarked), and then returned to the population.
 }
 \section{Topic(s)}{
 

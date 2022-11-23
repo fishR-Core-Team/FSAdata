@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source Cadima, E. 2003. Fish Stock Assessment Manual, FAO Fisheries Department. 131 pp.
+#' @source Cadima, E. 2003. Fish Stock Assessment Manual, FAO Fisheries Department. 131 pp. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Hake.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -15,7 +15,7 @@ A data frame of 39 observations on the following 5 variables:
  }
 }
 \source{
-Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs. 1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995. North American Journal of Fisheries Management 18:764-774.
+Hansen, M. J., M. A. Bozek, J. R. Newby, S. P. Newman, and M. D. Staggs. 1998. Factors affecting recruitment of walleyes in Escanaba Lake, Wisconsin, 1958-1995. North American Journal of Fisheries Management 18:764-774. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeEL.csv}{CSV file}
 }
 \description{
 Abundance of age-0 and age-5 and older Walleye (\emph{Sander vitreus}), abundance of adult Yellow Perch (\emph{Perca flavescens}), and coefficient of variation of May temperatures for Escanaba Lake, WI, 1958-1992.

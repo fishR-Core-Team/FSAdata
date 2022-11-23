@@ -19,7 +19,7 @@ A data frame with 141 observations on the following 9 variables.
  }
 }
 \source{
-Obtained directly from the Virginia Marine Resources Commission via Hank Liao.
+Obtained directly from the Virginia Marine Resources Commission via Hank Liao. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BlackDrum2001.csv}{CSV file}
 }
 \description{
 Biological data (lengths, weights, ages (from otoliths), and sex) for Black Drum (\emph{Pogonias cromis}) from Virginia waters of the Atlantic Ocean, 2001.

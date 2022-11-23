@@ -27,7 +27,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #' 
-#' @source From Table 19 of Mosenko, R.W., and G. Low. 1980. Data from the commercial fishery for lake whitefish \emph{Coregonus clupeaformis} (Mitchill), on Great Slave Lake, Northwest Territories, 1979. Canadian Data Report of Fisheries And Aquatic Sciences, No. 194.
+#' @source From Table 19 of Mosenko, R.W., and G. Low. 1980. Data from the commercial fishery for lake whitefish \emph{Coregonus clupeaformis} (Mitchill), on Great Slave Lake, Northwest Territories, 1979. Canadian Data Report of Fisheries And Aquatic Sciences, No. 194. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhitefishGSL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

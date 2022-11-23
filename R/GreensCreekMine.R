@@ -2,7 +2,7 @@
 #' 
 #' @description Catches in removal events of Coho Salmon (\emph{Oncorhynchus kisutch}) and Dolly Varden Char (\emph{Salvelinus malma}) at various locations near the Greens Creek (AK) Mine site.
 #' 
-#' @details Reaches were isolated by natural features, such as shallow riffles.  The sample reaches were saturated with 6.35 mm (0.25 in) minnow traps baited with whirl packs containing disinfected salmon eggs.  The traps were deployed for 1.5 h and then retrieved where each fish was transferred into a plastic bucket, and the trap was re-baited ans re-set for another 1.5 h soak.  In between trapping events, fish were processed -- measured and recorded FL to the nearest 1 mm, weight to the nearest 0.1 g, and species identified. Captured fish were retained during the sample period and returned alive after all three passes were complete.
+#' @details Reaches were isolated by natural features, such as shallow riffles. The sample reaches were saturated with 6.35 mm (0.25 in) minnow traps baited with whirl packs containing disinfected salmon eggs.The traps were deployed for 1.5 h and then retrieved where each fish was transferred into a plastic bucket, and the trap was re-baited ans re-set for another 1.5 h soak. In between trapping events, fish were processed -- measured and recorded FL to the nearest 1 mm, weight to the nearest 0.1 g, and species identified. Captured fish were retained during the sample period and returned alive after all three passes were complete.
 #' 
 #' @name GreensCreekMine
 #' 
@@ -31,7 +31,7 @@
 #' @concept Population Size
 #' @concept Removal
 #' 
-#' @source From Appendix C1 of Kanouse, K.M. and B.P. Brewster. 2012. Aquatic Biomonitoring at Greens Creek Mine, 2012. Alaska Department of Fish and Game Technical Report No. 12-11. [Was (is?) from http://dnr.alaska.gov/mlw/mining/largemine/greenscreek/pdf/gc2012bio.pdf.]
+#' @source From Appendix C1 of Kanouse, K.M. and B.P. Brewster. 2012. Aquatic Biomonitoring at Greens Creek Mine, 2012. Alaska Department of Fish and Game Technical Report No. 12-11. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/GreensCreekMine.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

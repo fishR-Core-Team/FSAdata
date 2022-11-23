@@ -13,7 +13,7 @@ A data frame of 34 observations on the following 3 variables:
 }
 }
 \source{
-From Jacobson, L.D. and A.D. MacCall. 1995. Stock-recruitment models for Pacific Sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences. 52:566-577.
+From Jacobson, L.D. and A.D. MacCall. 1995. Stock-recruitment models for Pacific Sardine (\emph{Sardinops sagax}). Canadian Journal of Fisheries and Aquatic Sciences 52:566-577. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SardinesPacific.csv}{CSV file}
 }
 \description{
 Pacific Sardine (\emph{Sardinops sagax}) stock and recruitment by year, 1935-1990.

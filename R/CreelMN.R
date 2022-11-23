@@ -19,7 +19,7 @@
 #'
 #' @concept Other
 #'   
-#' @source From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson. 2001. Creel limits in Minnesota: A proposal for change. Fisheries 26:19-26.
+#' @source From tables in Cook, M.F., T.J. Goeman, P.J. Radomski, J.A. Younk, and P.C. Jacobson. 2001. Creel limits in Minnesota: A proposal for change. Fisheries 26:19-26. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/CreelMN.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 
@@ -46,7 +46,7 @@
 #'   ( svd5 <- sum(wae$svd5[wae$svd5>0]) ) #   Only sum positive numbers (i.e., saved)
 #'   round(svd5/ttlwae*100,1)              # Show as a percentage
 #' 
-#'   wae$svd1 <- wae$harvest-1             # same but if reduced to 1 bag.    
+#'   wae$svd1 <- wae$harvest-1             # same but if reduced to 1 bag.
 #'   xtabs(~svd1,data=wae)
 #'   ( svd1 <- sum(wae$svd1[wae$svd1>0]) )
 #'   round(svd1/ttlwae*100,1)

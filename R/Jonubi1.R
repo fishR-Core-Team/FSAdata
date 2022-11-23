@@ -23,7 +23,7 @@
 #' 
 #' @seealso \code{\link{Jonubi2}}.
 #' 
-#' @source Simulated from table 2 of Yildirim, A., H.U. Haluloulu, M. Turkmen, and O. Erdouan. 2003. Age and growth characteristics of \emph{Chalcalburnus mossulensis} (Heckel, 1843) living in Karasu River (Erzurum-Turkey). Turkish Journal of Veterinary and Animal Science. 27: 1091-1096.
+#' @source Simulated from table 2 of Yildirim, A., H.U. Haluloulu, M. Turkmen, and O. Erdouan. 2003. Age and growth characteristics of \emph{Chalcalburnus mossulensis} (Heckel, 1843) living in Karasu River (Erzurum-Turkey). Turkish Journal of Veterinary and Animal Science 27:1091-1096. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Jonubi1.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -12,7 +12,7 @@ A data frame with 1288 observations on the following 2 variables:
  }
 }
 \source{
-Simulated from Table 1 of Wolfert, D.R. 1980. Age and growth of Rock Bass in Eastern Lake Ontario. New York Fish and Game Journal, 27:88:90.
+Simulated from Table 1 of Wolfert, D.R. 1980. Age and growth of Rock Bass in Eastern Lake Ontario. New York Fish and Game Journal 27:88:90. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RockBassLO1.csv}{CSV file}
 }
 \description{
 Assigned ages (from scales) and measured total lengths for each of 1288 Rock Bass (\emph{Ambloplites rupestris}) from Lake Ontario.

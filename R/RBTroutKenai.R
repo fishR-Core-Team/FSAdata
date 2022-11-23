@@ -24,7 +24,7 @@
 #' @concept von Bertalanffy
 #' @concept Fabens
 #' 
-#' @source From Table 4.10 in Quinn, T.J. and R.B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press. 560 pages. This table is a 1/3rd subsample of the actual data presented in Baker, T.T., R. Lafferty, and T.J. Quinn II. 1991. A general growth model for mark-recapture data. Fisheries Research 11:257-281.
+#' @source From Table 4.10 in Quinn, T.J. and R.B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press. 560 pages. This table is a 1/3rd subsample of the actual data presented in Baker, T.T., R. Lafferty, and T.J. Quinn II. 1991. A general growth model for mark-recapture data. Fisheries Research 11:257-281. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RBTroutKenai.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

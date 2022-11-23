@@ -24,7 +24,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in Regression.  Chapman and Hall, New York.  140 pp.
+#' @source Carroll, R. J. and Ruppert, D. 1988. Transformation and Weighting in Regression. Chapman and Hall, New York. 140 pp. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SockeyeSR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

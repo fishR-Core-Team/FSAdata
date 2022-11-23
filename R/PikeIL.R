@@ -30,7 +30,7 @@
 #' @concept Depletion
 #' @concept Catchability
 #' 
-#' @source From Table 1 of Peterson, J., M. Taylor, and A. Hanson. 1980. Leslie population estimate for a large lake. Transactions of the American Fisheries Society, 109:329-331.
+#' @source From Table 1 of Peterson, J., M. Taylor, and A. Hanson. 1980. Leslie population estimate for a large lake. Transactions of the American Fisheries Society, 109:329-331. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/PikeIL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

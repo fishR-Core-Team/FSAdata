@@ -1,12 +1,9 @@
 ---
 title: "Fisheries Datasets by Topic"
-output: 
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: vignette
+output: rmarkdown::html_vignette
 ---
 
-```{r setup, include = FALSE}
+```{r setup, include=FALSE}
 source("zHelpers.R")
 ```
 
@@ -21,11 +18,7 @@ tmp <- readxl::read_excel(system.file("extdata/DataFromOtherPackages.xlsx",
 ## Database of datasets in FSA and FSAdata, with other packages appended
 fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"),tmp)
 
-for (i in topics) {
-  cat("#",i)
-  print(maketable(fish_db,i))
-  cat("\n")
-}
+maketable(fish_db,topics)
 ```
 
 ----

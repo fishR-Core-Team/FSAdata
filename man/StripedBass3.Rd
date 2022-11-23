@@ -11,8 +11,11 @@ A data frame of 1201 observations on the following 2 variables:
    \item{age}{Ages assigned from examination of otoliths.} 
  }
 }
+\source{
+\href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass3.csv}{CSV file}
+}
 \description{
-As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2} data frame were obtained for age assignment. The remaining fish in the file were only measured for length (i.e., the ages were deleted). This data file can be used to demonstrate the use of age-length keys.
 }
 \section{Topic(s)}{
 

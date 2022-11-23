@@ -13,7 +13,7 @@ A data frame with 28 observations on the following 3 variables.
 }
 }
 \source{
-Carroll, R. J. and Ruppert, D. 1988.  Transformation and Weighting in Regression.  Chapman and Hall, New York.  140 pp.
+Carroll, R. J. and Ruppert, D. 1988. Transformation and Weighting in Regression. Chapman and Hall, New York. 140 pp. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SockeyeSR.csv}{CSV file}
 }
 \description{
 Stock and recruitment data for Skeena River Sockeye Salmon (\emph{Oncorhynchus nerka}), 1940-1967.

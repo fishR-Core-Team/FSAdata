@@ -13,7 +13,7 @@ A data frame of 15 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004. Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors. Ecology of Freshwater Fish 13:46-60.
+From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004. Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors. Ecology of Freshwater Fish 13:46-60. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/VendaceLP.csv}{CSV file}
 }
 \description{
 Vendace (\emph{Coregonus albula}) recruitment by year in Lake Puulavesi, 1982-1996.

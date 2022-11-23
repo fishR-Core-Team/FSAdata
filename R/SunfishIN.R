@@ -1,6 +1,6 @@
 #' @title Summarized multiple mark-recapture data for Redear Sunfish.
 #'
-#' @description The number of Redear Sunfish (\emph{Lepomis microlophus}) caught in multiple samples from Gordy Lake, IN.  The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
+#' @description The number of Redear Sunfish (\emph{Lepomis microlophus}) caught in multiple samples from Gordy Lake, IN. The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
 #'
 #' @name SunfishIN
 #' 

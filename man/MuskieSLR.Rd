@@ -12,7 +12,7 @@ A data frame of 43 observations on the following 2 variables:
  }
 }
 \source{
-From Figure 3 in Casselman,J.M. 1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
+From Figure 3 in Casselman,J.M. 1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/MuskieSLR.csv}{CSV file}
 }
 \description{
 Ages of St. Lawrence River, ONT, Muskellunge (\emph{Esox masquinongy}) assessed from scales and cleithra.

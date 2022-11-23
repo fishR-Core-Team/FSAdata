@@ -13,7 +13,7 @@ A data frame of 28 observations on the following 3 variables:
 }
 }
 \source{
-From Gulland, J.A. 1983. Fish stock assessment: A manual of basic methods. John Wiley and Sons, New York, NY. 223 p.
+From Gulland, J.A. 1983. Fish stock assessment: A manual of basic methods. John Wiley and Sons, New York, NY. 223 p. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SockeyeKL.csv}{CSV file}
 }
 \description{
 Sockeye Salmon (\emph{Oncorhynchus nerka}) stock and recruitment in Karluk Lake, AK, by year, 1921-1948.

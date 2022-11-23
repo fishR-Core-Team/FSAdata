@@ -15,7 +15,7 @@ A data frame of 105 observations on the following 5 variables:
  }
 }
 \source{
-From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar. 2004. Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior. North American Journal of Fisheries Management. 24:475-489.
+From (approximately) figures in Richards, J.M., M.J. Hansen, C.R. Bronte, and S.P. Sitar. 2004. Recruitment dynamics of the 1971-1991 year-classes of Lake Trout in Michigan waters of Lake Superior. North American Journal of Fisheries Management 24:475-489. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/LakeTroutMI.csv}{CSV file}
 }
 \description{
 Stock and recruitment data for the 1971-1991 year-classes of Lake Trout (\emph{Salvelinus namaycush}) in Michigan waters of Lake Superior.

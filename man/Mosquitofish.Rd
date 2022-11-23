@@ -18,7 +18,7 @@ A data frame with the following 8 variables:
  }
 }
 \source{
-From figure 3 of Carmona-Catot, G., A.F.G.N. Santos, P.A. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:134.
+From figure 3 of Carmona-Catot, G., A.F.G.N. Santos, P.A. Tedesco, and E. Garcia-Berthou. 2014. Quantifying seasonality along a latitudinal gradient: From stream temperature to growth of invasive mosquitofish. Ecosphere 5:134. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Mosquitofish.csv}{CSV file}
 }
 \description{
 Ages and lengths of Eastern Mosquitofish (\emph{Gambusia holbrooki}) from ten locations from southern France to southern Spain.

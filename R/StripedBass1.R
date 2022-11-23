@@ -24,7 +24,7 @@
 #' @concept Age Bias
 #' @concept Age Comparison
 #' 
-#' @source From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
+#' @source From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass1.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

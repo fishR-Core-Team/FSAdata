@@ -9,7 +9,7 @@
 #' @format A data frame of 16 observations on the following 7 variables:
 #' \describe{
 #'   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).} 
-#'   \item{section}{Section of stream.  See source.}
+#'   \item{section}{Section of stream. See source.}
 #'   \item{date}{Data of collections.}
 #'   \item{first}{Catch on the first removal pass.} 
 #'   \item{second}{Catch on the second removal pass.} 
@@ -28,7 +28,7 @@
 #' @concept Population Size
 #' @concept Removal
 #' 
-#' @source From Table 1 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
+#' @source From Table 1 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BrookTroutNEWP.csv}{CSV file}
 #' 
 #' @seealso See \code{\link{BrookTroutNEWP1}} for these data AND the results from Schnute (1983).
 #' 

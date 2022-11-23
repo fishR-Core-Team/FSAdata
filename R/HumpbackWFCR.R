@@ -31,7 +31,7 @@
 #' @concept Petersen
 #' @concept Capture History
 #' 
-#' @source From Table 10 in Gryska, A.D. 2014. Stock assessment of humpback whitefish in the Chatanika River, 2012. Alaska Department of Fish and Game, Fishery Data Series No. 14-12, Anchorage. Was (is?) at https://www.cf.adfg.state.ak.us/FedAidPDFs/FDS14-12.pdf.
+#' @source From Table 10 in Gryska, A.D. 2014. Stock assessment of humpback whitefish in the Chatanika River, 2012. Alaska Department of Fish and Game, Fishery Data Series No. 14-12, Anchorage. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/HumpbackWFCR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' @examples

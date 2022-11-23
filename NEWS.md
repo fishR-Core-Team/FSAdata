@@ -1,10 +1,11 @@
 # 0.3.10 Ongoing
 * Added Code of Conduct
+* Updated `readme`
 * Updated `R-CMD-check.yaml` GitHub action to [v2](https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow) (this addresses the issue with the action on Ubuntu-dev).
 * Added `pkgdown` site.
     * Added Suggests for `dplyr`, `fishmethods`, `FSA`, `knitr`, `pkgdown`, `readxl`, and `rmarkdown` (related to creating website).
     * Added `pkgdown.yaml` GitHub action.
-    * Added `Datasets_byTopic` and `Comprehensive_byTopic` (which includes adding the `DataFromOtherPackages.xlsx` file in the `inst\extdata\ folder) vignettes.
+    * Added `FSA_byTopic` and `Comprehensive_byTopic` (which includes adding the `DataFromOtherPackages.xlsx` file in the `inst\extdata\ folder) vignettes.
 
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
@@ -40,16 +41,16 @@
 * Started using ROxygen v5.0.0.
 * `Bonito`: Added.
 * `Mosquitofish`: Added.
-* `RWhitefishAI`: Modified.  Fixed typo in scientific names and length units.  Fixes [#3](https://github.com/droglenc/FSAdata/issues/3).  Thanks to Peter Mous.
-* `RWhitefishIR`: Modified.  Fixed typo in scientific names and length units.  Fixes [#3](https://github.com/droglenc/FSAdata/issues/3).  Thanks to Peter Mous.
-* `SnapperHG`: Modified.  Fixed typo in documentation.
-* `StripedBass2`: Modified.  Fixed typo in length units.  Fixes [#4](https://github.com/droglenc/FSAdata/issues/4).  Thanks to Peter Mous.
-* `YPerchTL`: Modified.  Minor update to documentation.
-* `YPerchSB1`: Modified.  Fixed typo in documentation.
+* `RWhitefishAI`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/droglenc/FSAdata/issues/3). Thanks to Peter Mous.
+* `RWhitefishIR`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/droglenc/FSAdata/issues/3). Thanks to Peter Mous.
+* `SnapperHG`: Modified. Fixed typo in documentation.
+* `StripedBass2`: Modified. Fixed typo in length units. Fixes [#4](https://github.com/droglenc/FSAdata/issues/4). Thanks to Peter Mous.
+* `YPerchTL`: Modified. Minor update to documentation.
+* `YPerchSB1`: Modified. Fixed typo in documentation.
 
 # 0.3.2 22-Oct-15
 * Fixed LaTeX quotes in DESCRIPTION file.
-* Removed all `\href{}{}` and `\url{}` codes to websites that I don't control.  The addresses are now "naked" such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link.  Hopefully this will eliminate problems with R CMD CHECK.
+* Removed all `\href{}{}` and `\url{}` codes to websites that I don't control. The addresses are now "naked" such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link. Hopefully this will eliminate problems with R CMD CHECK.
 * Added notes to all files that were used in IFAR.
 
 # 0.3.1 21-Oct-15
@@ -65,11 +66,11 @@
 * `CCatfishNB`: Added.
 * `CreekChub`: Added.
 * `CreelMN`: Added a topic to help documentation.
-* `CutthroatALf`: Modified.  Removed `href` as it seemed inconsistent.
-* `FSAdata`: Modified.  Fixed link to `FSA` package.  Removed `importFrom` for `read.table()` from `utils`.
+* `CutthroatALf`: Modified. Removed `href` as it seemed inconsistent.
+* `FSAdata`: Modified. Fixed link to `FSA` package. Removed `importFrom` for `read.table()` from `utils`.
 * `Ghats`: Added a topic to help documentation.
 * `LakeTroutEggs`: Added a topic to help documentation.
-* `PikeHL`: Modified.  Removed `href` as it seemed inconsistent.
+* `PikeHL`: Modified. Removed `href` as it seemed inconsistent.
 * `ShadCR`: Added.
 * `SiscowetMI2004`: Added.
 * `StrugeonBG`: Added.
@@ -81,95 +82,95 @@
 * Released to CRAN
 
 # 0.2.2 Oct15
-* Converted all `.txt` files to `.Rda` files.  Original `.txt` files are in the `data-raw` directory which was added to `.Rbuildignore`.
+* Converted all `.txt` files to `.Rda` files. Original `.txt` files are in the `data-raw` directory which was added to `.Rbuildignore`.
 
 # 0.2.1 Sep15
 * Updated `README.md` and `DESCRIPTION` to reflect the new websites.
 
 # 0.2.0 Aug15
 * Added importFrom for `utils`.
-* `BluegilLM`: Added.  Moved from `FSA`.
-* `CutthroatALF.R`: Modified.  Changed to use `utils::read.table()` rather than `read.table()`.
+* `BluegilLM`: Added. Moved from `FSA`.
+* `CutthroatALF.R`: Modified. Changed to use `utils::read.table()` rather than `read.table()`.
 * `WalleyeErie2`: Added.
 * `WalleyeML`: Added.
 
 # 0.1.9 Jul15
-* Removed several URLs that either did not work consistently or have been moved.  Fixed several others.
+* Removed several URLs that either did not work consistently or have been moved. Fixed several others.
 * Fixed title in DESCRIPTION.
 * Fixed CITATION.
 * Removed Suggests for `FSA`.
 * Added Travis CI.
 
 # 0.1.8 Apr14
-* Updated DESCRIPTION file (following this -- http://r-pkgs.had.co.nz/description.html).  Also added LazyData: true.
+* Updated DESCRIPTION file (following this -- http://r-pkgs.had.co.nz/description.html). Also added LazyData: true.
 * `Pathfinder`: Added.
-* `YPerchSB`: Modified.  Corrected bug with data.
+* `YPerchSB`: Modified. Corrected bug with data.
 
 # 0.1.7 Aug14
 * Modified two examples to use `interactive()` because of use of `FSA` package.
-* `BrookTroutNEWP1`: Added.  Use as an example to test `removal()` in the `FSA` package.
+* `BrookTroutNEWP1`: Added. Use as an example to test `removal()` in the `FSA` package.
 * `DarterMahon`: Added.
-* `LobsterPEI`: Added.  Used as an example to test `depletion()` in the `FSA` package.
+* `LobsterPEI`: Added. Used as an example to test `depletion()` in the `FSA` package.
 * `ShrimpGuam`: Added.
 * `SnapperHG1`: Added.
 
 # 0.1.6 Jul14
-* `BullTroutRML1`: Modified.  Updated the source reference.
-* `BullTroutRML2`: Modified.  Updated the source reference.
+* `BullTroutRML1`: Modified. Updated the source reference.
+* `BullTroutRML2`: Modified. Updated the source reference.
 * `CutthroatALf`: Added.
-* `RuffeSLRH92`: Modified.  Changed the `species` variable to `indiv`.
-* `SunfishIn`: Modified.  Updated example after changes to `mrClosed()` in `FSA`.
-* `WalleyeConsumption`: Modified.  Updated the source reference.
+* `RuffeSLRH92`: Modified. Changed the `species` variable to `indiv`.
+* `SunfishIn`: Modified. Updated example after changes to `mrClosed()` in `FSA`.
+* `WalleyeConsumption`: Modified. Updated the source reference.
 
 # 0.1.5 Jun14
 * Changed to using github and compiling under R 3.1.0.
 * Moved FSA to a "suggests" rather than "depends".
 * Made topic sections consistent, added concept fields, and cleaned up titles in the help files so that `help.search()` worked better.
 * Cleaned up help files (consistent spacing and labeling).
-* `FSAdata.R`: Modified.  Updated `help.search()` hints to include the FSA package.
-* `AlewifeLH`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.  Added link to reference.
-* `BluegillWS`: Deleted.  Moved to FSAWs.
-* `BluefishAge`: Modified.  Corrected reference.  Cleaned up help file.
-* `Cabezon`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `FSAdata.R`: Modified. Updated `help.search()` hints to include the FSA package.
+* `AlewifeLH`: Modified. Changed example to use `xtabs()`. Cleaned up help file. Added link to reference.
+* `BluegillWS`: Deleted. Moved to FSAWs.
+* `BluefishAge`: Modified. Corrected reference. Cleaned up help file.
+* `Cabezon`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
 * `ChinookArg`: Removed (moved to FSA).
-* `CreelMN`: Modified.  Used a `dontrun{}` in the examples to remove dependency on FSA.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `Croaker1`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `Croaker2`: Modified.  Corrected reference.  Cleaned up help file.
+* `CreelMN`: Modified. Used a `dontrun{}` in the examples to remove dependency on FSA. Changed example to use `xtabs()`. Cleaned up help file.
+* `Croaker1`: Modified. Corrected reference. Changed example to use `xtabs()`. Cleaned up help file.
+* `Croaker2`: Modified. Corrected reference. Cleaned up help file.
 * `GreensCreekMine`: Added.
-* `Herman`: Modified.  Modified a link to the article in the help file.  Cleaned up help file.
-* `JobfishSIO`: Modified.  Added a link to the article in the help file.  Cleaned up help file.
-* `LakeTroutALTER`: Modified.  Corrected reference.  Cleaned up help file.
-* `Morwong1`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `Morwong2`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `MulletBS`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `MuskieSLR`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `PikeHL`: Modified.  Added a note.  Cleaned up help file.
-* `RuffeSLRH92`: Modified.  Changed example to use `xtabs()`.  Cleaned up help file.
+* `Herman`: Modified. Modified a link to the article in the help file. Cleaned up help file.
+* `JobfishSIO`: Modified. Added a link to the article in the help file. Cleaned up help file.
+* `LakeTroutALTER`: Modified. Corrected reference. Cleaned up help file.
+* `Morwong1`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
+* `Morwong2`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
+* `MulletBS`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
+* `MuskieSLR`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
+* `PikeHL`: Modified. Added a note. Cleaned up help file.
+* `RuffeSLRH92`: Modified. Changed example to use `xtabs()`. Cleaned up help file.
 * `RWhitefishAI`: Added.
 * `RWhitefishIR`: Added.
 * `SalmonidsMCCA`: Added.
-* `SardineLK`: Modified.  Corrected reference.  Cleaned up help file.
-* `SculpinALTER`: Modified.  Corrected reference.  Cleaned up help file.
+* `SardineLK`: Modified. Corrected reference. Cleaned up help file.
+* `SculpinALTER`: Modified. Corrected reference. Cleaned up help file.
 * `SnapperHG1`: Added.
 * `SpottedSucker1`: Added.
-* `SpotVA2`:  Modified.  Corrected reference.  Cleaned up help file.
-* `StripedBass1`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `StripedBass2`: Modified.  Corrected reference.  Cleaned up help file.
-* `StripedBass3`: Modified.  Corrected reference.  Cleaned up help file.
-* `StripedBass4`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `StripedBass5`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `StripedBass6`: Modified.  Corrected reference.  Changed example to use `xtabs()`.  Cleaned up help file.
-* `SunfishIN`: Modified.  Corrected a data entry error.  Added test example.  Cleaned up help file.
-* `WalleyeMN06a`: Modified.  Added link to reference.  Cleaned up help file.
-* `WalleyeMN06b`: Modified.  Added link to reference.  Cleaned up help file.
+* `SpotVA2`:  Modified. Corrected reference. Cleaned up help file.
+* `StripedBass1`: Modified. Corrected reference. Changed example to use `xtabs()`. Cleaned up help file.
+* `StripedBass2`: Modified. Corrected reference. Cleaned up help file.
+* `StripedBass3`: Modified. Corrected reference. Cleaned up help file.
+* `StripedBass4`: Modified. Corrected reference. Changed example to use `xtabs()`. Cleaned up help file.
+* `StripedBass5`: Modified. Corrected reference. Changed example to use `xtabs()`. Cleaned up help file.
+* `StripedBass6`: Modified. Corrected reference. Changed example to use `xtabs()`. Cleaned up help file.
+* `SunfishIN`: Modified. Corrected a data entry error. Added test example. Cleaned up help file.
+* `WalleyeMN06a`: Modified. Added link to reference. Cleaned up help file.
+* `WalleyeMN06b`: Modified. Added link to reference. Cleaned up help file.
 * `WalleyePL`: Added.
-* `WalleyePL1`: Deleted.  Combined to form `WalleyePL`.
-* `WalleyePL2`: Deleted.  Combined to form `WalleyePL`.
-* `WalleyePL3`: Deleted.  Combined to form `WalleyePL`.
-* `WalleyePL4`: Deleted.  Combined to form `WalleyePL`.
-* `WalleyeWS`: Deleted.  Moved to FSAWs.
-* `WhitefishLS`: Modified.  Corrected reference.  Cleaned up help file.
-* `YPerchTL`: Modified.  Corrected reference.  Cleaned up help file.
+* `WalleyePL1`: Deleted. Combined to form `WalleyePL`.
+* `WalleyePL2`: Deleted. Combined to form `WalleyePL`.
+* `WalleyePL3`: Deleted. Combined to form `WalleyePL`.
+* `WalleyePL4`: Deleted. Combined to form `WalleyePL`.
+* `WalleyeWS`: Deleted. Moved to FSAWs.
+* `WhitefishLS`: Modified. Corrected reference. Cleaned up help file.
+* `YPerchTL`: Modified. Corrected reference. Cleaned up help file.
 
 
 # 0.1.4 Apr14
@@ -178,18 +179,18 @@
 * Removed dependency on gdata (no longer needed when RuffeWS was moved to FSA).
 * Slight modifications to RD files (capitalized all common names per new AFS "rule", formatted around variables and topics to make easier to edit.)
 
-* `BluefishAge`: Modified.  Removed link to original source (caused problems at check).
+* `BluefishAge`: Modified. Removed link to original source (caused problems at check).
 * `CrappieARMS`: Modified.
-* `Croaker1`: Modified.  Removed link to original source (caused problems at check).
-* `Croaker2`: Modified.  Removed link to original source (caused problems at check).
+* `Croaker1`: Modified. Removed link to original source (caused problems at check).
+* `Croaker2`: Modified. Removed link to original source (caused problems at check).
 * `Deckeretal1999`: Added.
 * `HumpbackWFCR`: Added.
 * `Menhaden1`: Added.
 * `StripedBass1`: Added (from FSA).
-* `StripedBass2`: Modified.  Removed link to original source (caused problems at check).
-* `StripedBass4`: Modified.  Removed link to original source (caused problems at check).
-* `StripedBass5`: Modified.  Removed link to original source (caused problems at check).
-* `StripedBass6`: Modified.  Removed link to original source (caused problems at check).
+* `StripedBass2`: Modified. Removed link to original source (caused problems at check).
+* `StripedBass4`: Modified. Removed link to original source (caused problems at check).
+* `StripedBass5`: Modified. Removed link to original source (caused problems at check).
+* `StripedBass6`: Modified. Removed link to original source (caused problems at check).
 * `WalleyeKS`: Added.
 
 
@@ -202,7 +203,7 @@
 * `.onAttach(): added, was `.onLoad()` with a slight modification to avoid possible warnings on RCMD Check.
 * `.onLoad()`: deleted, changed to .onAttach().
 * `CreelMN`: modified examples in help file to reflect dependency on FSA.
-* `InchLake2`: modified by changing "Largemouth Bass (<8)" to "Largemouth Bass" and "Yellow Perch (<5)" to "Yellow Perch".  Also removed the sex and mat variables.
+* `InchLake2`: modified by changing "Largemouth Bass (<8)" to "Largemouth Bass" and "Yellow Perch (<5)" to "Yellow Perch". Also removed the sex and mat variables.
 * `PikeHL`: modified by adding URL to the source report.
 
 
@@ -220,14 +221,14 @@
 * Switched to compiling under R version 2.13.1 (32-bit).
 * Changed license specification from "GPL version 2 or newer" to "GPL (>= 2)" to avoid warning on check.
 
-* `.onLoad()`: Modified.  Moved the startup message into `packageStartupMessage()` in hopes of eliminating the warning when checking the package.
-* `AnchovetaChile`: Modified.  Updated to the actual data from the author.
-* `Cabezon`: Added.  This is the actual data from the author.
+* `.onLoad()`: Modified. Moved the startup message into `packageStartupMessage()` in hopes of eliminating the warning when checking the package.
+* `AnchovetaChile`: Modified. Updated to the actual data from the author.
+* `Cabezon`: Added. This is the actual data from the author.
 * `ChinookArg`: Added.
 * `CreelMN`: Added.
 * `KS2D_NR`: Added from NCStats.
-* `SardineChile`: Added.  This is the actual data from the author.
-* `YERockfish`: Added.  This is the actual data from the author.
+* `SardineChile`: Added. This is the actual data from the author.
+* `YERockfish`: Added. This is the actual data from the author.
 
 
 # 0.1-0 19Aug11
@@ -235,14 +236,14 @@
 * Changed dependency to >2.11.1
 * Modified description file to show my e-mail address.
 
-* SquareLakePopn: removed.  Moved to NCStats package.
-* VBGMlit: modified.  Changed "to" variable to "t0".
+* SquareLakePopn: removed. Moved to NCStats package.
+* VBGMlit: modified. Changed "to" variable to "t0".
 
 
 # 0.0-9 31Jan11
-* added examples to each rd file.  The examples show the structure and first few
-    rows of each data file.  In addition, many provide a simple plot or table of
-    the raw data.  The idea was to provide the user with a quick method to see 
+* added examples to each rd file. The examples show the structure and first few
+    rows of each data file. In addition, many provide a simple plot or table of
+    the raw data. The idea was to provide the user with a quick method to see 
     what the data looked like.
  
 * .First.lib(): modified -- Changed to include version number of loaded version.
@@ -308,7 +309,7 @@
 * InchLake2: Added -- can be used for length weight and relative weight analyses.
 * MuskieWI06MR: Added -- can be used for Petersen mark-recapture analyses.
 * RuffeWs: Added -- can be used for standard and relative weight analyses.
-* WalleyeGerowLW: Added -- can be used for standard and relative weight analyses.  Specifically used to test results of emp() function in FSA against Gerow's Excel Tool.
+* WalleyeGerowLW: Added -- can be used for standard and relative weight analyses. Specifically used to test results of emp() function in FSA against Gerow's Excel Tool.
 
 
 # 0.0-4 15May08
@@ -317,7 +318,7 @@
 
 * BluegillLM1: Added -- can be used for length-weight analysis.
 * BrownTroutVC1: Added -- can be used for M/R by length-class.
-* RSDlit: Changed .E variables to .in and changed .m variables to .cm.  This better reflects
+* RSDlit: Changed .E variables to .in and changed .m variables to .cm. This better reflects
     the units of measurement.
 * StripedBass2, StripedBass3: Added -- can be used for growth modeling and age-length key.
 * StipedBass4, StripedBass5, StripedBass6:  Added -- can be used for age comparison 

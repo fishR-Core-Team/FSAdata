@@ -31,7 +31,7 @@
 #' @concept Capture-Recapture
 #' @concept Petersen
 #' 
-#' @source Wisconsin Department of Natural Resources.
+#' @source Wisconsin Department of Natural Resources. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/MuskieWI06MR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

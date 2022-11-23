@@ -13,7 +13,7 @@ A data frame with 481 observations on the following 3 variables.
  }
 }
 \source{
-Capture histories simulated from summarzed data in table 2 and text of Burkholder, A.  1991. Abundance and composition of northern pike, Harding Lake, 1990. Fishery Data Series 91-9, Alaksa Department of Fish and Game. Was (is?) from http://www.sf.adfg.state.ak.us/FedAidpdfs/Fds91-09.pdf
+Capture histories simulated from summarized data in table 2 and text of Burkholder, A. 1991. Abundance and composition of northern pike, Harding Lake, 1990. Fishery Data Series 91-9, Alaska Department of Fish and Game. [Was (is?) from http://www.sf.adfg.state.ak.us/FedAidpdfs/Fds91-09.pdf.] \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/PikeHL.csv}{CSV file}
 }
 \description{
 Capture histories for Northern Pike (\emph{Esox lucius}) captured from Harding Lake, 1990.

@@ -1,24 +1,17 @@
 ---
 title: "FSA Datasets by Topic"
-output: 
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: vignette
+output: rmarkdown::html_vignette
 ---
 
-```{r setup, include = FALSE}
+```{r setup, include=FALSE}
 source("zHelpers.R")
-
-## Database of datasets in FSA and FSAdata, with other packages appended
-fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"))
 ```
 
 ```{r results='asis'}
-for (i in topics) {
-  cat("#",i)
-  print(maketable(fish_db,i))
-  cat("\n")
-}
+## Database of datasets JUST in FSA and FSAdata
+fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"))
+
+maketable(fish_db,topics)
 ```
 
 ----

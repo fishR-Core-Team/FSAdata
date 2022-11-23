@@ -27,7 +27,7 @@ A data frame with 39 observations on the following 5 variables.
  }
 }
 \source{
-From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management 13:511-523.
+From Table 1 in Bronte, C.R., J.H. Selgeby, D.V.Swedberg. 1993. Dynamics of a yellow perch population in Western Lake Superior. North American Journal of Fisheries Management 13:511-523. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YPerchCB1.csv}{CSV file}
 }
 \description{
 Catch-at-age for Yellow Perch (\emph{Perca flavescens}) from Chequamegon Bay, Lake Superior, 1973-1988.

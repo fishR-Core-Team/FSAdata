@@ -22,7 +22,7 @@
 #' @concept Growth
 #' @concept von Bertalanffy
 #' 
-#' @source From (approximately) Figure 2 in Mooij, W.M., J.M. Van Rooij, and S. Wijnhoven. 1999. Analysis and comparison of fish growth from small samples of length-at-age data: Detection of sexual dimorphism in Eurasian perch as an example. Transactions of the American Fisheries Society, 128:483-490.
+#' @source From (approximately) Figure 2 in Mooij, W.M., J.M. Van Rooij, and S. Wijnhoven. 1999. Analysis and comparison of fish growth from small samples of length-at-age data: Detection of sexual dimorphism in Eurasian perch as an example. Transactions of the American Fisheries Society, 128:483-490. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/EuroPerchTJ.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

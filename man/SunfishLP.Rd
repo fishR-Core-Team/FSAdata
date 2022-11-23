@@ -13,7 +13,7 @@ A data frame with 12 observations on the following 3 variables:
 }
 }
 \source{
-From (approximately) Figure 2 in Crawford, S. and M.S. Allen. 2006. Fishing and natural mortality of Bluegills and Redear Sunfish at Lake Panasoffkee, Florida: Implications for size limits. North American Journal of Fisheries Management 26:42-51. Note that I added a percentage for age-1 fish (the difference in percentages from Fig. 2).
+From (approximately) Figure 2 in Crawford, S. and M.S. Allen. 2006. Fishing and natural mortality of Bluegills and Redear Sunfish at Lake Panasoffkee, Florida: Implications for size limits. North American Journal of Fisheries Management 26:42-51. Note that I added a percentage for age-1 fish (the difference in percentages from Fig. 2). \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SunfishLP.csv}{CSV file}
 }
 \description{
 The percent frequency of of Bluegill (\emph{Lepomis macrochirus}) and Redear Sunfish (\emph{Lepomis microlophus}) caught in Lake Panasoffkee, FL.

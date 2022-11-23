@@ -10,6 +10,9 @@ A data frame of 300 observations on the following 1 variable:
    \item{fl}{Fork length (mm)} 
  }
 }
+\source{
+\href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutperchLM3.csv}{CSV file}
+}
 \description{
 Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from a subsample of fish captured near Grand Haven, Lake Michigan, 1977.
 }

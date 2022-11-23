@@ -15,7 +15,7 @@ A data frame of 34 rows on the following 5 variables:
  }
 }
 \source{
-From Table 3.1 in Quinn, T.J. and R.B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, New York.
+From Table 3.1 in Quinn, T.J. and R.B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, New York. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/PSalmonAK.csv}{CSV file}
 }
 \description{
 Harvest, escapement, and return of northern Southeast Alaska Pink Salmon (\emph{Oncorhynchus gorbuscha}), 1960-1991, and average sea surface temperature between June and November off Sitka, Alaska, 1960-1990.

@@ -26,7 +26,7 @@
 #' @concept von Bertalanffy
 #' @concept Fabens
 #' 
-#' @source These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.}
+#' @source These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.} \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluegillIL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

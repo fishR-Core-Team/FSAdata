@@ -12,7 +12,7 @@ A data frame of 9 observations on the following 2 variables:
  }
 }
 \source{
-From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland. Journal of Fish Biology 45:387-400.
+From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland. Journal of Fish Biology 45:387-400. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/VendaceLP2.csv}{CSV file}
 }
 \description{
 Vendace (\emph{Coregonus albula}) recruitment in Lake Pyhajarvi.

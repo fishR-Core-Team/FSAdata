@@ -22,7 +22,7 @@
 #' @concept Growth
 #' @concept von Bertalanffy
 #' 
-#' @source From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123.
+#' @source From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutBR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

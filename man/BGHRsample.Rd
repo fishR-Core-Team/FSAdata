@@ -14,7 +14,7 @@ A data frame with 20 observations on the following 4 variables.
  }
 }
 \source{
-Obtained directly from Ben Neely.
+Obtained directly from Ben Neely. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BGHRsample.csv}{CSV file}
 }
 \description{
 Information for each electrofishing sample from Big Hill Reservoir, KS, in May, 2014.

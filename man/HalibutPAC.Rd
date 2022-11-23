@@ -15,7 +15,7 @@ A data frame of 63 observations on the following 5 variables:
  }
 }
 \source{
-From Anonymous. 1989. International Pacific Halibut Commission. Annual Report 1989.; Myhre, Gordon, Peltonen, Stpierre, Skud, and Walden. International Pacific halibut Commission. Technical Report No. 14.; Pers. Comm. with Pat Sullivan. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From Anonymous. 1989. International Pacific Halibut Commission. Annual Report 1989.; Myhre, Gordon, Peltonen, Stpierre, Skud, and Walden. International Pacific halibut Commission. Technical Report No. 14.; Pers. Comm. with Pat Sullivan. Obtained from Ransom Myers old online database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/HalibutPAC.csv}{CSV file}
 }
 \description{
 Pacific Halibut (\emph{Hippoglossus stenolepis}) stock, recruitment, landings, and fishing mortality by year, 1929-1991.

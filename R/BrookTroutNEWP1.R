@@ -1,6 +1,6 @@
 #' @title Catches in removal events for Brook Trout in the Nashwaak Experimental Watersheds Project.
 #' 
-#' @description Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two streams in the the Nashwaak Experimental Watersheds Project on multiple dates.  Includes results from Schnute (1983).
+#' @description Catches in removal events for Brook Trout (\emph{Salvelinus fontinalis}) in two streams in the the Nashwaak Experimental Watersheds Project on multiple dates. Includes results from Schnute (1983).
 #' 
 #' @name BrookTroutNEWP1
 #' 
@@ -10,7 +10,7 @@
 #' \describe{
 #'   \item{sample}{A unique identified for the sample.}
 #'   \item{stream}{Stream (\code{UNM}=Upper Narrows Mountain Brook and \code{Hay}=Hyaden Brook).} 
-#'   \item{section}{Section of stream.  See source.}
+#'   \item{section}{Section of stream. See source.}
 #'   \item{date}{Data of collections.}
 #'   \item{first}{Catch on the first removal pass.} 
 #'   \item{second}{Catch on the second removal pass.} 
@@ -41,7 +41,7 @@
 #' @concept Population Size
 #' @concept Removal
 #' 
-#' @source From Tables 1-3 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169.
+#' @source From Tables 1-3 in Schnute, J. 1983. A new approach to estimating populations by the removal method. Canadian Journal of Fisheries and Aquatic Sciences, 40:2153-2169. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BrookTroutNEWP1.csv}{CSV file}
 #' 
 #' @seealso See \code{\link{BrookTroutNEWP}} for only the data (note the results from Schnute (1983)).
 #' 

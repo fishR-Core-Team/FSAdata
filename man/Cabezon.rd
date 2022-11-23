@@ -15,7 +15,7 @@ A data frame with 525 observations on the following 5 variables.
  }
 }
 \source{
-Actual data obtained directly (from Bob Hanna) from Hannah, R.W, M.T.O. Blume, and J.E. Thompson. 2009. Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity. Oregon Department of Fish and Wildlife, Information Reports 2009-04. [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf.]
+Actual data obtained directly (from Bob Hanna) from Hannah, R.W, M.T.O. Blume, and J.E. Thompson. 2009. Length and age at maturity of female yelloweye rockfish (\emph{Sebastes rubberimus}) and cabezon (\emph{Scorpaenichthys marmoratus}) from Oregon waters based on histological evaluation of maturity. Oregon Department of Fish and Wildlife, Information Reports 2009-04. [Was (is?) from http://www.dfw.state.or.us/mrp/publications/docs/Info200904_YlwEyeRF_Maturity.pdf.] \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Cabezon.csv}{CSV file}
 }
 \description{
 Ages, lengths, and maturity for female Cabezon (\emph{Scorpaenichthys marmoratus}) from Newport and Depoe Bay, Oregon.

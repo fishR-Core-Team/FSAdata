@@ -28,14 +28,20 @@ makelink <- function(d) {
   paste0(d$Package,"::",tmp)
 }
 
-maketable <- function(db,top) {
-  db %>%
-    filter(Concept==top) %>%
-    filter(!duplicated(Dataset)) %>%
-    arrange(Dataset,Package) %>%
-    mutate(Dataset=makelink(.)) %>%
-    select(Dataset,Description) %>%
-    knitr::kable()
+maketable <- function(db,tops) {
+  for (i in seq_along(tops)) {
+    if (i>1) cat("&nbsp;\n\n")
+    cat("##",tops[i])
+    tmp <- db %>%
+      filter(Concept==tops[i]) %>%
+      filter(!duplicated(Dataset)) %>%
+      arrange(Dataset,Package) %>%
+      mutate(Dataset=makelink(.)) %>%
+      select(Dataset,Description) %>%
+      knitr::kable()
+    print(tmp)
+    cat("\n")
+  }
 }
 
 # List of topics (these should be in the @Concepts of the dataset documentation)

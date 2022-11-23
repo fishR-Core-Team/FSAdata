@@ -14,6 +14,9 @@ A data frame with 100 observations on the following 5 variables:
    \item{wght}{Weight (g)}
  }
 }
+\source{
+\href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluegillLM.csv}{CSV file}
+}
 \description{
 Lengths (standard, fork, and total) and weights for Bluegill (\emph{Lepomis macrochirus}) collected from Lake Mary, Minnesota.
 }

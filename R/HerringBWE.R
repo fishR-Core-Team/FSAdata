@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater herring (\emph{Clupea harengus} L.) in relation to larval production. ICES Journal of Marine Science, 58:750-762.
+#' @source From Fox, C.J. 2001. Recent trends in stock-recruitment of Blackwater herring (\emph{Clupea harengus} L.) in relation to larval production. ICES Journal of Marine Science, 58:750-762. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/HerringBWE.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

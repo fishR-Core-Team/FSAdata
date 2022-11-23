@@ -13,7 +13,7 @@ A data frame with 196 observations of the following 3 variables:
  }
 }
 \source{
-Directly from the authors of Cubillos, L.A., D.F. Arcosa, D.A. Bucareya, M.T. Canalesa.  2001.  Seasonal growth of small pelagic fish off Talcahuano, Chile (37S, 73W): a consequence of their reproductive strategy to seasonal upwelling?  Aquatic Living Resources, 14:115-124.  Data were in Figure 9.
+Directly from the authors of Cubillos, L.A., D.F. Arcosa, D.A. Bucareya, M.T. Canalesa. 2001. Seasonal growth of small pelagic fish off Talcahuano, Chile (37S, 73W): a consequence of their reproductive strategy to seasonal upwelling? Aquatic Living Resources, 14:115-124. Data were in Figure 9. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SardineChile.csv}{CSV file}
 }
 \description{
 Ages (in months) and total lengths of two year-classes of Sardine (\emph{Strangomera bentincki}) from central Chilean waters.

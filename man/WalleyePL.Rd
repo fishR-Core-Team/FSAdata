@@ -15,7 +15,7 @@ A data frame with 33 observations on the following 5 variables:
  }
 }
 \source{
-From table 3 of Mraz, D. 1968. Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake. Wisconsin Department of Natural Resources Technical Bulletin 40. 38 pages.
+From table 3 of Mraz, D. 1968. Recruitment, growth, exploitation, and management of walleyes in a southeastern Wisconsin lake. Wisconsin Department of Natural Resources Technical Bulletin 40. 38 pages. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyePL.csv}{CSV file}
 }
 \description{
 The numbers of young-of-year walleye (\emph{Sander vitreus}) that were captured, found to have previous marks (i.e., recaptured), and were newly marked on several sampling occasions in 1959, 1960, 1961, and 1962 in Pike Lake, Wisconsin.

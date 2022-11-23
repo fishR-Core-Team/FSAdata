@@ -13,7 +13,7 @@ A data frame of 16 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 7 of Schaeffer, J.S. 2004. Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998. Ann Zool Fennici. 41:271-279.
+From (approximately) Figure 7 of Schaeffer, J.S. 2004. Population dynamics of bloaters \emph{Coregonus hoyi} in Lake Huron, 1980-1998. Ann Zool Fennici. 41:271-279. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BloaterLH.csv}{CSV file}
 }
 \description{
 Egg deposition and relative abundance of age-3 Lake Huron Bloaters (\emph{Coregonus hoyi}) by year, 1981-1996.
