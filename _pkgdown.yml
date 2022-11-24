@@ -9,14 +9,12 @@ development:
 navbar:
   type: inverse
   left:
-    - text: Reference
-      href: reference/index.html
-    - text: Dataset Lists
-      menu:
-      - text: FSA By Topic
-        href: articles/FSA_byTopic.html
-      - text: Comprehensive Fisheries By Topic
-        href: articles/Comprehensive_byTopic.html
+    - text: By Topic
+      href: articles/FSA_byTopic.html
+    - text: Alphabetical
+      href: articles/FSA_alpha.html
+    - text: Comprehensive
+      href: articles/Comprehensive_byTopic.html
     
   right:
     - icon: fa-newspaper fa-2x

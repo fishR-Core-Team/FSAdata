@@ -28,12 +28,9 @@ makelink <- function(d) {
   paste0(d$Package,"::",tmp)
 }
 
-maketable <- function(db,tops) {
-  for (i in seq_along(tops)) {
-    if (i>1) cat("&nbsp;\n\n")
-    cat("##",tops[i])
+maketable <- function(db,tops=NULL) {
+  if (is.null(tops)) {
     tmp <- db %>%
-      filter(Concept==tops[i]) %>%
       filter(!duplicated(Dataset)) %>%
       arrange(Dataset,Package) %>%
       mutate(Dataset=makelink(.)) %>%
@@ -41,6 +38,20 @@ maketable <- function(db,tops) {
       knitr::kable()
     print(tmp)
     cat("\n")
+  } else {
+    for (i in seq_along(tops)) {
+      if (i>1) cat("&nbsp;\n\n")
+      cat("##",tops[i])
+      tmp <- db %>%
+        filter(Concept==tops[i]) %>%
+        filter(!duplicated(Dataset)) %>%
+        arrange(Dataset,Package) %>%
+        mutate(Dataset=makelink(.)) %>%
+        select(Dataset,Description) %>%
+        knitr::kable()
+      print(tmp)
+      cat("\n")
+    }
   }
 }
 

@@ -3,6 +3,10 @@ title: "Fisheries Datasets by Topic"
 output: rmarkdown::html_vignette
 ---
 
+The following list is a comprehensive(?) list of fisheries related datasets found in packages that exist on CRAN. Datasets from packages other than FSA and FSAdata are entered manually so please submit a GitHub [Issue](https://github.com/fishR-Core-Team/FSAdata/issues) or [Pull Request](https://github.com/fishR-Core-Team/FSAdata/pulls) with any corrections or additions. This list was last updated on `r format(Sys.Date(),format="%B %d, %Y")`.
+
+&nbsp;
+
 ```{r setup, include=FALSE}
 source("zHelpers.R")
 ```
@@ -20,7 +24,3 @@ fish_db <- rbind(prepare_db("FSA"),prepare_db("FSAdata"),tmp)
 
 maketable(fish_db,topics)
 ```
-
-----
-
-Last updated: `r format(Sys.Date(),format="%B %d, %Y")`
