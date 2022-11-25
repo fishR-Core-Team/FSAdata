@@ -29,7 +29,7 @@
 #' @concept Depletion
 #' @concept Catchability
 #' 
-#' @source From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society 94:287-310. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BlueCrap.csv}{CSV file}
+#' @source From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society 94:287-310. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BlueCrab.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

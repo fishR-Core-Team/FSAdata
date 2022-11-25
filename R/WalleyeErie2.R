@@ -9,7 +9,7 @@
 #' @format A data frame of 33734 observations on the following 10 variables:
 #' \describe{
 #'  \item{setID}{Unique gear (multifilament gill net kegged 6 ft below surface) set identification number.} 
-#'  \item{loc}{Regional location (1=Toledo to Huron, 2=Huron to Fairport Harbor, 3=Fairport Harbor to Conneaut).} 
+#'  \item{loc}{Regional location (\code{1}=Toledo to Huron, \code{2}=Huron to Fairport Harbor, \code{3}=Fairport Harbor to Conneaut).} 
 #'  \item{grid}{2.5-minute sampling grid location.}
 #'  \item{year}{Year of data.}
 #'  \item{tl}{Total length (mm).}

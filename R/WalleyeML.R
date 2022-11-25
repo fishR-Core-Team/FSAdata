@@ -30,7 +30,7 @@
 #' @concept von Bertalanffy
 #' @concept Back-calculation
 #' 
-#' @source These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (via Melissa Treml). \bold{Do not use for other than educational purposes without permission from the source.} \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeMLR.csv}{CSV file}
+#' @source These unpublished data are from the Minnesota Department of Natural Resources, Section of Fisheries (via Melissa Treml). \bold{Do not use for other than educational purposes without permission from the source.} \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeML.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

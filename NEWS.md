@@ -6,6 +6,7 @@
     * Added Suggests for `dplyr`, `fishmethods`, `FSA`, `knitr`, `pkgdown`, `readxl`, and `rmarkdown` (related to creating website).
     * Added `pkgdown.yaml` GitHub action.
     * Added `FSA_byTopic` and `Comprehensive_byTopic` (which includes adding the `DataFromOtherPackages.xlsx` file in the `inst\extdata\ folder) vignettes.
+    * Added "CSV file" links for all datasets' documentation files.
 
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
@@ -41,10 +42,10 @@
 * Started using ROxygen v5.0.0.
 * `Bonito`: Added.
 * `Mosquitofish`: Added.
-* `RWhitefishAI`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/droglenc/FSAdata/issues/3). Thanks to Peter Mous.
-* `RWhitefishIR`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/droglenc/FSAdata/issues/3). Thanks to Peter Mous.
+* `RWhitefishAI`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/fishR-Core-Team/FSAdata/issues/3). Thanks to Peter Mous.
+* `RWhitefishIR`: Modified. Fixed typo in scientific names and length units. Fixes [#3](https://github.com/fishR-Core-Team/FSAdata/issues/3). Thanks to Peter Mous.
 * `SnapperHG`: Modified. Fixed typo in documentation.
-* `StripedBass2`: Modified. Fixed typo in length units. Fixes [#4](https://github.com/droglenc/FSAdata/issues/4). Thanks to Peter Mous.
+* `StripedBass2`: Modified. Fixed typo in length units. Fixes [#4](https://github.com/fishR-Core-Team/FSAdata/issues/4). Thanks to Peter Mous.
 * `YPerchTL`: Modified. Minor update to documentation.
 * `YPerchSB1`: Modified. Fixed typo in documentation.
 
