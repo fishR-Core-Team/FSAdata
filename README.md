@@ -22,6 +22,6 @@ remotes::install_github('fishR-Core-Team/FSAdata')
 
 ----
 
-[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/18454411.svg)](https://zenodo.org/badge/latestdoi/18454411) [![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata) [![R-CMD-check](https://github.com/fishR-Core-Team/FSAdata/workflows/R-CMD-check/badge.svg)](https://github.com/fishR-Core-Team/FSAdata/actions)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/18454411.svg)](https://zenodo.org/badge/latestdoi/18454411) [![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata) [![R-CMD-check](https://github.com/fishR-Core-Team/FSAdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fishR-Core-Team/FSAdata/actions/workflows/R-CMD-check.yaml)
 
 [![CRAN RStudio mirror downloads rate](http://cranlogs.r-pkg.org/badges/FSAdata) ![CRAN RSTudio mirror downloads total](http://cranlogs.r-pkg.org/badges/grand-total/FSAdata)](http://www.r-pkg.org/pkg/FSAdata)

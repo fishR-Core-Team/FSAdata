@@ -7,6 +7,7 @@
     * Added `pkgdown.yaml` GitHub action.
     * Added `FSA_byTopic` and `Comprehensive_byTopic` (which includes adding the `DataFromOtherPackages.xlsx` file in the `inst\extdata\ folder) vignettes.
     * Added "CSV file" links for all datasets' documentation files.
+* Changed my (DHO) email in `DESCRIPTION`.
 
 # 0.3.9 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
