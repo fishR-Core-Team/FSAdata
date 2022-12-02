@@ -1,5 +1,4 @@
 # FSAdata 0.3.10 
-* **DATE:** Ongoing
 * Added Code of Conduct
 * Updated `README.md`
 * Updated `R-CMD-check.yaml` GitHub action to [v2](https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow) (this addresses the issue with the action on Ubuntu-dev).
@@ -10,33 +9,27 @@
 * Changed my (DHO) email in `DESCRIPTION`.
 
 # FSAdata 0.3.9 
-* **DATE:** 12-Feb-22
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.
 * Removed Travis-CI.
 * Added GitHub Actions for CI/CD (used `usethis::use_github_action_check_standard()`)
 * Renamed default repo from `master` to `main` (see [this](https://github.com/github/renaming#rename-existing)).
 
 # FSAdata 0.3.8 
-* **DATE:** 17-May-19
 * Corrected misuse of `\concept` in Rd files per CRAN request.
 
 # FSAdata 0.3.7 
-* **DATE:** 24-Mar-19
 * Added `Encoding: UTF-8` to DESCRIPTION.
 * `PygmyWFBC`: Modified. Added the 2000 data (thought they were there but they were not).
 * `RBTroutKenai`: Modified. Corrected error (thanks to Robert Black).
 
 # FSAdata 0.3.6 
-* **DATE:** 11-Mar-17
 * `BluegillIL`: Modified. Changed names of variables.
 
 # FSAdata 0.3.5 
-* **DATE:** 13-Dec-16
 * `.onAttach()`: Modified. Streamlined package startup message.
 * `Mosquitofish`: Fixed small typos in documentation.
 
 # FSAdata 0.3.4 
-* **DATE:** 23-Aug-16
 * `BluegillIL`: Added.
 * `Cabezon`: Fixed small typo in documentation.
 * `RBTroutKenai`: Fixed small typo in documentation.
@@ -46,7 +39,6 @@
 * `YERockfish`: Fixed small typo in documentation.
 
 # FSAdata 0.3.3 
-* **DATE:** 18-Jul-16
 * Started using ROxygen v5.0.0.
 * `Bonito`: Added.
 * `Mosquitofish`: Added.
@@ -58,7 +50,6 @@
 * `YPerchSB1`: Modified. Fixed typo in documentation.
 
 # FSAdata 0.3.2 
-* **DATE:** 22-Oct-15
 * Fixed LaTeX quotes in DESCRIPTION file.
 * Removed all `\href{}{}` and `\url{}` codes to websites that I don't control. The addresses are now "naked" such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link. Hopefully this will eliminate problems with R CMD CHECK.
 * Added notes to all files that were used in IFAR.
@@ -90,7 +81,6 @@
 * `WhitefishLS`: Added a topic to help documentation.
 
 # FSAdata 0.3.0 
-* **DATE:** 6Oct15
 * Released to CRAN
 
 # FSAdata 0.2.2 
