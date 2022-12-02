@@ -1,8 +1,8 @@
 &nbsp;
 
-**FSAdata** is a companion package to [**FSA**](https://github.com/fishR-Core-Team/FSA) maintained by the [**fishR Core Team**](https://github.com/fishR-Core-Team) that contains data sets for use in common fisheries analyses. The data and documentation for individual data sets may be viewed by following the links on the [Reference page.](reference/index.html).
+**FSAdata** is a companion package to [**FSA**](https://fishr-core-team.github.io/FSA/) maintained by the [**fishR Core Team**](https://github.com/fishR-Core-Team) that contains data sets for use in common fisheries analyses. The data and documentation for individual data sets may be viewed by following the links on the [Reference page](reference/index.html).
 
-You can contribute to the package by reporting problems or corrections via [a GitHub issue](https://github.com/fishR-Core-Team/FSAdata/issues) or submitting a dataset for inclusion via [a GitHub issue](https://github.com/fishR-Core-Team/FSAdata/issues) or [a GitHub pull request](https://github.com/fishR-Core-Team/FSAdata/pulls).
+You can contribute to the package by reporting problems or corrections via [a GitHub issue](https://github.com/fishR-Core-Team/FSAdata/issues/new/) or submitting a dataset for inclusion via [a GitHub issue](https://github.com/fishR-Core-Team/FSAdata/issues/new/) or [a GitHub pull request](https://github.com/fishR-Core-Team/FSAdata/pulls).
 
 &nbsp;
 
@@ -20,7 +20,7 @@ if (!require('remotes')) install.packages('remotes'); require('remotes')
 remotes::install_github('fishR-Core-Team/FSAdata')
 ```
 
-----
+&nbsp;
 
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/18454411.svg)](https://zenodo.org/badge/latestdoi/18454411) [![CRAN Version](http://www.r-pkg.org/badges/version/FSAdata)](http://www.r-pkg.org/pkg/FSAdata) [![R-CMD-check](https://github.com/fishR-Core-Team/FSAdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fishR-Core-Team/FSAdata/actions/workflows/R-CMD-check.yaml)
 

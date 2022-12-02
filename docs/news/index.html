@@ -6,7 +6,7 @@
     <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
     
 
-    <nav class="navbar fixed-top navbar-inverse navbar-expand-lg bg-light"><div class="container">
+    <nav class="navbar fixed-top navbar-dark navbar-expand-lg bg-primary"><div class="container">
     
     <a class="navbar-brand me-2" href="../index.html">FSAdata</a>
 
@@ -19,13 +19,7 @@
 
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto"><li class="nav-item">
-  <a class="nav-link" href="../articles/FSA_byTopic.html">By Topic</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="../articles/FSA_alpha.html">Alphabetical</a>
-</li>
-<li class="nav-item">
-  <a class="nav-link" href="../articles/Comprehensive_byTopic.html">Comprehensive</a>
+  <a class="nav-link" href="../reference/index.html">Reference</a>
 </li>
       </ul><form class="form-inline my-2 my-lg-0" role="search">
         <input type="search" class="form-control me-sm-2" aria-label="Toggle navigation" name="search-input" data-search-index="../search.json" id="search-input" placeholder="Search for" autocomplete="off"></form>
@@ -59,7 +53,519 @@
       <small>Source: <a href="https://github.com/fishR-Core-Team/FSAdata/blob/HEAD/NEWS.md" class="external-link"><code>NEWS.md</code></a></small>
     </div>
 
-  </main></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.10" id="fsadata-0310">FSAdata 0.3.10<a class="anchor" aria-label="anchor" href="#fsadata-0310"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Ongoing</li>
+<li>Added Code of Conduct</li>
+<li>Updated <code>README.md</code>
+</li>
+<li>Updated <code>R-CMD-check.yaml</code> GitHub action to <a href="https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow" class="external-link">v2</a> (this addresses the issue with the action on Ubuntu-dev).</li>
+<li>Added <code>pkgdown</code> site.
+<ul><li>Added Suggests for <code>dplyr</code>, <code>fishmethods</code>, <code>FSA</code>, <code>knitr</code>, <code>pkgdown</code>, <code>readxl</code>, and <code>rmarkdown</code> (related to creating website).</li>
+<li>Added <code>pkgdown.yaml</code> GitHub action.</li>
+<li>Added “CSV file” links for all datasets’ documentation files.</li>
+</ul></li>
+<li>Changed my (DHO) email in <code>DESCRIPTION</code>.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.9" id="fsadata-039">FSAdata 0.3.9<a class="anchor" aria-label="anchor" href="#fsadata-039"></a></h2><p class="text-muted">CRAN release: 2022-02-13</p>
+<ul><li>
+<strong>DATE:</strong> 12-Feb-22</li>
+<li>Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.</li>
+<li>Removed Travis-CI.</li>
+<li>Added GitHub Actions for CI/CD (used <code><a href="https://usethis.r-lib.org/reference/github_actions.html" class="external-link">usethis::use_github_action_check_standard()</a></code>)</li>
+<li>Renamed default repo from <code>master</code> to <code>main</code> (see <a href="https://github.com/github/renaming#rename-existing" class="external-link">this</a>).</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.8" id="fsadata-038">FSAdata 0.3.8<a class="anchor" aria-label="anchor" href="#fsadata-038"></a></h2><p class="text-muted">CRAN release: 2019-05-18</p>
+<ul><li>
+<strong>DATE:</strong> 17-May-19</li>
+<li>Corrected misuse of <code>\concept</code> in Rd files per CRAN request.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.7" id="fsadata-037">FSAdata 0.3.7<a class="anchor" aria-label="anchor" href="#fsadata-037"></a></h2><p class="text-muted">CRAN release: 2019-03-24</p>
+<ul><li>
+<strong>DATE:</strong> 24-Mar-19</li>
+<li>Added <code>Encoding: UTF-8</code> to DESCRIPTION.</li>
+<li>
+<code>PygmyWFBC</code>: Modified. Added the 2000 data (thought they were there but they were not).</li>
+<li>
+<code>RBTroutKenai</code>: Modified. Corrected error (thanks to Robert Black).</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.6" id="fsadata-036">FSAdata 0.3.6<a class="anchor" aria-label="anchor" href="#fsadata-036"></a></h2><p class="text-muted">CRAN release: 2017-03-10</p>
+<ul><li>
+<strong>DATE:</strong> 11-Mar-17</li>
+<li>
+<code>BluegillIL</code>: Modified. Changed names of variables.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.5" id="fsadata-035">FSAdata 0.3.5<a class="anchor" aria-label="anchor" href="#fsadata-035"></a></h2><p class="text-muted">CRAN release: 2016-12-13</p>
+<ul><li>
+<strong>DATE:</strong> 13-Dec-16</li>
+<li>
+<code><a href="../reference/FSAdata-internals.html">.onAttach()</a></code>: Modified. Streamlined package startup message.</li>
+<li>
+<code>Mosquitofish</code>: Fixed small typos in documentation.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.4" id="fsadata-034">FSAdata 0.3.4<a class="anchor" aria-label="anchor" href="#fsadata-034"></a></h2><p class="text-muted">CRAN release: 2016-08-23</p>
+<ul><li>
+<strong>DATE:</strong> 23-Aug-16</li>
+<li>
+<code>BluegillIL</code>: Added.</li>
+<li>
+<code>Cabezon</code>: Fixed small typo in documentation.</li>
+<li>
+<code>RBTroutKenai</code>: Fixed small typo in documentation.</li>
+<li>
+<code>RuffeSLRH92</code>: Added more specificity to documentation.</li>
+<li>
+<code>WalleyeErie2</code>: Fixed small typo in documentation.</li>
+<li>
+<code>WalleyeML</code>: Fixed small typo in documentation.</li>
+<li>
+<code>YERockfish</code>: Fixed small typo in documentation.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.3" id="fsadata-033">FSAdata 0.3.3<a class="anchor" aria-label="anchor" href="#fsadata-033"></a></h2><p class="text-muted">CRAN release: 2016-07-18</p>
+<ul><li>
+<strong>DATE:</strong> 18-Jul-16</li>
+<li>Started using ROxygen v5.0.0.</li>
+<li>
+<code>Bonito</code>: Added.</li>
+<li>
+<code>Mosquitofish</code>: Added.</li>
+<li>
+<code>RWhitefishAI</code>: Modified. Fixed typo in scientific names and length units. Fixes <a href="https://github.com/fishR-Core-Team/FSAdata/issues/3" class="external-link">#3</a>. Thanks to Peter Mous.</li>
+<li>
+<code>RWhitefishIR</code>: Modified. Fixed typo in scientific names and length units. Fixes <a href="https://github.com/fishR-Core-Team/FSAdata/issues/3" class="external-link">#3</a>. Thanks to Peter Mous.</li>
+<li>
+<code>SnapperHG</code>: Modified. Fixed typo in documentation.</li>
+<li>
+<code>StripedBass2</code>: Modified. Fixed typo in length units. Fixes <a href="https://github.com/fishR-Core-Team/FSAdata/issues/4" class="external-link">#4</a>. Thanks to Peter Mous.</li>
+<li>
+<code>YPerchTL</code>: Modified. Minor update to documentation.</li>
+<li>
+<code>YPerchSB1</code>: Modified. Fixed typo in documentation.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.2" id="fsadata-032">FSAdata 0.3.2<a class="anchor" aria-label="anchor" href="#fsadata-032"></a></h2><p class="text-muted">CRAN release: 2015-10-22</p>
+<ul><li>
+<strong>DATE:</strong> 22-Oct-15</li>
+<li>Fixed LaTeX quotes in DESCRIPTION file.</li>
+<li>Removed all <code>\href{}{}</code> and <code>\url{}</code> codes to websites that I don’t control. The addresses are now “naked” such that the user will need to copy-and-paste them into a browser to view the web page rather than clicking on a hyper link. Hopefully this will eliminate problems with R CMD CHECK.</li>
+<li>Added notes to all files that were used in IFAR.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.1" id="fsadata-031">FSAdata 0.3.1<a class="anchor" aria-label="anchor" href="#fsadata-031"></a></h2>
+<ul><li>
+<strong>DATE:</strong> 21-Oct-15</li>
+<li>Removed <code>Imports</code> for <code>utils</code> due to changes in <code>FSAdata</code> described below.</li>
+<li>Lots of editorial changes to help pages to make it the <code>datalist</code> vignette in <code>FSA</code> work better an to make the documentation more consistent.</li>
+<li>Changed all files in <code>data-raw</code> to CSV files.</li>
+<li>Added and exported the <code>FSAdataTopics</code> object.</li>
+<li>
+<code>AfricanRivers</code>: Added a topic to help documentation.</li>
+<li>
+<code>BGHRfish</code>: Added.</li>
+<li>
+<code>BGHRsample</code>: Added.</li>
+<li>
+<code>BlackDrum2001</code>: Added.</li>
+<li>
+<code>Casselman1990</code>: Added a topic to help documentation.</li>
+<li>
+<code>CCatfishNB</code>: Added.</li>
+<li>
+<code>CreekChub</code>: Added.</li>
+<li>
+<code>CreelMN</code>: Added a topic to help documentation.</li>
+<li>
+<code>CutthroatALf</code>: Modified. Removed <code>href</code> as it seemed inconsistent.</li>
+<li>
+<code>FSAdata</code>: Modified. Fixed link to <code>FSA</code> package. Removed <code>importFrom</code> for <code><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.table()</a></code> from <code>utils</code>.</li>
+<li>
+<code>Ghats</code>: Added a topic to help documentation.</li>
+<li>
+<code>LakeTroutEggs</code>: Added a topic to help documentation.</li>
+<li>
+<code>PikeHL</code>: Modified. Removed <code>href</code> as it seemed inconsistent.</li>
+<li>
+<code>ShadCR</code>: Added.</li>
+<li>
+<code>SiscowetMI2004</code>: Added.</li>
+<li>
+<code>StrugeonBG</code>: Added.</li>
+<li>
+<code>WalleyeWad</code>: Added.</li>
+<li>
+<code>WalleyeWyrlng</code>: Added.</li>
+<li>
+<code>WhitefishLS</code>: Added a topic to help documentation.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.3.0" id="fsadata-030">FSAdata 0.3.0<a class="anchor" aria-label="anchor" href="#fsadata-030"></a></h2><p class="text-muted">CRAN release: 2015-10-06</p>
+<ul><li>
+<strong>DATE:</strong> 6Oct15</li>
+<li>Released to CRAN</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.2.2" id="fsadata-022">FSAdata 0.2.2<a class="anchor" aria-label="anchor" href="#fsadata-022"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Oct15</li>
+<li>Converted all <code>.txt</code> files to <code>.Rda</code> files. Original <code>.txt</code> files are in the <code>data-raw</code> directory which was added to <code>.Rbuildignore</code>.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.2.1" id="fsadata-021">FSAdata 0.2.1<a class="anchor" aria-label="anchor" href="#fsadata-021"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Sep15</li>
+<li>Updated <code>README.md</code> and <code>DESCRIPTION</code> to reflect the new websites.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.2.0" id="fsadata-020">FSAdata 0.2.0<a class="anchor" aria-label="anchor" href="#fsadata-020"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Aug15</li>
+<li>Added importFrom for <code>utils</code>.</li>
+<li>
+<code>BluegilLM</code>: Added. Moved from <code>FSA</code>.</li>
+<li>
+<code>CutthroatALF.R</code>: Modified. Changed to use <code><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">utils::read.table()</a></code> rather than <code><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.table()</a></code>.</li>
+<li>
+<code>WalleyeErie2</code>: Added.</li>
+<li>
+<code>WalleyeML</code>: Added.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.9" id="fsadata-019">FSAdata 0.1.9<a class="anchor" aria-label="anchor" href="#fsadata-019"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Jul15</li>
+<li>Removed several URLs that either did not work consistently or have been moved. Fixed several others.</li>
+<li>Fixed title in DESCRIPTION.</li>
+<li>Fixed CITATION.</li>
+<li>Removed Suggests for <code>FSA</code>.</li>
+<li>Added Travis CI.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.8" id="fsadata-018">FSAdata 0.1.8<a class="anchor" aria-label="anchor" href="#fsadata-018"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Apr14</li>
+<li>Updated DESCRIPTION file (following this – <a href="http://r-pkgs.had.co.nz/description.html" class="external-link uri">http://r-pkgs.had.co.nz/description.html</a>). Also added LazyData: true.</li>
+<li>
+<code>Pathfinder</code>: Added.</li>
+<li>
+<code>YPerchSB</code>: Modified. Corrected bug with data.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.7" id="fsadata-017">FSAdata 0.1.7<a class="anchor" aria-label="anchor" href="#fsadata-017"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Aug14</li>
+<li>Modified two examples to use <code><a href="https://rdrr.io/r/base/interactive.html" class="external-link">interactive()</a></code> because of use of <code>FSA</code> package.</li>
+<li>
+<code>BrookTroutNEWP1</code>: Added. Use as an example to test <code><a href="https://rdrr.io/pkg/FSA/man/removal.html" class="external-link">removal()</a></code> in the <code>FSA</code> package.</li>
+<li>
+<code>DarterMahon</code>: Added.</li>
+<li>
+<code>LobsterPEI</code>: Added. Used as an example to test <code><a href="https://rdrr.io/pkg/FSA/man/depletion.html" class="external-link">depletion()</a></code> in the <code>FSA</code> package.</li>
+<li>
+<code>ShrimpGuam</code>: Added.</li>
+<li>
+<code>SnapperHG1</code>: Added.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.6" id="fsadata-016">FSAdata 0.1.6<a class="anchor" aria-label="anchor" href="#fsadata-016"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Jul14</li>
+<li>
+<code>BullTroutRML1</code>: Modified. Updated the source reference.</li>
+<li>
+<code>BullTroutRML2</code>: Modified. Updated the source reference.</li>
+<li>
+<code>CutthroatALf</code>: Added.</li>
+<li>
+<code>RuffeSLRH92</code>: Modified. Changed the <code>species</code> variable to <code>indiv</code>.</li>
+<li>
+<code>SunfishIn</code>: Modified. Updated example after changes to <code><a href="https://rdrr.io/pkg/FSA/man/mrClosed.html" class="external-link">mrClosed()</a></code> in <code>FSA</code>.</li>
+<li>
+<code>WalleyeConsumption</code>: Modified. Updated the source reference.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.5" id="fsadata-015">FSAdata 0.1.5<a class="anchor" aria-label="anchor" href="#fsadata-015"></a></h2>
+<ul><li>
+<strong>DATE:</strong> Jun14</li>
+<li>Changed to using github and compiling under R 3.1.0.</li>
+<li>Moved FSA to a “suggests” rather than “depends”.</li>
+<li>Made topic sections consistent, added concept fields, and cleaned up titles in the help files so that <code><a href="https://rdrr.io/r/utils/help.search.html" class="external-link">help.search()</a></code> worked better.</li>
+<li>Cleaned up help files (consistent spacing and labeling).</li>
+<li>
+<code>FSAdata.R</code>: Modified. Updated <code><a href="https://rdrr.io/r/utils/help.search.html" class="external-link">help.search()</a></code> hints to include the FSA package.</li>
+<li>
+<code>AlewifeLH</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file. Added link to reference.</li>
+<li>
+<code>BluegillWS</code>: Deleted. Moved to FSAWs.</li>
+<li>
+<code>BluefishAge</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>Cabezon</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>ChinookArg</code>: Removed (moved to FSA).</li>
+<li>
+<code>CreelMN</code>: Modified. Used a <code>dontrun{}</code> in the examples to remove dependency on FSA. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>Croaker1</code>: Modified. Corrected reference. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>Croaker2</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>GreensCreekMine</code>: Added.</li>
+<li>
+<code>Herman</code>: Modified. Modified a link to the article in the help file. Cleaned up help file.</li>
+<li>
+<code>JobfishSIO</code>: Modified. Added a link to the article in the help file. Cleaned up help file.</li>
+<li>
+<code>LakeTroutALTER</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>Morwong1</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>Morwong2</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>MulletBS</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>MuskieSLR</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>PikeHL</code>: Modified. Added a note. Cleaned up help file.</li>
+<li>
+<code>RuffeSLRH92</code>: Modified. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>RWhitefishAI</code>: Added.</li>
+<li>
+<code>RWhitefishIR</code>: Added.</li>
+<li>
+<code>SalmonidsMCCA</code>: Added.</li>
+<li>
+<code>SardineLK</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>SculpinALTER</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>SnapperHG1</code>: Added.</li>
+<li>
+<code>SpottedSucker1</code>: Added.</li>
+<li>
+<code>SpotVA2</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>StripedBass1</code>: Modified. Corrected reference. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>StripedBass2</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>StripedBass3</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>StripedBass4</code>: Modified. Corrected reference. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>StripedBass5</code>: Modified. Corrected reference. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>StripedBass6</code>: Modified. Corrected reference. Changed example to use <code><a href="https://rdrr.io/r/stats/xtabs.html" class="external-link">xtabs()</a></code>. Cleaned up help file.</li>
+<li>
+<code>SunfishIN</code>: Modified. Corrected a data entry error. Added test example. Cleaned up help file.</li>
+<li>
+<code>WalleyeMN06a</code>: Modified. Added link to reference. Cleaned up help file.</li>
+<li>
+<code>WalleyeMN06b</code>: Modified. Added link to reference. Cleaned up help file.</li>
+<li>
+<code>WalleyePL</code>: Added.</li>
+<li>
+<code>WalleyePL1</code>: Deleted. Combined to form <code>WalleyePL</code>.</li>
+<li>
+<code>WalleyePL2</code>: Deleted. Combined to form <code>WalleyePL</code>.</li>
+<li>
+<code>WalleyePL3</code>: Deleted. Combined to form <code>WalleyePL</code>.</li>
+<li>
+<code>WalleyePL4</code>: Deleted. Combined to form <code>WalleyePL</code>.</li>
+<li>
+<code>WalleyeWS</code>: Deleted. Moved to FSAWs.</li>
+<li>
+<code>WhitefishLS</code>: Modified. Corrected reference. Cleaned up help file.</li>
+<li>
+<code>YPerchTL</code>: Modified. Corrected reference. Cleaned up help file.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.4" id="fsadata-014">FSAdata 0.1.4<a class="anchor" aria-label="anchor" href="#fsadata-014"></a></h2>
+<ul><li><p><strong>DATE:</strong> Apr14</p></li>
+<li><p>Changed R dependency to &gt;3.0.0 (because FSA package has that dependency).</p></li>
+<li><p>Removed dependency on gdata (no longer needed when RuffeWS was moved to FSA).</p></li>
+<li><p>Slight modifications to RD files (capitalized all common names per new AFS “rule”, formatted around variables and topics to make easier to edit.)</p></li>
+<li><p><code>BluefishAge</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>CrappieARMS</code>: Modified.</p></li>
+<li><p><code>Croaker1</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>Croaker2</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>Deckeretal1999</code>: Added.</p></li>
+<li><p><code>HumpbackWFCR</code>: Added.</p></li>
+<li><p><code>Menhaden1</code>: Added.</p></li>
+<li><p><code>StripedBass1</code>: Added (from FSA).</p></li>
+<li><p><code>StripedBass2</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>StripedBass4</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>StripedBass5</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>StripedBass6</code>: Modified. Removed link to original source (caused problems at check).</p></li>
+<li><p><code>WalleyeKS</code>: Added.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.3" id="fsadata-013">FSAdata 0.1.3<a class="anchor" aria-label="anchor" href="#fsadata-013"></a></h2>
+<ul><li><p><strong>DATE:</strong> Jun13</p></li>
+<li><p>Switched to using roxygen2 to create help files.</p></li>
+<li><p>Added a Depends on FSA (note that FSA no longer depends on FSAdata).</p></li>
+<li><p>Modified depends to &gt;R2.14.0 to match FSA (which this depens on).</p></li>
+<li><p>Moved the following data files to FSA: <code>BluegillJL</code>, <code>BluegillLM</code>, <code>BrookTroutTH</code>, <code>CodNorwegian</code>, <code>CutthroatAL</code>, <code>Ecoli</code>, <code>KS2D_NR</code>, <code>LMBassWs</code>, <code>Mirex</code>, <code>PikeNY</code>, <code>PikeNYPartial1</code>, <code>RSDlit</code>, <code>RuffeWs</code>, <code>SMBassLS</code>, <code>SMBassWB</code>, <code>SpotVA1</code>, <code>StripedBass1</code>, <code>VBGMlit</code>, <code>WalleyeGerowLW</code>, <code>WR79</code>, and <code>WSlit</code>, which eliminated the dependency of FSA on FSAdata.</p></li>
+<li><p><code>.onAttach(): added, was</code>.onLoad()` with a slight modification to avoid possible warnings on RCMD Check.</p></li>
+<li><p><code>.onLoad()</code>: deleted, changed to .onAttach().</p></li>
+<li><p><code>CreelMN</code>: modified examples in help file to reflect dependency on FSA.</p></li>
+<li><p><code>InchLake2</code>: modified by changing “Largemouth Bass (&lt;8)” to “Largemouth Bass” and “Yellow Perch (&lt;5)” to “Yellow Perch”. Also removed the sex and mat variables.</p></li>
+<li><p><code>PikeHL</code>: modified by adding URL to the source report.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1.2" id="fsadata-012">FSAdata 0.1.2<a class="anchor" aria-label="anchor" href="#fsadata-012"></a></h2>
+<ul><li><p><strong>DATE:</strong> 25Nov12</p></li>
+<li><p>Deleted Depends on utils package (wasn’t needed).</p></li>
+<li><p>Switched to using Project development in RStudio.</p></li>
+<li><p>Switched to using semantic versioning for version numbers (which means that the hyphen before the last number in the version is replaced with a period).</p></li>
+<li><p><code>Ecoli</code>: Added (from NCStats).</p></li>
+<li><p><code>Mirex</code>: Added (from NCStats).</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1-1" id="fsadata-01-1">FSAdata 0.1-1<a class="anchor" aria-label="anchor" href="#fsadata-01-1"></a></h2>
+<ul><li><p><strong>DATE:</strong> 20Nov12</p></li>
+<li><p>Added a namespace (for 2.14.0 compatability)</p></li>
+<li><p>Switched to compiling under R version 2.13.1 (32-bit).</p></li>
+<li><p>Changed license specification from “GPL version 2 or newer” to “GPL (&gt;= 2)” to avoid warning on check.</p></li>
+<li><p><code>.onLoad()</code>: Modified. Moved the startup message into <code><a href="https://rdrr.io/r/base/message.html" class="external-link">packageStartupMessage()</a></code> in hopes of eliminating the warning when checking the package.</p></li>
+<li><p><code>AnchovetaChile</code>: Modified. Updated to the actual data from the author.</p></li>
+<li><p><code>Cabezon</code>: Added. This is the actual data from the author.</p></li>
+<li><p><code>ChinookArg</code>: Added.</p></li>
+<li><p><code>CreelMN</code>: Added.</p></li>
+<li><p><code>KS2D_NR</code>: Added from NCStats.</p></li>
+<li><p><code>SardineChile</code>: Added. This is the actual data from the author.</p></li>
+<li><p><code>YERockfish</code>: Added. This is the actual data from the author.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.1-0" id="fsadata-01-0">FSAdata 0.1-0<a class="anchor" aria-label="anchor" href="#fsadata-01-0"></a></h2>
+<ul><li><p><strong>DATE:</strong> 19Aug11</p></li>
+<li><p>Moved to compiling under 2.13.0 (32 bit)</p></li>
+<li><p>Changed dependency to &gt;2.11.1</p></li>
+<li><p>Modified description file to show my e-mail address.</p></li>
+<li><p>SquareLakePopn: removed. Moved to NCStats package.</p></li>
+<li><p>VBGMlit: modified. Changed “to” variable to “t0”.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-9" id="fsadata-00-9">FSAdata 0.0-9<a class="anchor" aria-label="anchor" href="#fsadata-00-9"></a></h2>
+<ul><li><p><strong>DATE:</strong> 31Jan11</p></li>
+<li><p>added examples to each rd file. The examples show the structure and first few rows of each data file. In addition, many provide a simple plot or table of the raw data. The idea was to provide the user with a quick method to see what the data looked like.</p></li>
+<li><p>.First.lib(): modified – Changed to include version number of loaded version.</p></li>
+<li><p>BassFL: modified – corrected misspelling of SantaFe in first few rows.</p></li>
+<li><p>BSkateGB: added – used for stock-recruitment analysis.</p></li>
+<li><p>BrookTroutNC: added – used for stock-recruitment analysis.</p></li>
+<li><p>DarterOnt: added – used for growth modeling.</p></li>
+<li><p>FSAdata-package.Rd: modified – added directions on how to use help.search() to find data frames that can be used for specific concepts/topics.</p></li>
+<li><p>KingCrabAK: added – used for stock-recruitment analysis.</p></li>
+<li><p>SimonsonLyons: added – used for removal estimates.</p></li>
+<li><p>SLampreyGL: added – used for stock-recruit relationships.</p></li>
+<li><p>VendaceLP2: added – used for stock-recruit relationships.</p></li>
+<li><p>YPerchCB1: added – used for catch-curve analysis.</p></li>
+<li><p>YPerchCB2: modified – added a year-class variable and changed the recruit variable to recruits (notice the s).</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-8" id="fsadata-00-8">FSAdata 0.0-8<a class="anchor" aria-label="anchor" href="#fsadata-00-8"></a></h2>
+<ul><li><p><strong>DATE:</strong> 31Jul10</p></li>
+<li><p>moved to compiling under 2.11.1.</p></li>
+<li><p>BassFL: added – used for catch curve analysis.</p></li>
+<li><p>BrookTroutOnt: added – used for Petersen mark-recapture analysis.</p></li>
+<li><p>ChinookKR: added – used for stock-recruitment.</p></li>
+<li><p>Hake: added – used for stock-recruitment.</p></li>
+<li><p>HerringBWE: added – used for stock-recruitment.</p></li>
+<li><p>LakeTroutGIS: modified – changed “recruit” variable to “recruits”.</p></li>
+<li><p>PSalmonAK: added – used for stock-recruitment analysis.</p></li>
+<li><p>RedDrum: added – used for von Bertalanffy models (including double von B).</p></li>
+<li><p>SockeyeSR: added – used for stock-recruitment.</p></li>
+<li><p>TPrawnsEG: added – used for stock-recruitment.</p></li>
+<li><p>WalleyeMN06a: added – used for catch curve analysis.</p></li>
+<li><p>WalleyeMN06b: added – used for multiple closed mark-recapture analysis.</p></li>
+<li><p>WhiteGrunt1: added – used for catch curve analysis.</p></li>
+<li><p>WhiteGrunt2: added – used for von Bertalanffy models.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-7" id="fsadata-00-7">FSAdata 0.0-7<a class="anchor" aria-label="anchor" href="#fsadata-00-7"></a></h2>
+<ul><li>
+<strong>DATE:</strong> 5Jun10</li>
+<li>AHerringChile: added – used as an example for seasonal von Bertalanffy models.</li>
+<li>AnchovetaChile: added – used as an example for seasonal von Bertalanffy models.</li>
+<li>WAEConsumption: added – used as an example for non-linear models.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-6" id="fsadata-00-6">FSAdata 0.0-6<a class="anchor" aria-label="anchor" href="#fsadata-00-6"></a></h2>
+<ul><li><p><strong>DATE:</strong> 17Dec09</p></li>
+<li><p>moved to compiling under 2.10.1.</p></li>
+<li><p>updated FSAdata.rd</p></li>
+<li><p>RBTroutKenai: added – used for Fabens method example.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-5" id="fsadata-00-5">FSAdata 0.0-5<a class="anchor" aria-label="anchor" href="#fsadata-00-5"></a></h2>
+<ul><li><p><strong>DATE:</strong> 1Apr09</p></li>
+<li><p>added dependency to gdata for example in RuffeWs.</p></li>
+<li><p>modified all .Rdata data files to be .txt data files.</p></li>
+<li><p>changed to compiling under 2.7.0.</p></li>
+<li><p>added CITATION file.</p></li>
+<li><p>.First.lib: Added</p></li>
+<li><p>BluegillIL1, LMBassIL1: deleted and replaced with InchLake.</p></li>
+<li><p>InchLake1: Added – replaces old BluegillIL1 and LMBassIL1 and includes 2008 data.</p></li>
+<li><p>InchLake2: Added – can be used for length weight and relative weight analyses.</p></li>
+<li><p>MuskieWI06MR: Added – can be used for Petersen mark-recapture analyses.</p></li>
+<li><p>RuffeWs: Added – can be used for standard and relative weight analyses.</p></li>
+<li><p>WalleyeGerowLW: Added – can be used for standard and relative weight analyses. Specifically used to test results of emp() function in FSA against Gerow’s Excel Tool.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-4" id="fsadata-00-4">FSAdata 0.0-4<a class="anchor" aria-label="anchor" href="#fsadata-00-4"></a></h2>
+<ul><li>
+<strong>DATE:</strong> 15May08</li>
+<li>moved to RForge.</li>
+<li>BluegillLM1: Added – can be used for length-weight analysis.</li>
+<li>BrownTroutVC1: Added – can be used for M/R by length-class.</li>
+<li>RSDlit: Changed .E variables to .in and changed .m variables to .cm. This better reflects the units of measurement.</li>
+<li>StripedBass2, StripedBass3: Added – can be used for growth modeling and age-length key.</li>
+<li>StipedBass4, StripedBass5, StripedBass6: Added – can be used for age comparison (bias and precision) analyses.</li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-3" id="fsadata-00-3">FSAdata 0.0-3<a class="anchor" aria-label="anchor" href="#fsadata-00-3"></a></h2>
+<ul><li><p><strong>DATE:</strong> unknown</p></li>
+<li><p>changed to compiling under R 2.6.1.</p></li>
+<li><p>redid nearly all RD files for (1) consistency, (2) to make LaTeX work, and (3) added concept and topics sections for search purposes.</p></li>
+<li><p>BloaterLH: changed variable Year to year (note lower-case y).</p></li>
+<li><p>BluegillWs: Added – can be used to test the rlp() function in the FSA package.</p></li>
+<li><p>BrkTrtTH: Changed name to BrookTroutTH.</p></li>
+<li><p>BrookTroutNEWP: Added – can be used for removal estimates.</p></li>
+<li><p>BullTroutRML1: Added – can be use for length-weight analysis.</p></li>
+<li><p>BullTroutRML2: Added – can be use for size-at-age growth modeling.</p></li>
+<li><p>HardingLakeNP: changed name to PikeHL (consistent with other namings).</p></li>
+<li><p>JonesStockwell: Added – can be used for removal estimates.</p></li>
+<li><p>LMBassWs: Added – can be used to test the rlp() function in the FSA package.</p></li>
+<li><p>LizardFish: changed name to Lizardfish (note lower-case f).</p></li>
+<li><p>Muskie1: changed name to MuskieSLR.</p></li>
+<li><p>PacFlounder: changed name to HalibutPAC.</p></li>
+<li><p>PikeIL: Added – can be used for depletion estimates.</p></li>
+<li><p>SalmonAPD: Added – can be used for depletion/removal estimates.</p></li>
+<li><p>SardineKL: Added – can be used for size-at-age growth modeling.</p></li>
+<li><p>SockeyeKL: changed variable Year to year (note lower-case y).</p></li>
+<li><p>TroutAPD: Added – can be used for depletion/removal estimates.</p></li>
+<li><p>WalleyeWs: Added – can be used to test the rlp() function in the FSA package.</p></li>
+<li><p>WSlit: added information for bridgelip and largescale suckers.</p></li>
+</ul></div>
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.0-2" id="fsadata-00-2">FSAdata 0.0-2<a class="anchor" aria-label="anchor" href="#fsadata-00-2"></a></h2>
+<ul><li>
+<strong>DATE:</strong> unknown</li>
+<li>added BullTroutTC – can be used for catch curve mortality estimation.</li>
+<li>added FlatheadATL – can be used for catch curve mortality estimation.</li>
+<li>added SunfishLP – can be used for catch curve mortality estimation.</li>
+<li>added WalleyePS – can be used for age bias and precision estimation.</li>
+</ul></div>
+  </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
+    </nav></aside></div>
 
 
     <footer><div class="pkgdown-footer-left">

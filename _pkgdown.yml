@@ -1,25 +1,20 @@
 url: ~
 template:
   bootstrap: 5
-  bootswatch: spacelab
+  bootswatch: flatly
   
 development:
   mode: release
 
 navbar:
-  type: inverse
   left:
-    - text: By Topic
-      href: articles/FSA_byTopic.html
-    - text: Alphabetical
-      href: articles/FSA_alpha.html
-    - text: Comprehensive
-      href: articles/Comprehensive_byTopic.html
+    - text: Reference
+      href: reference/index.html
     
   right:
-    - icon: fa-newspaper fa-2x
+    - icon: fa-newspaper
       href: news/index.html
-    - icon: fa-home fa-2x
+    - icon: fa-home fa
       href: index.html
-    - icon: fa-github fa-2x
+    - icon: fa-github fa
       href: https://github.com/fishr-core-team/FSAdata
