@@ -21,7 +21,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From (approximately) Figures 2a and 2b in Dawson, H.A. and M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea lamprey (\emph{Petromyzon marinus}) populations.  Journal of Great Lakes Research 35:353-360.
+#' @source From (approximately) Figures 2a and 2b in Dawson, H.A. and M.L. Jones. 2009. Factors affecting recruiting dynamics of Great Lakes sea lamprey (\emph{Petromyzon marinus}) populations. Journal of Great Lakes Research 35:353-360. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SLampreyGL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

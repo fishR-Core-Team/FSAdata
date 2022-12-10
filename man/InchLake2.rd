@@ -16,7 +16,7 @@ A data frame of 516 observations on the following 6 variables:
   }
 }
 \source{
-Derek H. Ogle, personal collection
+Derek H. Ogle, personal collection. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/InchLake2.csv}{CSV file}
 }
 \description{
 Total lengths and weights for a subsample of fish captured in Inch Lake, WI in May, 2007 and May, 2008.

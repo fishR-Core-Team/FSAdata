@@ -21,7 +21,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #' 
-#' @source D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates. Transactions of the American Fisheries Society. 90:181-189.
+#' @source D.S. Robson and D.G. Chapman. 1961. Catch curves and mortality rates. Transactions of the American Fisheries Society 90:181-189. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RockBassCL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

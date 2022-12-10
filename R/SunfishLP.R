@@ -21,7 +21,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #' 
-#' @source From (approximately) Figure 2 in Crawford, S. and M.S. Allen. 2006. Fishing and natural mortality of Bluegills and Redear Sunfish at Lake Panasoffkee, Florida: Implications for size limits. North American Journal of Fisheries Management 26:42-51. Note that I added a percentage for age-1 fish (the difference in percentages from Fig. 2).
+#' @source From (approximately) Figure 2 in Crawford, S. and M.S. Allen. 2006. Fishing and natural mortality of Bluegills and Redear Sunfish at Lake Panasoffkee, Florida: Implications for size limits. North American Journal of Fisheries Management 26:42-51. Note that I added a percentage for age-1 fish (the difference in percentages from Fig. 2). \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SunfishLP.csv}{CSV file}
 #'
 #' @keywords datasets
 #'

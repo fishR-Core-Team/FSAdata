@@ -22,7 +22,7 @@
 #' @concept Size Structure
 #' @concept PSD
 #' 
-#' @source From McNew, R.W. and R.C. Summerfelt. 1978. Evaluation of a maximum-likelihood estimator for analysis of length-frequency distributions. Transactions of the American Fisheries Society 107:730-736. Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/.
+#' @source From McNew, R.W. and R.C. Summerfelt. 1978. Evaluation of a maximum-likelihood estimator for analysis of length-frequency distributions. Transactions of the American Fisheries Society 107:730-736. Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/LMBassBL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

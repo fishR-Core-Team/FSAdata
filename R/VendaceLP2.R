@@ -23,7 +23,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland. Journal of Fish Biology 45:387-400.
+#' @source From (approximately) Figure 6 in Helminen, H. and J. Sarvala. 1994. Population regulation of vendance (\emph{Coregonus albula}) in Lake Pyhajarvi, southwest Finland. Journal of Fish Biology 45:387-400. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/VendaceLP2.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

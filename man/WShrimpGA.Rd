@@ -14,7 +14,7 @@ A data frame with 22 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings. 2004. Evaluation of stock-recruitment curves for white shrimp in Georgia. North American Journal of Fisheries Management. 24:654-661.
+From (approximately) Figures 2 and 3 of Belcher, C.N., and C.A. Jennings. 2004. Evaluation of stock-recruitment curves for white shrimp in Georgia. North American Journal of Fisheries Management 24:654-661. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WShrimpGA.csv}{CSV file}
 }
 \description{
 White Shrimp (\emph{Litopenaeus setiferus}) stock and recruitment data from off the coast of Georgia (USA), 1979-2000.

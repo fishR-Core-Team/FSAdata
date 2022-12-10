@@ -21,7 +21,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #' 
-#' @source From Figure 7 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800.
+#' @source From Figure 7 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhiteGrunt1.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

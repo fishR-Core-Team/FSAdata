@@ -15,7 +15,7 @@ A data frame with 7 observations on the following 5 variables.
  }
 }
 \source{
-From Table 1 of Curry, R.A., C. Brady, and G.E. Morgan. 2003. Effects of Recreational Fishing on the Population Dynamics of Lake-Dwelling Brook Trout. North American Journal of Fisheries Management 23:35-47.
+From Table 1 of Curry, R.A., C. Brady, and G.E. Morgan. 2003. Effects of Recreational Fishing on the Population Dynamics of Lake-Dwelling Brook Trout. North American Journal of Fisheries Management 23:35-47. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BrookTroutOnt.csv}{CSV file}
 }
 \description{
 The number of Brook Trout (\emph{Salvelinus fontinalis}) marked, captured, and recaptured for several years on Meach Lake in central Ontario.

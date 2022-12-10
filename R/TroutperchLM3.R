@@ -26,6 +26,8 @@
 #' 
 #' @seealso \code{\link{TroutperchLM2}}.
 #' 
+#' @source \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutperchLM3.csv}{CSV file}
+#' 
 #' @keywords datasets
 #' 
 #' @examples

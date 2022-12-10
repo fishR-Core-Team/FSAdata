@@ -14,7 +14,7 @@ A data frame with 35 observations on the following 4 variables.
  }
 }
 \source{
-From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs.
+From Koenigs, R.P., Bruch, R.M., Stelzer, R.S., and Kamke, K.K. 2015. Validation of otolith ages for Walleye (\emph{Sander vitreus}) in the Winnebago System. Fisheries Research, 167:13-21. Obtained directly from Ryan Koenigs. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeWyrlng.csv}{CSV file}
 }
 \description{
 Annual catches of yearling Walleye (\emph{Sander vitreus}) in bottom trawls from Lake Winnebago, WI, 1986-2010.

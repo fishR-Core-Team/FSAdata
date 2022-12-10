@@ -22,7 +22,7 @@ A data frame of 738 observations on the following 11 variables:
 }
 }
 \source{
-personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
+personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RuffeSLRH92.csv}{CSV file}
 }
 \description{
 Biological data for Ruffe (\emph{Gymnocephalus cernuus}) captured in the St. Louis River, Lake Superior in 1992.

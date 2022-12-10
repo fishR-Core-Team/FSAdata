@@ -17,7 +17,7 @@ A data frame with 30 observations on the following 7 variables:
  }
 }
 \source{
-From Table 1 in Keenlyne, K.D. and S.J. Maxwell. 1993. Length conversions and length-weight relations for pallid sturgeon. North American Journal of Fisheries Management. 13:395-397.
+From Table 1 in Keenlyne, K.D. and S.J. Maxwell. 1993. Length conversions and length-weight relations for pallid sturgeon. North American Journal of Fisheries Management 13:395-397. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Pallid.csv}{CSV file}
 }
 \description{
 Lengths (standard, fork, and total) and weights for Pallid Sturgion (\emph{Scaphirhynchus albus}) collected at four locations in the Missouri River drainage.

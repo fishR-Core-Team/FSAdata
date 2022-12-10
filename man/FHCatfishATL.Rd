@@ -13,7 +13,7 @@ A data frame of 44 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters. 2006. Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations. North American Journal of Fisheries Management 26:73-87.
+From (approximately) Figure 2 in Kwak, T.J., W.E. Pine III, and D.S. Waters. 2006. Age, growth, and mortality of introduced flathead catfish in Atlantic rivers and a review of other populations. North American Journal of Fisheries Management 26:73-87. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/FHCatfishATL.csv}{CSV file}
 }
 \description{
 Catch-at-age of Flathead Catfish (\emph{Pylodictis olivaris}) from three populations of Atlantic rivers -- Lumber River, Northeast Cape Fear River (NCF), and Neuse River.

@@ -9,7 +9,7 @@
 #' @format A data frame of 40 observations on the following 10 variables:
 #'  \describe{
 #'    \item{species}{Species of trout (\code{brown} or \code{rainbow}).}
-#'    \item{site}{Site in the watershed.  See source.}
+#'    \item{site}{Site in the watershed. See source.}
 #'    \item{age0}{Logical is \code{TRUE} if age-0 and \code{FALSE} if age is >0.}
 #'    \item{first}{Catch on the first removal pass.}
 #'    \item{second}{Catch on the second removal pass.}
@@ -31,7 +31,7 @@
 #' @concept Population Size
 #' @concept Removal
 #' 
-#' @source From Table 1 in Jones, M.L. and J.D. Stockwell. 1995. A rapid assessment procedure for enumeration of salmonine populations in streams. North American Journal of Fisheries Management, 15:551-562.
+#' @source From Table 1 in Jones, M.L. and J.D. Stockwell. 1995. A rapid assessment procedure for enumeration of salmonine populations in streams. North American Journal of Fisheries Management, 15:551-562. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/JonesStockwell.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

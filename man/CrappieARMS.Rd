@@ -13,7 +13,7 @@ A data frame of 78 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda. 1998. An age-structured model for erratic crappie fisheries. Ecological Modeling 107:289-303.
+From (approximately) Figure 2 of Allen, M.S. and L.E. Miranda. 1998. An age-structured model for erratic crappie fisheries. Ecological Modeling 107:289-303. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/CrappieARMS.csv}{CSV file}
 }
 \description{
 Stock and recruitment data for Crappies from four reservoirs in Arkansas and Mississippi, USA.

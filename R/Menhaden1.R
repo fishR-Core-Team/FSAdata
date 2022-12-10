@@ -1,6 +1,6 @@
 #' @title Catch-at-age for Gulf Menhaden, 1964-2004.
 #' 
-#' @description Estimated catch-at-age for Gulf Menhaden (\emph{Brevoortia patronus}), 1964-2004 from thereduction fishery in the U.S. Gulf of Mexico.
+#' @description Estimated catch-at-age for Gulf Menhaden (\emph{Brevoortia patronus}), 1964-2004 from the reduction fishery in the U.S. Gulf of Mexico.
 #' 
 #' @name Menhaden1
 #' 
@@ -27,7 +27,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #'
-#' @source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith. 2007. Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management. Fisheries Research 83:263-275.
+#' @source From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith. 2007. Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management. Fisheries Research 83:263-275. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Menhaden1.csv}{CSV file}
 #'  
 #' @keywords datasets
 #' 

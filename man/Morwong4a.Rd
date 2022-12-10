@@ -11,8 +11,11 @@ A data frame with 392 observations on the following 2 variables.
    \item{age}{Assigned ages}
  }
 }
+\source{
+\href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Morwong4a.csv}{CSV file}
+}
 \description{
-A total of 104 fish dispersed proportionately over 1-cm fork length intervals from the \code{\link{Morwong4}} data frame was obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+A total of 104 fish dispersed proportionately over 1-cm fork length intervals from the \code{\link{Morwong4}} data frame was obtained for age assignment. The remaining fish in the file were only measured for length (i.e., the ages were deleted). This data file can be used to demonstrate the use of age-length keys.
 }
 \section{Topic(s)}{
 

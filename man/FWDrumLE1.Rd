@@ -12,7 +12,7 @@ A data frame with 1577 observations on the following 2 variables.
  }
 }
 \source{
-Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58.
+Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/FWDrumLE1.csv}{CSV file}
 }
 \description{
 Assigned ages (from scales) and measured total lengths for each of 1577 Freshwater Drum (\emph{Aplodinotus grunniens}) from Lake Erie.

@@ -17,10 +17,10 @@ A data frame with 7238 observations on the following 7 variables:
  }
 }
 \source{
-From a query to the North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database which was (is?) at https://lter.limnology.wisc.edu/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current.
+From a query to the North Temperate Lakes Long Term Ecological Research, Fish Lengths and Weights Database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YPerchTL.csv}{CSV file}
 }
 \description{
-Lengths and weights for Yellow Perch (\emph{Perca flavescens}) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
+Lengths and weights for Yellow Perch (\emph{Perca flavescens}) from Trout Lake, WI, 1981-2006. Fish were collected with a variety of gears.
 }
 \section{Topic(s)}{
 

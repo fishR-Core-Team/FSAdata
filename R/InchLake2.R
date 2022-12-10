@@ -29,7 +29,7 @@
 #' 
 #' @seealso See \code{\link{InchLake1}} for the entire sample, but without weights.
 #' 
-#' @source Derek H. Ogle, personal collection
+#' @source Derek H. Ogle, personal collection. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/InchLake2.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

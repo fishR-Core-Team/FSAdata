@@ -18,7 +18,7 @@ A data frame with 780 observations on the following 8 variables.
  }
 }
 \source{
-Obtained directly from the U.S. Fish and Wildlife Service via Michael Seider.
+Obtained directly from the U.S. Fish and Wildlife Service via Michael Seider. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SiscowetMI2004.csv}{CSV file}
 }
 \description{
 Ages (subsample) and lengths (all fish) for male and female Siscowet Lake Trout captured at four locations in Michigan waters of Lake Superior.

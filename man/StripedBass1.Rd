@@ -12,7 +12,7 @@ A data frame of 343 observations on the following 2 variables:
  }
 }
 \source{
-From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
+From Figure 6 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2000 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass1.csv}{CSV file}
 }
 \description{
 Ages of Striped Bass (\emph{Morone saxatilis}) assessed from heat-pressed scales and cracked-and-burnt otoliths.

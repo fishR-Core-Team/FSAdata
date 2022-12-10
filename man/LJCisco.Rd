@@ -13,7 +13,7 @@ A data frame with 378 observations on the following 3 variables.
  }
 }
 \source{
-Simulated from age-length data provided in tables 2 and 3 of Jobes, F.W. 1946. The age, growth, and distribution of the longjaw cisco, \emph{Leucichthys alpenae} Koelz, in Lake Michigan. Transactions of the American Fisheries Society. 76:215-247.
+Simulated from age-length data provided in tables 2 and 3 of Jobes, F.W. 1946. The age, growth, and distribution of the longjaw cisco, \emph{Leucichthys alpenae} Koelz, in Lake Michigan. Transactions of the American Fisheries Society 76:215-247. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/LJCisco.csv}{CSV file}
 }
 \description{
 Assigned age (by scales) and total length of Longjaw Cisco (\emph{Leucichthys alpenae}) captured at two locations in Lake Michigan.

@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004. Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors. Ecology of Freshwater Fish 13:46-60.
+#' @source From (approximately) Figure 1 and 2 of Marjomaki, T.J. 2004. Analysis of the spawning stock-recruitment relationship of vendace (\emph{Coregonus albula} (L.)) with evaluation of alternative models, additional variables, biases and errors. Ecology of Freshwater Fish 13:46-60. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/VendaceLP.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

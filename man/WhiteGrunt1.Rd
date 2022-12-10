@@ -12,7 +12,7 @@ A data frame with 25 observations on the following 2 variables.
  }
 }
 \source{
-From Figure 7 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800.
+From Figure 7 of Araujo, J.N. and A.S. Martins. 2007. Age, growth and mortality of white grunt (\emph{Haemulon plumierii}) from the central coast of Brazil. Scientia Marina 71:793-800. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhiteGrunt1.csv}{CSV file}
 }
 \description{
 Catch-at-age for White Grunt (\emph{Haemulon plumierii}) collected from the central coast of Brazil.

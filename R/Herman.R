@@ -26,7 +26,7 @@
 #' @concept Size Structure
 #' @concept PSD
 #' 
-#' @source From a South Dakota Fish and Game report that was (does not appear to be there (or anywhere) now) at http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.
+#' @source From a South Dakota Fish and Game report. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Herman.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

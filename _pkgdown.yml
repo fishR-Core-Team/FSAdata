@@ -1,0 +1,20 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: flatly
+  
+development:
+  mode: release
+
+navbar:
+  left:
+    - text: Reference
+      href: reference/index.html
+    
+  right:
+    - icon: fa-newspaper
+      href: news/index.html
+    - icon: fa-home fa
+      href: index.html
+    - icon: fa-github fa
+      href: https://github.com/fishr-core-team/FSAdata

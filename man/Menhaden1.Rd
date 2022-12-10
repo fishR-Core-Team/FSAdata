@@ -18,10 +18,10 @@ A data frame with 41 observations on the following 7 variables.
  }
 }
 \source{
-From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith. 2007. Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management. Fisheries Research 83:263-275.
+From Table 2 in Vaughan, D.S., K.W. Shertzer, and J.W. Smith. 2007. Gulf menhaden (\emph{Brevoortia patronus}) in the U.S. Gulf of Mexico: Fishery characteristics and biological reference points for management. Fisheries Research 83:263-275. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Menhaden1.csv}{CSV file}
 }
 \description{
-Estimated catch-at-age for Gulf Menhaden (\emph{Brevoortia patronus}), 1964-2004 from thereduction fishery in the U.S. Gulf of Mexico.
+Estimated catch-at-age for Gulf Menhaden (\emph{Brevoortia patronus}), 1964-2004 from the reduction fishery in the U.S. Gulf of Mexico.
 }
 \section{Topic(s)}{
 

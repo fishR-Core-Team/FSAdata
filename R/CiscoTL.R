@@ -1,6 +1,6 @@
 #' @title Lengths, weights, and sex of Cisco from Trout Lake, WI.
 #'
-#' @description Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
+#' @description Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, WI, 1981-2006. Fish were collected with a variety of gears.
 #'
 #' @name CiscoTL
 #'
@@ -27,7 +27,7 @@
 #' @concept Weight-Length
 #' @concept Length Frequency
 #'
-#' @source Was (is?) available for download from http://www.limnology.wisc.edu/.
+#' @source Obtained from query to North Temperate Lakes LTER data portal at the University of Wisconsin Center for Limnology. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/CiscoTL.csv}{CSV file}
 #'
 #' @keywords datasets
 #'

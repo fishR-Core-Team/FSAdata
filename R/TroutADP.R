@@ -25,7 +25,7 @@
 #' 
 #' @seealso \link{SalmonADP}
 #' 
-#' @source From Table 1 in Cowx, I.G. 1983. Review of the methods for estimating fish population size from survey removal data. Fisheries Management, 14:67-82.
+#' @source From Table 1 in Cowx, I.G. 1983. Review of the methods for estimating fish population size from survey removal data. Fisheries Management 14:67-82. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutADP.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

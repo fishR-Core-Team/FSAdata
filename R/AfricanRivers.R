@@ -23,7 +23,7 @@
 #'
 #' @concept Other
 #'   
-#' @source From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: species richness of fish communities.  Oecologia 79:236-243.
+#' @source From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: species richness of fish communities. Oecologia 79:236-243. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/AfricanRivers.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

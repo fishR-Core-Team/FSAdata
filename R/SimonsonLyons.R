@@ -29,7 +29,7 @@
 #' @concept Population Size
 #' @concept Removal
 #' 
-#' @source From Appendix in Simonson, T.D. and J. Lyons.  1995.  Comparison of catch per effort and removal procedures for sampling stream fish assemblages. North American Journal of Fisheries Management, 15:419-427.
+#' @source From Appendix in Simonson, T.D. and J. Lyons. 1995. Comparison of catch per effort and removal procedures for sampling stream fish assemblages. North American Journal of Fisheries Management 15:419-427. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SimonsonLyons.csv}{CSV file}
 #'
 #' @keywords datasets
 #' 

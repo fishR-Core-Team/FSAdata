@@ -13,7 +13,7 @@ A data frame with 431 observations on the following 3 variables:
  }
 }
 \source{
-Simulated from the age-length data provided in Table 1 of House, R., and L. Wells.  1973. Age, growth, spawning season, and fecundity of the trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan. Journal of the Fisheries Research Board of Canada. 30:1221-1225.
+Simulated from the age-length data provided in Table 1 of House, R., and L. Wells. 1973. Age, growth, spawning season, and fecundity of the trout-perch (\emph{Percopsis omsicomaycus}) in southeastern Lake Michigan. Journal of the Fisheries Research Board of Canada 30:1221-1225. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutperchLM1.csv}{CSV file}
 }
 \description{
 The assigned ages (by scales), total lengths (mm), and sexes of Troutperch (\emph{Percopsis omsicomaycus}) captured in southeastern Lake Michigan.

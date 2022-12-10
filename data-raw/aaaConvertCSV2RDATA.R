@@ -3,7 +3,7 @@
 ## Use this to convert comma separated values files (*.csv) ##
 ##   in the data-raw directory of the FSAdata package to    ##
 ##   R data files (.rdata) in the data directory of the     ##
-##   FSAdata package.  Note, there should be not .text      ##
+##   FSAdata package. Note, there should be not .text       ##
 ##   in data-raw ... run aaaConvertTab2CSV.R if there is.   ##
 ##                                                          ##
 ##############################################################

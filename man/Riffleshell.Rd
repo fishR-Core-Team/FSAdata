@@ -14,13 +14,13 @@ A data frame with 6 observations on the following 4 variables.
  }
 }
 \source{
-From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis.
+From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Riffleshell.csv}{CSV file}
 }
 \description{
 Summarized multiple mark-recapture data for Tan Riffleshell.
 }
 \details{
-The number of mussels caught in multiple samples of Tan Riffleshell (\emph{Epioblasma florentina walkeri}) from Indian Creek, Virginia.  The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
+The number of mussels caught in multiple samples of Tan Riffleshell (\emph{Epioblasma florentina walkeri}) from Indian Creek, Virginia. The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
 }
 \section{Topic(s)}{
 

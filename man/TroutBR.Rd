@@ -13,7 +13,7 @@ A data frame with 851 observations on the following 3 variables:
  }
 }
 \source{
-From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123.
+From tables 18 and 19 of Scholl, D.K., P.J. Peeters, and S.T. Schram. 1984. Migratory brown trout and rainbow trout populations of the Brule River, Wisconsin. Wisconsin Department of Natural Resources, Fish Management Report No. 123. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutBR.csv}{CSV file}
 }
 \description{
 Total lengths (inches) and ages (from scales) of Brown Trout (\emph{Salmo trutta}) and Rainbow Trout (\emph{Oncorhynchus mykiss}) migrating upstream on the Bois Brule River, WI in 1978 and 1979.

@@ -13,7 +13,7 @@ A data frame of 39 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison. 2006.Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management. North American Journal of Fisheries Management 26:867-874.
+From (approximately) Figure 3 in Sakaris, P.C., E.R. Irwin, J.C. Jolley, and D. Harrison. 2006.Comparison of Native and Introduced Flathead Catfish Populations in Alabama and Georgia: Growth, Mortality, and Management. North American Journal of Fisheries Management 26:867-874. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/FHCatfish.csv}{CSV file}
 }
 \description{
 Numbers of Flathead Catfish (\emph{Pylodictis olivaris}) captured by electrofishing in three rivers -- Coosa River, AL; Ocmulgee River, GA; and Satilla River, GA.

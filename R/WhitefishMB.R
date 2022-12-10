@@ -25,7 +25,7 @@
 #' @concept Age Bias
 #' @concept Age Comparison
 #' 
-#' @source From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences, 37:534-544.
+#' @source From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences 37:534-544. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhitefishMB.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

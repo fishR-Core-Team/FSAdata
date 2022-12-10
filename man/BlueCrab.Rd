@@ -12,7 +12,7 @@ A data frame with 12 observations on the following 2 variables.
  }
 }
 \source{
-From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society, 94:287-310.
+From Fischler, K.J. 1965. The use of catch-effort, catch-sampling, and tagging data to estimate a population of blue crabs. Transactions of the American Fisheries Society 94:287-310. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BlueCrab.csv}{CSV file}
 }
 \description{
 Catch and effort data for a population of male Blue Crabs (\emph{Callinectes sapidus}) for a 12-week period.

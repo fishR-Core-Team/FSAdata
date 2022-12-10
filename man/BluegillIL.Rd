@@ -15,7 +15,7 @@ A data frame with 61 observations on the following 5 variables:
  }
 }
 \source{
-These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.}
+These unpublished data are from Derek H. Ogle, Northland College. \bold{Do not use for other than educational purposes without permission from the source.} \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluegillIL.csv}{CSV file}
 }
 \description{
 Length-at-marking and recapture and time-at-large for Bluegill (\emph{Lepomis macrochirus}) originally captured in Spring 2010 from Inch Lake, Wisconsin.

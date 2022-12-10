@@ -1,6 +1,6 @@
 #' @title Summarized multiple mark-recapture data for Lake Sturgeon.
 #'
-#' @description The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple samples from Black Lake, MI in 1997.  The caught fish were examined for previous  marks, marked (if previously unmarked), and then returned to the population.
+#' @description The number of Lake Sturgeon (\emph{Acipenser fulvescens}) caught in multiple samples from Black Lake, MI in 1997. The caught fish were examined for previous  marks, marked (if previously unmarked), and then returned to the population.
 #'
 #' @name SturgeonBL
 #' @docType data
@@ -29,7 +29,7 @@
 #' @concept Capture-Recapture
 #' @concept Schnabel
 #'
-#' @source From Table 1 in Baker, E.A. and D.J. Borgeson.  1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999.  North American Journal of Fisheries Management. 19:1080-1088.
+#' @source From Table 1 in Baker, E.A. and D.J. Borgeson. 1999. Lake sturgeon abundance and harvest in Black Lake, Michigan, 1975-1999. North American Journal of Fisheries Management 19:1080-1088. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SturgeonBL.csv}{CSV file}
 #'
 #' @keywords datasets
 #' 

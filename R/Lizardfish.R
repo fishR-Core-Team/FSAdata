@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source Visually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters. 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty. Chapman and Hall, New York. 570 p.
+#' @source Visually estimated from Figure 7.12 (p. 267) of Hilborn, R. and C.J. Walters. 1992. Quantitative Fisheries Stock Assessment: Choice, Dynamics, and Uncertainty. Chapman and Hall, New York. 570 p. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Lizardfish.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

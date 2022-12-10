@@ -21,7 +21,7 @@
 #'
 #' @concept Other
 #'   
-#' @source From Figure 8 of Casselman, J.M. 1990. Growth and relative size of calcified structures of fish. Transactions of the American Fisheries Society. 119:673-688.
+#' @source From Figure 8 of Casselman, J.M. 1990. Growth and relative size of calcified structures of fish. Transactions of the American Fisheries Society. 119:673-688. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Casselman1990.csv}{CSV file}
 #'
 #' @keywords datasets
 #'

@@ -13,7 +13,7 @@ A data frame with 27 paired observations on the following 3 variables.
  }
 }
 \source{
-From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002. The Canada-United States yellowtail flounder age reading workshop: 28-30 November 2000, St. John's, Newfoundland. North Atlantic Fisheries Organization. Scientific Council Studies 35:1-59.
+From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002. The Canada-United States yellowtail flounder age reading workshop: 28-30 November 2000, St. John's, Newfoundland. North Atlantic Fisheries Organization. Scientific Council Studies 35:1-59. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YTFlounder.csv}{CSV file}
 }
 \description{
 Ages of commercially caught Georges Bank Yellowtail Flounder (\emph{Limanda ferruginea}) as determined by scales, whole otoliths, or otolith cross-sections.

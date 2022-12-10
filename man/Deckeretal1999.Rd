@@ -20,7 +20,7 @@ A data frame of 26 observations on the following 10 variables:
  }
 }
 \source{
-From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and J. Korman. 1999. Estimating standing stock of juvenile coho salmon (\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki}) in a small stream: a comparison of sampling designs. Canadian Technical Report of Fisheries and Aquatic Sciences 2282. 24 pp.[Was (is?) from http://www.dfo-mpo.gc.ca/Library/239481.pdf.]
+From Appendix 2a and 2b in Decker, A.S., J.M. Bratty, S.C. Riley, and J. Korman. 1999. Estimating standing stock of juvenile coho salmon (\emph{Oncorhynchus kisutch}) and cutthroat trout (\emph{Oncorhynchus clarki}) in a small stream: a comparison of sampling designs. Canadian Technical Report of Fisheries and Aquatic Sciences 2282. 24 pp. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Deckeretal1999.csv}{CSV file}
 }
 \description{
 Catches of Coho Salmon (\emph{Oncorhynchus kisutch}) and Cutthroat Trout (\emph{Oncorhynchus clarki}) in consecutive removal events at various locations in Little Stawamus Creek (British Columbia, Canada) in 1997.

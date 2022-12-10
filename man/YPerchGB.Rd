@@ -12,7 +12,7 @@ A data frame with 15 observations on the following 2 variables:
  }
 }
 \source{
-From Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From Walters, C., and A. Punt. 1994. Placing odds on sustainable catch virtual population analysis and survey data. Canadian Journal of Fisheries and Aquatic Sciences, 51:946-958. Obtained from Ransom Myers old online database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YPerchGB.csv}{CSV file}
 }
 \description{
 Yellow Perch (\emph{Perca flavescens}) recruitment time-series for Green Bay, 1978-1992.

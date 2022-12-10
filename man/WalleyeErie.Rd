@@ -12,7 +12,7 @@ A data frame of 14 observations on the following 6 variables:
 }
 }
 \source{
-From Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From Wolfert, D. R. 1981. The commercial fishery for walleyes in New York waters of Lake Erie, 1959-1978. North American Journal of Fisheries Management 1: 112-126. Obtained from Ransom Myers old online database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeErie.csv}{CSV file}
 }
 \description{
 Walleye (\emph{Sander vitreus}) recruitment time-series for Lake Erie, 1959-1972.
