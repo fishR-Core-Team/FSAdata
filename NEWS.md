@@ -1,4 +1,5 @@
-# FSAdata 0.3.10 
+# FSAdata 0.4.0 
+* Changed my (DHO) email in `DESCRIPTION`.
 * Added Code of Conduct
 * Updated `README.md`
 * Updated `R-CMD-check.yaml` GitHub action to [v2](https://github.com/r-lib/actions/tree/v2-branch/examples#standard-ci-workflow) (this addresses the issue with the action on Ubuntu-dev).
@@ -6,7 +7,7 @@
     * Added Suggests for `dplyr`, `fishmethods`, `FSA`, `knitr`, `pkgdown`, `readxl`, and `rmarkdown` (related to creating website).
     * Added `pkgdown.yaml` GitHub action.
     * Added "CSV file" links for all datasets' documentation files.
-* Changed my (DHO) email in `DESCRIPTION`.
+* `SpotVA2`: Modified documentation to address [#8](https://github.com/fishR-Core-Team/FSAdata/issues/8)
 
 # FSAdata 0.3.9 
 * Last version maintained by Derek Ogle. Transferring to fishR Core Team for next version.

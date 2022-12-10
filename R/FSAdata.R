@@ -31,7 +31,7 @@
 #'  \code{help.search("Maturity",package=c("FSAdata","FSA"))} \tab Maturity data.\cr
 #' }
 #'  
-#' Additional fisheries-related data sets are in the \code{\link[FSA]{FSA}} and \code{fishmethods} packages.
+#' Additional fisheries-related data sets are in the \pkg{FSA} and \pkg{fishmethods} packages.
 #' 
 #' @docType package
 #' 

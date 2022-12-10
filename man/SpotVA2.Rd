@@ -15,7 +15,7 @@ A data frame of 403 observations on the following 2 variables:
 From Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SpotVA2.csv}{CSV file}
 }
 \description{
-As many as 10 fish per 1-inch total length intervals from the \code{\link[FSA]{SpotVA1}} data frame were obtained for age assignment. The remaining fish in the file were only measured for length (i.e., the ages were deleted). This data file can be used to demonstrate the use of age-length keys.
+As many as 10 fish per 1-inch total length intervals from the \code{SpotVA1} data frame in \pkg{FSA} were obtained for age assignment. The remaining fish in the file were only measured for length (i.e., the ages were deleted). This data file can be used to demonstrate the use of age-length keys.
 }
 \section{Topic(s)}{
 
