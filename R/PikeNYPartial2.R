@@ -2,7 +2,7 @@
 #' 
 #' @description Capture histories (4 samples), in capture-by-date format, of a subset of Northern Pike from Buckthorn Marsh.
 #' 
-#' @details Each line consists of the date and unique fish identification number over four samples of northern pike (\emph{Esox lucius}) in Buckthorn Marsh.  This file contains the capture histories for only those pike captured from April 1-4.
+#' @details Each line consists of the date and unique fish identification number over four samples of northern pike (\emph{Esox lucius}) in Buckthorn Marsh. This file contains the capture histories for only those pike captured from April 1-4.
 #' 
 #' @name PikeNYPartial2
 #' 
@@ -32,7 +32,7 @@
 #' @concept Schnabel
 #' @concept Capture History
 #' 
-#' @source Simulated from summary data in Table C-1 of New York Power Authority. 2004. Use of Buckhorn Marsh and Grand Island tributaries by Northern Pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216).
+#' @source Simulated from summary data in Table C-1 of New York Power Authority. 2004. Use of Buckhorn Marsh and Grand Island tributaries by Northern Pike for spawning and as a nursery. Technical report, New York Power Authority, January 2004. Niagara Power Project (FERC No. 2216). \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/PikeNYPartial2.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From table 1 in Bechtol W.R. and G.H. Kruse. 2009. Analysis of a stock-recruit relationship for Red King Crab off Kodiak Island Alaska. Marine and Coastal Fisheries: Dynamics Management and Ecosystem Science 1:29-44.
+#' @source From table 1 in Bechtol W.R. and G.H. Kruse. 2009. Analysis of a stock-recruit relationship for Red King Crab off Kodiak Island Alaska. Marine and Coastal Fisheries: Dynamics Management and Ecosystem Science 1:29-44. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/KingCrabAK.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

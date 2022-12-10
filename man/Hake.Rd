@@ -13,7 +13,7 @@ A data frame with 15 observations on the following 3 variables.
  }
 }
 \source{
-Cadima, E. 2003. Fish Stock Assessment Manual, FAO Fisheries Department. 131 pp.
+Cadima, E. 2003. Fish Stock Assessment Manual, FAO Fisheries Department. 131 pp. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Hake.csv}{CSV file}
 }
 \description{
 Stock and recruitment data for Hake (\emph{Merluccius merluccius}), 1982-1996.

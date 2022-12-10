@@ -23,7 +23,7 @@
 #' 
 #' @seealso \code{\link{StripedBass3}}.
 #' 
-#' @source From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
+#' @source From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass2.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -16,7 +16,7 @@ A data frame with 40 observations on the following 7 variables.
  }
 }
 \source{
-Wisconsin Department of Natural Resources.
+Wisconsin Department of Natural Resources. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/MuskieWI06MR.csv}{CSV file}
 }
 \description{
 The number of Muskellunge (\emph{Esox masquinongy}) from a variety of lakes in Wisconsin, 2006.

@@ -29,7 +29,7 @@
 #' @concept Petersen
 #' @concept Capture History
 #' 
-#' @source Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game.
+#' @source Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RBTroutUNSP.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

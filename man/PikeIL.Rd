@@ -13,7 +13,7 @@ A data frame with 9 observations on the following 3 variables:
  }
 }
 \source{
-From Table 1 of Peterson, J., M. Taylor, and A. Hanson. 1980. Leslie population estimate for a large lake. Transactions of the American Fisheries Society, 109:329-331.
+From Table 1 of Peterson, J., M. Taylor, and A. Hanson. 1980. Leslie population estimate for a large lake. Transactions of the American Fisheries Society, 109:329-331. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/PikeIL.csv}{CSV file}
 }
 \description{
 Catch and effort data for nine removal events of Northern Pike (\emph{Esox lucius}) from Island Lake, NB.

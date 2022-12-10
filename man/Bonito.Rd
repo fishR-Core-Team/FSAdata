@@ -13,7 +13,7 @@ A data frame with the following 3 variables:
  }
 }
 \source{
-From figure 3 of Stewart, J., W. Robbins, K. Rowling, A. Hegarty, and A. Gould. 2013. A multifaceted approach to modelling growth of the Australian bonito, \emph{Sarda australis} (Family Scombridae), with some observations on its reproductive biology. Marine and Freshwater Research 64:671-678.
+From figure 3 of Stewart, J., W. Robbins, K. Rowling, A. Hegarty, and A. Gould. 2013. A multifaceted approach to modelling growth of the Australian bonito, \emph{Sarda australis} (Family Scombridae), with some observations on its reproductive biology. Marine and Freshwater Research 64:671-678. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Bonito.csv}{CSV file}
 }
 \description{
 Ages and lengths of Australian Bonito (\emph{Sarda australis}).

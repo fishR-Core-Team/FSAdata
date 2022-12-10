@@ -7,7 +7,7 @@
 \format{
 A data frame with 1543 observations on the following 13 variables.
  \describe{
-   \item{fish}{A fish identification number.  Unique within a year but not across years.} 
+   \item{fish}{A fish identification number. Unique within a year but not across years.} 
    \item{yearcap}{Year the fish was captured.}
    \item{ce}{A factor denoting capture gear (\code{C}=commercial and \code{E}=experimental nets).} 
    \item{agecap}{Age of fish at capture.}
@@ -23,7 +23,7 @@ A data frame with 1543 observations on the following 13 variables.
  }
 }
 \source{
-Cyterski, M.J. and G.R. Spangler. 1996. A tool for age determination. North American Journal of Fisheries Management, 16:403-412.
+Cyterski, M.J. and G.R. Spangler. 1996. A tool for age determination. North American Journal of Fisheries Management 16:403-412. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyeRL.csv}{CSV file}
 }
 \description{
 Growth increment data for Red Lakes Walleye (\emph{Sander vitreus}) in one-fish-per-line format.

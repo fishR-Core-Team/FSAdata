@@ -16,7 +16,7 @@ A data frame with 266 observations on the following 6 variables.
  }
 }
 \source{
-Obtained directly from Ben Neely.
+Obtained directly from Ben Neely. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BGHRfish.csv}{CSV file}
 }
 \description{
 Fish information from samples collected from Big Hill Reservoir, KS, in May, 2014.

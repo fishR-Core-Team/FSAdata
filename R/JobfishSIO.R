@@ -29,7 +29,7 @@
 #' @concept Depletion
 #' @concept Catchability
 #' 
-#' @source From Table 2 of Grandcourt, E.M. 2003. The effect of intensive line fishing on the virgin biomass of a tropical deepwater snapper, the crimson jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311. [Was (is?) from http://fishbull.noaa.gov/1012/08grandc.pdf.]
+#' @source From Table 2 of Grandcourt, E.M. 2003. The effect of intensive line fishing on the virgin biomass of a tropical deepwater snapper, the crimson jobfish (\emph{Pristipomoides filamentosus}). Fisheries Bulletin, 101:305-311. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/JobfishSIO.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

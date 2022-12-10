@@ -18,10 +18,10 @@ A data frame of 8594 observations on the following 8 variables:
  }
 }
 \source{
-Was (is?) available for download from http://www.limnology.wisc.edu/.
+Obtained from query to North Temperate Lakes LTER data portal at the University of Wisconsin Center for Limnology. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/CiscoTL.csv}{CSV file}
 }
 \description{
-Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, WI, 1981-2006.  Fish were collected with a variety of gears.
+Lengths, weights, and sex for Cisco (\emph{Coregonus artedii}) from Trout Lake, WI, 1981-2006. Fish were collected with a variety of gears.
 }
 \section{Topic(s)}{
 

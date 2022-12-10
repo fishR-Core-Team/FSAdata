@@ -2,7 +2,7 @@
 #' 
 #' @description Summarized multiple mark-recapture data for Tan Riffleshell.
 #' 
-#' @details The number of mussels caught in multiple samples of Tan Riffleshell (\emph{Epioblasma florentina walkeri}) from Indian Creek, Virginia.  The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
+#' @details The number of mussels caught in multiple samples of Tan Riffleshell (\emph{Epioblasma florentina walkeri}) from Indian Creek, Virginia. The caught fish were examined for previous marks, marked (if previously unmarked), and then returned to the population.
 #' 
 #' @name Riffleshell
 #' 
@@ -32,7 +32,7 @@
 #' @concept Capture-Recapture
 #' @concept Schnabel
 #' 
-#' @source From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis.
+#' @source From Table 1-2 of Rogers, S.O. 1999. Population biology of the Tan Riffleshell (\emph{Epioblasma florentina walkeri}) and the effects of substratum and light on juvenile mussel propagation. Virginia Tech M.S. Thesis. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Riffleshell.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

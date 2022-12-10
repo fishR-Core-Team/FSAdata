@@ -1,6 +1,6 @@
 #' @title Lengths and weights of Yellow Perch from Grafton Lake (ME) by year.
 #' 
-#' @description Yellow Perch (\emph{Perca flavescens}) fork lengths and weights seperated by year.
+#' @description Yellow Perch (\emph{Perca flavescens}) fork lengths and weights separated by year.
 #' 
 #' @name YPerchGL
 #' 
@@ -22,7 +22,7 @@
 #' @concept Weight-Length
 #' @concept Length Frequency
 #' 
-#' @source From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal. Technical Report Publication No. 59, Acadia Centre for Estuarine Research.
+#' @source From (approximately) Figure 3 in Brylinsky, M. 2001. An evaluation of changes in the yellow perch (\emph{Perca flavescens}) population of Grafton Lake, Kejimkujik National Park, after dam removal. Technical Report Publication No. 59, Acadia Centre for Estuarine Research. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YPerchGL.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

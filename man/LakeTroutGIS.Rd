@@ -13,7 +13,7 @@ A data frame of 28 observations on the following 3 variables:
  }
 }
 \source{
-From Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson. 1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research. 21(supp.1):225-232. Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
+From Schram, S.T., J.H. Selgeby, C.R. Bronte, and B.L. Swanson. 1995. Population recovery and natural recruitment of Lake Trout at Gull Island Shoal, Lake Superior, 1964-1992. Journal of Great Lakes Research. 21(supp.1):225-232. Obtained from Ransom Myers old online database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/LakeTroutGIS.csv}{CSV file}
 }
 \description{
 Lake trout (\emph{Salvelinus namaycush}) stock and recruitment by year at Gull Island Shoal, Lake Superior, 1964-1991.

@@ -23,7 +23,7 @@
 #' 
 #' @seealso \code{\link{FWDrumLE2}}.
 #' 
-#' @source Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58.
+#' @source Simulated from Table 3 of Bur, M.T. 1984. Growth, reproduction, mortality, distribution, and biomass of freshwater drum in Lake Erie. Journal of Great Lakes Research. 10:48-58. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/FWDrumLE1.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

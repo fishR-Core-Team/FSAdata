@@ -12,7 +12,7 @@ A data frame of 317 observations on the following 2 variables:
  }
 }
 \source{
-From Figure 2 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
+From Figure 2 in Chapter 1 (Atlantic Croaker) of the VMRC Final Report on Finfish Ageing, 1999 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Croaker1.csv}{CSV file}
 }
 \description{
 Otolith age of Atlantic croaker (\emph{Micropogonias undulatus}) from two readers.

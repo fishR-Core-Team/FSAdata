@@ -25,7 +25,7 @@
 #' @concept Age Bias
 #' @concept Age Comparison
 #' 
-#' @source From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002. The Canada-United States yellowtail flounder age reading workshop: 28-30 November 2000, St. John's, Newfoundland. North Atlantic Fisheries Organization. Scientific Council Studies 35:1-59.
+#' @source From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002. The Canada-United States yellowtail flounder age reading workshop: 28-30 November 2000, St. John's, Newfoundland. North Atlantic Fisheries Organization. Scientific Council Studies 35:1-59. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/YTFlounder.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

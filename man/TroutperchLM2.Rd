@@ -11,7 +11,7 @@ A data frame of 3385 observations on the following 1 variable:
  }
 }
 \source{
-From Brandt, S.B., J.J. Magnuson, and L.B. Crowder. 1980. Thermal habitat partitioning by fishes in Lake Michigan. Canadian Journal of Fisheries and Aquatic Sciences. 37:1557-1564. Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/.
+From Brandt, S.B., J.J. Magnuson, and L.B. Crowder. 1980. Thermal habitat partitioning by fishes in Lake Michigan. Canadian Journal of Fisheries and Aquatic Sciences. 37:1557-1564. Data was simulated (uniform distribution of values within length bin) from summarized length frequencies in http://fishbase.org/. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TroutperchLM2.csv}{CSV file}
 }
 \description{
 Troutperch (\emph{Percopsis omiscomaycus}) fork lengths from near Grand Haven, Lake Michigan, 1977.

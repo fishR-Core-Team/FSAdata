@@ -1,6 +1,6 @@
 #' @title Ages (subsample) and lengths (all fish) for Striped Bass.
 #' 
-#' @description As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+#' @description As many as 10 fish per 1-inch total length intervals from the \code{StripedBass2} data frame were obtained for age assignment. The remaining fish in the file were only measured for length (i.e., the ages were deleted). This data file can be used to demonstrate the use of age-length keys.
 #' 
 #' @name StripedBass3
 #'
@@ -20,6 +20,8 @@
 #' @concept Age-Length Key
 #'
 #' @seealso \code{\link{StripedBass2}}.
+#' 
+#' @source \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass3.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

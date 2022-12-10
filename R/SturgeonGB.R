@@ -21,7 +21,7 @@
 #' 
 #' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
-#' @source From Pratt, T.C., Gardner, W.M., Pearce, J., Greenwood, S., and Chong, S.C.  2014.  Identification of a robust Lake Sturgeon (\emph{Acipenser fulvescens} Rafinesque, 1917) population in Goulais Bay, Lake Superior.  Journal of Applied Ichthyology, 30:1328-1334.  Obtained directly from Tom Pratt.
+#' @source From Pratt, T.C., Gardner, W.M., Pearce, J., Greenwood, S., and Chong, S.C. 2014. Identification of a robust Lake Sturgeon (\emph{Acipenser fulvescens} Rafinesque, 1917) population in Goulais Bay, Lake Superior. Journal of Applied Ichthyology 30:1328-1334. Obtained directly from Tom Pratt. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SturgeonGB.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

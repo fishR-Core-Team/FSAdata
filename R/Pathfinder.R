@@ -32,7 +32,7 @@
 #' @concept Depletion
 #' @concept Catchability
 #' 
-#' @source From Table 3 of Polovina, J.J. 1985. A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock. Fishery Bulletin 84:423-428. [Was (is?) from https://swfsc.noaa.gov/publications/CR/1986/8679.PDF.]
+#' @source From Table 3 of Polovina, J.J. 1985. A variable catchability version of the Leslie model with application to an intensive fishing experiment on a multispecies stock. Fishery Bulletin 84:423-428. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Pathfinder.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -20,7 +20,7 @@
 #' @concept Length Frequency
 #' @concept Size Structure
 #'
-#' @source Simulated from length frequency summaries found in \code{data(cassie)} of the \pkg{mixdist} package. Data originally from Cassie, R.M. 1954. Some uses of probability paper in the analysis of size frequency distributions. Australian Journal of Marine and Freshwater Research. 5:513-522.
+#' @source Simulated from length frequency summaries found in \code{data(cassie)} of the \pkg{mixdist} package. Data originally from Cassie, R.M. 1954. Some uses of probability paper in the analysis of size frequency distributions. Australian Journal of Marine and Freshwater Research. 5:513-522. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/Snapper.csv}{CSV file}
 #'
 #' @keywords datasets
 #'

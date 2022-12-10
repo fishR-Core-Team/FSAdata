@@ -24,7 +24,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source From table 9.1 in Haddon, M. 2000. Modeling and Quantitative Methods in Fisheries, CRC Press. Originally from Penn, J. W., and Caputi, N. 1986. Spawning stock-recruitment relationships and environmental influences on the Tiger Prawn (\emph{Penaeus esculentus}) fishery in Exmouth Gulf, Western Australia. Australian Journal of Marine and Freslzwater Research 37:491-505.
+#' @source From table 9.1 in Haddon, M. 2000. Modeling and Quantitative Methods in Fisheries, CRC Press. Originally from Penn, J. W., and Caputi, N. 1986. Spawning stock-recruitment relationships and environmental influences on the Tiger Prawn (\emph{Penaeus esculentus}) fishery in Exmouth Gulf, Western Australia. Australian Journal of Marine and Freshwater Research 37:491-505. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/TPrawnsEG.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -28,6 +28,8 @@
 #' 
 #' @keywords datasets
 #' 
+#' @source  \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluegillLM.csv}{CSV file}
+#' 
 #' @seealso \code{lakemary} in \pkg{alr3} for a different sample of Bluegill from Lake Mary that has length and age.
 #' 
 #' @examples

@@ -24,7 +24,7 @@
 #' @concept Age Bias
 #' @concept Age Comparison
 #' 
-#' @source From Figure 3 in Casselman,J.M. 1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17.
+#' @source From Figure 3 in Casselman,J.M. 1983. Age and growth assessment of fish from their calcified structures - techniques and tools. In E.D. Prince and L.M. Pulos, editors, Proceedings of the international workshop on age determination of oceanic pelagic fishes: Tunas, billfishes, and sharks, volume NOAA Technical Report, NMFS 8:1-17. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/MuskieSLR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

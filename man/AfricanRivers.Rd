@@ -16,7 +16,7 @@ A data frame of 39 observations on the following 6 variables:
  }
 }
 \source{
-From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: species richness of fish communities.  Oecologia 79:236-243.
+From Table 1 in Hugueny, B. 1989. West African rivers as biogeographic islands: species richness of fish communities. Oecologia 79:236-243. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/AfricanRivers.csv}{CSV file}
 }
 \description{
 Characteristics of a sample of West African rivers.

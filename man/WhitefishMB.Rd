@@ -13,7 +13,7 @@ A data frame with 859 observations on the following 3 variables:
  }
 }
 \source{
-From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences, 37:534-544.
+From (approximately) Figure 1 of Mills, K.H., and R.J. Beamish. 1980. Comparison of fin-ray and scale age determinations for lake whitefish (\emph{Coregonus clupeaformis}) and their implications for estimates of growth and annual survival. Canadian Journal of Fisheries and Aquatic Sciences 37:534-544. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhitefishMB.csv}{CSV file}
 }
 \description{
 Ages of Lake Whitefish (\emph{Coregonus clupeaformis}) from four lakes as determined by scales and fin-rays.

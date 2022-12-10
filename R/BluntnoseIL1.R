@@ -28,7 +28,7 @@
 #' 
 #' @seealso \code{\link{InchLake1}}, \code{\link{InchLake2}}.
 #' 
-#' @source Derek H. Ogle, personal collection
+#' @source Derek H. Ogle, personal collection. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BluntnoseIL1.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

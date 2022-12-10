@@ -14,13 +14,13 @@ A data frame with 61 observations on the following 4 variables:
  }
 }
 \source{
-From Figure 2 in Kocovsky, P.M., and R.M. Carline. 2000. A comparison of methods for estimating ages of unexploited walleyes. North American Journal of Fisheries Management 20:1044-1048.
+From Figure 2 in Kocovsky, P.M., and R.M. Carline. 2000. A comparison of methods for estimating ages of unexploited walleyes. North American Journal of Fisheries Management 20:1044-1048. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WalleyePS.csv}{CSV file}
 }
 \description{
 Age of Pymatuning Sanctuary (PA) Walleye (\emph{Sander vitreus}) assessed from three calcified structures -- sectioned otoliths, sectioned dorsal spines, and scale impressions.
 }
 \note{
-Relationships between otoliths and spines and otoliths and scales are exact according to Figure 2.  Relationship between spines and scales is approximate as Figure 2 did not show this exact relationship.
+Relationships between otoliths and spines and otoliths and scales are exact according to Figure 2. Relationship between spines and scales is approximate as Figure 2 did not show this exact relationship.
 }
 \section{Topic(s)}{
 

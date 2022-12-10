@@ -12,7 +12,7 @@ A data frame of 1201 observations on the following 2 variables:
  }
 }
 \source{
-From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
+From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/StripedBass2.csv}{CSV file}
 }
 \description{
 Assigned ages (from otoliths) and measured total lengths for each of 1201 Striped Bass (\emph{Morone saxatilis}) from the Atlantic Ocean.

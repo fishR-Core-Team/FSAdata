@@ -37,7 +37,7 @@
 #' @concept Weight-Length
 #' @concept Maturity
 #' 
-#' @source personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI.
+#' @source personal collection by the United States Geological Survey, Lake Superior Biological Station, Ashland, WI. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RuffeSLRH92.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

@@ -13,7 +13,7 @@ A data frame of 54 observations on the following 3 variables:
  }
 }
 \source{
-From Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations.  Journal of Freshwater Ecology 19:441-444.
+From Figure 2 of Reid, S.M. Age estimates and length distributions of Ontario channel darter (\emph{Percina copelandi}) populations. Journal of Freshwater Ecology 19:441-444. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/DarterOnt.csv}{CSV file}
 }
 \description{
 Assigned ages (from otoliths), total length, and collection location of Channel Darter (\emph{Percina copelandi}).

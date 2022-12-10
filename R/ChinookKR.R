@@ -22,7 +22,7 @@
 #' @concept Stock-Recruit
 #' @concept Recruitment
 #' 
-#' @source Was (is?) from http://www.pcouncil.org/bb/2006/0406/age2a_supp_att3.pdf.
+#' @source From Pacific Fishery Management Council 2006 report. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/ChinookKR.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

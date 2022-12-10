@@ -24,7 +24,7 @@
 #' @concept Age Bias
 #' @concept Age Comparison
 #' 
-#' @source From Figure 3 of Polat, N., D. Bostanci, S. Yilmaz. 2005. Differences between whole otolith and broken-burnt otolith ages of red mullet (\emph{Mullus barbatus ponticus} Essipov, 1927) sampled from the Black Sea (Samsun, Turkey). Turkish Journal of Veterinary and Animal Science 29:429-433.
+#' @source From Figure 3 of Polat, N., D. Bostanci, S. Yilmaz. 2005. Differences between whole otolith and broken-burnt otolith ages of red mullet (\emph{Mullus barbatus ponticus} Essipov, 1927) sampled from the Black Sea (Samsun, Turkey). Turkish Journal of Veterinary and Animal Science 29:429-433. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/MulletBS.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

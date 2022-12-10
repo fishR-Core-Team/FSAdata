@@ -21,7 +21,7 @@
 #'
 #' @concept Other
 #'   
-#' @source Results from a query in 2006 to the NMFS Great Lakes Commercial Fishery Landings database which was (is?) at http://www.st.nmfs.noaa.gov/pls/webpls/webst1.MF_GL_SPECIES_HELP.SPECIES.
+#' @source Results from a query in 2006 to the NMFS Great Lakes Commercial Fishery Landings database. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/WhitefishLS.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

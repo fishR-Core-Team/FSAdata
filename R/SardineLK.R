@@ -21,7 +21,7 @@
 #' @concept Growth
 #' @concept von Bertalanffy
 #' 
-#' @source From (approximately) Figure 3 of Mtsambiwa, M.Z. 1992. Fitting a von Bertalanffy growth model to length at age data for larval \emph{Limnothrissa miodon} from Lake Kariba. Paper presented at the Symposium on biology, stock assessment, and exploitation of small pelagic fish species in the African Great Lakes region. [Was (is?) from http://www.fao.org/docrep/005/v2648e/V2648E06.htm.]
+#' @source From (approximately) Figure 3 of Mtsambiwa, M.Z. 1992. Fitting a von Bertalanffy growth model to length at age data for larval \emph{Limnothrissa miodon} from Lake Kariba. Paper presented at the Symposium on biology, stock assessment, and exploitation of small pelagic fish species in the African Great Lakes region. [Was (is?) from http://www.fao.org/docrep/005/v2648e/V2648E06.htm.] \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SardineLK.csv}{CSV file}
 #' 
 #' @keywords datasets
 #' 

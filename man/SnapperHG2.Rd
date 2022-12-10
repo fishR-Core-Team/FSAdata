@@ -12,10 +12,10 @@ A data frame of 6724 observations on the following 2 variables:
  }
 }
 \source{
-Recreated from summarized results in Table 8.3 of Quinn, T. J. and R. B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, NY. 542 p.
+Recreated from summarized results in Table 8.3 of Quinn, T. J. and R. B. Deriso. 1999. Quantitative Fish Dynamics. Oxford University Press, New York, NY. 542 p. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SnapperHG2.csv}{CSV file}
 }
 \description{
-A large sample (approximately fixed sample size per length interval) of Snapper (\emph{Pagrus auratus}) were aged, with the remainder of the fish just measured for length.  Note that age-16 is actually age 16+ and length 60 is for 60-64 cm and 65 is for 65+ cm.
+A large sample (approximately fixed sample size per length interval) of Snapper (\emph{Pagrus auratus}) were aged, with the remainder of the fish just measured for length. Note that age-16 is actually age 16+ and length 60 is for 60-64 cm and 65 is for 65+ cm.
 }
 \section{Topic(s)}{
 

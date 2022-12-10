@@ -12,7 +12,7 @@ A data frame with 173 observations on the following 2 variables:
  }
 }
 \source{
-Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game.
+Simulated from Table 10 in of Warren, C.D., K.A. Frank, and F.E. Partridge. 2004. Federal Aid in Fish Restoration - 2000 job performance report. Idaho Department of Fish and Game. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/RBTroutUNSP.csv}{CSV file}
 }
 \description{
 Capture histories for Rainbow Trout (\emph{Oncorhynchus mykiss}) in Upper Niagara Springs pond.
