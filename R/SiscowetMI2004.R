@@ -27,7 +27,7 @@
 #' @concept Age-Length Key
 #' @concept Growth
 #' 
-#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @source Obtained directly from the U.S. Fish and Wildlife Service via Michael Seider. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/SiscowetMI2004.csv}{CSV file}
 #' 

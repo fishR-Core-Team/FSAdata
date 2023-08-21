@@ -18,7 +18,7 @@ From Pratt, T.C., Gardner, W.M., Pearce, J., Greenwood, S., and Chong, S.C. 2014
 Pratt et al. (2014) recorded the capture years and ages for Lake Sturgeon captured in multiple gillnet sets in Goulais Bay, Lake Superior (Ontario) in July 2010-2012.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

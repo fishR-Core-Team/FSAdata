@@ -21,7 +21,7 @@ Ages (subsample) and lengths (all fish) for Creek Chub (\emph{Semotilus atromacu
 As many as 10 fish per 10 mm length interval were sampled for age assignment with scales.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

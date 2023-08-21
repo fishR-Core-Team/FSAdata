@@ -22,7 +22,7 @@ Catches-at-age for male and female Walleye from Lake Winnebago, WI, 2010.
 Koenigs et al. (2015) captured adult Walleye from Lake Winnebago during spawning assessments in 2010. The sex was recorded and ages were estimated from sectioned otoliths for each fish. Koenigs et al. (2015) fit separate catch curves to female and male Walleye.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 
