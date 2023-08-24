@@ -1,3 +1,8 @@
+# FSAdata 0.4.1
+* Fixed FSAdata-package `\alias` problem using the "manual approach" (i.e., adding a specific `@aliases FSAdata-package` line to `FSAdata.R`) suggested in an e-mail from Kurt Hornik on 19-Aug-2023.
+* Changed all `http://derekogle.com/` URLs to `https://derekogle.com/`.
+* Updated `CITATION` file to meet CRAN requirements.
+
 # FSAdata 0.4.0 
 * Changed my (DHO) email in `DESCRIPTION`.
 * Added Code of Conduct

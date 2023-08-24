@@ -23,7 +23,7 @@
 #'  
 #' @concept Data Manipulation
 #' 
-#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @source Obtained directly from Ben Neely. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BGHRfish.csv}{CSV file}
 #' 

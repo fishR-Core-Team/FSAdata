@@ -25,7 +25,7 @@ Obtained directly from the Virginia Marine Resources Commission via Hank Liao. \
 Biological data (lengths, weights, ages (from otoliths), and sex) for Black Drum (\emph{Pogonias cromis}) from Virginia waters of the Atlantic Ocean, 2001.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 
