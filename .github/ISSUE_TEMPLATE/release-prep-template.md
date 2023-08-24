@@ -37,7 +37,7 @@ It is worth noting that this whole process can take 2-3 hours (or more depending
 - [ ] Push changes from above from local machine to `dev` branch on GitHub.
 
 ### 3 - `dev` branch (at remote GitHub repo)
-- [ ] Ensure that "R-CMD-check.yaml" [GitHub action](https://github.com/fishR-Core-Team/FSA/actions) was successful for the `dev` branch (this should run automatically with the push to `dev`, but will take some time to finish (possibly >20 mins)). If not successful then address issues and repeat as much above as necessary.
+- [ ] Ensure that "R-CMD-check.yaml" [GitHub action](https://github.com/fishR-Core-Team/FSAdata/actions) was successful for the `dev` branch (this should run automatically with the push to `dev`, but will take some time to finish (possibly >20 mins)). If not successful then address issues and repeat as much above as necessary.
 - [ ] Create a pull-request asking to merge the `dev` branch to the `main` branch. Ask someone from the FSAdata team to review the request. [*Ensure that all checks were successfully completed.*]
 
 ### 4 - `main` branch (at remote GitHub repo)
