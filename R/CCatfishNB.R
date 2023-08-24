@@ -22,7 +22,7 @@
 #' @concept Mortality
 #' @concept Catch Curve
 #' 
-#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @source From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynamics in the Platte River, Nebraska. Master's thesis, University of Nebraska, Lincoln, NE. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/CCatfishNB.csv}{CSV file}
 #' 

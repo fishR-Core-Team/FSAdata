@@ -30,7 +30,7 @@
 #' @concept von Bertalanffy
 #' @concept Weight-Length
 #' 
-#' @note Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+#' @note Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 #' 
 #' @source Obtained directly from the Virginia Marine Resources Commission via Hank Liao. \href{https://raw.githubusercontent.com/fishR-Core-Team/FSAdata/main/data-raw/BlackDrum2001.csv}{CSV file}
 #' 

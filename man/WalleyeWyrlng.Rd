@@ -23,7 +23,7 @@ Annual catches of yearling Walleye (\emph{Sander vitreus}) in bottom trawls from
 The catch of yearling Walleye and number of trawl tows by year are in this data.frame. The CPE is catch divided by number of tows. Koenigs et al. (2015) rescaled the CPE values to have a mean of 0 and a standard deviation of 1.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

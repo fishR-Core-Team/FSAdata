@@ -20,7 +20,7 @@ Obtained directly from Ben Neely. \href{https://raw.githubusercontent.com/fishR-
 Information for each electrofishing sample from Big Hill Reservoir, KS, in May, 2014.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

@@ -19,7 +19,7 @@ From (approximately) Figure 3-14 in Barada, T.J. 2009. Catfish population dynami
 Catch-at-age of Channel Catfish (\emph{Ictalurs puncatatus}) from two sections of the Platte River, NB, in 2007 and 2008.
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
 

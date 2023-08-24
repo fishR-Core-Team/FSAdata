@@ -27,7 +27,7 @@ Ages of American Shad (\emph{Alosa sapidissima}) assigned from scales by three r
 The true ages for fish in their sample were known because the Shad had been marked prior to being stocked. Additionally, 13 biologists twice (independently) estimated the age from scales for each fish. The known age of the fish (\code{trueAge}) and the age estimates from three of the 13 biologists are available in this data.frame. The estimated age variables are labeled with \code{ager}, a letter for the three biologists (\code{A}, \code{B}, or \code{C}) and a number for which time the scale was interpreted (\code{1} or \code{2}). Some biologists chose not to assign an age to some scales and, thus, those data are missing (shown as \code{NA} values).
 }
 \note{
-Used in the \href{http://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
+Used in the \href{https://derekogle.com/IFAR/}{Introductory Fisheries Analyses with R} book.
 }
 \section{Topic(s)}{
  \itemize{
